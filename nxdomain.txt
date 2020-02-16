@@ -7261,7 +7261,6 @@ anthill.shop
 antidotestuffnode.com
 antiqsilver.ru
 antonmarathon.win
-anvplay3.com
 anvplay4.com
 anvplay5.com
 anwap.info
@@ -8959,7 +8958,6 @@ besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrat-v-igrovie-avtomati.com
 besplatno.igrovye-gaminatory.com
-besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatno777.azartnie-avtomaty.com
@@ -18523,6 +18521,7 @@ lp-21.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
+lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-34.fon-infosport.info
@@ -18533,6 +18532,7 @@ lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
+lp-46.fon-infosport.info
 lp-48.fon-infosport.info
 lp-50.fon-infosport.info
 lp-52.fon-infosport.info
