@@ -27194,7 +27194,6 @@ refparml.host
 refparpb.host
 refparrr.host
 refparvy.host
-refparzy.host
 refpasar.host
 refpasdg.host
 refpaskv.host
@@ -37466,7 +37465,6 @@ zerkalo-vxod-kabinet.space
 zerkalo-vxod-segodnya.info
 zerkalo-vxod.space
 zerkalo-zayti.website
-zerkalo.host
 zerkalo.mirrorolimp2.online
 zerkalo.xbet-official.ru
 zerkalo.xyz
