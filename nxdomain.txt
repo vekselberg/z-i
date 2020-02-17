@@ -18551,6 +18551,7 @@ lp-04.foninfo.org
 lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
+lp-06.fon-infosport.info
 lp-06.fonbet3.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
@@ -18577,13 +18578,17 @@ lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
+lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
+lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
+lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
+lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
@@ -18596,6 +18601,7 @@ lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
+lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
@@ -27098,6 +27104,7 @@ redboxcsn.com
 redboxkasino.com
 redfilm.biz
 redir.1red.xyz
+redir.melbet-life.site
 redire.1red.xyz
 redirect.1red.xyz
 redirect.1xbukmer.ru
