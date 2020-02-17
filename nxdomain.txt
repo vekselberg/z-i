@@ -27201,6 +27201,7 @@ refpason.host
 refpasul.host
 refpatdr.host
 refpatlo.top
+refpatog.host
 refpatua.host
 refpatuc.host
 refpatzp.host
@@ -27216,6 +27217,7 @@ refpaunv.host
 refpaupi.host
 refpauzj.host
 refpavaz.host
+refpavho.host
 refpavhw.host
 refpavjr.host
 refpavld.host
@@ -31466,6 +31468,7 @@ v19.vulcanclubplay.com
 v1cano.com
 v1ccaim.com
 v1lckano.com
+v2.1hd1080.info
 v2.protracker.fun
 v2.torrents43.fun
 v2.vulcanclubplay.com
