@@ -13010,6 +13010,7 @@ dojki.name
 dok911.ru
 dok911ru.com
 dokdiplomy.pro
+dokgarant.com
 dokiguru.top
 doktordry.ru
 dokymentalnoe.ru
@@ -18524,7 +18525,6 @@ lp-06.fonbet3.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-10.fon-infosport.info
-lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
@@ -18551,7 +18551,6 @@ lp-39.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
-lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
@@ -27128,6 +27127,7 @@ refpaplr.host
 refpaplw.host
 refpapwd.host
 refpapyn.host
+refpapzd.host
 refpaqcu.host
 refpaqge.host
 refpaqjl.host
@@ -27161,6 +27161,7 @@ refpatuc.host
 refpatzp.host
 refpatzw.host
 refpauar.host
+refpaubd.host
 refpaudu.host
 refpaufb.host
 refpaujf.host
@@ -27174,6 +27175,7 @@ refpavjr.host
 refpavom.host
 refpavpr.host
 refpavxb.host
+refpawne.host
 refpawog.host
 refpawrm.host
 refpawsx.host
