@@ -27267,7 +27267,6 @@ refpasdg.host
 refpaskv.host
 refpatlo.top
 refpatog.host
-refpatua.host
 refpatuc.host
 refpatzp.host
 refpatzw.host
@@ -32463,6 +32462,7 @@ waf.mp3-tut.biz
 wag.mp3-tut.biz
 wah.mp3-tut.biz
 wai.mp3-tut.biz
+waiderdart.top
 waj.mp3-tut.biz
 wak.mp3-tut.biz
 wal.mp3-tut.biz
@@ -35948,6 +35948,7 @@ www.w-ww.the-rutor.org
 www.w.rutor1.org
 www.w.the-rutor.org
 www.w0rdpress.ru
+www.waiderdart.top
 www.watchonline.red
 www.waveview.ru
 www.wayaway.in
