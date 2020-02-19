@@ -18647,6 +18647,7 @@ lp-06.fonbet3.info
 lp-09.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
+lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
@@ -18679,6 +18680,7 @@ lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
+lp-54.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
@@ -33266,6 +33268,7 @@ ww1.pesni-tut.online
 ww2.baskino3.ml
 ww2.baskinohd.top
 ww2.pesni-tut.online
+ww3.baskino3.ml
 ww3.baskinohd.top
 wwa.mp3-tut.biz
 wwb.mp3-tut.biz
