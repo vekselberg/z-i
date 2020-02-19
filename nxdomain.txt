@@ -7191,9 +7191,7 @@ alfaseeds.space
 alignmediaplay.win
 alishech-vmc.net
 alkaclub24.com
-alkaclub24.online
 alkamak66.com
-alkamak66.online
 alkazino.info
 alkhaleejelan.com
 alko-5.club
@@ -18649,7 +18647,6 @@ lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-06.fonbet3.info
 lp-07.fon-infosport.info
-lp-08.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
@@ -18669,8 +18666,6 @@ lp-31.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
-lp-38.fon-infosport.info
-lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
@@ -25409,6 +25404,7 @@ official-mostbet-pro.ru
 official-mostbet-top.ru
 official-mostbet-topsport.ru
 official.melbet.msk.ru
+officialcasino.money
 offvulkan.com
 oficialnye-bk.info
 oficialnyj-sajt.bid
