@@ -18645,7 +18645,6 @@ lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-06.fonbet3.info
-lp-07.fon-infosport.info
 lp-09.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
@@ -18655,7 +18654,6 @@ lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
-lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
@@ -18663,7 +18661,6 @@ lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
-lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
@@ -27260,6 +27257,7 @@ redboxcsn.com
 redboxkasino.com
 redfilm.biz
 redir.1red.xyz
+redir.melbet-life.site
 redire.1red.xyz
 redirect.1red.xyz
 redirect.1xbukmer.ru
@@ -28313,6 +28311,7 @@ ru.adleonbets221.com
 ru.adleonbets222.com
 ru.adleonbets2277.com
 ru.adleonbets2292.com
+ru.adleonbets2301.com
 ru.adleonbets231.com
 ru.adleonbets232.com
 ru.adleonbets2320.com
