@@ -13034,7 +13034,6 @@ document.ml
 dodgemediaplay.win
 dofiga-mp3.ru
 dogfish.info
-doghunter.to
 dojki.cz
 dojki.name
 dok911.ru
@@ -18610,6 +18609,7 @@ lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-06.fon-infosport.info
 lp-06.fonbet3.info
+lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-11.fon-infosport.info
 lp-14.fon-infosport.info
@@ -21373,6 +21373,7 @@ mobile.mymarathon.win
 mobile.olinemarathon.win
 mobile.onlinemarbet.win
 mobile.onlinembet.win
+mobile.privatbet.com
 mobile.sbmarbet.win
 mobile.sitemarathon.win
 mobile.sportsbookmarathon.win
@@ -31203,6 +31204,7 @@ tsm7.ru
 tt.cccp-rutracker.org
 ttr1.net
 ttr2.net
+ttr3.net
 ttrafbet.com
 ttrafbetsp.com
 ttrblog.org
@@ -35885,6 +35887,7 @@ www.truba.com
 www.trudovayakniga.com
 www.ttr1.net
 www.ttr2.net
+www.ttr3.net
 www.ttradv.pro
 www.ttradv4.com
 www.ttrcasino.pro
