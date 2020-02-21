@@ -18622,8 +18622,6 @@ lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
-lp-21.fon-infosport.info
-lp-22.fon-infosport.info
 lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-26.fon-infosport.info
@@ -18631,7 +18629,6 @@ lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
-lp-31.fon-infosport.info
 lp-33.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
@@ -27328,6 +27325,7 @@ resheba.club
 resheba.ru
 reshimzavas.com
 resident6casino6.info
+respublika-kareliya.kypit-prava-seychas.ru
 restinmediaplay.win
 restonmediaplay.win
 resurskazino.info
