@@ -17198,7 +17198,6 @@ kinogo.am
 kinogo.blog
 kinogo.center
 kinogo.cx
-kinogo.eu
 kinogo.group
 kinogo.hol.es
 kinogo.im
@@ -33335,7 +33334,6 @@ win-fonbetbk54.space
 win-fonbetbk65.space
 win-fonbets21.space
 win-one.ru
-win-ones.ru
 win-tour.ru
 win-vulcan.com
 win.2-azino888.win
