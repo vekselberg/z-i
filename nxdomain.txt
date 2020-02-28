@@ -9018,7 +9018,6 @@ besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrat-v-igrovie-avtomati.com
 besplatno.igrovye-gaminatory.com
-besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatno777.azartnie-avtomaty.com
@@ -18596,6 +18595,7 @@ lp-03.fon-infosport.info
 lp-03.fonbet3.info
 lp-03.fongametime.info
 lp-03.foninfo.org
+lp-04.fon-infosport.info
 lp-04.fonbet3.info
 lp-04.fongametime.info
 lp-04.foninfo.org
@@ -18630,6 +18630,7 @@ lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
+lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
@@ -18641,7 +18642,10 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
+lp-46.fon-infosport.info
 lp-47.fon-infosport.info
+lp-48.fon-infosport.info
+lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
