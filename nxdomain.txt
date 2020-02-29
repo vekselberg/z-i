@@ -18614,7 +18614,6 @@ lp-01.foninfo.org
 lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfo.org
-lp-03.fon-infosport.info
 lp-03.fonbet3.info
 lp-03.fongametime.info
 lp-03.foninfo.org
@@ -18632,7 +18631,6 @@ lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
-lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
@@ -18654,18 +18652,14 @@ lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
-lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
-lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-43.fon-infosport.info
-lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
-lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
@@ -31750,6 +31744,7 @@ usclip.net
 uslugikazino.info
 ussuriysk.autopravadrive.com
 ustrojstvogoldcasino.info
+utpcipwp.olimp9ww2.xyz
 utsarchitecture.net
 uu733uq2v.sran.connect.netcdn.bcdl.rocks
 uy1lcaim.com
