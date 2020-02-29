@@ -17383,8 +17383,6 @@ kupit-attestat-v-ekaterinburge.doci.su
 kupit-attestat-v-krasnoyarske.doci.su
 kupit-attestat-v-niznem-novgorode.doci.su
 kupit-attestat-v-novosibirske.doci.su
-kupit-attestat-v-rostove-na-donu.doci.su
-kupit-diplom-v-ekaterinburge.doci.su
 kupit-diplom-v-krasnoyarske.doci.su
 kupit-diplom-v-niznem-novgorode.doci.su
 kupit-diplom-v-novosibirske.doci.su
