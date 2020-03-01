@@ -18636,6 +18636,7 @@ lp-03.fon-infosport.info
 lp-03.fonbet3.info
 lp-03.fongametime.info
 lp-03.foninfo.org
+lp-04.fon-infosport.info
 lp-04.fonbet3.info
 lp-04.fongametime.info
 lp-04.foninfo.org
@@ -18650,7 +18651,6 @@ lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-13.fon-infosport.info
-lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-18.fon-infosport.info
@@ -18662,6 +18662,7 @@ lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
+lp-27.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
@@ -27048,6 +27049,7 @@ profilib.life
 profilib.live
 profilib.top
 profilib.world
+profilib.xyz
 profisdiplom.com
 profit2018.ru
 programma-bk-2017.website
@@ -27256,6 +27258,7 @@ red-star-casino-zerkalo.topobzorbonusov777.info
 red-star-kazino-mobilnaya-versiya.bonustpls788.info
 red.1red.xyz
 red.melbet-ru.site
+red.melbets.site
 red.vulkanbit.win
 red3go24.com
 redbox-casino.ru
@@ -35870,7 +35873,6 @@ www.sbmarathonbet.win
 www.sbmarbet.win
 www.sbmbet.win
 www.sds-mar-sdase.win
-www.see-me.ru
 www.semena-konopli.today
 www.serial-down.ru
 www.serial-one.ru
