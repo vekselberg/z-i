@@ -18660,7 +18660,9 @@ lp-04.foninfo.org
 lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
+lp-06.fon-infosport.info
 lp-06.fonbet3.info
+lp-07.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
