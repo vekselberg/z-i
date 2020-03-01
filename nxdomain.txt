@@ -18675,6 +18675,7 @@ lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
+lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
@@ -18685,6 +18686,7 @@ lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-31.fon-infosport.info
+lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
@@ -33378,7 +33380,6 @@ ww.rubit-tracker.org
 ww1.baskino3.ml
 ww1.baskinohd.top
 ww1.pesni-tut.online
-ww2.baskino3.ml
 ww2.baskinohd.top
 ww2.pesni-tut.online
 ww3.baskino3.ml
@@ -34283,7 +34284,6 @@ www.betsbc-gytb.space
 www.betsbc-gzjs.space
 www.betsbc-hhmc.space
 www.betsbc-isal.space
-www.betsbc-isal.tk
 www.betsbc-jacy.space
 www.betsbc-jrzm.space
 www.betsbc-khdx.space
