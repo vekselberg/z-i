@@ -15625,6 +15625,7 @@ hd.1080hd.ws
 hd.all-kino.online
 hd.bestfilmy.com
 hd.boxfilm.me
+hd.bxfilm.org
 hd.filmi-2020.online
 hd.filmy-2018.net
 hd.filmy-2020.online
@@ -15646,7 +15647,9 @@ hd1080.biz
 hd1me.xyz
 hd2.baskino-hd.top
 hd2.baskinohd.top
+hd2.bxfilm.org
 hd3.baskino-hd.top
+hd3.bxfilm.org
 hd4me.xyz
 hd720.tv
 hd720p.lordfilms.org
@@ -18664,7 +18667,6 @@ lp-04.foninfo.org
 lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
-lp-06.fon-infosport.info
 lp-06.fonbet3.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
@@ -18703,7 +18705,6 @@ lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-50.fon-infosport.info
-lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
@@ -28772,6 +28773,7 @@ ru.admiralxxx.ru
 ru.azino777-1.win
 ru.azino7777.win
 ru.baskino-hd.net
+ru.bxfilm.org
 ru.casino-mate.com
 ru.casino-vulcan1.net
 ru.cybbet.com
@@ -31513,6 +31515,7 @@ tv-kino-serial.ru
 tv-serial.online
 tv-sports.online
 tv.1hd1080.info
+tv.bxfilm.org
 tv.smotr.online
 tver.kypit-prava-seychas.ru
 tver.prava-zdes.ru
@@ -31821,6 +31824,7 @@ v4.1hd1080.info
 v4.vulcanclubplay.com
 v4be.icu
 v4k.online
+v5.1hd1080.info
 v5.torrents43.fun
 v5.vulcanclubplay.com
 v6.vulcanclubplay.com
