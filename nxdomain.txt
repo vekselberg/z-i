@@ -18651,7 +18651,6 @@ lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-13.fon-infosport.info
-lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -18677,8 +18676,9 @@ lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
-lp-45.fon-infosport.info
+lp-46.fon-infosport.info
 lp-47.fon-infosport.info
+lp-48.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
@@ -28919,6 +28919,7 @@ ru.leon3711.com
 ru.leon3731.com
 ru.leon3766.com
 ru.leon3784.com
+ru.leon3806.com
 ru.leon3811.com
 ru.leon382.com
 ru.leon3826.com
