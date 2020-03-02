@@ -5860,6 +5860,7 @@
 777.casino-max-profit.top
 777.casino-winr.info
 777.casino-wint.info
+777.igrovoy-zal.com
 777.kasino-pharaon.com
 777.top-casinoq.info
 7772e4.olimp9249.top
@@ -18649,10 +18650,8 @@ lp-01.fon-infosport.info
 lp-01.fonbet3.info
 lp-01.fongametime.info
 lp-01.foninfo.org
-lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfo.org
-lp-03.fon-infosport.info
 lp-03.fonbet3.info
 lp-03.fongametime.info
 lp-03.foninfo.org
@@ -18673,7 +18672,7 @@ lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
 lp-17.fon-infosport.info
-lp-18.fon-infosport.info
+lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
@@ -18683,6 +18682,7 @@ lp-26.fon-infosport.info
 lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
+lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
