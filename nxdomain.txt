@@ -15699,6 +15699,7 @@ hdonlineporno.pro
 hdr.filmy-2020.online
 hdreactor.co
 hdrezka-new.pro
+hdrezka-online.me
 hdrezka.blue
 hdrezka.co.ua
 hdrezka.cx
@@ -18676,6 +18677,7 @@ lp-04.fon-infosport.info
 lp-04.fonbet3.info
 lp-04.fongametime.info
 lp-04.foninfo.org
+lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-06.fon-infosport.info
@@ -18686,7 +18688,10 @@ lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-13.fon-infosport.info
+lp-14.fon-infosport.info
 lp-15.fon-infosport.info
+lp-16.fon-infosport.info
+lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
@@ -18695,7 +18700,6 @@ lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
-lp-28.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
