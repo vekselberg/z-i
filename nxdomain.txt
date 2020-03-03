@@ -18706,7 +18706,6 @@ lp-18.fon-infosport.info
 lp-21.fon-infosport.info
 lp-22.fon-infosport.info
 lp-23.fon-infosport.info
-lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
 lp-27.fon-infosport.info
@@ -31177,6 +31176,7 @@ the-cinema.me
 the-cinema.org
 the-cinema.ru
 the-cinema.top
+the-eye.eu
 the-rutor.info
 the-rutor.org
 the-rutor.ru
