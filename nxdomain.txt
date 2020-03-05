@@ -18977,7 +18977,6 @@ lp-01.fon-infosport.info
 lp-01.fonbet3.info
 lp-01.fongametime.info
 lp-01.foninfo.org
-lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfo.org
 lp-03.fon-infosport.info
@@ -18996,6 +18995,7 @@ lp-10.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
 lp-15.fon-infosport.info
+lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -19015,6 +19015,7 @@ lp-38.fon-infosport.info
 lp-40.fon-infosport.info
 lp-41.fon-infosport.info
 lp-42.fon-infosport.info
+lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
@@ -27488,7 +27489,6 @@ prodamkazino.info
 prodazha-diplomov.com
 prodazhacasino.info
 prodazhakazino.info
-profdip.co
 proffitno.win
 profilib.life
 profilib.live
