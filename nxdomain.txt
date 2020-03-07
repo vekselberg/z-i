@@ -2558,6 +2558,7 @@
 1xczmj.host
 1xdcb.xyz
 1xdda.xyz
+1xdee.xyz
 1xdfkr.host
 1xdfo.host
 1xdgem.host
@@ -5910,7 +5911,6 @@
 777.casino-max-profit.top
 777.casino-winr.info
 777.casino-wint.info
-777.igrovoy-zal.com
 777.kasino-pharaon.com
 777.top-casinoq.info
 7772e4.olimp9249.top
@@ -19021,7 +19021,6 @@ lp-04.fon-infosport.info
 lp-04.fonbet3.info
 lp-04.fongametime.info
 lp-04.foninfo.org
-lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-06.fon-infosport.info
@@ -19055,9 +19054,9 @@ lp-32.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
-lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
+lp-40.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
@@ -19068,6 +19067,7 @@ lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-54.fon-infosport.info
+lp-55.fon-infosport.info
 lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
@@ -27788,7 +27788,6 @@ red-star-casino-zerkalo.topobzorbonusov777.info
 red-star-kazino-mobilnaya-versiya.bonustpls788.info
 red.1red.xyz
 red.melbet-ru.site
-red.melbets.site
 red.vulkanbit.win
 red3go24.com
 redbox-casino.ru
