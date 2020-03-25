@@ -6021,7 +6021,6 @@
 777-tutazino.site
 777-tutazino.xyz
 777.ak47v.info
-777.azart-online.net
 777.azino-777-tri-topora.ru
 777.azino.mobi
 777.azino.pro
@@ -9440,6 +9439,7 @@ besplatno.azartnie-avtomaty.com
 besplatno.gaminatory.net
 besplatno.igrat-v-igrovie-avtomati.com
 besplatno.igrovye-gaminatory.com
+besplatno1.azartnie-avtomaty.com
 besplatno2.igrovye-gaminatory.com
 besplatno3.igrovye-gaminatory.com
 besplatno777.azartnie-avtomaty.com
@@ -19851,7 +19851,6 @@ lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
-lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
@@ -19871,6 +19870,7 @@ lp-48.fon-infosport.info
 lp-49.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
+lp-53.fon-infosport.info
 lp-54.fon-infosport.info
 lp-55.fon-infosport.info
 lp-56.fon-infosport.info
