@@ -20001,6 +20001,7 @@ lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
+lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
 lp-13.fon-infosport.info
