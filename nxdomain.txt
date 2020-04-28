@@ -5722,7 +5722,6 @@
 4umusic.ru
 4v.ulkan.co
 5-azmpp.win
-5-besplatno.azartnie-avtomaty.com
 5.delux.casino
 5.deluxecasino.club
 5.kinomonster.org
@@ -8604,7 +8603,6 @@ avtomaty.slots-bar.com
 avtomaty.vulkandeluxe.win
 avtomaty2.slots-bar.com
 avtomaty24besplatno.com
-avtomaty3.slots-bar.com
 avtomaty777.org
 avtomaty777.slots-bar.com
 avtomaty777w.info
@@ -21317,10 +21315,12 @@ lp-03.fonbet3.info
 lp-03.fongametime.info
 lp-03.foninfo.org
 lp-03.foninfobet.info
+lp-04.fon-infosport.info
 lp-04.fonbet3.info
 lp-04.fongametime.info
 lp-04.foninfo.org
 lp-04.foninfobet.info
+lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
@@ -21351,8 +21351,10 @@ lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
+lp-31.fon-infosport.info
 lp-32.fon-infosport.info
 lp-33.fon-infosport.info
+lp-34.fon-infosport.info
 lp-35.fon-infosport.info
 lp-36.fon-infosport.info
 lp-37.fon-infosport.info
@@ -21366,11 +21368,15 @@ lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-47.fon-infosport.info
+lp-48.fon-infosport.info
 lp-49.fon-infosport.info
+lp-50.fon-infosport.info
 lp-51.fon-infosport.info
+lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
 lp-55.fon-infosport.info
+lp-56.fon-infosport.info
 lp.championcasino.net
 lpbestsportsbook.com
 lqbck.space
@@ -36264,6 +36270,7 @@ toptoprl.californiacannabiscure.com
 toptorrent.uz
 topvulcancasino.com
 tor1.labtor.tv
+tor10.freerutor.com
 tor10.labtor.tv
 tor2.labtor.tv
 tor3.labtor.tv
