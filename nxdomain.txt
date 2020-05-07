@@ -2799,6 +2799,7 @@
 1xcdi.top
 1xcfb.xyz
 1xcge.top
+1xcgo.world
 1xchd.host
 1xcio.host
 1xciy.xyz
@@ -2815,7 +2816,9 @@
 1xcsv.world
 1xctc.world
 1xcti.host
+1xctm.world
 1xcuq.top
+1xcut.world
 1xcvl.top
 1xcwy.top
 1xczc.host
@@ -3122,6 +3125,7 @@
 1xjxz.host
 1xkayv.host
 1xkco.host
+1xkek.world
 1xkgp.top
 1xkiah.host
 1xkic.host
@@ -3136,6 +3140,7 @@
 1xkve.top
 1xkvlu.host
 1xkwf.xyz
+1xkww.world
 1xkwy.xyz
 1xlar.xyz
 1xlbc.top
@@ -3541,6 +3546,7 @@
 1xmtgi.host
 1xmvy.top
 1xmvz.top
+1xmwb.world
 1xmwkn.host
 1xmxyb.host
 1xmyhi.space
@@ -3557,6 +3563,7 @@
 1xnjo.host
 1xnjo.xyz
 1xnjro.host
+1xnju.world
 1xnjw.host
 1xnlcm.host
 1xnlj.world
@@ -3615,6 +3622,7 @@
 1xoxc.host
 1xoye.top
 1xoze.host
+1xozn.world
 1xpbq.world
 1xpdb.host
 1xpde.top
@@ -3637,9 +3645,11 @@
 1xppbd.host
 1xppk.world
 1xppwu.host
+1xpqq.world
 1xpqtq.host
 1xprc.world
 1xprp.world
+1xpur.world
 1xpuz.world
 1xpwq.top
 1xpwv.top
@@ -3651,6 +3661,7 @@
 1xqgc.world
 1xqgc.xyz
 1xqib.top
+1xqim.world
 1xqinj.host
 1xqiq.host
 1xqjj.host
@@ -3666,6 +3677,7 @@
 1xqwbw.host
 1xqwk.host
 1xqws.world
+1xqzx.world
 1xrbe.xyz
 1xrbet.ru
 1xrbt.world
@@ -4123,6 +4135,7 @@
 1xsjzj.host
 1xskn.xyz
 1xsma.host
+1xsno.world
 1xsp34.com
 1xspa.top
 1xspa.xyz
@@ -4243,9 +4256,11 @@
 1xwat.host
 1xwbf.world
 1xwdo.world
+1xwdz.world
 1xwem.host
 1xwfh.xyz
 1xwge.host
+1xwgm.world
 1xwjc.host
 1xwjt.world
 1xwki.xyz
@@ -6453,6 +6468,7 @@
 6leonbet.site
 6mirfonbet.ru
 6online.avtomaty24besplatno.com
+6online.igrovyeavtomati.com
 6pdazoxnum.www1.betcity.ru.com
 6q58f3ko4w.sran.connect.netcdn.bcdl.rocks
 6r6c1r56xp.www1.betcity.ru.com
@@ -8869,7 +8885,6 @@ avtomaty.igrovoy-zal.com
 avtomaty.life
 avtomaty.slots-bar.com
 avtomaty.vulkandeluxe.win
-avtomaty1.slots-bar.com
 avtomaty2.slots-bar.com
 avtomaty24besplatno.com
 avtomaty3.slots-bar.com
@@ -16980,6 +16995,7 @@ fonbet-zerkalo302.win
 fonbet-zerkalovip44.space
 fonbet-zerkalovip77.space
 fonbet-zerkalovips81.space
+fonbet.be
 fonbet.bzh
 fonbet.moscow
 fonbet.stream
@@ -18311,6 +18327,7 @@ hd.smotret-lostfilm.online
 hd.tipochek.xyz
 hd.x-film.cc
 hd1.baskino-hd.top
+hd1.baskino3.ml
 hd1.baskinohd.top
 hd1.bxfilm.org
 hd1.mnogokino.me
@@ -18626,6 +18643,7 @@ igamekazino.info
 igddbcgfzs.space
 igdz.ru
 igorvost.ru
+igra-prestolov-hd720.com
 igra.poluchi-voditelskoe.ru
 igrabonusi.com
 igrafonbet.xyz
@@ -21872,6 +21890,7 @@ lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
+lp-32.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-38.fon-infosport.info
@@ -21884,7 +21903,6 @@ lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
-lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
@@ -30482,12 +30500,11 @@ online.vulcan-slots.com
 online1.avtomaty24besplatno.com
 online1.hd1080film.ru
 online1.igrovyeavtomati.com
-online17.epassion.bet
 online18.epassion.bet
+online19.epassion.bet
 online2.club-vulkan-777.club
 online2.hd1080film.ru
 online2.kinodoza.tv
-online20.epassion.bet
 online283.space
 online3.club-vulkan-777.club
 online3.hd1080film.ru
@@ -31989,7 +32006,6 @@ pokerdom22.org
 pokerdoma.org
 pokerdomclub.com
 pokerdomfree.ru
-pokerdomspro.com
 pokerera.ru
 pokerera.xyz
 pokerera1.ru
@@ -32376,6 +32392,7 @@ rarerock.ru
 raruzxpnew4af.onion.ph
 rasta-shop.ml
 rastaman-piter.ml
+rastarasha.club
 rating-bukmeker.info
 rating-casino-online1.ru
 rating-casino-online2.ru
@@ -35430,6 +35447,7 @@ ru.swleon8818.com
 ru.swleon8824.com
 ru.swleon894.com
 ru.swleon9093.com
+ru.swleon9123.com
 ru.swleon9125.com
 ru.swleon9188.com
 ru.swleon933.com
@@ -36993,6 +37011,7 @@ steermediaplay.win
 stengazzetta.in.ua
 step.grandplaying.com
 stepanovka.prava-seychas.ru
+stepx100.win
 stil-bet.ru
 stilbet.bet
 stilbet.net
@@ -41860,6 +41879,7 @@ www.fonbet-xlk6098.ru
 www.fonbet-xrt7656.ru
 www.fonbet-yhj7518.ru
 www.fonbet-zerkalo-v55.ru
+www.fonbet.be
 www.fonbet.bzh
 www.fonbet100.vip
 www.fonbet109.vip
@@ -44019,6 +44039,7 @@ www14.zenitbet.su
 www2.bestbukmeker.com
 www2.bettropics.com
 www2.casinorus.ru
+www2.fonbet.be
 www2.fonbet.com
 www2.fonbet.ga
 www2.jackpot.com
@@ -44031,6 +44052,7 @@ www2.windbet.ru
 www2.zenitbet.su
 www3.bestbukmeker.com
 www3.bet90.com
+www3.fonbet.be
 www3.marathonbet.cc
 www3.muzofond.online
 www3.myzuka.me
@@ -44038,6 +44060,7 @@ www3.parimatch.kiev.ua
 www3.smotri-sport.net
 www3.windbet.ru
 www3.zenitbet.su
+www4.fonbet.be
 www4.myzuka.me
 www4.parimatch.kiev.ua
 www4.windbet.ru
