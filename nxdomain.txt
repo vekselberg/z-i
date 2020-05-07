@@ -2843,6 +2843,7 @@
 1xdsd.world
 1xdshz.host
 1xduc.world
+1xdut.world
 1xdvio.host
 1xdwua.host
 1xdwv.xyz
@@ -2902,6 +2903,7 @@
 1xfzo.host
 1xfzz.world
 1xgai.host
+1xgat.world
 1xgaw.top
 1xgbe.host
 1xgbu.top
@@ -2928,6 +2930,7 @@
 1xgvg.world
 1xgwn.host
 1xgww.host
+1xgwz.world
 1xgxn.world
 1xgxp.world
 1xgya.top
@@ -3097,6 +3100,7 @@
 1xjet.world
 1xjhk.world
 1xjht.top
+1xjib.world
 1xjics.host
 1xjik.host
 1xjir.world
@@ -3113,6 +3117,7 @@
 1xjwjq.host
 1xjwp.host
 1xjxkm.host
+1xjxq.world
 1xjxt.world
 1xjxz.host
 1xkayv.host
@@ -3146,6 +3151,7 @@
 1xljp.world
 1xljv.top
 1xlkeg.host
+1xlkk.world
 1xlko.host
 1xllns.host
 1xlmq.world
@@ -3199,6 +3205,7 @@
 1xmkx.host
 1xmli.top
 1xmlta.host
+1xmlw.world
 1xmmy.world
 1xmnq.top
 1xmns.top
@@ -4141,6 +4148,7 @@
 1xsuy.top
 1xswa.xyz
 1xswk.xyz
+1xswv.world
 1xswy.world
 1xsxg.world
 1xsxy.top
@@ -4169,6 +4177,7 @@
 1xtiyo.host
 1xtkyp.host
 1xtmq.world
+1xtnv.world
 1xtoe.host
 1xtoh.top
 1xtpr.host
@@ -4179,6 +4188,7 @@
 1xtssa.host
 1xtte.world
 1xtvg.host
+1xtvo.world
 1xtwz.top
 1xtxt.host
 1xtyu.xyz
@@ -7564,6 +7574,7 @@ a-msg.ru
 a-pvp.com
 a-zino-777.ru
 a.1xbet-hot.info
+a.1xbet-ter.site
 a.1xbett.site
 a.anvoneplay.pro
 a.arutor.site
@@ -18300,7 +18311,6 @@ hd.smotret-lostfilm.online
 hd.tipochek.xyz
 hd.x-film.cc
 hd1.baskino-hd.top
-hd1.baskino3.ml
 hd1.baskinohd.top
 hd1.bxfilm.org
 hd1.mnogokino.me
@@ -19124,6 +19134,7 @@ kamksp.ru
 kamyshin.damdiplomsu.com
 kamyshin.godiplomsu.com
 kandalaksha.prava-zdes.ru
+kaniistra-alco.pw
 kaniistra-alco.xyz
 kankazino.info
 karaoke-besplatno.ru
@@ -19896,6 +19907,7 @@ kinogo-z720.ru
 kinogo-zz.ru
 kinogo.am
 kinogo.blog
+kinogo.buzz
 kinogo.center
 kinogo.com.ua
 kinogo.design
@@ -21838,7 +21850,6 @@ lp-05.foninfobet.info
 lp-06.fon-infosport.info
 lp-06.fonbet3.info
 lp-06.foninfobet.info
-lp-07.fon-infosport.info
 lp-08.fon-infosport.info
 lp-09.fon-infosport.info
 lp-10.fon-infosport.info
@@ -21846,6 +21857,7 @@ lp-11.fon-infosport.info
 lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
+lp-16.fon-infosport.info
 lp-17.fon-infosport.info
 lp-18.fon-infosport.info
 lp-19.fon-infosport.info
@@ -21862,10 +21874,10 @@ lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-33.fon-infosport.info
 lp-34.fon-infosport.info
-lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
+lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-44.fon-infosport.info
 lp-46.fon-infosport.info
@@ -29521,6 +29533,7 @@ new.parimatch-abc.com
 new.sexanketa-nn.net
 new.sexanketa-omsk.net
 new.sexanketa74.net
+new.sexiriski.pro
 new.smotret-lostfilm.online
 new.vulcans.info
 new.winline-bet1.com
@@ -30152,7 +30165,6 @@ nvartovsk.sampoehal.ru
 nveagddl.olimpw672.xyz
 nviejr4u8799.pw
 nvuti.cafe
-nvuti.farm
 nvutis.ru
 nwatobcbk.help.accbetcity.space
 nxfnhetn.olimpwj92.xyz
@@ -32165,7 +32177,6 @@ prodamkazino.info
 prodazhacasino.info
 prodazhakazino.info
 prof-document23.ru
-profdip.co
 profdip.online
 profdocs.ru
 proffitno.win
@@ -37777,6 +37788,7 @@ tv.filmive-hd.pw
 tv.films-smotret.online
 tv.kinokong.ws
 tv.smotr.online
+tv1.kinosonik.net
 tvboryspil.in.ua
 tver-medspravki.ru
 tver.exat-vsem.ru
@@ -38232,6 +38244,7 @@ vavada2.website
 vavada4.ru
 vavada4.website
 vavada5.ru
+vavada555.com
 vavada6.ru
 vazhno.in.ua
 vbgrar.kylie-ru.ru
@@ -43365,6 +43378,7 @@ www.upopaj3t6yyjpkfc.onion.ph
 www.utorrent.tv
 www.va-bank-casino.ru
 www.vagrius.ru
+www.vavada555.com
 www.vawego.ru
 www.vcemkino.ru
 www.vdcasino112.com
