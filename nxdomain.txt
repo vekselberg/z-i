@@ -2839,6 +2839,7 @@
 1xdgj.host
 1xdglr.host
 1xdik.xyz
+1xdkc.world
 1xdlo.world
 1xdlp.world
 1xdlu.host
@@ -2856,6 +2857,7 @@
 1xdwua.host
 1xdwv.xyz
 1xdxt.host
+1xdxt.world
 1xdxt.xyz
 1xdzs.top
 1xdzug.host
@@ -2865,6 +2867,7 @@
 1xebef.host
 1xebqb.host
 1xecea.space
+1xedu.world
 1xeeg.xyz
 1xeemc.host
 1xegsc.host
@@ -2898,6 +2901,7 @@
 1xflw.xyz
 1xfmx.world
 1xfns.top
+1xfoy.world
 1xfqc.host
 1xfqf.world
 1xfqu.world
@@ -2941,6 +2945,7 @@
 1xgwz.world
 1xgxn.world
 1xgxp.world
+1xgxs.world
 1xgya.top
 1xgyr.host
 1xgzk.top
@@ -2959,12 +2964,15 @@
 1xhkgl.host
 1xhlf.xyz
 1xhmo.world
+1xhqk.world
 1xhsd.top
 1xhuj.world
 1xhvb.host
+1xhvg.world
 1xhvs.world
 1xhwvl.host
 1xhyn.host
+1xiby.world
 1xici.xyz
 1xicl.world
 1xicu.host
@@ -3185,6 +3193,7 @@
 1xlva.top
 1xlwy.world
 1xlxa.world
+1xlyk.world
 1xlzh.host
 1xmaahkk.com
 1xmaapiq.com
@@ -3223,6 +3232,7 @@
 1xmli.top
 1xmlta.host
 1xmlw.world
+1xmmk.world
 1xmmy.world
 1xmnq.top
 1xmns.top
@@ -3564,6 +3574,7 @@
 1xmyhi.space
 1xnag.world
 1xnbe.top
+1xndi.world
 1xndu.xyz
 1xnelk.space
 1xnet.host
@@ -3572,6 +3583,7 @@
 1xnglb.host
 1xniu.host
 1xniz.host
+1xnjm.world
 1xnjo.host
 1xnjo.xyz
 1xnjro.host
@@ -4263,6 +4275,7 @@
 1xvqhm.host
 1xvqk.host
 1xvsl.world
+1xvsv.world
 1xvug.world
 1xvvf.world
 1xvwpb.host
@@ -4307,6 +4320,7 @@
 1xxlj.host
 1xxlnz.host
 1xxmk.world
+1xxon.world
 1xxot.xyz
 1xxpd.host
 1xxpers100.mobi
@@ -4387,6 +4401,7 @@
 1xzjd.world
 1xzlgt.host
 1xzlj.host
+1xzoc.world
 1xzot.world
 1xzqi.world
 1xzqm.host
@@ -9754,7 +9769,6 @@ ball.imadd.ru
 ball.roflcats.ru
 ball.shansonnew.ru
 ball.supersmans.com
-ballroombabies.com
 balon.info
 balt2018.com
 baltbet2017.club
@@ -13526,7 +13540,6 @@ bukzerkalas.host
 buldogkazino.info
 bulkino.net
 buran-kazino-obzor.1freb-2018.info
-burrinjuck.com
 bus.muzofond.online
 bushnell.info
 butskycoresgov.com
@@ -18408,7 +18421,6 @@ hdmarathonbet.win
 hdmbetplayluck.top
 hdmnogo.com
 hdmob.ru
-hdmozg.online
 hdmyvi.ru
 hdnight.tv
 hdpart.online
@@ -18437,7 +18449,6 @@ hdrezkaa.ru
 hdrezke.net
 hdrezke.ru
 hdseria.net
-hdserial.co
 hdserialoff.net
 hdserialy.net
 hdsunduk.ru
@@ -21253,7 +21264,6 @@ lettraffmostd.com
 lettrafmost.com
 lettrafnow.com
 lettsbook.ru
-levx.com
 lffmoote.olimpc6k8.xyz
 lfhd.ru
 lfilm.org
@@ -21878,6 +21888,7 @@ lp-04.fonbet3.info
 lp-04.fongametime.info
 lp-04.foninfo.org
 lp-04.foninfobet.info
+lp-05.fon-infosport.info
 lp-05.fonbet3.info
 lp-05.fongametime.info
 lp-05.foninfobet.info
@@ -21903,8 +21914,8 @@ lp-27.fon-infosport.info
 lp-28.fon-infosport.info
 lp-29.fon-infosport.info
 lp-30.fon-infosport.info
+lp-31.fon-infosport.info
 lp-32.fon-infosport.info
-lp-33.fon-infosport.info
 lp-34.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
@@ -21917,6 +21928,7 @@ lp-46.fon-infosport.info
 lp-47.fon-infosport.info
 lp-48.fon-infosport.info
 lp-49.fon-infosport.info
+lp-51.fon-infosport.info
 lp-52.fon-infosport.info
 lp-53.fon-infosport.info
 lp-54.fon-infosport.info
@@ -32017,7 +32029,6 @@ pokerdom1.mobi
 pokerdom1.su
 pokerdom14.org
 pokerdom22.org
-pokerdoma.org
 pokerdomclub.com
 pokerdomfree.ru
 pokerera.ru
@@ -35332,6 +35343,7 @@ ru.swleon1087.com
 ru.swleon1121.com
 ru.swleon1180.com
 ru.swleon1200.com
+ru.swleon1205.com
 ru.swleon1211.com
 ru.swleon1221.com
 ru.swleon1222.com
@@ -37556,6 +37568,7 @@ traffaccess0810link.com
 traffaccess1025link.com
 traffaccess1026link.com
 traffaccess1417link.com
+traffaccess1491ink.com
 traffaccess1549link.com
 traffaccess1708link.com
 traffaccess1787link.com
@@ -38268,11 +38281,13 @@ vauchery-kazino-orca88.upcasinor-tmmvulkan.info
 vavada.website
 vavada1.ru
 vavada1.su
+vavada100.com
 vavada2.info
 vavada2.website
 vavada4.ru
 vavada4.website
 vavada5.ru
+vavada55.com
 vavada555.com
 vavada6.ru
 vazhno.in.ua
@@ -43167,7 +43182,6 @@ www.slavaangel.ru
 www.slot-v-casino.top
 www.slotiazino55.space
 www.slrsmrklzc6xnokp.onion.ph
-www.sluver.com
 www.smolensk-delux.com
 www.smolensk-lux.com
 www.smotra.net
