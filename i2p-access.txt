@@ -1,5 +1,5 @@
 First install any I2P router unless you already have any.
-In case if i2pd, here is exapmle of working i2pd.conf file:
+In case if i2pd, here is example of working i2pd.conf file:
 
 #Begin-of-file
 bandwidth=X
@@ -33,8 +33,8 @@ svn update dump.csv
 
 Replace 127.0.0.1 with your I2P entry address if you have it elsewhere.
 
-Inital update may take long time despite of traffic compression
+Initial update may take long time despite of traffic compression
 by Subversion server. You can monitor progress of initial update
-looking at size of temprary file in the z-i/.svn/tmp directory.
+looking at size of temporary file in the z-i/.svn/tmp directory.
 
 Consecutive updates should be significantly faster because they are differential.
