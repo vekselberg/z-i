@@ -1,0 +1,40 @@
+First install any I2P router unless you already have any.
+In case if i2pd, here is exapmle of working i2pd.conf file:
+
+#Begin-of-file
+bandwidth=X
+tunconf = /usr/local/etc/tunnels.conf
+
+[httpproxy]
+address=127.0.0.1
+port=4444
+
+[addressbook]
+defaulturl = http://joajgazyztfssty4w2on5oaqksz6tqoxbduy553y34mf4byv6gpq.b32.i2p/export/alive-hosts.txt
+#End-of-file
+
+To use Subversion client (svn) create I2P tunnel for tcp/3690 and destination
+4cyirqnjw4lsm6tml4e5cgt5wk7o3rexa5zuaes5lwjck4hyepia.b32.i2p
+
+In case of i2pd, here are 6 lines for your tunnels.conf:
+
+[zapret-info]
+type = client
+address = 127.0.0.1
+port = 3690
+destination = 4cyirqnjw4lsm6tml4e5cgt5wk7o3rexa5zuaes5lwjck4hyepia.b32.i2p
+destinationport = 3690
+
+Due to I2P access slowness, recommended way to initial checkout is the following:
+
+svn checkout --depth=empty svn://127.0.0.1/z-i z-i # first time only
+cd z-i
+svn update dump.csv
+
+Replace 127.0.0.1 with your I2P entry address if you have it elsewhere.
+
+Inital update may take long time despite of traffic compression
+by Subversion server. You can monitor progress of initial update
+looking at size of temprary file in the z-i/.svn/tmp directory.
+
+Consecutive updates should be significantly faster because they are differential.
