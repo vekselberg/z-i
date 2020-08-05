@@ -9060,12 +9060,14 @@ air.pm-166.info
 air.pm-167.info
 air.pm-168.info
 air.pm-169.info
+air.pm-172.info
 air.pm-173.info
 air.pm-175.info
 air.pm-177.info
 air.pm-179.info
 air.pm-181.info
 air.pm-186.info
+air.pm-191.info
 air.pm-192.info
 air.pm-197.info
 air.pm-199.info
@@ -17281,7 +17283,6 @@ diplomu-kr.ru
 diplomu-v-kemerovo.com
 diplomu48.com
 diplomus-32.com
-diplomus-ekb.com
 diplomus-krasnoyarsk24.com
 diplomus-v-bryanske.com
 diplomus-v-ekb.com
@@ -17290,7 +17291,6 @@ diplomved.org
 diplomy-v-ekb.ru.
 dipp-ru.com
 dipplom-nsk.com
-dipplom-v-samare.com
 discardmediaplay.win
 disfilms.net
 diskikazino.info
@@ -19983,6 +19983,7 @@ friendspokerdom.com
 frigat.gq
 fripucks.olimppu4j.xyz
 from.top-film100.ru
+fromtorrents.com
 frugtor.me
 fruktovyjcasino.info
 fruktykazino.info
@@ -20807,6 +20808,7 @@ hd.kingfilmi.online
 hd.kingfilmo.online
 hd.kingfilmvik.online
 hd.kino-2020.online
+hd.kino-fs.vip
 hd.kino-zk.online
 hd.kino-zoom.online
 hd.kinoboom.club
@@ -21040,6 +21042,7 @@ hdrezka.cx
 hdrezka.fail
 hdrezka.fun
 hdrezka.fund
+hdrezka.host
 hdrezka.in.ua
 hdrezka.live
 hdrezka.mba
@@ -25068,6 +25071,8 @@ lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
+lp-17.fon-infosport.info
+lp-18.fon-infosport.info
 lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-22.fon-infosport.info
@@ -25075,7 +25080,6 @@ lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
-lp-27.fon-infosport.info
 lp-29.fon-infosport.info
 lp-34.fon-infosport.info
 lp-35.fon-infosport.info
@@ -25084,10 +25088,12 @@ lp-37.fon-infosport.info
 lp-38.fon-infosport.info
 lp-39.fon-infosport.info
 lp-40.fon-infosport.info
+lp-41.fon-infosport.info
 lp-44.fon-infosport.info
 lp-45.fon-infosport.info
 lp-46.fon-infosport.info
 lp-48.fon-infosport.info
+lp-49.fon-infosport.info
 lp-50.fon-infosport.info
 lp-51.fon-infosport.info
 lp-52.fon-infosport.info
@@ -33521,6 +33527,7 @@ mxicorp.online
 mxpsm.xooponopono.ru
 mxwedjap.olimpql7n.xyz
 my-casino.ru
+my-film.ml
 my-gdz.ru
 my-hit.audio
 my-kino.ga
@@ -35107,7 +35114,6 @@ online.zfilm-hd1.site
 online1.avtomaty24besplatno.com
 online1.hd1080film.ru
 online1.igrovyeavtomati.com
-online17.epassion.bet
 online18.epassion.bet
 online19.epassion.bet
 online2.club-vulkan-777.club
@@ -43778,7 +43784,6 @@ tryserial.com
 trytoporaruletos.info
 tsdewqqt.olimpjkt4.xyz
 tsm7.ru
-tsym-shop.ru
 tsym.store
 ttm6l6jll4.com
 ttr-casino.info
@@ -45910,6 +45915,7 @@ w1.gomobazino.icu
 w1.hd1080px.online
 w1.hdzlo.club
 w1.hdzlo.life
+w1.kino-fs.vip
 w1.kinodoz.me
 w1.kinolord.co
 w1.mob-azino-go.icu
@@ -46792,6 +46798,7 @@ winlinebk59.com
 winlinebk6.com
 winlinebk61.com
 winlinebk62.com
+winlinebk63.com
 winlinebk65.com
 winlinebk9.com
 winmarabetting.win
