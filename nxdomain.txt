@@ -4731,6 +4731,7 @@
 1xredftb.host
 1xredfutt.world
 1xredfxid.world
+1xredgfkbr.world
 1xredgfmbs.world
 1xredglze.world
 1xredgnu.host
@@ -4864,6 +4865,7 @@
 1xredjslm.world
 1xredjtz.host
 1xredjyw.host
+1xredjzldy.world
 1xredjzn.host
 1xredjzu.host
 1xredkbs.host
@@ -4896,12 +4898,14 @@
 1xredlgz.host
 1xredlhcs.world
 1xredliae.world
+1xredllepw.world
 1xredlpta.world
 1xredlrz.host
 1xredlych.world
 1xredlzd.host
 1xredmbbv.world
 1xredmbzt.world
+1xredmguka.world
 1xredmkar.world
 1xredmls.host
 1xredmmk.host
@@ -4936,6 +4940,7 @@
 1xrednvlb.world
 1xrednxe.top
 1xrednybp.world
+1xredodgyi.world
 1xredodiz.world
 1xredoery.world
 1xredofin.world
@@ -6964,7 +6969,6 @@
 4.smotrelka.me
 40-azmpp.win
 40.300kbit.pw
-4006.videocdn.pw
 400e66.olimp58e8.top
 400e68a1c42571b09c.c2ef25.a2341e99d0a2f2982f.xyz
 4011azmob.host
@@ -8899,7 +8903,6 @@
 875a5f.olimpb7cd.top
 875a698.icu
 877928372e15df324b.c2ef25.a2341e99d0a2f2982f.xyz
-8784.videocdn.pw
 87862b.olimpdcb8.top
 879e36.olimp16e5.top
 87cc91.olimpd7c0.top
@@ -9294,7 +9297,6 @@ a-tor.top
 a-zino-777.ru
 a-zino777zerkalo.ru
 a.1mirr.site
-a.1xbet-ter.site
 a.1xbett.site
 a.4hd-1080.online
 a.anvoneplay.pro
@@ -9402,6 +9404,7 @@ a1cdb4.olimpb138.top
 a1ce9e.olimpcc44.top
 a1d5415ef.icu
 a1ec.club
+a1extremeclean.com
 a1iy4akxid.1stgoto.url.access.bkfind.top
 a1y5phdd02.srca.connect.netcdn.bcdl.rocks
 a2.4rdr.top
@@ -11255,7 +11258,6 @@ avtomaty.kazino.group
 avtomaty.pro
 avtomaty.vulkandeluxe.win
 avtomaty1.crazy-monkey-free.com
-avtomaty1.slots-bar.com
 avtomaty2.crazy-monkey-free.com
 avtomaty2.slots-bar.com
 avtomaty24besplatno.com
@@ -22694,7 +22696,6 @@ free.azartnye-avtomaty.in
 free.igrysloty.ru
 free.kazinopobeda.ru
 free.play-avtomaty.ru
-free.slots-bar.com
 free.spinstar.ru
 free.vulcan-slots.com
 free.zfilm-hd-1080.space
@@ -23938,7 +23939,6 @@ hdd.fantomas.club
 hdd.filmyx.online
 hdd.zfilme-hd.space
 hdfilm-serial.com
-hdfilm-torrent.co
 hdfilmi-1080.buzz
 hdfilmi.club
 hdfilms.club
@@ -25437,7 +25437,6 @@ kazinopravda.info
 kazinoprobki.info
 kazinoqiwi.info
 kazinoqtum.info
-kazinora.info
 kazinorabocheeb.info
 kazinorabocheec.info
 kazinorabocheed.info
@@ -29445,7 +29444,6 @@ mail.moneydaplay2.com
 mail.ostfilm.tv
 mail.torrent.by
 mail.vkmp3.org
-mail.vse-sezony.in
 mail.zalipalovo.online
 mailbroker4346.ru
 mailbroker436.ru
@@ -34602,9 +34600,7 @@ mostbet-846.xyz
 mostbet-879.xyz
 mostbet-949.xyz
 mostbet-bk.website
-mostbet-com.ru
 mostbet-official.net
-mostbet-officiall.ru
 mostbet-oficialniy.ru
 mostbet-otzyvy.ru
 mostbet-registration-qop.top
@@ -35244,7 +35240,6 @@ mostbetprilend8.xyz
 mostbetq.com
 mostbetq.xyz
 mostbetr.xyz
-mostbetru.ru
 mostbetru120.ru
 mostbetrussia1.xyz
 mostbetrussia10.xyz
@@ -42523,6 +42518,7 @@ prostitutkiorenburgafit.com
 prostitutkiorlaxxx.info
 prostitutkipenzyfit.info
 prostitutkiryazaniclub.net
+prostitutkismolenskalist.net
 prostitutkitambovainfo.org
 prostitutkitveri.site
 prostitutkiulanudex.net
@@ -48807,7 +48803,6 @@ stilbet.net
 stilbet1.ru
 stilbet24.ru
 stillbet.org
-stix.sc7.fun
 stokazino.info
 stoletie.in.ua
 stoloto-online.ru
@@ -50769,7 +50764,6 @@ vk-mp3.com
 vk-mp3.ru
 vk-sound.ru
 vk-tv.site
-vk-zerkalo-bk.info
 vk.agorov.org
 vk.com-wall.club
 vkasino.net
@@ -57756,7 +57750,6 @@ www1.pesnitytvse.ru
 www1.shara.me
 www1.smotri.top
 www10.zenitbet.su
-www11.zenitbet.su
 www12.zenitbet.su
 www13.zenitbet.su
 www14.zenitbet.su
@@ -57825,27 +57818,24 @@ www3.muzofond.online
 www3.myzuka.me
 www3.parimatch.kiev.ua
 www3.windbet.ru
-www3.zenitbet.su
 www4.artmax.live
 www4.fonbet.be
 www4.kinohom.ru
 www4.myzuka.me
 www4.parimatch.kiev.ua
 www4.windbet.ru
-www4.zenitbet.su
 www5.artmax.live
 www5.kinohom.ru
 www5.myzuka.me
 www5.parimatch.kiev.ua
 www5.windbet.ru
 www5.zenitbet.su
+www6.artmax.live
 www6.kinohom.ru
 www6.myzuka.me
 www6.parimatch.kiev.ua
-www6.zenitbet.su
 www7.myzuka.me
 www7.parimatch.kiev.ua
-www7.zenitbet.su
 www8.myzuka.me
 www8.parimatch.kiev.ua
 www8.zenitbet.su
