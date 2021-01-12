@@ -11351,6 +11351,8 @@ air.pm-031.info
 air.pm-045.info
 air.pm-058.info
 air.pm-068.info
+air.pm-077.info
+air.pm-101.info
 air.pm-112.info
 air.pm-113.info
 air.pm-116.info
@@ -11453,6 +11455,7 @@ air.pm-390.info
 air.pm-394.info
 air.pm-398.info
 air.pm-399.info
+air.pm-404.info
 air.pm-420.info
 air.pm-421.info
 air.pm-423.info
@@ -11492,6 +11495,8 @@ air.pm-468.info
 air.pm-472.info
 air.pm-474.info
 air.pm-475.info
+air.pm-476.info
+air.pm-489.info
 air.pm-500.info
 air.pm-599.info
 air.pm-629.info
@@ -27820,7 +27825,6 @@ hopnecessary.tech
 hopoffice.fun
 hoppossible.fun
 horosheekazino.com
-horror.pw
 hostdomainshar.com
 hostelsm.ru
 hot-bet.club
@@ -34014,6 +34018,8 @@ m.parimatchtoday7.com
 m.parimatchtop2.com
 m.pharaonbet.com.ru
 m.pinbet88.com
+m.pm-077.info
+m.pm-101.info
 m.pm-112.info
 m.pm-120.info
 m.pm-121.info
@@ -34040,7 +34046,9 @@ m.pm-326.info
 m.pm-339.info
 m.pm-350.info
 m.pm-404.info
+m.pm-489.info
 m.pm-508.info
+m.pm-698.info
 m.pm-802.info
 m.printlaba.ru
 m.prostitutki--70.ru
@@ -46049,6 +46057,7 @@ one-xgaks.world
 one-xgcrf.world
 one-xgdid.world
 one-xgfczy.world
+one-xglshj.world
 one-xglyu.world
 one-xgmlpt.world
 one-xgott.world
@@ -48415,8 +48424,10 @@ pm-007.info
 pm-045.info
 pm-058.info
 pm-068.info
+pm-077.info
 pm-086.online
 pm-1.website
+pm-101.info
 pm-1010.site
 pm-1011.site
 pm-108.online
@@ -48691,6 +48702,7 @@ pm-400.info
 pm-4013.site
 pm-4014.site
 pm-402.info
+pm-404.info
 pm-409.info
 pm-414.site
 pm-415.online
@@ -48887,6 +48899,7 @@ pm-695.info
 pm-6958.xyz
 pm-696.info
 pm-697.info
+pm-698.info
 pm-699.info
 pm-700.info
 pm-701.info
@@ -57416,6 +57429,7 @@ start.parimatchtoday7.com
 start.parimatchtop2.com
 start.pm-039.info
 start.pm-062.info
+start.pm-077.info
 start.pm-101.info
 start.pm-120.info
 start.pm-251.info
@@ -57433,6 +57447,7 @@ start.pm-339.info
 start.pm-350.info
 start.pm-356.info
 start.pm-476.info
+start.pm-698.info
 start.zeoncasino2.com
 start.zonazt.com
 start.zonegme.com
@@ -66519,6 +66534,8 @@ www.playruvulkan.org
 www.plus-music.me
 www.plusrotate.win
 www.pm-007.info
+www.pm-077.info
+www.pm-101.info
 www.pm-110.info
 www.pm-112.info
 www.pm-120.info
@@ -66531,6 +66548,10 @@ www.pm-190.info
 www.pm-211.info
 www.pm-220.info
 www.pm-402.info
+www.pm-404.info
+www.pm-476.info
+www.pm-587.info
+www.pm-698.info
 www.pm-802.info
 www.pmbts-bk.ru
 www.pmtch-bets.ru
