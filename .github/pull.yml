@@ -1,0 +1,8 @@
+version: "1"
+rules:
+  - base: sync
+    upstream: zapret-info:master
+    mergeMethod: merge
+    mergeUnstable: false
+  - base: dev
+    upstream: master
