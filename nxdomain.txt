@@ -3503,6 +3503,8 @@
 1x-bet57325.world
 1x-bet58120.world
 1x-bet66263.world
+1x-bet68576.world
+1x-bet69201.world
 1x-bet71558.world
 1x-bet73041.world
 1x-bet78391.world
@@ -17572,6 +17574,7 @@ besplatno.azartnye-avtomaty.com
 besplatno.azartnye-avtomaty.in
 besplatno.gaminatory.net
 besplatno.play-vulcan-slots.ru
+besplatno1.azartnie-avtomaty.com
 besplatno1.play-vulcan-slots.ru
 besplatno2.azartnie-avtomaty.com
 besplatno2.play-vulcan-slots.ru
@@ -58064,6 +58067,7 @@ popmpsk.site
 popmrk.site
 poprsk.ru
 popsong.info
+popsong.ru
 popularzader.top
 populattimes.top
 popupmediaplay.win
