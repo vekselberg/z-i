@@ -19755,7 +19755,6 @@ besplatno2.azartnie-avtomaty.com
 besplatno2.play-vulcan-slots.ru
 besplatno3.azartnie-avtomaty.com
 besplatno3.igrovye-gaminatory.com
-besplatno4.azartnie-avtomaty.com
 besplatno6.azartnie-avtomaty.com
 besplatno777.azartnie-avtomaty.com
 besplatno8.azartnie-avtomaty.com
@@ -34487,6 +34486,7 @@ forum.asmlocator.ru
 forum.bitmmgp.ru
 forum.ganjalive.me
 forum.gribo4ek.online
+forum.ksivi.biz
 forum.luxe-rp.ru
 forum.motilek.org
 forum1.4bets.pro
@@ -67994,6 +67994,7 @@ r-casuno.me
 r-ciasino.me
 r-ciasino.site
 r-dreu.ru
+r-icasino.me
 r-liga.ru
 r-pokerdom.mobi
 r-sport2001.ru
