@@ -3946,9 +3946,11 @@
 1x-bet06557.world
 1x-bet06848.world
 1x-bet08607.world
+1x-bet08786.com
 1x-bet08930.world
 1x-bet09024.com
 1x-bet09318.world
+1x-bet09462.com
 1x-bet09579.world
 1x-bet11213.world
 1x-bet11852.world
@@ -3962,6 +3964,7 @@
 1x-bet15390.com
 1x-bet16259.world
 1x-bet16279.world
+1x-bet16771.com
 1x-bet16822.com
 1x-bet16943.com
 1x-bet17911.world
@@ -3975,6 +3978,7 @@
 1x-bet24938.world
 1x-bet25437.com
 1x-bet25962.world
+1x-bet26712.com
 1x-bet27833.com
 1x-bet28478.com
 1x-bet28975.world
@@ -3983,6 +3987,7 @@
 1x-bet30160.com
 1x-bet30750.com
 1x-bet30837.com
+1x-bet31034.com
 1x-bet31082.com
 1x-bet31616.world
 1x-bet32480.world
@@ -4023,6 +4028,7 @@
 1x-bet61961.world
 1x-bet62902.com
 1x-bet63143.world
+1x-bet63582.com
 1x-bet63832.com
 1x-bet64146.com
 1x-bet64679.world
@@ -4060,6 +4066,7 @@
 1x-bet77923.world
 1x-bet78165.com
 1x-bet78391.world
+1x-bet79005.com
 1x-bet79387.com
 1x-bet79445.com
 1x-bet79682.world
@@ -4090,6 +4097,7 @@
 1x-bet92004.com
 1x-bet92267.com
 1x-bet92332.world
+1x-bet92402.com
 1x-bet92571.com
 1x-bet92593.world
 1x-bet92751.world
@@ -20514,10 +20522,12 @@ besplatno.gaminatory.net
 besplatno.play-vulcan-slots.ru
 besplatno1.azartnie-avtomaty.com
 besplatno1.play-vulcan-slots.ru
+besplatno2.azartnie-avtomaty.com
 besplatno2.play-vulcan-slots.ru
 besplatno3.azartnie-avtomaty.com
 besplatno3.igrovye-gaminatory.com
 besplatno7.azartnie-avtomaty.com
+besplatno777.azartnie-avtomaty.com
 besplatno8.azartnie-avtomaty.com
 besplatnoe-kazino.ru
 besplatnye-igrovie-avtomaty.net
@@ -29906,7 +29916,6 @@ columbusino.casa
 columbusino.digital
 columbuskasino.fun
 columbuskazino.dengy-tut.com
-columbuskazino.namobile.fun
 columbuskazino.su
 columbusplay.ru
 columbusplaylink.com
@@ -30993,6 +31002,7 @@ diplomcok.com
 diplomcoma.info
 diplomcvruki.info
 diplome-174.com
+diplomgorkyy.com
 diplomgroups.com
 diplomi-177.com
 diplomi-777.com
@@ -79916,7 +79926,6 @@ slotvids.club
 slotvino.agency
 slotvkasino.info
 slotvkazino-i.ru
-slotvkazino.4you.games
 slotvkazino.5000rubley.com
 slotvkazino.dengy-tut.com
 slotvofficial.site
@@ -84906,7 +84915,6 @@ vegas-avtamati.ru
 vegas-avtomati.site
 vegas-avtomati.su
 vegas-avtomati10.babyparking.ru
-vegas-avtomati11.com
 vegas-avtomati13.com
 vegas-avtomati6.com
 vegas-avtomati7.com
