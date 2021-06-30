@@ -1052,6 +1052,7 @@
 1080-online.gov-bac-t.top
 1080-online.hd-lostfilm.site
 1080-online.hd-serial.me
+1080-online.kinokrad-hd.top
 1080-online.lordfilm-1207.site
 1080-online.zfilm-hd-1020.online
 1080-online.zfilm-hd-1048.online
@@ -1066,6 +1067,7 @@
 1080-online.zfilm-hd-1878.online
 1080-online.zfilm-hd-1954.online
 1080-online.zfilm-hd-2013.online
+1080-online.zfilm-hd-2018.online
 1080-online.zfilm-hd-2192.online
 1080-online.zfilm-hd-2216.online
 1080-online.zfilm-hd-2388.online
@@ -4406,6 +4408,7 @@
 1xbet-lk1.site
 1xbet-lk2.site
 1xbet-lk3.site
+1xbet-lk4.site
 1xbet-lka.site
 1xbet-lkl.site
 1xbet-lkn.site
@@ -7739,7 +7742,9 @@
 24film.lostfilm-hd-2251.site
 24film.rezka.icu
 24film.zfilm-hd-1020.online
+24film.zfilm-hd-2018.online
 24film.zfilm-hd-2081.online
+24film.zfilm-hd-2755.online
 24film.zfilm-hd-404.online
 24film.zfilm-hd1.icu
 24film.zfilme-hd1.site
@@ -8267,6 +8272,7 @@
 28kino.zfilm-hd-1983.online
 28kino.zfilm-hd-2004.online
 28kino.zfilm-hd-2013.online
+28kino.zfilm-hd-2018.online
 28kino.zfilm-hd-2054.online
 28kino.zfilm-hd-2092.online
 28kino.zfilm-hd-2099.online
@@ -10855,6 +10861,7 @@
 720-free.hd-lostfilm-720.com
 720-free.hd-lostfilm.gay
 720-free.hdfilmi-hd.top
+720-free.lamafilm.top
 720-free.zfilm-hd666.top
 720-free.zfilm-online69.top
 720-free.zfilme-hd-1080.space
@@ -10872,6 +10879,7 @@
 720-fullhd.hd-serial.me
 720-fullhd.zfilm-1080.cyou
 720-fullhd.zfilm-hd-1065.online
+720-fullhd.zfilm-hd-2429.online
 720-fullhd.zfilm-hd-2659.online
 720-fullhd.zfilm-hd1.icu
 720-fullhd.zfilm-hd10.monster
@@ -10889,6 +10897,7 @@
 720-hd-hd.zfilm-hd-1287.online
 720-hd-hd.zfilm-hd-1685.online
 720-hd-hd.zfilm-hd-1954.online
+720-hd-hd.zfilm-hd-2018.online
 720-hd-hd.zfilm-hd-2391.online
 720-hd-hd.zfilm-hd-2659.online
 720-hd-hd.zfilm-hd-338.online
@@ -10908,6 +10917,7 @@
 720-hd.icu
 720-hd.kinogo-by.com
 720-hd.lamafilm-hd.top
+720-hd.lamafilm.top
 720-hd.lordsfilms.top
 720-hd.online
 720-hd.planetakino-hd.com
@@ -10920,6 +10930,7 @@
 720-hd.zfilm-hd666.monster
 720-hd.zfilm-online-1.site
 720-hd.zfilm-online-5.site
+720-hd1.lamafilm.top
 720-hd1.lost-films.site
 720-hd1.zfilm-hd-1287.online
 720-hd1.zfilm-hd720.icu
@@ -10927,6 +10938,7 @@
 720-lostfilm.gov-bac-t.top
 720-lostfilm.hd-lostfilm-720.com
 720-lostfilm.hd-lostfilm.site
+720-lostfilm.ljucifer.com
 720-lostfilm.zfilm-720.com
 720-lostfilm.zfilm-hd.monster
 720-online.720-hd.icu
@@ -10975,6 +10987,7 @@
 720.lamafilm-hd.space
 720.lamafilm-hd.top
 720.lamafilm-hd.xyz
+720.lamafilm.top
 720.lordfilms-hd.top
 720.lordsfilms.top
 720.zagonka-1368.site
@@ -10989,8 +11002,10 @@
 720.zfilm-hd-1080.top
 720.zfilm-hd-1287.online
 720.zfilm-hd-1669.online
+720.zfilm-hd-2018.online
 720.zfilm-hd-2099.online
 720.zfilm-hd-2466.online
+720.zfilm-hd-2755.online
 720.zfilm-hd-3030.online
 720.zfilm-hd.monster
 720.zfilm-hd.site
@@ -11935,6 +11950,7 @@
 7serialov.zfilm-hd-1884.online
 7serialov.zfilm-hd-1954.online
 7serialov.zfilm-hd-1958.online
+7serialov.zfilm-hd-2018.online
 7serialov.zfilm-hd-2081.online
 7serialov.zfilm-hd-2117.online
 7serialov.zfilm-hd-2192.online
@@ -11953,6 +11969,7 @@
 7serialov.zfilm-hd-2659.online
 7serialov.zfilm-hd-2661.online
 7serialov.zfilm-hd-2677.online
+7serialov.zfilm-hd-2755.online
 7serialov.zfilm-hd-2779.online
 7serialov.zfilm-hd-2788.online
 7serialov.zfilm-hd-2813.online
@@ -15510,6 +15527,7 @@ amediateka.2021-film.com
 amediateka.kinogo-by.com
 amediateka.turkru-720.com
 amediateka.turkru-online.com
+amediateka.zfilm-hd-2018.online
 amelitv.ru
 amely-studio.ru
 amendmediaplay.win
@@ -15551,6 +15569,9 @@ amurkino.rserial-hd.com
 amurkino.turkru-720.com
 amurkino.zfilm-hd-1287.online
 amurkino.zfilm-hd-1954.online
+amurkino.zfilm-hd-2018.online
+amurkino.zfilm-hd-2679.online
+amurkino.zfilm-hd-2755.online
 amurkino.zfilme-hd1.site
 amyrose.ru
 an-63.ru
@@ -15606,6 +15627,7 @@ animalfilms.hd-lostfilm.site
 animalfilms.hd-serial.me
 animalfilms.hdrezka-870.site
 animalfilms.kinogo-hd.icu
+animalfilms.kinokrad-hd.top
 animalfilms.turkru-online.com
 animalfilms.zagonka-1368.cyou
 animalfilms.zetflix-biz.com
@@ -15615,6 +15637,7 @@ animalfilms.zfilm-hd-1577.online
 animalfilms.zfilm-hd-1852.online
 animalfilms.zfilm-hd-1863.online
 animalfilms.zfilm-hd-1946.online
+animalfilms.zfilm-hd-2018.online
 animalfilms.zfilm-hd-2307.online
 animalfilms.zfilm-hd-2466.online
 animalfilms.zfilm-hd-2659.online
@@ -15636,15 +15659,19 @@ animedia-company.kinogo-by.com
 animedia-company.mertvoe-ozero.com
 animedia-company.serial-720hd.com
 animedia-company.ubivaja-evu.com
+animedia-company.zfilm-hd-2679.online
 animedia-company.zfilme-hd1.site
 animedub.2020-film.me
 animedub.hd-lostfilm.com
 animedub.kinogo-by.com
+animedub.zfilm-hd-2429.online
 animego.2020-film.com
 animego.2021-film.com
 animego.besstyzhie.com
 animego.zfilm-zfilm.club
 animestars.2020-film.me
+animestars.kinokrad-hd.top
+animestars.lamafilm.top
 animestars.zfilm-hd-1287.online
 animeteatr.tv
 animevost-org.com
@@ -25569,6 +25596,7 @@ bobrovy-dvory.prava-online.org
 bobsburgers.baskino-531.site
 bobsburgers.hd-lostfilm.site
 bobsburgers.k1no-hd.com
+bobsburgers.kinokrad-hd.top
 bobsburgers.kinomatix-1080.monster
 bobsburgers.lamafilm-720.top
 bobsburgers.lordfilm-2833.site
@@ -27219,6 +27247,7 @@ casino-r.vip
 casino-r.xyz
 casino-ra.me
 casino-ra.net
+casino-ra.org
 casino-ra22.com
 casino-ra6.com
 casino-ra7.com
@@ -29940,6 +29969,7 @@ chernoezerkalo.zfilm-hd-2659.online
 chernoezerkalo.zfilm-hd-2668.online
 chernoezerkalo.zfilm-hd-2698.online
 chernoezerkalo.zfilm-hd-2727.online
+chernoezerkalo.zfilm-hd-2755.online
 chernoezerkalo.zfilm-hd-2766.online
 chernoezerkalo.zfilm-hd-2779.online
 chernoezerkalo.zfilm-hd-2846.online
@@ -30123,6 +30153,8 @@ cinema5.hd-serial.me
 cinema5.hd-zfilm.com
 cinema5.zfilm-hd-1287.online
 cinema5.zfilm-hd-1965.online
+cinema5.zfilm-hd-2018.online
+cinema5.zfilm-hd-2679.online
 cinema5.zfilm-hd-zerkalo.fun
 cinema5.zfilm-zfilm.club
 cinema5.zfilme-hd1.site
@@ -30167,6 +30199,7 @@ cinematext.zfilm-hd-1486.online
 cinematext.zfilm-hd-1723.online
 cinematext.zfilm-hd-1821.online
 cinematext.zfilm-hd-1863.online
+cinematext.zfilm-hd-2018.online
 cinematext.zfilm-hd-2164.online
 cinematext.zfilm-hd-2192.online
 cinematext.zfilm-hd-2312.online
@@ -30177,6 +30210,7 @@ cinematext.zfilm-hd-2426.online
 cinematext.zfilm-hd-2469.online
 cinematext.zfilm-hd-2551.online
 cinematext.zfilm-hd-2659.online
+cinematext.zfilm-hd-2755.online
 cinematext.zfilm-hd-2766.online
 cinematext.zfilm-hd-302.online
 cinematext.zfilm-hd-564.online
@@ -30743,6 +30777,7 @@ covid19.zfilm-hd-2358.online
 covid19.zfilm-hd-2486.online
 covid19.zfilm-hd-2688.online
 covid19.zfilm-hd-2734.online
+covid19.zfilm-hd-2755.online
 covid19.zfilm-hd-2851.online
 covid19.zfilm-hd-3053.online
 covid19.zfilm-hd-534.online
@@ -32098,12 +32133,14 @@ domino-abkhazia.ru
 dominovylcanz.com
 domkino-premium.2020-film.me
 domkino-premium.movielib-hd.com
+domkino-premium.zfilm-hd-2755.online
 domkino.720-hd.icu
 domkino.gov-ceb-t.top
 domkino.hd-lostfilm.site
 domkino.in
 domkino.kinokraad.com
 domkino.zfilm-hd-1287.online
+domkino.zfilm-hd-2679.online
 domkino.zfilm-hd-404.online
 domodedovo.diplommsos.com
 domodedovo.shopdiplom.pro
@@ -32142,6 +32179,7 @@ doramalive.zfilm-hd-1669.online
 doramalive.zfilm-hd-1711.online
 doramalive.zfilm-hd-1852.online
 doramalive.zfilm-hd-1923.online
+doramalive.zfilm-hd-2018.online
 doramalive.zfilm-hd-2092.online
 doramalive.zfilm-hd-2192.online
 doramalive.zfilm-hd-2235.online
@@ -32176,6 +32214,8 @@ doramatv.hd-serial.me
 doramatv.k1no-hd.com
 doramatv.zfilm-hd-1065.online
 doramatv.zfilm-hd-1287.online
+doramatv.zfilm-hd-2018.online
+doramatv.zfilm-hd-2679.online
 doramatv.zfilm-hd.site
 doramatv.zfilme-hd1.site
 doramy.2020-film.me
@@ -32189,6 +32229,8 @@ doramy.zagonka-638.site
 doramy.zetflix-biz.com
 doramy.zfilm-hd-1264.online
 doramy.zfilm-hd-1287.online
+doramy.zfilm-hd-2018.online
+doramy.zfilm-hd-2679.online
 doramy.zfilm-hd1.icu
 doramy.zfilme-hd1.site
 dorbet.xyz
@@ -33280,6 +33322,7 @@ erotica-film.2020-film.me
 erotica-film.amurkino.com
 erotica-film.domkino-hd.com
 erotica-film.lost-films-live.icu
+erotica-film.zfilm-hd-2755.online
 erozona.online
 errableli.tk
 errors-seeds-russia.com
@@ -33926,6 +33969,7 @@ fast-torrents.cc
 fast-torrents.com
 fast-torrents.doramatv-hd.com
 fast-torrents.kinogo.red
+fast-torrents.lamafilm.top
 fast-torrents.net
 fast-torrents.org
 fast-torrents.planetakino-hd.com
@@ -33960,6 +34004,7 @@ fastpaycasino.online
 fastpaykazino.info
 fastredirectsxx.com
 fasttasty.ru
+fasttorent.zfilm-hd-2755.online
 fasttorrent.co
 fasttorrent.info
 fasttorrent.org
@@ -34133,6 +34178,7 @@ federal-product.ru
 federalcourt.top
 federico-fellini.hd-lostfilm.site
 federico-fellini.kino-history.com
+federico-fellini.lamafilm.top
 federico-fellini.zetflix-biz.com
 fedyacomp.ru
 feelfortune.com
@@ -34302,6 +34348,7 @@ film7.domkino-hd.com
 film7.kino-mouse.ru
 film7.lost-films.site
 film7.zetflix-biz.com
+film7.zfilm-hd-2018.online
 film7.zfilm-hd-2998.online
 film720.org
 film720p.online
@@ -34378,9 +34425,11 @@ filmive-hd.zfilm-hd-1487.online
 filmive-hd.zfilm-hd-1848.online
 filmive-hd.zfilm-hd-1983.online
 filmive-hd.zfilm-hd-2004.online
+filmive-hd.zfilm-hd-2018.online
 filmive-hd.zfilm-hd-2054.online
 filmive-hd.zfilm-hd-2326.online
 filmive-hd.zfilm-hd-2426.online
+filmive-hd.zfilm-hd-2429.online
 filmive-hd.zfilm-hd-2439.online
 filmive-hd.zfilm-hd-2481.online
 filmive-hd.zfilm-hd-2486.online
@@ -34455,6 +34504,8 @@ films-2020.hd-lostfilm-site.icu
 films-2020.kinogo-by.com
 films-2020.planetakino-hd.com
 films-2020.zfilm-720.com
+films-2020.zfilm-hd-2018.online
+films-2020.zfilm-hd-2679.online
 films-bluray.ru
 films-hd1080.info
 films-on.ru
@@ -34511,6 +34562,9 @@ filmshouse.lostfilm-hd-350.site
 filmshouse.zagonka-1389.site
 filmshouse.zfilm-hd-1287.online
 filmshouse.zfilm-hd-1311.online
+filmshouse.zfilm-hd-2018.online
+filmshouse.zfilm-hd-2679.online
+filmshouse.zfilm-hd-2755.online
 filmshouse.zfilme-hd1.site
 filmshub.fun
 filmspro.site
@@ -34669,6 +34723,7 @@ fixiki.zfilm-hd-1085.online
 fixiki.zfilm-hd-1287.online
 fixiki.zfilm-hd-1954.online
 fixiki.zfilm-hd-2331.online
+fixiki.zfilm-hd-2429.online
 fixiki.zfilm-hd-2439.online
 fixiki.zfilm-hd-253.online
 fixiki.zfilm-hd-2659.online
@@ -36970,6 +37025,7 @@ freakyvegas.log-dev.com
 frebons-2018.info
 fredericbongo.com
 free-720hd.ostrye-kozyrki.com
+free-720hd.zfilm-hd-2429.online
 free-azart-slot1.ru
 free-azart-slot3.ru
 free-azart-slots.ru
@@ -37274,6 +37330,7 @@ full-hd.gov-bcp-s.top
 full-hd.hdfilmi-1080.buzz
 full-hd.hdfilmi.top
 full-hd.lamafilm-hd.space
+full-hd.lamafilm.top
 full-hd.zfilm-hd-1065.online
 full-hd.zfilm-hd-1199.online
 full-hd.zfilm-hd666.monster
@@ -37313,6 +37370,7 @@ fullhd.zfilm-hd720.icu
 fullhd.zfilme-hd-1080.space
 fullhd.zfilmhd.icu
 fullhd1.lamafilm-720.buzz
+fullhd1.lamafilm.top
 fullhd1.lordsfilms.top
 fullhd1.pumafilm-hd.buzz
 fullhd1.zfilm-hd-1685.online
@@ -37924,6 +37982,7 @@ gidonline.zfilm-hd-1863.online
 gidonline.zfilm-hd-1878.online
 gidonline.zfilm-hd-1884.online
 gidonline.zfilm-hd-1954.online
+gidonline.zfilm-hd-2018.online
 gidonline.zfilm-hd-2033.online
 gidonline.zfilm-hd-2055.online
 gidonline.zfilm-hd-2099.online
@@ -37939,6 +37998,7 @@ gidonline.zfilm-hd-2366.online
 gidonline.zfilm-hd-2388.online
 gidonline.zfilm-hd-2391.online
 gidonline.zfilm-hd-2428.online
+gidonline.zfilm-hd-2429.online
 gidonline.zfilm-hd-2466.online
 gidonline.zfilm-hd-250.online
 gidonline.zfilm-hd-2504.online
@@ -37947,9 +38007,12 @@ gidonline.zfilm-hd-2620.online
 gidonline.zfilm-hd-2632.online
 gidonline.zfilm-hd-2659.online
 gidonline.zfilm-hd-2661.online
+gidonline.zfilm-hd-2679.club
+gidonline.zfilm-hd-2679.online
 gidonline.zfilm-hd-2698.online
 gidonline.zfilm-hd-2727.online
 gidonline.zfilm-hd-2734.online
+gidonline.zfilm-hd-2755.online
 gidonline.zfilm-hd-2788.online
 gidonline.zfilm-hd-2813.online
 gidonline.zfilm-hd-2846.online
@@ -37959,6 +38022,7 @@ gidonline.zfilm-hd-3038.online
 gidonline.zfilm-hd-534.online
 gidonline.zfilm-hd-575.online
 gidonline.zfilm-hd-576.online
+gidonline.zfilm-hd-720.club
 gidonline.zfilm-hd-801.online
 gidonline.zfilm-hd-875.online
 gidonline.zfilm-hd-915.online
@@ -38475,6 +38539,7 @@ golos-rus.domkino-hd.com
 golos-rus.gov-bdj-o.top
 golos-rus.hd-lostfilm.site
 golos-rus.hd-serial.me
+golos-rus.kinokrad-hd.top
 golos-rus.lordfilm-3012.site
 golos-rus.rserial-hd.com
 golos-rus.zagonka-1468.site
@@ -38598,6 +38663,8 @@ gorizontcinema.hd-lostfilm.site
 gorizontcinema.hd-serial.me
 gorizontcinema.zfilm-hd-1287.online
 gorizontcinema.zfilm-hd-1954.online
+gorizontcinema.zfilm-hd-2679.online
+gorizontcinema.zfilm-hd-2755.online
 gorizontcinema.zfilm-hd-628.online
 gorizontcinema.zfilm-hd-713.online
 gorizontcinema.zfilm-hd-zerkalo.fun
@@ -38852,8 +38919,10 @@ griffiny.hd-serial.me
 griffiny.hdrezka-1008.site
 griffiny.hdrezka-1018.site
 griffiny.hdrezka-116.site
+griffiny.kinokrad-hd.top
 griffiny.lordfilms-hd.monster
 griffiny.zfilm-hd-1577.online
+griffiny.zfilm-hd-2018.online
 griffiny.zfilm-hd-2192.online
 griffiny.zfilm-hd-2426.online
 griffiny.zfilm-hd-2659.online
@@ -38992,6 +39061,7 @@ gubka-bob.kinogo-hd.icu
 gubka-bob.zfilm-hd-1065.online
 gubka-bob.zfilm-hd-1615.online
 gubka-bob.zfilm-hd-2659.online
+gubka-bob.zfilm-hd-2755.online
 gubka-bob.zfilm-hd.site
 gubka-bob.zfilm-hd720.icu
 gubkin.prava-online.org
@@ -39170,6 +39240,7 @@ hcv-pills.com
 hd-1.lordfilms.cam
 hd-100xyev.baskinogo.com
 hd-100xyev.dahserial-hd.com
+hd-100xyev.lamafilm.top
 hd-100xyev.rserial-hd.com
 hd-1080-hd-720.dahserial-666.site
 hd-1080-hd-720.kino-history.com
@@ -39201,6 +39272,7 @@ hd-1plus1tv.doktor-kto.com
 hd-1plus1tv.domkino-hd.com
 hd-1plus1tv.fors-mazhory.com
 hd-1plus1tv.golos-rus-hd.com
+hd-1plus1tv.ljucifer.com
 hd-1plus1tv.mertvoe-ozero.com
 hd-1plus1tv.turkru-1080.com
 hd-1plus1tv.turkru-720.com
@@ -39233,6 +39305,7 @@ hd-3.lordfilms.cam
 hd-4kfilm.kinogo-by.com
 hd-4kfilm.turkru-online.com
 hd-720-720.kino-history.com
+hd-720-free.lamafilm.top
 hd-720-free.teorija-bolshogo-vzryva.com
 hd-720-fullhd.2022-film.online
 hd-720-fullhd.hd-lostfilm.gay
@@ -39270,11 +39343,14 @@ hd-advertology.2020-film.com
 hd-advertology.zagonka-1368.cyou
 hd-afisha.2020-film.org
 hd-afisha.kinogo-by.com
+hd-akami.lamafilm.top
 hd-akami.newserial-777.site
 hd-amedia.k1no-hd.com
 hd-amediateka.zfilm-720.com
+hd-amurkino.lamafilm.top
 hd-amurkino.zagonka-1368.cyou
 hd-amurkino.zfilm-720.com
+hd-amurkino.zfilm-hd-2018.online
 hd-androidkino.besstyzhie.com
 hd-androidkino.riverdjejl.com
 hd-animalfilms.2021-film.online
@@ -39286,6 +39362,7 @@ hd-animedia-company.besstyzhie.com
 hd-animedia-company.strashnye-skazki.com
 hd-animedia-company.turkru-hd.com
 hd-animedub.fljesh.com
+hd-animedub.kinokrad-hd.top
 hd-animedub.serial-720hd.com
 hd-animedub.zfilm-zfilm.com
 hd-animedub.zfilm-zfilm.cyou
@@ -39299,6 +39376,7 @@ hd-astanatv.serial-720hd.com
 hd-astanatv.zfilm-720.com
 hd-astanatv.zfilm-hd-1287.club
 hd-avatar.k1no-hd.com
+hd-balbembi.zfilm-hd-2679.cyou
 hd-baskino.2021-film.com
 hd-baskino.zfilm-720.com
 hd-baskinogo.doktor-kto.com
@@ -39311,6 +39389,7 @@ hd-bodrkino.serial-720hd.com
 hd-boomerangtv.zfilm-russia.club
 hd-business-gazeta.newserial-777.site
 hd-business-gazeta.rasskaz-sluzhanki.com
+hd-butya-butya.zfilm-hd-2018.online
 hd-cartoonnetwork.amurkino.com
 hd-cartoonnetwork.zagonka-z.site
 hd-cinema.ru
@@ -39337,12 +39416,15 @@ hd-deti-online.rasskaz-sluzhanki.com
 hd-deti-online.zetflix-biz-z.site
 hd-deti-online.zfilm-film.com
 hd-detskie-multiki.kinokraad.com
+hd-detskie-multiki.lamafilm.top
 hd-detskie-multiki.turkru-1080.com
 hd-detskie-multiki.turkru-720.com
 hd-domkino-premium.2020-film.com
 hd-domkino-premium.baskinogo.com
 hd-domkino-premium.fors-mazhory.com
 hd-domkino-premium.turkru-hd.com
+hd-domkino.lamafilm.top
+hd-domkino.zfilm-hd-2018.online
 hd-doramalive.fors-mazhory.com
 hd-doramatv.turkru-1080.com
 hd-doramatv.zetflix-biz.com
@@ -39354,6 +39436,7 @@ hd-doramy.zfilm-720.com
 hd-dream.planetakino-hd.com
 hd-dream.turkru-720.com
 hd-e-film.kinokrad-hd.cyou
+hd-ebuxa.kinokrad-hd.top
 hd-ebuxa.unikino-hd.com
 hd-ebuxa.vo-vse-tjazhkie.com
 hd-ebuxa.vseseriipodriad-666.site
@@ -39373,6 +39456,7 @@ hd-festagent.gidonlinee.com
 hd-film.co
 hd-filmitorrents.zfilm-hd.shop
 hd-filmpro.baskinogo.com
+hd-filmpro.zfilm-hd-2679.club
 hd-films-2020.2020-film.org
 hd-films-2020.golos-rus-hd.com
 hd-films-2020.zetflix-biz-l.site
@@ -39381,6 +39465,7 @@ hd-filmshd.sekretnye-materialy.com
 hd-filmshouse.sekretnye-materialy.com
 hd-filmybesplatno.k1no-hd.com
 hd-fixik.kino-history.com
+hd-fixik.lamafilm.top
 hd-fixik.rasskaz-sluzhanki.com
 hd-fixik.serial-720hd.com
 hd-fixiki.gov-bxd-q.top
@@ -39401,6 +39486,7 @@ hd-free.hd-lostfilm.site
 hd-free.kinogo-by.com
 hd-free.zetflix-biz.com
 hd-free.zfilm-720.com
+hd-free.zfilm-hd-2679.online
 hd-free.zfilm-hd-zerkalo.fun
 hd-friends-online.2021-film.online
 hd-friends-online.turkru-online.com
@@ -39427,11 +39513,14 @@ hd-hd-1080-hd.dahserial-hd.com
 hd-hd-1080.kinofann-777.site
 hd-hd-1080.zetflix-biz.com
 hd-hd-720.2020-film.org
+hd-hd-720.ljucifer.com
 hd-hd-dream.zfilm-720.com
 hd-hd-free.dahserial-hd.com
+hd-hd-free.ljucifer.com
 hd-hd-lostfilm.kino-history.com
 hd-hd-lostfilm.turkru-720.com
 hd-hd-love.zfilm-720.com
+hd-hd-tv.kinokrad-hd.top
 hd-hd.2020-film.org
 hd-hd.ostrye-kozyrki.com
 hd-hd1.2021-film.online
@@ -39450,6 +39539,7 @@ hd-hdd-hd.kinogo.gay
 hd-hdd-hd.zfilm-1080.cyou
 hd-hdd-lostfilm.zfilm-hd.me
 hd-hdd-online-hd.2021-film.org
+hd-hdd-online-hd.lamafilm.top
 hd-hdd-online-hd.strashnye-skazki.com
 hd-hdd.kinogo-by.com
 hd-hdd.vo-vse-tjazhkie.com
@@ -39459,6 +39549,7 @@ hd-hdkinoteatr3.zfilm-720.com
 hd-hdmulti.2021-film.com
 hd-hdrezka.2021-film.online
 hd-hdrezka.kinokrad-hd.cyou
+hd-hdrezka.ljucifer.com
 hd-hdrezka.mertvoe-ozero.com
 hd-hdrezka.movielib-hd.com
 hd-hdrezka.ostrye-kozyrki.com
@@ -39468,11 +39559,13 @@ hd-hdrezka.turkru-1080.com
 hd-hdrezka.unikino-hd.com
 hd-hdrezka.zetflix-biz.com
 hd-hdrezka.zfilm-film.com
+hd-hdrezka.zfilm-hd-2679.cyou
 hd-hotmovies.newserial-666.site
 hd-icmos.kinogo-by.com
 hd-icmos.zfilm-ukraine.com
 hd-igroutka.2021-film.org
 hd-igroutka.besstyzhie.com
+hd-igroutka.ljucifer.com
 hd-igroutka.turkru-online.com
 hd-igroutka.unikino-hd.com
 hd-igroutka.vo-vse-tjazhkie.com
@@ -39481,6 +39574,7 @@ hd-interny.kinokrad-hd.cyou
 hd-itop-gear.zfilm-720.com
 hd-ivi.hd-lostfilm.gay
 hd-ivi.kinogo-by.com
+hd-ivi.lamafilm.top
 hd-ivi.turkru-online.com
 hd-ivi.zfilm-zfilm.com
 hd-ixxx.rasskaz-sluzhanki.com
@@ -39492,6 +39586,7 @@ hd-kanalukraina.zfilm-1080.cyou
 hd-kanalukraina.zfilm-zfilm.com
 hd-kanobu.2022-film.online
 hd-kanobu.kinogo.red
+hd-kanobu.lamafilm.top
 hd-karusel-tv.rasskaz-sluzhanki.com
 hd-karusel-tv.torrentfilms-z.site
 hd-kino-brigantina.domkino-hd.com
@@ -39503,6 +39598,7 @@ hd-kino-horror.zetflix-biz.com
 hd-kino-horror.zfilm-film.cyou
 hd-kino-horror.zfilm-kazakhstan.com
 hd-kino-nline.k1no-z.site
+hd-kino-nline.lamafilm.top
 hd-kino-o-voine.vseseriipodriad-666.site
 hd-kino-o-voine.zfilm-zfilm.club
 hd-kino-teatr.2020-film.me
@@ -39560,6 +39656,7 @@ hd-kinohod.turkru-online.com
 hd-kinohod.ubivaja-evu.com
 hd-kinohod.zfilm-hd.site
 hd-kinokadr.turkru-720.com
+hd-kinokub.lamafilm.top
 hd-kinoline-hd.zfilm-1080.com
 hd-kinoline-hd.zfilm-zfilm.com
 hd-kinoman.fun
@@ -39567,6 +39664,7 @@ hd-kinomania.kinogo-by.com
 hd-kinomania.newserial-666.site
 hd-kinomax.2021-film.online
 hd-kinomax.club
+hd-kinomax.lamafilm.top
 hd-kinomax.ostrye-kozyrki.com
 hd-kinometro.domkino-hd.com
 hd-kinometro.hodjachie-mertvecy.com
@@ -39575,6 +39673,7 @@ hd-kinometro.smotrim1080.biz
 hd-kinomonitor.mertvoe-ozero.com
 hd-kinomonitor.serial-720hd.com
 hd-kinopik.gov-bac-t.top
+hd-kinopik.lamafilm.top
 hd-kinopik.zfilm-film.cyou
 hd-kinopod.k1no-hd.com
 hd-kinopod.kinogo-by.com
@@ -39583,12 +39682,14 @@ hd-kinopoisk.dahserial-hd.com
 hd-kinopoisk.fljesh.com
 hd-kinopoisk.golos-rus-hd.com
 hd-kinopoisk.k1no-hd.com
+hd-kinopoisk.ljucifer.com
 hd-kinopoisk.zfilm-hd.shop
 hd-kinoreporter.milye-obmanshhicy.com
 hd-kinosmena.kinokraad.com
 hd-kinosotik.hd-serial.me
 hd-kinosotik.ostatsja-v-zhivyh.com
 hd-kinosotik.zfilm-film.com
+hd-kinosotik.zfilm-hd-2679.cyou
 hd-kinosotik.zfilm-zfilm.com
 hd-kinospartak.zetflix-biz.com
 hd-kinospartak.zfilm-zfilm.club
@@ -39617,6 +39718,8 @@ hd-kubnews.2020-film.me
 hd-kubnews.kinogo-by.com
 hd-kurer-sreda.turkru-online.com
 hd-lamafilm.hd-zfilm.cyou
+hd-lamafilm.lamafilm.top
+hd-lamafilm.ljucifer.com
 hd-lelang.gorizontcinema.com
 hd-levelupfreshco.ambarcinema.com
 hd-ligakino.sekretnye-materialy.com
@@ -39625,6 +39728,7 @@ hd-limehd.vseseriipodriad-l.site
 hd-limehd78.doktor-kto.com
 hd-lordfilm.lordfilm1.zone
 hd-lordfilm.zfilm-hd.me
+hd-lostfilm-1080.zfilm-hd-2679.cyou
 hd-lostfilm-7.top
 hd-lostfilm-720.kinokrad-hd.cyou
 hd-lostfilm-720.zagonka-1368.cyou
@@ -39640,6 +39744,7 @@ hd-love.gov-bac-t.top
 hd-love.gov-bxd-q.top
 hd-love.hd-lostfilm.site
 hd-love.kinogo-hd.icu
+hd-love.kinokrad-hd.top
 hd-love.movielib-hd.com
 hd-love.zagonka-2423.site
 hd-love.zagonka-409.site
@@ -39648,11 +39753,13 @@ hd-love.zfilm-hd-1020.online
 hd-love.zfilm-hd-1065.online
 hd-love.zfilm-hd-1199.online
 hd-love.zfilm-hd-163.online
+hd-love.zfilm-hd-2018.online
 hd-love.zfilm-hd-2081.online
 hd-love.zfilm-hd-2466.online
 hd-love.zfilm-hd-2474.online
 hd-love.zfilm-hd-2659.online
 hd-love.zfilm-hd-2673.online
+hd-love.zfilm-hd-2755.online
 hd-love.zfilm-hd-519.online
 hd-love.zfilm-hd-780.online
 hd-love.zfilm-hd-801.online
@@ -39662,6 +39769,7 @@ hd-love.zfilm-hd.site
 hd-love.zfilm-hd1.icu
 hd-love.zfilm-hd720.icu
 hd-lunakino.milye-obmanshhicy.com
+hd-lunakino.zfilm-hd-2679.cyou
 hd-luxorfilm.ambarcinema.com
 hd-madagascarkino.ostrye-kozyrki.com
 hd-marvel.kinokraad.com
@@ -39702,8 +39810,10 @@ hd-movielib.hd-zfilm.com
 hd-moviestart.turkru-720.com
 hd-moviestart.zetflix-biz.com
 hd-moviestart73.serial-720hd.com
+hd-movix.ljucifer.com
 hd-mult.2020-film.org
 hd-mult.hd-serial.me
+hd-multator71.lamafilm.top
 hd-multator71.serial-720hd.com
 hd-multazbuka.dahserial-hd.com
 hd-multazbuka.planetakino-hd.com
@@ -39737,11 +39847,13 @@ hd-newseries.zfilm-720.com
 hd-newtorrent.2021-film.com
 hd-newtorrent.hd-lostfilm.gay
 hd-newtorrent.milye-obmanshhicy.com
+hd-nonfiction.zfilm-hd-2018.online
 hd-nonfiction.zfilm-zfilm.com
 hd-nonfiction64.zfilm-720.com
 hd-novinka.hdrezka2.online
 hd-novosibdx.zfilm-720.com
 hd-novosibdx63.hodjachie-mertvecy.com
+hd-novye-multiki.lamafilm.top
 hd-novye-multiki.serial-720hd.com
 hd-novye-multiki.zfilm-kazakhstan.club
 hd-ntvplus.milye-obmanshhicy.com
@@ -39791,6 +39903,7 @@ hd-ostfilm58.turkru-online.com
 hd-oxkino.2021-film.com
 hd-oxkino.2021-film.online
 hd-oxkino.amurkino.com
+hd-oxkino.ljucifer.com
 hd-oxkino57.kinogo-by.com
 hd-oxkino57.movielib-hd.com
 hd-play.turkru-1080.com
@@ -39798,8 +39911,10 @@ hd-plus-plus.2020-film.com
 hd-plus-plus.2020-film.me
 hd-plus-plus.baskinogo.com
 hd-pornofilmi.doktor-kto.com
+hd-pornofilmi.lamafilm.top
 hd-pornofilmi.rasskaz-sluzhanki.com
 hd-pornohype.golos-rus-hd.com
+hd-pornohype.ljucifer.com
 hd-pornohype.zfilm-720.club
 hd-pornohype.zfilm-720.com
 hd-pornohype.zfilm-zfilm.club
@@ -39822,6 +39937,7 @@ hd-rebzi.turkru-hd.com
 hd-rebzi.zfilm-zfilm.com
 hd-rebzi51.kino-history.com
 hd-rebzi51.kinogo.red
+hd-rebzi51.lamafilm.top
 hd-rebzi51.ubivaja-evu.com
 hd-regnum.ostatsja-v-zhivyh.com
 hd-renderforest.2020-film.me
@@ -39868,6 +39984,7 @@ hd-russkaja-skazka.besstyzhie.com
 hd-russkaja-skazka.kinogo.red
 hd-russkaja-skazka.kinokraad.com
 hd-russkaja-skazka.ubivaja-evu.com
+hd-russkaja-skazka44.lamafilm.top
 hd-russkih-serialov.kinogo.red
 hd-russkih-serialov43.kino-history.com
 hd-russkih-serialov43.kinokraad.com
@@ -39905,6 +40022,7 @@ hd-skachat-torrents.hd-zfilm.cyou
 hd-skachat-torrents.serial-720hd.com
 hd-smena-kino.kinogo-by.com
 hd-smena-kino.kinogo.gay
+hd-smena-kino.ljucifer.com
 hd-smena-kino.rserial-hd.com
 hd-smesharik.hd-zfilm.cyou
 hd-smesharik.mertvoe-ozero.com
@@ -39957,6 +40075,7 @@ hd-tayga27.turkru-online.com
 hd-teleportal.kinogo-by.com
 hd-teleportal.zfilm-zfilm.com
 hd-tlgrm.2020-film.me
+hd-tlgrm.lamafilm.top
 hd-tlgrm25.kinokraad.com
 hd-tlum.2020-film.me
 hd-tlum.kinogo.red
@@ -39971,6 +40090,7 @@ hd-torrent-update.zfilm-hd-1287.cyou
 hd-torrent-update.zfilm-hd.shop
 hd-torrent-update.zfilm-zfilm.com
 hd-torrent-z.2021-film.me
+hd-torrent-z.ljucifer.com
 hd-torrent-z.narki-narko.com
 hd-torrent-z.torrentfilms-z.site
 hd-torrent-z.zagonka-1368.cyou
@@ -39990,7 +40110,9 @@ hd-tricolortvmag.besstyzhie.com
 hd-tricolortvmag.unikino-hd.com
 hd-turkish-tv-series.dnevniki-vampira-lost.org
 hd-turkish-tv-series.kinogo.gay
+hd-turkish-tv-series.kinokrad-hd.top
 hd-tv.2020-film.me
+hd-tv.ljucifer.com
 hd-tv.lostfilm-hd-2422.site
 hd-tv.turkru-online.com
 hd-tv.zfilm1-hd.xyz
@@ -40019,6 +40141,7 @@ hd-uhty-multy.zagonka-1368.cyou
 hd-uhty-multy16.doramatv-hd.com
 hd-uhty-multy16.ubivaja-evu.com
 hd-uhty-multy16.unikino-hd.com
+hd-unikino.lamafilm.top
 hd-unikino.ostatsja-v-zhivyh.com
 hd-uteta.2020-film.me
 hd-uv-kurier.k1no-hd.com
@@ -40026,6 +40149,7 @@ hd-vashdosug.2020-film.me
 hd-vashdosug13.kinogo-by.com
 hd-vedomosti.k1no-hd.com
 hd-vedomosti.turkru-online.com
+hd-vedomosti12.lamafilm.top
 hd-videobox1.ru
 hd-videobox2.ru
 hd-vipplay.2021-film.me
@@ -40055,6 +40179,7 @@ hd-z-film.zfilm-hd-zerkalo.fun
 hd-z-film6.turkru-720.com
 hd-z-film6.turkru-hd.com
 hd-zee-tv.gidonlinee.com
+hd-zee-tv.kinokrad-hd.top
 hd-zetflix.2021-film.com
 hd-zetflix.serial-720hd.com
 hd-zetflix.turkru-online.com
@@ -40070,9 +40195,11 @@ hd-zfilm-hd3.2021-film.org
 hd-zfilm-hd3.zetflix-biz.com
 hd-zloekino.ambarcinema.com
 hd-zloekino.besstyzhie.com
+hd-zloekino.lamafilm.top
 hd-zloekino.ubivaja-evu.com
 hd-zloekino.zfilm-720.com
 hd-zona.turkru-online.com
+hd-zorox.lamafilm.top
 hd-zorox.sekretnye-materialy.com
 hd.1kinosayt.club
 hd.1zfilm-hd.site
@@ -40653,6 +40780,7 @@ hdd-tv.lamafilm-720.buzz
 hdd-tv.lamafilm-720.top
 hdd-tv.lamafilm-hd.buzz
 hdd-tv.lamafilm-hd.top
+hdd-tv.lamafilm.top
 hdd-tv.lordfilms-1080.top
 hdd-tv.lordfilms-720.top
 hdd-tv.lordfilms1.top
@@ -42450,6 +42578,7 @@ interny.zfilm-hd-1821.online
 interny.zfilm-hd-1954.online
 interny.zfilm-hd-2004.online
 interny.zfilm-hd-2010.online
+interny.zfilm-hd-2018.online
 interny.zfilm-hd-2054.online
 interny.zfilm-hd-2099.online
 interny.zfilm-hd-2164.online
@@ -42474,6 +42603,7 @@ interny.zfilm-hd-2659.online
 interny.zfilm-hd-2688.online
 interny.zfilm-hd-2727.online
 interny.zfilm-hd-2734.online
+interny.zfilm-hd-2755.online
 interny.zfilm-hd-2766.online
 interny.zfilm-hd-2788.online
 interny.zfilm-hd-2846.online
@@ -42588,6 +42718,7 @@ irkutsk.dam-diplomy.com
 irkutsk.diplomj-4you.com
 irkutsk.diplomz-magazine.com
 irkutsk.diplomz-rf.com
+irkutsk.documentlend.com
 irkutsk.dokks-24.com
 irkutsk.kupey-prava.com
 irkutsk.online-snus.site
@@ -42660,6 +42791,7 @@ itop-gear.hd-lostfilm.site
 itop-gear.kinogo-hd.icu
 itop-gear.lostfilm-hd-3534.online
 itop-gear.serial-720hd.com
+itop-gear.zfilm-hd-2018.online
 itorrent.site
 itselfofly.top
 itsmara.win
@@ -42713,6 +42845,7 @@ ivi.hdrezka-1018.site
 ivi.hdrezka-870.site
 ivi.kinogo.red
 ivi.kinokraad.com
+ivi.kinokrad-hd.top
 ivi.lordfilms-hd.monster
 ivi.zfilm-hd-1020.online
 ivi.zfilm-hd-1034.online
@@ -42742,6 +42875,7 @@ ivi.zfilm-hd-1852.online
 ivi.zfilm-hd-1863.online
 ivi.zfilm-hd-1954.online
 ivi.zfilm-hd-2013.online
+ivi.zfilm-hd-2018.online
 ivi.zfilm-hd-2033.online
 ivi.zfilm-hd-2054.online
 ivi.zfilm-hd-2081.online
@@ -43773,6 +43907,7 @@ kakoyfilmposmotret.zfilm-hd-2659.online
 kakoyfilmposmotret.zfilm-hd-2661.online
 kakoyfilmposmotret.zfilm-hd-2673.online
 kakoyfilmposmotret.zfilm-hd-2734.online
+kakoyfilmposmotret.zfilm-hd-2755.online
 kakoyfilmposmotret.zfilm-hd-2766.online
 kakoyfilmposmotret.zfilm-hd-2788.online
 kakoyfilmposmotret.zfilm-hd-2813.online
@@ -43891,6 +44026,7 @@ kamyshin.dam-diplomy.com
 kamyshin.okvuz.pro
 kanalukraina.hd-lostfilm.site
 kanalukraina.kinogo-hd.icu
+kanalukraina.zfilm-hd-2018.online
 kanalukraina.zfilm-hd-2248.online
 kanalukraina.zfilm-hd-2659.online
 kanalukraina.zfilm-hd-519.online
@@ -43907,11 +44043,11 @@ kannabis.kz
 kanobu.ambarcinema.com
 kanobu.hdrezka-1935.site
 kanobu.zagonka-952.site
+kanobu.zfilm-hd-2679.online
 kanon-peremen.ru
 kapec.tv
 kapitan-besdep.com
 kapitan-bezdep.com
-kapitan-flintr.com
 kapitanbesdep.com
 kappaorionus.com
 kapriz.tv
@@ -44948,6 +45084,9 @@ kino-history.zfilm-hd-1806.online
 kino-history.zfilm-hd-1870.online
 kino-history.zfilm-hd-1954.online
 kino-history.zfilm-hd-1965.online
+kino-history.zfilm-hd-2018.online
+kino-history.zfilm-hd-2679.online
+kino-history.zfilm-hd-2755.online
 kino-history.zfilm-hd-3053.online
 kino-history.zfilm-hd-628.online
 kino-history.zfilm-hd-999.online
@@ -44961,6 +45100,7 @@ kino-horror.hdfilmi.monster
 kino-horror.hdrezka-1365.site
 kino-horror.intorrents-1080.top
 kino-horror.kinogo-hd.icu
+kino-horror.kinokrad-hd.top
 kino-horror.lordsfilms.monster
 kino-horror.turkru-online.com
 kino-horror.zagonka-2423.site
@@ -44973,6 +45113,7 @@ kino-horror.zfilm-hd-1581.online
 kino-horror.zfilm-hd-2013.online
 kino-horror.zfilm-hd-2307.online
 kino-horror.zfilm-hd-2659.online
+kino-horror.zfilm-hd-2755.online
 kino-horror.zfilm-hd-3053.online
 kino-horror.zfilm-hd-801.online
 kino-horror.zfilm-hd.site
@@ -44995,6 +45136,7 @@ kino-kadr.zfilm-hd-1309.online
 kino-kadr.zfilm-hd-1482.online
 kino-kadr.zfilm-hd-1486.online
 kino-kadr.zfilm-hd-1581.online
+kino-kadr.zfilm-hd-2429.online
 kino-kadr.zfilm-hd-2659.online
 kino-kadr.zfilm-hd-2863.online
 kino-kadr.zfilm-hd-2894.online
@@ -45060,6 +45202,7 @@ kino-o-voine.zfilm-hd-1669.online
 kino-o-voine.zfilm-hd-1910.online
 kino-o-voine.zfilm-hd-1983.online
 kino-o-voine.zfilm-hd-2004.online
+kino-o-voine.zfilm-hd-2018.online
 kino-o-voine.zfilm-hd-2117.online
 kino-o-voine.zfilm-hd-2164.online
 kino-o-voine.zfilm-hd-2192.online
@@ -45077,6 +45220,7 @@ kino-o-voine.zfilm-hd-2632.online
 kino-o-voine.zfilm-hd-2659.online
 kino-o-voine.zfilm-hd-2661.online
 kino-o-voine.zfilm-hd-2734.online
+kino-o-voine.zfilm-hd-2755.online
 kino-o-voine.zfilm-hd-2766.online
 kino-o-voine.zfilm-hd-2779.online
 kino-o-voine.zfilm-hd-2788.online
@@ -45143,8 +45287,10 @@ kino-slovo.zfilm-hd-1660.online
 kino-slovo.zfilm-hd-1870.online
 kino-slovo.zfilm-hd-1983.online
 kino-slovo.zfilm-hd-2013.online
+kino-slovo.zfilm-hd-2018.online
 kino-slovo.zfilm-hd-2253.online
 kino-slovo.zfilm-hd-2504.online
+kino-slovo.zfilm-hd-2679.online
 kino-slovo.zfilm-hd-338.online
 kino-slovo.zfilm-hd-576.online
 kino-slovo.zfilm-hd-726.online
@@ -45170,6 +45316,7 @@ kino-torrent.org
 kino-torrent.rserial-hd.com
 kino-torrent.zfilm-1080.com
 kino-torrent.zfilm-hd-263.online
+kino-torrent.zfilm-hd-2755.online
 kino-tovary.ru
 kino-tracker.doramatv-hd.com
 kino-tracker.org
@@ -45180,6 +45327,7 @@ kino-ussr.720-hd.icu
 kino-ussr.hd-lostfilm.site
 kino-ussr.hd-serial.me
 kino-ussr.hd-zfilm.com
+kino-ussr.lamafilm.top
 kino-ussr.lostfilm-hd-2470.site
 kino-ussr.lostfilm-tv-club.site
 kino-ussr.lostfilm-tv.icu
@@ -45454,6 +45602,7 @@ kinodron.zfilm-hd-1136.online
 kinodron.zfilm-hd-1287.online
 kinodron.zfilm-hd-1324.online
 kinodron.zfilm-hd-1842.online
+kinodron.zfilm-hd-2018.online
 kinodron.zfilme-hd1.site
 kinodub.tv
 kinodudka.xyz
@@ -45497,6 +45646,7 @@ kinofilms.hdrezka2.online
 kinofilms.lostfilm-hd-2352.online
 kinofilms.org
 kinofilms.zfilm-hd-1287.online
+kinofilms.zfilm-hd-2018.online
 kinofilms.zfilm-hd-zerkalo.fun
 kinofilmshou.ru
 kinofilmtv.xyz
@@ -45775,6 +45925,7 @@ kinogo.it
 kinogo.kinogo-by.com
 kinogo.kinogo-hd.icu
 kinogo.kinokraad.com
+kinogo.kinokrad-hd.top
 kinogo.kinomatix-hd.monster
 kinogo.lordfilm-1706.site
 kinogo.lordfilm-3012.site
@@ -45844,6 +45995,7 @@ kinogo.zfilm-hd-2439.online
 kinogo.zfilm-hd-2466.online
 kinogo.zfilm-hd-2550.online
 kinogo.zfilm-hd-2659.online
+kinogo.zfilm-hd-2755.online
 kinogo.zfilm-hd-3030.online
 kinogo.zfilm-hd-3038.online
 kinogo.zfilm-hd-3053.online
@@ -46056,8 +46208,10 @@ kinohits.biz
 kinohlev.fun
 kinohm.net
 kinohod.2022-film.online
+kinohod.lamafilm.top
 kinohod.zfilm-hd-zerkalo-666.site
 kinohod.zfilm-hd.me
+kinohod.zfilm-hd1.cyou
 kinohome.pro
 kinohoo.net
 kinohoo.ru
@@ -46091,6 +46245,7 @@ kinokach.one
 kinokadet.club
 kinokadr.doramatv-hd.com
 kinokadr.zetflix-biz.com
+kinokadr.zfilm-hd-2429.online
 kinokadr.zfilm-hd-3059.online
 kinokamenka.ru
 kinokarl.ru
@@ -46219,6 +46374,7 @@ kinokub.zfilm-hd-1516.online
 kinokub.zfilm-hd-1848.online
 kinokub.zfilm-hd-1884.online
 kinokub.zfilm-hd-1954.online
+kinokub.zfilm-hd-2018.online
 kinokub.zfilm-hd-2081.online
 kinokub.zfilm-hd-2138.online
 kinokub.zfilm-hd-2550.online
@@ -46338,6 +46494,7 @@ kinomania.newserial-666.site
 kinomania.sekretnye-materialy.com
 kinomania.zagonka-1368.cyou
 kinomania.zetflix-biz.com
+kinomania.zfilm-hd-2018.online
 kinomania.zfilm-hd-zerkalo.fun
 kinomanias.net
 kinomash.club
@@ -46349,6 +46506,7 @@ kinomax.bar
 kinomax.club
 kinomax.doramatv-hd.com
 kinomax.gidonline-2869.site
+kinomax.lamafilm.top
 kinomax.movielib-hd.com
 kinomax.org.ru
 kinomax.zfilm-hd-1287.online
@@ -46383,6 +46541,8 @@ kinomodus.xyz
 kinomon.net
 kinomong.cc
 kinomonitor.2020-film.org
+kinomonitor.lamafilm.top
+kinomonitor.zfilm-hd-2018.online
 kinomonster.me
 kinomonster.net
 kinomoov.net
@@ -46454,6 +46614,7 @@ kinopik.kinogo-by.com
 kinopik.turkru-720.com
 kinopik.zetflix-biz.com
 kinopik.zfilm-720.com
+kinopik.zfilm-hd-2679.online
 kinopip.ru
 kinoplan.net
 kinoplay-hd.com
@@ -46573,6 +46734,7 @@ kinosaransk.planetakino-hd.com
 kinosaransk.vseseriipodriad-l.site
 kinosaransk.zfilm-1080.cyou
 kinosaransk.zfilm-hd-1232.online
+kinosaransk.zfilm-hd-2018.online
 kinosaransk.zfilm-hd-2620.online
 kinosaransk.zfilm-hd-2788.online
 kinosaransk.zfilm-hd-2813.online
@@ -46687,6 +46849,7 @@ kinotan.2021-film.com
 kinotan.2021-film.org
 kinotan.2022-film.online
 kinotan.golos-rus-hd.com
+kinotan.ljucifer.com
 kinotan.turkru-1080.com
 kinotan.turkru-720.com
 kinotan.vo-vse-tjazhkie.com
@@ -46910,6 +47073,7 @@ kinoxxa.ru
 kinoxyz.xyz
 kinoyurco.hd-lostfilm.site
 kinoyurco.hdrezka-870.site
+kinoyurco.lamafilm.top
 kinoyurco.rserial-hd.com
 kinoyurco.zfilm-hd-2659.online
 kinoyurco.zfilm-hd720.icu
@@ -46923,10 +47087,12 @@ kinozal.hd-lostfilm.site
 kinozal.hd-serial.me
 kinozal.hdrezka-1918.site
 kinozal.kinogo-hd.icu
+kinozal.lamafilm.top
 kinozal.one
 kinozal.zfilm-hd-1020.online
 kinozal.zfilm-hd-1954.online
 kinozal.zfilm-hd-1958.online
+kinozal.zfilm-hd-2018.online
 kinozal.zfilm-hd-2659.online
 kinozal.zfilm-hd-2973.online
 kinozal.zfilm-hd-499.online
@@ -49022,6 +49188,8 @@ ligakino.hd-lostfilm.site
 ligakino.hd-serial.me
 ligakino.zfilm-hd-1065.online
 ligakino.zfilm-hd-1577.online
+ligakino.zfilm-hd-2679.online
+ligakino.zfilm-hd-2755.online
 ligakino.zfilm-hd-320.online
 ligakino.zfilm-hd-628.online
 ligakino.zfilm-hd-772.online
@@ -50218,6 +50386,7 @@ lost-film-hd.world
 lost-films.online
 lostcdn.ru
 lostfilm-720.doramatv-hd.com
+lostfilm-720.ljucifer.com
 lostfilm-720.online
 lostfilm-720.pickfilm.top
 lostfilm-720.zfilm-hd-1287.online
@@ -50511,6 +50680,7 @@ love.zfilm-hd-1848.online
 love.zfilm-hd-1954.online
 love.zfilm-hd-1958.online
 love.zfilm-hd-2013.online
+love.zfilm-hd-2018.online
 love.zfilm-hd-2033.online
 love.zfilm-hd-2081.online
 love.zfilm-hd-2117.online
@@ -50534,6 +50704,7 @@ love.zfilm-hd-2662.online
 love.zfilm-hd-2677.online
 love.zfilm-hd-2688.online
 love.zfilm-hd-2733.online
+love.zfilm-hd-2755.online
 love.zfilm-hd-2766.online
 love.zfilm-hd-2945.online
 love.zfilm-hd-302.online
@@ -52883,6 +53054,7 @@ marvel.zfilm-hd-1577.online
 marvel.zfilm-hd-1821.online
 marvel.zfilm-hd-1954.online
 marvel.zfilm-hd-2013.online
+marvel.zfilm-hd-2018.online
 marvel.zfilm-hd-2163.online
 marvel.zfilm-hd-2285.online
 marvel.zfilm-hd-2307.online
@@ -53761,6 +53933,7 @@ me.kinokong.ws
 me.kinotank.net
 me.lamafilm-720.monster
 me.lamafilm-hd.buzz
+me.lamafilm.top
 me.lordfilm.dev
 me.lordfilms-1080.top
 me.lordfilms-hd.top
@@ -54001,6 +54174,7 @@ mega-mult.zfilm-720.com
 mega-mult.zfilm-hd-1287.online
 mega-mult.zfilm-hd-132.online
 mega-mult.zfilm-hd-1669.online
+mega-mult.zfilm-hd-2018.online
 mega-mult.zfilm-hd-2659.online
 mega-mult.zfilm-hd-719.online
 mega-mult.zfilm-hd.icu
@@ -54056,6 +54230,7 @@ megamult.lostfilm-hd-350.site
 megamult.movielib-hd.com
 megamult.zfilm-hd-1287.online
 megamult.zfilm-hd-2661.online
+megamult.zfilm-hd-2755.online
 megamult.zfilm-hd-3030.online
 megamult.zfilm-hd.site
 megamult.zfilm-hd1.icu
@@ -54089,6 +54264,7 @@ megogo.hd-serial.me
 megogo.hdrezka-1008.site
 megogo.hdrezka-468.site
 megogo.k1no-hd.com
+megogo.kinokrad-hd.top
 megogo.lordfilm-1368.site
 megogo.lordfilm-964.site
 megogo.zagonka-144.site
@@ -54333,6 +54509,7 @@ melbet-rss.site
 melbet-rsu.site
 melbet-ru.com
 melbet-ru.site
+melbet-russ.site
 melbet-russia.org
 melbet-sait.com
 melbet-site-link365.ru
@@ -55318,7 +55495,10 @@ melodrama1.serial-720hd.com
 melodrama1.strashnye-skazki.com
 melodrama1.zfilm-hd-1287.online
 melodrama1.zfilm-hd-2010.online
+melodrama1.zfilm-hd-2018.online
 melodrama1.zfilm-hd-2212.online
+melodrama1.zfilm-hd-2429.online
+melodrama1.zfilm-hd-2679.online
 melodrama1.zfilm-hd-2788.online
 melodrama1.zfilm-hd-2998.online
 melodrama1.zfilme-hd1.site
@@ -55326,6 +55506,8 @@ melodramo.golos-rus-hd.com
 melodramo.hdrezka-2687.site
 melodramo.zfilm-hd-1149.online
 melodramo.zfilm-hd-1287.online
+melodramo.zfilm-hd-2018.online
+melodramo.zfilm-hd-2679.online
 melodramo.zfilm-hd-835.online
 melodramy-smotri-online.ru
 meloman-audiofil.ru
@@ -55401,6 +55583,7 @@ metod-serial.lordfilm-3012.site
 metod-serial.lostfilm-hd-1359.site
 metod-serial.zfilm-hd-1806.online
 metod-serial.zfilm-hd-1954.online
+metod-serial.zfilm-hd-2018.online
 metod-serial.zfilm-hd-2092.online
 metod-serial.zfilm-hd-2466.online
 metod-serial.zfilm-hd-2659.online
@@ -56647,6 +56830,7 @@ mobiazino.xyz
 mobiazzino.site
 mobiex.top
 mobifilms.gidonline-2251.site
+mobifilms.zfilm-hd-2429.online
 mobifilms.zfilm-hd-zerkalo.fun
 mobigdz.ru
 mobihp.top
@@ -58082,6 +58266,7 @@ mos-kino.rserial-hd.com
 mos-kino.serial-720hd.com
 mos-kino.vseseriipodriad.site
 mos-kino.zfilm-hd-2659.online
+mos-kino.zfilm-hd-2679.online
 mos-kino.zfilm-zfilm.com
 mos-med48.ru
 mos-spravka7.com
@@ -61817,6 +62002,7 @@ movies-top.ru
 movies.lordfilm.kim
 moviestar.pro
 moviestart.2020-film.com
+moviestart.zfilm-hd-2018.online
 moviesuper.ru
 movix.2021-film.com
 movix.hdrezka-116.site
@@ -62790,6 +62976,7 @@ multigaminatorsclub.com
 multigmclub.com
 multigmslots.net
 multiki-online24.2021-film.online
+multiki-online24.ljucifer.com
 multiki-online24.zetflix-biz.com
 multiki-online24.zfilm-russia.club
 multiki.2020-film.com
@@ -62806,6 +62993,7 @@ multiki.zfilm-hd-1013.online
 multiki.zfilm-hd-1287.online
 multiki.zfilm-hd-1577.online
 multiki.zfilm-hd-1954.online
+multiki.zfilm-hd-2018.online
 multiki.zfilm-hd-2253.online
 multiki.zfilm-hd-2331.online
 multiki.zfilm-hd-2356.online
@@ -62847,6 +63035,7 @@ multy-pulty.zfilm-hd-2439.online
 multy-pulty.zfilm-hd-253.online
 multy-pulty.zfilm-hd-2562.online
 multy-pulty.zfilm-hd-2659.online
+multy-pulty.zfilm-hd-2679.online
 multy-pulty.zfilm-hd-2788.online
 multy-pulty.zfilm-hd-2813.online
 multy-pulty.zfilm-hd-2846.online
@@ -64713,11 +64902,13 @@ newseries.hdrezka-2687.site
 newseries.hdrezka-417.site
 newseries.hdrezka-468.site
 newseries.kinogo-hd.icu
+newseries.kinokrad-hd.top
 newseries.lostfilm-hd-1364.online
 newseries.zagonka-1144.site
 newseries.zfilm-hd-1020.online
 newseries.zfilm-hd-127.online
 newseries.zfilm-hd-2013.online
+newseries.zfilm-hd-2018.online
 newseries.zfilm-hd-2117.online
 newseries.zfilm-hd-2235.online
 newseries.zfilm-hd-2317.online
@@ -64727,6 +64918,7 @@ newseries.zfilm-hd-2638.online
 newseries.zfilm-hd-2659.online
 newseries.zfilm-hd-2662.online
 newseries.zfilm-hd-2734.online
+newseries.zfilm-hd-2755.online
 newseries.zfilm-hd-2911.online
 newseries.zfilm-hd-404.online
 newseries.zfilm-hd-746.online
@@ -65238,6 +65430,7 @@ novye-multiki.zfilm-hd-2627.online
 novye-multiki.zfilm-hd-2659.online
 novye-multiki.zfilm-hd-2668.online
 novye-multiki.zfilm-hd-2688.online
+novye-multiki.zfilm-hd-2755.online
 novye-multiki.zfilm-hd-2779.online
 novye-multiki.zfilm-hd-2867.online
 novye-multiki.zfilm-hd-2894.online
@@ -65864,6 +66057,7 @@ okino.cc
 okino.online
 okj03kulp.com
 okko.2021-film.com
+okko.lamafilm.top
 okkomovies.2021-film.com
 okkomovies.720-hd.icu
 okkomovies.golos-rus-hd.com
@@ -66666,6 +66860,7 @@ online-hd.k1no-z.site
 online-hd.kino-history.com
 online-hd.kinogo-hd.icu
 online-hd.lamafilm-hd.space
+online-hd.lamafilm.top
 online-hd.lostfilm-hd-3529.online
 online-hd.vo-vse-tjazhkie.com
 online-hd.zagonka-2262.site
@@ -66690,6 +66885,7 @@ online-kotlas.ru
 online-kz.net
 online-lostfilm.pro
 online-lostfilm.zfilm-hd-1287.online
+online-lostfilm.zfilm-hd-2018.online
 online-lostfilm.zfilm-hd666.monster
 online-lostfilm.zfilm-zfilm.com
 online-loterei.ru
@@ -66719,7 +66915,10 @@ online-south-park.zfilm-hd-1264.online
 online-south-park.zfilm-hd-1287.online
 online-south-park.zfilm-hd-1806.online
 online-south-park.zfilm-hd-1946.online
+online-south-park.zfilm-hd-2018.online
 online-south-park.zfilm-hd-2659.online
+online-south-park.zfilm-hd-2679.online
+online-south-park.zfilm-hd-2755.online
 online-south-park.zfilm-hd-2788.online
 online-south-park.zfilm-hd-404.online
 online-south-park.zfilm-hd720.icu
@@ -66809,6 +67008,7 @@ online.tv-online.icu
 online.vulcanpobeda-kasino.com
 online.vulkanoriginal777.com
 online.zfilm-720.com
+online.zfilm-hd-2755.online
 online.zfilm-hd-zerkalo.fun
 online.zfilm-hd.site
 online.zfilm-ukraine.com
@@ -66974,7 +67174,7 @@ onlinemultfilmy.hd-lostfilm.site
 onlinemultfilmy.hd-serial.me
 onlinemultfilmy.hdrezka-1406.site
 onlinemultfilmy.kinogo-hd.icu
-onlinemultfilmy.lostfilm-hd-2251.site
+onlinemultfilmy.kinokrad-hd.top
 onlinemultfilmy.turkru-720.com
 onlinemultfilmy.zagonka-2423.site
 onlinemultfilmy.zfilm-hd-1287.online
@@ -67107,6 +67307,7 @@ openleonbets2.ru
 openleonbets3.ru
 openlibrary.zetflix-biz.com
 openmusicstudio.ru
+openru.live
 openru.xyz
 openrussia.online
 openshara.ru
@@ -68637,7 +68838,10 @@ parketklassik.ru
 parlay.wap1.betsbc.pw
 parlay.www1.betsbc.pw
 parnuha.gidonlinee.com
+parnuha.lamafilm.top
 parnuha.rasskaz-sluzhanki.com
+parnuha.zfilm-hd-2679.online
+parnuha.zfilm-hd-2755.online
 parodiyakazino.info
 parol-casino.men
 partbejst.store
@@ -71528,6 +71732,8 @@ pornofilmi.riverdjejl.com
 pornofilmi.rserial-hd.com
 pornofilmi.turkru-720.com
 pornofilmi.zfilm-film.club
+pornofilmi.zfilm-hd-2018.online
+pornofilmi.zfilm-hd-2679.online
 pornofilmi.zfilm-hd-2973.online
 pornofx.ru
 pornogam.porn
@@ -71672,6 +71878,7 @@ pravav.top
 pravavrf.org
 pravax-russ.com
 pravfilms.2021-film.online
+pravfilms.kinokrad-hd.top
 pravfilms.zfilm-hd1.club
 pravila-kak-igrat-v-kazino.bonus-na-tailand.info
 pravo.openrussia.org
@@ -73040,12 +73247,14 @@ qwerty.zfilm-hd-172.online
 qwerty.zfilm-hd-1786.online
 qwerty.zfilm-hd-1806.online
 qwerty.zfilm-hd-1878.online
+qwerty.zfilm-hd-2018.online
 qwerty.zfilm-hd-2054.online
 qwerty.zfilm-hd-2402.online
 qwerty.zfilm-hd-2466.online
 qwerty.zfilm-hd-253.online
 qwerty.zfilm-hd-265.online
 qwerty.zfilm-hd-2659.online
+qwerty.zfilm-hd-2755.online
 qwerty.zfilm-hd-2788.online
 qwerty.zfilm-hd-2846.online
 qwerty.zfilm-hd-801.online
@@ -73446,6 +73655,7 @@ redanyting.tech
 redbox-casino-online.ru
 redbox-casino.ru
 redbox-casino1.org
+redbox-casinoo.ru
 redbox-casinov.ru
 redbox-cazino.ru
 redbox-kazino.ru
@@ -75390,10 +75600,12 @@ rezka.hd-lostfilm.gay
 rezka.hd-lostfilm.site
 rezka.hd-serial.me
 rezka.kinogo-hd.icu
+rezka.kinokrad-hd.top
 rezka.zetflix-biz.com
 rezka.zfilm-hd-1020.online
 rezka.zfilm-hd-1240.online
 rezka.zfilm-hd-1381.online
+rezka.zfilm-hd-2018.online
 rezka.zfilm-hd-2659.online
 rezka.zfilm-hd-948.online
 rezka.zfilm-hd-zerkalo.fun
@@ -80034,7 +80246,6 @@ ru.z2.fm
 ru.z6ir8leo44rtt.com
 ru.z99oop12kdb73r.com
 ru.za1e32h5d3.com
-ru.zagonka-2423.site
 ru.zakaz-diplom.info
 ru.zaycev-net.website
 ru.zbr032rmdd6ly.com
@@ -80173,6 +80384,7 @@ rufilmtv.gidonline-1753.site
 rufilmtv.ml
 rufilmtv.tk
 rufilmtv.xyz
+rufilmtv.zfilm-hd-2018.online
 rufilmy.net
 ruhelpdok.ru
 ruhelpdok24.ru
@@ -80248,6 +80460,7 @@ rus-2ndflkazan.ru
 rus-2ndflperm.ru
 rus-a-porte.ru
 rus-anaboliki.com
+rus-anaboliki.in
 rus-apteka2.ru
 rus-betcity.top
 rus-betzerkalo78.space
@@ -80345,6 +80558,7 @@ ruskazino.info
 ruskino.org
 ruskino.turkru-720.com
 ruskino.zetflix-biz.com
+ruskino.zfilm-hd-2429.online
 ruskino33.2020-film.me
 ruskino33.domkino-hd.com
 ruskinogo.2020-film.com
@@ -80375,6 +80589,7 @@ russerialu.net
 russexlab.ru
 russia-720.hdrezka-870.site
 russia-720.lamafilm-720.monster
+russia-720.lamafilm.top
 russia-720.lordfilms-1080.top
 russia-720.lordfilms-720.monster
 russia-720.lordfilms1.top
@@ -80453,11 +80668,13 @@ russkoekino.gov-bxd-q.top
 russkoekino.hd-lostfilm.gay
 russkoekino.hd-lostfilm.site
 russkoekino.hd-serial.me
+russkoekino.lamafilm.top
 russkoekino.zfilm-hd-1013.online
 russkoekino.zfilm-hd-1065.online
 russkoekino.zfilm-hd-1149.online
 russkoekino.zfilm-hd-1287.online
 russkoekino.zfilm-hd-1311.online
+russkoekino.zfilm-hd-2018.online
 russkoekino.zfilm-hd-265.online
 russkoekino.zfilme-hd1.site
 russkvulkan.ru
@@ -81355,6 +81572,7 @@ scrubsserial.zfilm-hd-1109.online
 scrubsserial.zfilm-hd-1954.online
 scrubsserial.zfilm-hd-2659.online
 scrubsserial.zfilm-hd-2661.online
+scrubsserial.zfilm-hd-2755.online
 scrubsserial.zfilm-hd-2813.online
 scrubsserial.zfilm-hd1.icu
 scrubsserial.zfilm-hd666.top
@@ -81559,6 +81777,7 @@ serialbox.kinogo-hd.icu
 serialbox.pickfilm.monster
 serialbox.turkru-720.com
 serialbox.zfilm-hd-2659.online
+serialbox.zfilm-hd-2755.online
 serialbox.zfilm-hd-2867.online
 serialcat.club
 serialflix.online
@@ -81579,6 +81798,7 @@ serialivot.top
 serializm.k1no-hd.com
 serializm.kinogo-by.com
 serializm.kinokraad.com
+serializm.kinokrad-hd.top
 serializm.turkru-online.com
 serialkazino.info
 serialkino.online
@@ -81657,6 +81877,8 @@ serialpoisk.zfilm-hd-1577.online
 serialpoisk.zfilm-hd-1615.online
 serialpoisk.zfilm-hd-1669.online
 serialpoisk.zfilm-hd-1997.online
+serialpoisk.zfilm-hd-2018.online
+serialpoisk.zfilm-hd-2429.online
 serialpoisk.zfilm-hd-2673.online
 serialpoisk.zfilm-hd-999.online
 serialpoisk.zfilm-hd.site
@@ -81917,6 +82139,7 @@ shans-casinov.ru
 shans-cazino.com
 shans-ltd.ru
 shanscasino.ru
+shanscasinoff.ru
 shanscasinov.ru
 shansjackpot.com
 shansjackpot1.com
@@ -82019,6 +82242,7 @@ shouldpen.fun
 shov.uz
 showbillion.site
 showbook.pub
+showjet.kinokrad-hd.cyou
 showsmustdo.xyz
 shpilka.tv
 shpioni.ru
@@ -82771,6 +82995,7 @@ smartlaboratory.ru
 smena-kino.rserial-hd.com
 smena-kino.turkru-online.com
 smena-kino.zfilm-1080.cyou
+smena-kino.zfilm-hd-2679.online
 smena-kino.zfilm-hd-646.online
 smesharik.ambarcinema.com
 smesharik.cinema5-hd.com
@@ -82779,6 +83004,7 @@ smesharik.k1no-hd.com
 smesharik.zetflix-biz.com
 smesharik.zfilm-hd-1169.online
 smesharik.zfilm-hd-2466.online
+smesharik.zfilm-hd-2755.online
 smf-diplomas.com
 smile-film.online
 smile24rc.biz.rell.city
@@ -84514,6 +84740,7 @@ studiohd.hd-lostfilm.site
 studiohd.lordfilm-682.site
 studiohd.lostfilm-hd-2260.online
 studiohd.zfilm-hd-2659.online
+studiohd.zfilm-hd-2755.online
 study4me.ru
 studyof.store
 stuff24.store.rell.city
@@ -84750,6 +84977,7 @@ svmxtgjj.olimpcu7g.xyz
 svnazmelof.top
 svobodnyj.doc-avto.online
 svoekino.hd-lostfilm.site
+svoekino.zfilm-hd-2755.online
 svoekino.zfilm-hd-2978.online
 svoekino.zfilm-hd-3044.online
 svoekino.zfilm-hd-746.online
@@ -84899,10 +85127,12 @@ tagline.2021-film.me
 tagline.2021-film.online
 tagline.2022-film.com
 tagline.2022-film.org
+tagline.ljucifer.com
 tagline.mertvoe-ozero.com
 tagline.rasskaz-sluzhanki.com
 tagline.strashnye-skazki.com
 tagline.ubivaja-evu.com
+tagline.zfilm-hd-2018.online
 taho43.ru
 tailhic.com
 taivideoyoutube.com
@@ -84967,6 +85197,7 @@ taxprsure.store
 tayga.2021-film.online
 tayga.2022-film.org
 tayga.besstyzhie.com
+tayga.ljucifer.com
 tayga.mertvoe-ozero.com
 tayga.milye-obmanshhicy.com
 tayga.rasskaz-sluzhanki.com
@@ -85280,6 +85511,7 @@ tlgr-shw.xyz
 tlgrm.2021-film.online
 tlgrm.2022-film.org
 tlgrm.fljesh.com
+tlgrm.ljucifer.com
 tlgrm.sekretnye-materialy.com
 tlgrm.strashnye-skazki.com
 tlgrm.ubivaja-evu.com
@@ -85298,6 +85530,7 @@ tlum.2022-film.org
 tlum.besstyzhie.com
 tlum.doktor-kto.com
 tlum.fors-mazhory.com
+tlum.lamafilm.top
 tlum.ostatsja-v-zhivyh.com
 tlum.pervorodnye-drevnie.com
 tlum.riverdjejl.com
@@ -85321,6 +85554,7 @@ tnt-online.fljesh.com
 tnt-online.hd-lostfilm.site
 tnt-online.k1no-hd.com
 tnt-online.life
+tnt-online.ljucifer.com
 tnt-online.mertvoe-ozero.com
 tnt-online.narki-narko.com
 tnt-online.riverdjejl.com
@@ -85834,6 +86068,7 @@ torrent-update.2021-film.online
 torrent-update.gov-bkt-a.top
 torrent-update.hd-serial.me
 torrent-update.k1no-hd.com
+torrent-update.ljucifer.com
 torrent-update.ostatsja-v-zhivyh.com
 torrent-update.turkru-720.com
 torrent-update.zfilm-zfilm.club
@@ -85866,6 +86101,7 @@ torrent.hdrezka-870.site
 torrent.k1no-hd.com
 torrent.kinogo-hd.icu
 torrent.kinomatix-hd.monster
+torrent.ljucifer.com
 torrent.lordfilm-1144.site
 torrent.lordfilms-hd.monster
 torrent.lostfilm-hd-1679.site
@@ -85889,6 +86125,7 @@ torrent.zfilm-hd-1669.online
 torrent.zfilm-hd-1685.online
 torrent.zfilm-hd-1806.online
 torrent.zfilm-hd-1852.online
+torrent.zfilm-hd-2018.online
 torrent.zfilm-hd-2230.online
 torrent.zfilm-hd-2315.online
 torrent.zfilm-hd-249.online
@@ -85931,6 +86168,8 @@ torrentdownloads.com.pl
 torrentdownloads.org.pl
 torrented.kinogo-by.com
 torrented.zfilm-hd-1287.online
+torrented.zfilm-hd-2018.online
+torrented.zfilm-hd-2679.online
 torrentfan.net
 torrentfan.ru
 torrentfilmi.info
@@ -85938,6 +86177,7 @@ torrentfilmi.org
 torrentfilms.domkino-hd.com
 torrentfilms.unikino-hd.com
 torrentfilms.zetflix-biz.com
+torrentfilms.zfilm-hd-2679.online
 torrentgid.site
 torrentgo-net.prox3.info
 torrentgo-net.uio.bid
@@ -85996,6 +86236,7 @@ torrentshare.org
 torrentsik.ru
 torrentss.2021-film.com
 torrentss.zetflix-biz.com
+torrentss.zfilm-hd-2018.online
 torrentsun.ru
 torrentu.pw
 torrentu.xyz
@@ -86689,9 +86930,11 @@ turkish-tv-series.zfilm-hd-1020.online
 turkish-tv-series.zfilm-hd-1065.online
 turkish-tv-series.zfilm-hd-1287.online
 turkish-tv-series.zfilm-hd-1946.online
+turkish-tv-series.zfilm-hd-2018.online
 turkish-tv-series.zfilm-hd-2054.online
 turkish-tv-series.zfilm-hd-2230.online
 turkish-tv-series.zfilm-hd-2388.online
+turkish-tv-series.zfilm-hd-2755.online
 turkish-tv-series.zfilm-hd-915.online
 turkish-tv-series.zfilm-hd.site
 turkish-tv-series.zfilm-hd720.icu
@@ -86874,6 +87117,7 @@ tvigle.2022-film.org
 tvigle.amurkino.com
 tvigle.doktor-kto.com
 tvigle.fljesh.com
+tvigle.kinokrad-hd.cyou
 tvigle.mertvoe-ozero.com
 tvigle.narki-narko.com
 tvigle.ostatsja-v-zhivyh.com
@@ -86884,6 +87128,7 @@ tvigle.teorija-bolshogo-vzryva.com
 tvigle.zfilm-hd-zerkalo.fun
 tvist-casino.men
 tvkazino.info
+tvklik.kinokrad-hd.top
 tvkok.ru
 tvkultura.2020-film.com
 tvkultura.gidonline-1753.site
@@ -86891,6 +87136,7 @@ tvkultura.gidonline-289.site
 tvkultura.lostfilm-tv-club.site
 tvkultura.turkru-720.com
 tvkultura.unikino-hd.com
+tvkultura.zfilm-hd-2679.online
 tvnet.one
 tvoekazino.info
 tvoeyaico.ru
@@ -86908,6 +87154,7 @@ tvseriya.2021-film.site
 tvseriya.doktor-kto.com
 tvseriya.fljesh.com
 tvseriya.kinogo.red
+tvseriya.lamafilm.top
 tvseriya.mertvoe-ozero.com
 tvseriya.milye-obmanshhicy.com
 tvseriya.narki-narko.com
@@ -86927,6 +87174,7 @@ tvvs.online
 tvzavr.2022-film.org
 tvzavr.riverdjejl.com
 tvzavr.temnye-nachala.com
+tvzvezda.ljucifer.com
 tvzvezda.ubivaja-evu.com
 tvzvezda.zfilm-hd.me
 tw.hdseria.fun
@@ -87092,6 +87340,7 @@ ufa.diplommsos.com
 ufa.diplomz-magazine.com
 ufa.diplomz-rf.com
 ufa.diplomz-v-ruku.com
+ufa.documentlend.com
 ufa.dosug.store
 ufa.focus-plenka.com
 ufa.kupei-prava.com
@@ -87253,6 +87502,7 @@ unikino.zfilm-hd-1287.online
 unikino.zfilm-hd-1442.online
 unikino.zfilm-hd-1870.online
 unikino.zfilm-hd-2307.online
+unikino.zfilm-hd-2679.online
 unikino.zfilm-hd-292.online
 unikino.zfilm-hd-746.online
 unikino.zfilm-hd.site
@@ -87877,6 +88127,7 @@ vashbebik.ru
 vashdosug.2021-film.site
 vashdosug.doktor-kto.com
 vashdosug.hodjachie-mertvecy.com
+vashdosug.ljucifer.com
 vashdosug.narki-narko.com
 vashdosug.riverdjejl.com
 vashdosug.temnye-nachala.com
@@ -88150,6 +88401,7 @@ vedomosti.2022-film.online
 vedomosti.fljesh.com
 vedomosti.gov-bac-t.top
 vedomosti.kinogo-by.com
+vedomosti.ljucifer.com
 vedomosti.ostrye-kozyrki.com
 vedomosti.strashnye-skazki.com
 vedomosti.temnye-nachala.com
@@ -89418,6 +89670,7 @@ vse-chasti-filmov.lostfilm-hd-1359.site
 vse-chasti-filmov.ostrye-kozyrki.com
 vse-chasti-filmov.sekretnye-materialy.com
 vse-chasti-filmov.zetflix-biz.com
+vse-chasti-filmov.zfilm-hd-2018.online
 vse-chasti-filmov.zfilm-hd720.icu
 vse-diploms-irkutsk.com
 vse-doki-krasnodar.ru
@@ -89567,6 +89820,7 @@ vseseriipodriad.amurkino.com
 vseseriipodriad.besstyzhie.com
 vseseriipodriad.fljesh.com
 vseseriipodriad.fors-mazhory.com
+vseseriipodriad.ljucifer.com
 vseseriipodriad.milye-obmanshhicy.com
 vseseriipodriad.narki-narko.com
 vseseriipodriad.pervorodnye-drevnie.com
@@ -90937,6 +91191,7 @@ w.hdfilmi-hd.top
 w.hdrezka-ag.site
 w.hdrezka-hd.space
 w.hdrezka-me-n.top
+w.individualki-1.com
 w.kife.xyz
 w.kino-onlinego.com
 w.kinobas.online
@@ -92282,6 +92537,9 @@ warcinema.baskino-1368.site
 warcinema.gov-bac-t.top
 warcinema.zagonka-2696.site
 warcinema.zfilm-hd-1287.online
+warcinema.zfilm-hd-2018.online
+warcinema.zfilm-hd-2679.online
+warcinema.zfilm-hd-2755.online
 warcinema.zfilm-hd-999.online
 warcinema.zfilm-hd.site
 warcinema.zfilme-hd1.site
@@ -92393,6 +92651,7 @@ web-skazki.2020-film.org
 web-skazki.2021-film.com
 web-skazki.2021-film.me
 web-skazki.2022-film.com
+web-skazki.ljucifer.com
 web-skazki.milye-obmanshhicy.com
 web-skazki.ostatsja-v-zhivyh.com
 web-skazki.riverdjejl.com
@@ -92651,6 +92910,7 @@ wink.2021-film.com
 wink.2021-film.online
 wink.2021-film.org
 wink.fljesh.com
+wink.ljucifer.com
 wink.narki-narko.com
 wink.ostatsja-v-zhivyh.com
 wink.strashnye-skazki.com
@@ -96994,6 +97254,7 @@ www.multigaminatorsclub.com
 www.mundo-latino.ru
 www.muro-music.ru
 www.musico.su
+www.musispace.ru
 www.muslife.net
 www.musorvyvozim.ru
 www.mutki2.biz
@@ -98915,7 +99176,6 @@ www.yuma-sport.ru
 www.z-bet57.top
 www.z-hd.live
 www.z-hd1.live
-www.zagonka-2423.site
 www.zagonka.ru
 www.zapevay.ru
 www.zaporozhye.top
@@ -99324,6 +99584,7 @@ x-film-me.xyz
 x-film.2020-film.com
 x-film.2021-film.com
 x-film.gidonline-1228.site
+x-film.zfilm-hd-2679.cyou
 x-gemer.ru
 x-hayday-x.ru
 x-info.club
@@ -99950,6 +100211,7 @@ xn--s1a.zfilm-hd-1923.online
 xn--s1a.zfilm-hd-1954.online
 xn--s1a.zfilm-hd-1958.online
 xn--s1a.zfilm-hd-2013.online
+xn--s1a.zfilm-hd-2018.online
 xn--s1a.zfilm-hd-2033.online
 xn--s1a.zfilm-hd-2081.online
 xn--s1a.zfilm-hd-2117.online
@@ -99991,9 +100253,11 @@ xn--s1a.zfilm-hd-2659.online
 xn--s1a.zfilm-hd-2661.online
 xn--s1a.zfilm-hd-2662.online
 xn--s1a.zfilm-hd-2673.online
+xn--s1a.zfilm-hd-2679.online
 xn--s1a.zfilm-hd-2688.online
 xn--s1a.zfilm-hd-2698.online
 xn--s1a.zfilm-hd-2734.online
+xn--s1a.zfilm-hd-2755.online
 xn--s1a.zfilm-hd-2766.online
 xn--s1a.zfilm-hd-2779.online
 xn--s1a.zfilm-hd-2788.online
@@ -100521,6 +100785,7 @@ yummyanime.ambarcinema.com
 yummyanime.kinokrad-hd.cyou
 yummyanime.unikino-hd.com
 yummyanime.zfilm-hd-1852.online
+yummyanime.zfilm-hd-2429.online
 yummyanime.zfilm-hd-zerkalo.fun
 yuristbase.ru
 yuself.tk
@@ -100781,6 +101046,7 @@ ze.films-smotret.online
 zebestcasino.site
 zebroid.tv
 zee-tv.2020-film.com
+zee-tv.ljucifer.com
 zee-tv.movielib-hd.com
 zee-tv.rserial-hd.com
 zee-tv.zfilm-hd-1287.online
@@ -103053,6 +103319,7 @@ zigbet.ru
 zigzag-777.club
 zigzag-777.eu
 zigzag-casino.org
+zigzag-i.best
 zigzag777-casino.ru
 zigzag777.biz
 zigzag777.club
