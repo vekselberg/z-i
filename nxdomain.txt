@@ -45838,6 +45838,7 @@ kinogo.pumafilm-1080.buzz
 kinogo.realty
 kinogo.rocks
 kinogo.so
+kinogo.store
 kinogo.stream
 kinogo.studio
 kinogo.team
@@ -69452,9 +69453,11 @@ pinup-casino-classic.club
 pinup-casino-game.website
 pinup-casino-official.site
 pinup-casino-official.win
+pinup-casino-online137.win
 pinup-casino-play.site
 pinup-casino-play.website
 pinup-casino-play.win
+pinup-casino-play21.win
 pinup-casino.fun
 pinup-casino.net
 pinup-casino.top
@@ -71595,6 +71598,7 @@ pokerdom.fun
 pokerdom.host
 pokerdom.me
 pokerdom.mobi
+pokerdom.network
 pokerdom.party
 pokerdom.tech
 pokerdom14.org
@@ -80300,6 +80304,7 @@ ru.shee105ln.com
 ru.showleo9211.com
 ru.sjkhsd2un.com
 ru.skfa53as1ls.com
+ru.sky-hd.online
 ru.slot-avalon-1b.xyz
 ru.slot-avalon-7.xyz
 ru.slot-avalon-8.xyz
@@ -98925,7 +98930,6 @@ www.serialhit.tv
 www.serialok.life
 www.serials-now.ru
 www.serials.vip
-www.serialshit.net
 www.serialtv3.ru
 www.serialum.ru
 www.service.rkngov.top
