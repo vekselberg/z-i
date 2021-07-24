@@ -16184,6 +16184,7 @@ apteka2.evro-lekarstva.com
 apteka2.mizoprostol.org
 apteka24.mizoprostol.org
 apteka4.evro-lekarstva.com
+apteka5.evro-lekarstva.com
 apteka6.mizoprostol.org
 apteka7.mizoprostol.org
 aptekar-provizor.com
@@ -21584,7 +21585,6 @@ besplatno3.azartnie-avtomaty.com
 besplatno3.igrovye-gaminatory.com
 besplatno4.azartnie-avtomaty.com
 besplatno6.azartnie-avtomaty.com
-besplatno7.azartnie-avtomaty.com
 besplatno777.azartnie-avtomaty.com
 besplatno8.azartnie-avtomaty.com
 besplatnoe-kazino.ru
@@ -27805,7 +27805,6 @@ casino-like.com
 casino-links.ru
 casino-live.space
 casino-loto-1.xyz
-casino-luck-life.azurewebsites.net
 casino-magnit.com
 casino-malina-win.ru
 casino-malina.org
@@ -94341,6 +94340,7 @@ wingamble.me
 wingamble.one
 wingamble.online
 wingamble.org
+wingamble.pro
 wingamble.site
 wingamble.su
 wingamble.win
@@ -99324,6 +99324,7 @@ www.pmobzor.com
 www.pmtch-bets.ru
 www.pmtch-betts.ru
 www.pocketfree.ru
+www.pocketlib.net
 www.podolsk-dostavka.com
 www.poimel.sexy
 www.poker-green.com
