@@ -3274,6 +3274,7 @@
 1wbsh.top
 1wbtq.top
 1wbue.xyz
+1wbus.top
 1wbvn.top
 1wbys.top
 1wbzj.xyz
@@ -3284,6 +3285,7 @@
 1wcca.me
 1wccc.xyz
 1wcec.me
+1wces.top
 1wciw.top
 1wcjc.top
 1wcjl.live
@@ -3297,6 +3299,7 @@
 1wcsq.live
 1wcuw.top
 1wcvj.top
+1wcwf.top
 1wcwo.xyz
 1wcws.me
 1wcxa.me
@@ -3319,9 +3322,11 @@
 1wdrx.top
 1wdsa.top
 1wdt.top
+1wdtk.top
 1wdtt.top
 1wdtw.live
 1wduu.top
+1wdvn.top
 1wdvv.xyz
 1wdwm.top
 1wdwv.xyz
@@ -3335,6 +3340,7 @@
 1wehi.xyz
 1weip.top
 1weiv.top
+1wejv.top
 1weki.top
 1wekw.live
 1welf.top
@@ -3353,6 +3359,7 @@
 1weuu.me
 1wevi.top
 1wexk.top
+1weyf.top
 1wfau.me
 1wfay.top
 1wfaz.me
@@ -3396,6 +3403,7 @@
 1wgpr.top
 1wgri.top
 1wgsa.me
+1wgtm.top
 1wgun.me
 1wgwn.xyz
 1wgys.top
@@ -3407,12 +3415,14 @@
 1whig.top
 1whkj.top
 1whkk.me
+1whlw.top
 1whnh.top
 1whnt.top
 1whnv.top
 1whrr.me
 1whte.me
 1whuf.top
+1whuj.top
 1whvq.top
 1whxp.top
 1wia.top
@@ -3848,15 +3858,18 @@
 1wiwn.xyz
 1wiwt.me
 1wixf.top
+1wizm.top
 1wjbc.top
 1wjbf.me
 1wjcp.me
 1wjda.me
 1wjgm.xyz
+1wjhz.top
 1wjik.top
 1wjkg.xyz
 1wjkt.top
 1wjlt.top
+1wjmd.top
 1wjmr.me
 1wjns.xyz
 1wjod.live
@@ -3871,7 +3884,9 @@
 1wjud.xyz
 1wjvs.me
 1wjwg.me
+1wjws.top
 1wjwu.me
+1wjxu.top
 1wjyk.me
 1wjyk.top
 1wjyn.me
@@ -3890,6 +3905,7 @@
 1wkqc.xyz
 1wkqd.top
 1wkqo.top
+1wktw.top
 1wkue.me
 1wkuh.xyz
 1wkuo.xyz
@@ -3900,6 +3916,7 @@
 1wkzh.xyz
 1wlaf.top
 1wlbr.me
+1wlbs.top
 1wlbv.xyz
 1wlde.me
 1wldu.me
@@ -3917,6 +3934,7 @@
 1wlpkk.top
 1wlre.top
 1wlsn.me
+1wlso.top
 1wltg.top
 1wltm.top
 1wlux.live
@@ -3934,6 +3952,8 @@
 1wmgo.me
 1wmir.xyz
 1wmiv.me
+1wmjd.top
+1wmkb.top
 1wmlf.top
 1wmlw.top
 1wmlz.top
@@ -3949,6 +3969,7 @@
 1wmsi.xyz
 1wmsu.xyz
 1wmv.top
+1wmvc.top
 1wmvia.xyz
 1wmvt.top
 1wmwps.xyz
@@ -3989,6 +4010,7 @@
 1wnxo.xyz
 1wnym.top
 1wnyu.me
+1wnzu.top
 1woae.me
 1woai.me
 1woap.xyz
@@ -3997,6 +4019,7 @@
 1wodv.me
 1woee.top
 1woej.me
+1woem.top
 1woev.xyz
 1wofg.top
 1wofm.xyz
@@ -4023,6 +4046,7 @@
 1wouz.xyz
 1wovx.xyz
 1wox.top
+1woxb.top
 1woxc.xyz
 1wozg.top
 1wozz.top
@@ -4073,10 +4097,12 @@
 1wqpi.top
 1wqpzl.top
 1wquy.xyz
+1wqvf.top
 1wqxt.me
 1wqxw.top
 1wrcd.xyz
 1wrci.top
+1wrgy.top
 1wrha.top
 1wrir.xyz
 1wris.xyz
@@ -4152,9 +4178,11 @@
 1wtte.top
 1wttt.me
 1wtue.me
+1wtul.top
 1wtux.top
 1wtxe.top
 1wtxr.me
+1wtyc.top
 1wtyx.top
 1wuam.xyz
 1wubq.top
@@ -4246,6 +4274,7 @@
 1wwed.top
 1wwef.top
 1wwfp.top
+1wwgg.top
 1wwgo.xyz
 1wwha.me
 1wwid.com
@@ -4255,6 +4284,7 @@
 1wwiw.com
 1wwjs.top
 1wwjy.top
+1wwlb.top
 1wwm.top
 1wwms.top
 1wwni.top
@@ -4296,6 +4326,7 @@
 1wxsk.me
 1wxtv.me
 1wxuf.me
+1wxwe.top
 1wxwm.top
 1wxwn.top
 1wxwr.top
@@ -4314,11 +4345,13 @@
 1wyfx.top
 1wygp.me
 1wyhn.top
+1wylk.top
 1wymd.top
 1wymk.xyz
 1wynr.me
 1wynz.top
 1wyop.top
+1wyoq.top
 1wyqc.top
 1wyrn.xyz
 1wyrv.top
@@ -4340,6 +4373,7 @@
 1wzkw.xyz
 1wzlf.top
 1wzlg.top
+1wzlm.top
 1wzls.me
 1wzmz.me
 1wzno.xyz
@@ -10425,7 +10459,6 @@
 4.baskinogo.net
 4.deluxecasino.club
 4.farmacent.xyz
-4.farmavik.site
 4.hdhouse.club
 4.killernews.ru
 4.kino.filmive-hd.net
@@ -36516,6 +36549,7 @@ casinowavada.club
 casinowulkan.bar
 casinowulkan.site
 casinowulkan.space
+casinowulkan.store
 casinowulkan.website
 casinowwinner.info
 casinox-077.ru
@@ -36985,6 +37019,7 @@ cazinovabank.ru
 cazinovavada.club
 cazinovawata.com
 cazinovulcan.club
+cazinovulcan.gold
 cazinovulcan.link
 cazinovulcan.live
 cazinovulcan.site
@@ -50150,6 +50185,7 @@ hdrezka-zerkalo2.online
 hdrezka.band
 hdrezka.baskino-531.site
 hdrezka.be
+hdrezka.best
 hdrezka.blue
 hdrezka.casa
 hdrezka.cc
@@ -81382,6 +81418,7 @@ pagesmbet.win
 pagevajlue.fun
 paidraskrut.ru
 pakaloco.cc
+pakaloco.club
 pakaloco.link
 pakaloco.me
 pakaloco.wtf
@@ -95387,6 +95424,7 @@ ru.auxasd23fy5a.com
 ru.av4.xyz
 ru.awoaowao1209.com
 ru.axzlkcvj371.com
+ru.azart-media.com
 ru.azarta.net
 ru.azartnie-avtomaty.com
 ru.azino-777-mobile.xyz
@@ -97640,6 +97678,7 @@ ru01.arutor.site
 ru01.blarutor.site
 ru02.blarutor.site
 ru1-riobet1.ru
+ru1.azart-media.com
 ru1.azino777-vhod.com
 ru1.azino7777.win
 ru1.camru.top
@@ -97673,6 +97712,7 @@ ru1xbet1.com
 ru1xbet2.com
 ru1xbet4.com
 ru1xbets.xyz
+ru2.azart-media.com
 ru2.casinorox-official.club
 ru2.casinorox2-online.club
 ru2.freeslot.ru
@@ -97693,6 +97733,7 @@ ru2.vkino.cam
 ru2.vmuzice.info
 ru24-tv.online
 ru2music.com
+ru3.azart-media.com
 ru3.capitals-kz3.xyz
 ru3.casinobra.me
 ru3.casinorox-official.club
@@ -115538,6 +115579,7 @@ wulkan777.lesstrana.ru
 wulkan777.poselok-zosimovo.ru
 wulkan777.pulseneon.ru
 wulkancasino.guru
+wulkanclub.bar
 wulkanclub2.xyz
 wulkangames.com
 wulkangrand-cazino.com
@@ -117817,6 +117859,7 @@ www.expresscasino.com
 www.extratimetv.ru
 www.ezsportsbetting.com
 www.f-katalog.ru
+www.f003.fisher-f.ru
 www.fa2147526e8a79f406317196d49651ee.mararus.com
 www.fail-zona.ru
 www.fairwaycasino.com
