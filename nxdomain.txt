@@ -1377,6 +1377,7 @@
 1080-hd720.2zfilm-hd.life
 1080-hd720.gidonline-2660.site
 1080-hd720.zfilm-hd-1367.online
+1080-hd720.zfilm-hd-520.online
 1080-hd720.zfilm-hd1.icu
 1080-hd720.zfilm-online.buzz
 1080-kino.net
@@ -16359,6 +16360,7 @@
 7serialov.zfilm-hd-338.online
 7serialov.zfilm-hd-390.online
 7serialov.zfilm-hd-519.online
+7serialov.zfilm-hd-520.online
 7serialov.zfilm-hd-633.online
 7serialov.zfilm-hd-772.online
 7serialov.zfilm-hd-801.online
@@ -21797,6 +21799,7 @@ amediafilm.zfilm-hd-2677.online
 amediafilm.zfilm-hd-2788.online
 amediafilm.zfilm-hd-292.online
 amediafilm.zfilm-hd-3030.online
+amediafilm.zfilm-hd-520.online
 amediafilm.zfilm-hd-628.online
 amediafilm.zfilm-hd-633.online
 amediafilm.zfilm-hd-713.online
@@ -29628,6 +29631,7 @@ baskinogo.zfilm-hd-2945.online
 baskinogo.zfilm-hd-338.online
 baskinogo.zfilm-hd-404.online
 baskinogo.zfilm-hd-437.online
+baskinogo.zfilm-hd-520.online
 baskinogo.zfilm-hd-633.online
 baskinogo.zfilm-hd-801.online
 baskinogo.zfilm-hd-835.online
@@ -46546,6 +46550,7 @@ dc.zfilm-hd-292.online
 dc.zfilm-hd-2951.online
 dc.zfilm-hd-3030.online
 dc.zfilm-hd-437.online
+dc.zfilm-hd-520.online
 dc.zfilm-hd-534.online
 dc.zfilm-hd-713.online
 dc.zfilm-hd-801.online
@@ -50499,7 +50504,6 @@ f00.kinomodus.xyz
 f001.fisher-r.ru
 f002.fisher-f.ru
 f002.fisher-r.ru
-f003.fisher-f.ru
 f003.fisher-r.ru
 f006.fisher-f.ru
 f008.fisher-f.ru
@@ -58188,6 +58192,7 @@ golos-rus.zfilm-hd-2402.online
 golos-rus.zfilm-hd-2474.online
 golos-rus.zfilm-hd-2572.online
 golos-rus.zfilm-hd-2867.online
+golos-rus.zfilm-hd-520.online
 golos-rus.zfilm-hd-633.online
 golosdebdadqtmwds.azureedge.net
 golosdkzmgamwapjn.azureedge.net
@@ -59521,6 +59526,7 @@ hd-love.gidonline-1144.site
 hd-love.zfilm-hd-2081.online
 hd-love.zfilm-hd-2474.online
 hd-love.zfilm-hd-519.online
+hd-love.zfilm-hd-520.online
 hd-love.zfilm-hd-633.online
 hd-love.zfilm-hd-780.online
 hd-love.zfilm-hd-801.online
@@ -60336,6 +60342,7 @@ hdcub.info
 hdd-1080.lostfilm-hd-1228.site
 hdd-720-free.zfilm-hd-1863.online
 hdd-720-free.zfilm-hd-2243.online
+hdd-720-free.zfilm-hd-520.online
 hdd-720-hd.domkino-hd.com
 hdd-720.ljucifer.com
 hdd-720.zfilme-hd.top
@@ -61429,6 +61436,7 @@ hydra2exghh3rnmc.onion-market.net
 hydra2exghh3rnmc.onion.ec
 hydra2exghh3rnmc.onion.yt
 hydra2exghh3rnmc.xn--onon-rpa.com
+hydra2gidra.com
 hydra2mirror.com
 hydra2onionmarket.com
 hydra2vhod.com
@@ -61855,6 +61863,7 @@ i.gidonline-2156.site
 i.ginonet1.net
 i.info.betcityaccess.com
 i.inter-apteka.ru
+i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilms-film.online
@@ -68602,6 +68611,7 @@ kino-kadr.zfilm-hd-1169.online
 kino-kadr.zfilm-hd-1269.online
 kino-kadr.zfilm-hd-1309.online
 kino-kadr.zfilm-hd-1486.online
+kino-kadr.zfilm-hd-520.online
 kino-kadr.zfilm-hd777.monster
 kino-kek.ru
 kino-kino.online
@@ -68709,6 +68719,7 @@ kino-o-voine.zfilm-hd-404.online
 kino-o-voine.zfilm-hd-437.online
 kino-o-voine.zfilm-hd-499.online
 kino-o-voine.zfilm-hd-519.online
+kino-o-voine.zfilm-hd-520.online
 kino-o-voine.zfilm-hd-576.online
 kino-o-voine.zfilm-hd-633.online
 kino-o-voine.zfilm-hd-666.online
@@ -72528,6 +72539,7 @@ lamafilm.zfilm-hd-2813.online
 lamafilm.zfilm-hd-320.online
 lamafilm.zfilm-hd-404.online
 lamafilm.zfilm-hd-519.online
+lamafilm.zfilm-hd-520.online
 lamafilm.zfilm-hd-605.online
 lamafilm.zfilm-hd-633.online
 lamafilm.zfilm-hd-713.online
@@ -75680,6 +75692,7 @@ lordfilms-s.zfilm-hd-390.online
 lordfilms-s.zfilm-hd-451.online
 lordfilms-s.zfilm-hd-499.online
 lordfilms-s.zfilm-hd-519.online
+lordfilms-s.zfilm-hd-520.online
 lordfilms-s.zfilm-hd-564.online
 lordfilms-s.zfilm-hd-633.online
 lordfilms-s.zfilm-hd-666.online
@@ -89837,6 +89850,7 @@ mp3.open.az
 mp3.pahlawandevisa.com
 mp3.pesni.top
 mp3.pesnik.ru
+mp3.ru.nina.az
 mp3.works
 mp31.vmuzice.info
 mp32.vmuzice.info
@@ -94145,6 +94159,7 @@ novinki-kino.net
 novinki-muzyki.su
 novinki-onlain.ru
 novinki.tv
+novinkifilmov.ru
 novinkionline.com
 noviyfilm.club
 noviyurengoi.silmag11.ru
@@ -94373,6 +94388,7 @@ novye-multiki.zfilm-hd-3030.online
 novye-multiki.zfilm-hd-3038.online
 novye-multiki.zfilm-hd-390.online
 novye-multiki.zfilm-hd-499.online
+novye-multiki.zfilm-hd-520.online
 novye-multiki.zfilm-hd-564.online
 novye-multiki.zfilm-hd-576.online
 novye-multiki.zfilm-hd-633.online
@@ -108851,6 +108867,7 @@ r.zfilm-hd-1324.online
 r.zfilm-hd-2662.online
 r.zfilm-hd-2788.online
 r.zfilm-hd-2867.online
+r.zfilm-hd-520.online
 r.zfilm-hd-713.online
 r.zfilm-hd-936.online
 r.zfilm-hd.monster
@@ -120560,6 +120577,7 @@ serialovo.com
 serialovo.net
 serialpapa.ru
 serialpoisk.gidonline-742.site
+serialpoisk.zfilm-hd-520.online
 serialpoisk.zfilm-hd-633.online
 serialpro.co
 serialrub.ru
@@ -129652,6 +129670,7 @@ top2bonuscasino.com
 top2ndfl.ru
 top3-casinobonuses.com
 top3.hdkinoup.online
+top3.novinkifilmov.ru
 top30music.ru
 top4-bk.site
 top4-bk.website
@@ -147558,6 +147577,7 @@ www.mendelei.ru
 www.mentalstars31.ru
 www.merkurmagic.es
 www.merlinwin.com
+www.metafiyielders.com
 www.mgmail.ru
 www.miaminights.ru
 www.mifepriston.site
