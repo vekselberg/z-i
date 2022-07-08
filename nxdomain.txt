@@ -17632,6 +17632,7 @@
 ARRAY(0x8994e8de0)
 ARRAY(0x8994f6138)
 ARRAY(0x89950cde0)
+ARRAY(0x89956b288)
 ARRAY(0x899689c60)
 ARRAY(0x8b741c888)
 ARRAY(0x8b7b06c00)
@@ -49147,7 +49148,6 @@ e0ea4a8.icu
 e1.liveball8.ml
 e1.spon.live
 e100.fisher-1.ru
-e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
 e104.fisher-1.ru
@@ -59046,6 +59046,7 @@ gorizont-hm.ru
 gorizont-realty.ru
 gorizontcinema.com
 gorizontcinema.zfilm-hd-628.online
+gorizontcinema.zfilm-hd-633.online
 gormoshka.store
 gorno-altajsk.sweet-vape.ru
 gorno-altaysk.diplom4yours.com
@@ -60540,7 +60541,6 @@ hd.lordsfilms.su
 hd.lordsfilms.top
 hd.lordufilm.fun
 hd.lordz.me
-hd.lordzfilmz.biz
 hd.lostfilm-hd-666.site
 hd.lostfilm-hd-l.site
 hd.lostfilm-smotret.online
@@ -60875,6 +60875,7 @@ hd3.kinomops.su
 hd3.kinomops.xyz
 hd3.kinoshki1080.club
 hd3.kinoz.ru
+hd3.lordfilm.bet
 hd3.lordfilmax.net
 hd3.lordfilms5.xyz
 hd3.lordfilmstv.online
@@ -60906,6 +60907,7 @@ hd4.kinomops.club
 hd4.kinomops.su
 hd4.kinoshki1080.club
 hd4.kinoz.ru
+hd4.lordfilm.bet
 hd4.lordfilmax.net
 hd4.lordfilms5.xyz
 hd4.lordix.cc
@@ -61033,6 +61035,7 @@ hd8.kinokong.ws
 hd8.kinomops.xyz
 hd8.kinoshki1080.club
 hd8.lordfillms.xyz
+hd8.lordix.cc
 hd8.lords.cam
 hd8.serialru.online
 hd8.smotri1080.online
@@ -69625,6 +69628,7 @@ kino-history.zagonka-1389.site
 kino-history.zfilm-hd-1806.online
 kino-history.zfilm-hd-1870.online
 kino-history.zfilm-hd-999.online
+kino-hit.net
 kino-hit.online
 kino-home.net
 kino-horror.720-hd.icu
@@ -72550,6 +72554,7 @@ knigavuhe.xyz
 knigazvuk.ru
 knigi-apparaty-igrovyye.igro-polis.ru
 knigi.plus
+knigiaudio.org
 knigism.org
 knignik.xyz
 knlnadrtg.top
@@ -76316,7 +76321,6 @@ lol.top-kino-online.ru
 lol.zoker.top
 lola.pipitor.site
 lolimania.xyz
-lolkino.ru
 lolkup1.ehcsupply.com
 loll.lordfilin.net
 lolnews.ru
@@ -78694,7 +78698,7 @@ m.rivalo109.com
 m.rivalo110.com
 m.rufabula.com
 m.rufilm.fun
-m.rusapteka.org
+m.rukoed.com
 m.rusbetcity.com
 m.rusoska.net
 m.russvullcan.ru
@@ -101446,7 +101450,6 @@ pgn-pochtoy.store
 pgnqgk87mtic.com
 pgvindustries.com
 ph.net.space.rucdn.pw
-ph.pharmlabs.shop
 ph.rusbetcity.com
 ph2x4nw4uk.xyz
 pharaoh-gold-casino.berghoffsale.ru
@@ -120045,6 +120048,7 @@ s1.erafilmov.one
 s1.f-torrent.ru
 s1.filmgb.ru
 s1.g-torrents.ru
+s1.gorafilm.ru
 s1.gorafilmov.com
 s1.gorafilmov.online
 s1.gorafilmov.su
@@ -120176,6 +120180,7 @@ s2.allcoursesclub.cc
 s2.baskino1.icu
 s2.baskinohd.top
 s2.firsthd1080i.ru
+s2.gorafilm.ru
 s2.gorafilmov.online
 s2.gorafilmov.su
 s2.gt-torrents.ru
@@ -120454,7 +120459,6 @@ sale.medgeneric2.ru
 sale.metanruss.net
 sale.nextpharm.ru
 sale.open-shop.xyz
-sale.pharmlabs.shop
 sale.proektgn.online
 sale.replica--club.ru
 sale.rostabs.su
@@ -121089,6 +121093,7 @@ selectorcasinos.ru
 selektor-casino.me
 selektor.best
 selektor.club
+selektor.vip
 selektorcasino.me
 seliboba-casino.ru
 sell.growerz.live
@@ -125092,7 +125097,6 @@ slot.casinovulcan-official.com
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
-slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -128850,7 +128854,6 @@ styleginki.ru
 stylekurs.online
 stylemarathonbet.win
 su.congalotto.com
-su.pharmlabs.shop
 su5-tagil.ru
 su71ppl45ttr.com
 su9bsmn.icu
@@ -129650,6 +129653,7 @@ tekhosmotr-online.ru
 tekhosmotrr-online.ru
 tekhpodderzhka-igrovoy-sistemy-superomatik.spravka-sorevnovaniya.ru
 tekstura-deneg-dlya-maynkraft.hdfree4u.info
+tel.rukoed.com
 tele.tiviha-tv.ru
 telecharger-musique-gratuite.eu
 teledidar.tv
