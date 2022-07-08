@@ -17634,8 +17634,8 @@ ARRAY(0x8994f6138)
 ARRAY(0x89950cde0)
 ARRAY(0x89956b288)
 ARRAY(0x8b741c888)
-ARRAY(0x8b7b06c00)
 ARRAY(0x8b82aac00)
+ARRAY(0x8b85b72d0)
 ARRAY(0x8b8729c00)
 ARRAY(0x8b8738c00)
 ARRAY(0x8b889ce88)
@@ -21642,6 +21642,7 @@ alkodelivery007.xyz
 alkodelivery008.xyz
 alkodelivery011.xyz
 alkodelivery012.xyz
+alkodelivery014.xyz
 alkodelivery5.info
 alkodelivery6.info
 alkodelivery7.info
@@ -47870,6 +47871,7 @@ diplomp-saratov64.com
 diplomp-spb.com
 diplomp-v-irkutske.com
 diplomp-v-ruki.com
+diplomp-v-samare.com
 diplomp-v-ufe.com
 diplompro.one
 diplompro24.pro
@@ -57881,6 +57883,7 @@ gl38u4nqmst.com
 glacialofficial.online
 glad2trade.cc
 glad2trade.io
+gladiators-etalon.website
 gladproof.com
 glass.ny3blpuku.cc
 glasscapes.space
@@ -76804,6 +76807,7 @@ lordfilmtv4.ru
 lordfilmu.ru
 lordfilmu.xyz
 lordfilmx.ru
+lordfilmxhd.ru
 lordfilmy-smotret.online
 lordfilmz.net
 lordflmhd.ru
@@ -102376,6 +102380,7 @@ pinupcasinofficlal.com
 pinupcasinofflcial.com
 pinupcasinofflclal.com
 pinupcasinogame.site
+pinupcasinogames.site
 pinupcasinoigrat1.win
 pinupcasinoluch.ru
 pinupcasinomobile.site
@@ -102409,6 +102414,7 @@ pinuppbet.com
 pinuppbet1.com
 pinupprokazino.com
 pinupps.com
+pinuprate.com
 pinups-bet.fun
 pinups-bet.xyz
 pinups.azurewebsites.net
@@ -106464,6 +106470,7 @@ pornomorda.net
 pornone.mobi
 pornone.online
 pornooblako.net
+pornoporka.net
 pornorol.online
 pornorolikixxx.top
 pornorossia.ru
@@ -139930,6 +139937,7 @@ vulkanum-clubganestop.com
 vulkanum-i.com
 vulkanum.top
 vulkanundupcasino.info
+vulkanvegas-777.com
 vulkanvegas-club.top
 vulkanvegas-clubonline.com
 vulkanvegas-klub.com
