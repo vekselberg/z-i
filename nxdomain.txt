@@ -17695,7 +17695,6 @@ ARRAY(0x899116690)
 ARRAY(0x89915fb10)
 ARRAY(0x899166b10)
 ARRAY(0x899167b10)
-ARRAY(0x899240468)
 ARRAY(0x899537d68)
 ARRAY(0x89956eac8)
 ARRAY(0x8b80dd750)
@@ -17704,6 +17703,7 @@ ARRAY(0x8b85f8e58)
 ARRAY(0x8b85f90d8)
 ARRAY(0x8b86735a0)
 ARRAY(0x8b86c50d8)
+ARRAY(0x8b87a9cd8)
 ARRAY(0x8b8ac0090)
 a-bets63.top
 a-bt56.top
@@ -62280,6 +62280,7 @@ hydraruzxpnew.xyz
 hydraruzxpnew1af.onion-77.com
 hydraruzxpnew1af.sayt-77.com
 hydraruzxpnew1af.zerkalo-77.com
+hydraruzxpnew1onion.com
 hydraruzxpnew3onion.com
 hydraruzxpnew44af.com
 hydraruzxpnew4aaf-onion.com
@@ -114730,6 +114731,7 @@ roxcasinos5.ru
 roxcasinos6.com
 roxcasinos6.ru
 roxcasinos7.com
+roxcasinos7.ru
 roxcasinos8.com
 roxcasinos9.com
 roxcasinosart.ru
@@ -125406,6 +125408,7 @@ smart-kopia.ru
 smart-travelling.ru
 smart-tv.host
 smart.rusbetcity.com
+smartoilandgas.kz
 smartserial.net
 smatri.tiviha-tv.ru
 smc-zao.ru
@@ -130055,7 +130058,6 @@ top10-melbet.club
 top10-online-casino.azurewebsites.net
 top10-online-casino.xyz
 top10-onlinecasino.ru
-top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -132119,6 +132121,7 @@ two.nalevo-perm.com
 two.prostitutki-21.me
 two.rox-info.website
 two.sexanketa-krym.com
+two.sexanketa-nn.net
 two.sexanketa74.net
 two.sexiriski.pro
 two.sexohota.pro
@@ -151487,7 +151490,6 @@ x-torrent.pro
 x-torrent.ru
 x-user.ru
 x-whore2.com
-x.1xbet-x.com
 x.1xbetjr.site
 x.420bulk.online
 x.420bulk.site
