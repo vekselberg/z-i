@@ -17814,13 +17814,13 @@ ARRAY(0x833fd8768)
 ARRAY(0x83578ed38)
 ARRAY(0x83651a168)
 ARRAY(0x838b557f8)
-ARRAY(0x899116690)
 ARRAY(0x8991576a8)
 ARRAY(0x8add5be40)
 ARRAY(0x8af1757f8)
 ARRAY(0x8af8175b8)
 ARRAY(0x8b1452d68)
 ARRAY(0x8b58ea558)
+ARRAY(0x8b6fdd0f0)
 ARRAY(0x8b7dd0540)
 ARRAY(0x8b87a9cd8)
 ARRAY(0x8b9981c30)
@@ -18885,6 +18885,7 @@ achinsk.exdiplomsys.com
 achinsk.godiplome.com
 achinsk.godiplomsis.com
 achinsk.godiplomy.com
+achinsk.gooddiplomu.com
 achinsk.prava-zdes.org
 achinsk.prostitutki-13.com
 achinsk.snus-good.ru
@@ -29998,6 +29999,7 @@ barnaul.godiplomsa.com
 barnaul.godiplomsis.com
 barnaul.godiplomsus.com
 barnaul.godiplomy.com
+barnaul.gooddiplomu.com
 barnaul.goodiplomu.com
 barnaul.i-prostitutki.com
 barnaul.kupui-prava.com
@@ -31207,6 +31209,7 @@ belgorod.fort-pravams.com
 belgorod.godiplome.com
 belgorod.godiplomis.com
 belgorod.godiplomy.com
+belgorod.gooddiplomu.com
 belgorod.goodiplom.com
 belgorod.goodiplomes.com
 belgorod.kupuj-prava.com
@@ -37537,6 +37540,7 @@ blagartschool.ru
 blagoveschensk.damdiplomys.com
 blagoveschensk.godiplomsa.com
 blagoveschensk.godiplomy.com
+blagoveschensk.gooddiplomu.com
 blagoveschensk.prostitutki-13.com
 blagoveschensk.simdiplom.com
 blagoveschensk.snus-good.ru
@@ -40045,6 +40049,7 @@ casino-club-vullkan.org
 casino-club-vylkan.org
 casino-clyb-vulkan.info
 casino-clyb-vulkan.org
+casino-co.club
 casino-coin.info
 casino-coin.ru
 casino-coliseum.com
@@ -40337,6 +40342,7 @@ casino-imperator.org
 casino-imperator.site
 casino-imperator.su
 casino-imperator.website
+casino-imperator24.club
 casino-imperators.com
 casino-in-russia.azurewebsites.net
 casino-in.guru
@@ -43005,6 +43011,7 @@ casinoapks.com
 casinoaplay.group
 casinoaplay.network
 casinoarbuz.com
+casinoargo.club
 casinoargo777.su
 casinoargoclub.ru
 casinoavtomat.co
@@ -45187,6 +45194,7 @@ cheboksary.godiplome.com
 cheboksary.godiplomsis.com
 cheboksary.godiplomsus.com
 cheboksary.godiplomy.com
+cheboksary.gooddiplomu.com
 cheboksary.kupuj-prava.com
 cheboksary.life-diplomp.com
 cheboksary.mydiplomestores.com
@@ -45265,6 +45273,7 @@ chelyabinsk.focus-nomer.online
 chelyabinsk.godiplome.com
 chelyabinsk.godiplomsus.com
 chelyabinsk.godiplomy.com
+chelyabinsk.gooddiplomu.com
 chelyabinsk.goodiplomu.com
 chelyabinsk.gozznakdiploma.com
 chelyabinsk.kupui-prava.com
@@ -49471,6 +49480,7 @@ e0ea4a8.icu
 e1.liveball8.ml
 e1.spon.live
 e100.fisher-1.ru
+e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
 e104.fisher-1.ru
@@ -50148,6 +50158,7 @@ ekaterinburg.godiplomsa.com
 ekaterinburg.godiplomsis.com
 ekaterinburg.godiplomsus.com
 ekaterinburg.godiplomy.com
+ekaterinburg.gooddiplomu.com
 ekaterinburg.goodiplomes.com
 ekaterinburg.metanruss.com
 ekaterinburg.mydiplomestores.com
@@ -59271,6 +59282,7 @@ goodcasino.life
 goodcasino.work
 goodcluub.com
 gooddiplom.com
+gooddiplomu.com
 goodfella.live
 goodgambler.info
 goodgambler.net
@@ -68106,6 +68118,7 @@ kaliningrad.godiplomsa.com
 kaliningrad.godiplomsis.com
 kaliningrad.godiplomsus.com
 kaliningrad.godiplomy.com
+kaliningrad.gooddiplomu.com
 kaliningrad.goodiplom.com
 kaliningrad.goodiplomes.com
 kaliningrad.gozznakdiploma.com
@@ -71903,6 +71916,7 @@ kinonapalm.me
 kinonet.betting-box.com
 kinonew.club
 kinonew.top
+kinonews.club
 kinonews.fun
 kinonews.monster
 kinonim.ru
@@ -73030,6 +73044,7 @@ koloda.org
 kologa.fun
 kolomna-dosug.com
 kolomna.diplomnknam.com
+kolomna.gooddiplomu.com
 kolomna.pravac-ru.com
 kolomna.snus-piter.su
 kolpino.snus-good.ru
@@ -76270,6 +76285,7 @@ lipetsk.exdiplomsys.com
 lipetsk.godiplomsa.com
 lipetsk.godiplomsis.com
 lipetsk.godiplomy.com
+lipetsk.gooddiplomu.com
 lipetsk.goodiplom.com
 lipetsk.goodiplomu.com
 lipetsk.gozznakdiploma.com
@@ -79590,6 +79606,7 @@ magnitogorsk.damdiplomsa.com
 magnitogorsk.damdiplomys.com
 magnitogorsk.diplomutrend.com
 magnitogorsk.exdiplomsys.com
+magnitogorsk.gooddiplomu.com
 magnitogorsk.intim-girls1.com
 magnitogorsk.kupuj-prava.com
 magnitogorsk.prava-zdes.org
@@ -92635,6 +92652,7 @@ murmanska-dosug.ru
 murmanskmedic.com
 murom.exdiplomsys.com
 murom.godiplomsa.com
+murom.gooddiplomu.com
 murom.mydiplomusstore.com
 murom.mydiplomusstores.com
 murom.prostitutki24.best
@@ -93595,6 +93613,7 @@ nashe-moloko.ru
 nashi-diplomics.com
 nashi-diplomis.com
 nashi-diplomiss.com
+nashi.schetchiki-spb.com
 nashtracker.xyz
 naslete.ru
 nassd25h.club
@@ -93628,6 +93647,7 @@ nazran.exdiplomse.com
 nazran.exdiplomsys.com
 nazran.godiplomsis.com
 nazran.godiplomy.com
+nazran.gooddiplomu.com
 nazran.goodiplom.com
 nazran.goodiplomi.com
 nazran.likediplom.com
@@ -99314,6 +99334,7 @@ orel.diplomr-4you.com
 orel.diplomutrend.com
 orel.diplomw-rf.com
 orel.dokkss24.com
+orel.gooddiplomu.com
 orel.goodiplom.com
 orel.goodiplomi.com
 orel.goodiplomu.com
@@ -99402,6 +99423,7 @@ originals-777.info
 originals-777casino.info
 originals-diplomix24.com
 originals777-casino.info
+originals777.club
 originals777.info
 originals777casino.info
 originals777cazino.info
@@ -113349,6 +113371,7 @@ rostov-na-donu.firma-diplomass.com
 rostov-na-donu.godiplomis.com
 rostov-na-donu.godiplomsus.com
 rostov-na-donu.godiplomy.com
+rostov-na-donu.gooddiplomu.com
 rostov-na-donu.likediplom.com
 rostov-na-donu.metanruss.com
 rostov-na-donu.mydiplomestores.com
@@ -117061,6 +117084,7 @@ ru.f694fa1.com
 ru.f8674pp9yu.com
 ru.fade1d4n2.com
 ru.failovik.net
+ru.fanza.monster
 ru.fasm87jfd3.com
 ru.fcbea0b.com
 ru.fdjhf43by.com
@@ -121112,6 +121136,7 @@ sankt-peterburg.godiplomis.com
 sankt-peterburg.godiplomsis.com
 sankt-peterburg.godiplomsus.com
 sankt-peterburg.godiplomy.com
+sankt-peterburg.gooddiplomu.com
 sankt-peterburg.goodiplom.com
 sankt-peterburg.goodiplomi.com
 sankt-peterburg.goodiplomu.com
@@ -126679,6 +126704,7 @@ sochi.diplomus-24.com
 sochi.exdiplomsys.com
 sochi.firma-diplomos.com
 sochi.firma-diplomoss.com
+sochi.gooddiplomu.com
 sochi.kupui-prava.com
 sochi.life-diplomp.com
 sochi.likediplom.com
@@ -129927,6 +129953,7 @@ tambov.diplomr-4you.com
 tambov.exdiplomes.com
 tambov.godiplomsus.com
 tambov.godiplomy.com
+tambov.gooddiplomu.com
 tambov.goodiplomu.com
 tambov.kupui-prava.com
 tambov.mydiplomusstore.com
@@ -130671,6 +130698,7 @@ tolyatti.exdiplomsys.com
 tolyatti.godiplomis.com
 tolyatti.godiplomsis.com
 tolyatti.godiplomy.com
+tolyatti.gooddiplomu.com
 tolyatti.goznakdiplomas.com
 tolyatti.gozznakdiploma.com
 tolyatti.life-diplomp.com
@@ -131036,6 +131064,7 @@ top10-legal-casino-russia.azurewebsites.net
 top10-melbet.club
 top10-online-casino.azurewebsites.net
 top10-online-casino.xyz
+top10-online-casino1.xyz
 top10-onlinecasino.ru
 top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
@@ -132709,6 +132738,7 @@ tula.godiplomsa.com
 tula.godiplomsis.com
 tula.godiplomsus.com
 tula.godiplomy.com
+tula.gooddiplomu.com
 tula.goodiplomi.com
 tula.goodiplomu.com
 tula.gozznakdiploma.com
@@ -133197,6 +133227,7 @@ tyumen.godiplomis.com
 tyumen.godiplomsis.com
 tyumen.godiplomsus.com
 tyumen.godiplomy.com
+tyumen.gooddiplomu.com
 tyumen.goodiplom.com
 tyumen.goodiplomu.com
 tyumen.likediplom.com
@@ -133600,6 +133631,7 @@ umdinmeltg.top
 umee-nw.ru
 umlkzmvh.olimpbrwc.xyz
 umn7b-azinomobile.icu
+umniy-dom.schetchiki-spb.com
 umniy-dom.schetchikoff.com
 umnye.schetchiki-spb.com
 umojtuv.icu
@@ -135094,6 +135126,7 @@ vavadabl3.com
 vavadabmx.com
 vavadabn1.com
 vavadabn2.com
+vavadabom.xyz
 vavadabook.com
 vavadabtc.com
 vavadabum.xyz
@@ -136018,6 +136051,7 @@ velikanslots.net
 velikie-luki.prava-zdes.org
 velikiedengi.net
 velikii-novgorod.xn----dtbfeaon2bc5ai0e5b.xn--p1ai
+velikij-novgorod.gooddiplomu.com
 velikij-novgorod.kupui-prava.com
 velikij-novgorod.vodt-prava.com
 velikijnovgorod.damdiplomsa.com
@@ -136853,6 +136887,7 @@ vladimir.exdiplomsys.com
 vladimir.godiplomis.com
 vladimir.godiplomsus.com
 vladimir.godiplomy.com
+vladimir.gooddiplomu.com
 vladimir.medspravkes-177.com
 vladimir.mydiplomusstores.com
 vladimir.prava-zdes.org
@@ -148558,7 +148593,17 @@ www.joycasino1021.com
 www.joycasino12.com
 www.joycasino124.ru
 www.joycasino265.ru
+www.joycasino367.ru
+www.joycasino368.ru
+www.joycasino369.ru
+www.joycasino370.ru
+www.joycasino371.ru
+www.joycasino372.ru
+www.joycasino373.ru
+www.joycasino374.ru
 www.joycasino375.ru
+www.joycasino376.ru
+www.joycasino377.ru
 www.joycasinoe.ru
 www.joycasinoi5.ru
 www.jpin-up23.com
@@ -154805,6 +154850,7 @@ yakutsk.exdiplomse.com
 yakutsk.godiplomis.com
 yakutsk.godiplomsis.com
 yakutsk.godiplomsus.com
+yakutsk.gooddiplomu.com
 yakutsk.kupit-diplom365.com
 yakutsk.life-diplomf.com
 yakutsk.life-diplomj.com
@@ -155032,6 +155078,7 @@ yo8nf-azino777.icu
 yoafoxzmmst.com
 yoasino888.info
 yobaboba.com
+yoj-casino.xyz
 yoko-cosmetics.ru
 yokvxtnn.olimpbtq0.xyz
 yoloisgood.fun
@@ -155154,6 +155201,7 @@ yux4p-azino777.icu
 yuzhno-sahalinsk.damdiplomys.com
 yuzhno-sahalinsk.godiplomis.com
 yuzhno-sahalinsk.godiplomsus.com
+yuzhno-sahalinsk.gooddiplomu.com
 yuzhno-sahalinsk.mydiplomustores.com
 yuzhno-sahalinsk.prava-zdes.org
 yuzhno-sahalinsk.snus-good.ru
