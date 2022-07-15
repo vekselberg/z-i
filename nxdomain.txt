@@ -17814,6 +17814,7 @@ ARRAY(0x833fd8768)
 ARRAY(0x83578ed38)
 ARRAY(0x83651a168)
 ARRAY(0x838b557f8)
+ARRAY(0x84035f018)
 ARRAY(0x8991576a8)
 ARRAY(0x8add5be40)
 ARRAY(0x8af1757f8)
@@ -17822,7 +17823,6 @@ ARRAY(0x8b1452d68)
 ARRAY(0x8b58ea558)
 ARRAY(0x8b6fdd0f0)
 ARRAY(0x8b7dd0540)
-ARRAY(0x8b87a9cd8)
 ARRAY(0x8b9981c30)
 ARRAY(0x8bdaa94c8)
 a-bets63.top
@@ -31477,6 +31477,7 @@ best.legalshop24.xyz
 best.lion-official.online
 best.lordfilms.tax
 best.markets24.xyz
+best.official-site-vulkan.com
 best.official-site-vulkan.net
 best.pipitor.site
 best.premium-club.xyz
@@ -31487,6 +31488,7 @@ best.top-10-casino.net
 best.top-seller.xyz
 best.vipklad.xyz
 best.vulkan-site-official.com
+best.vulkan-site-official.net
 best1marathon.win
 best1marathonbet.win
 best1xgame.com
@@ -51421,6 +51423,7 @@ f001.fisher-r.ru
 f002.fisher-r.ru
 f003.fisher-r.ru
 f004.fisher-r.ru
+f005.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -61340,6 +61343,7 @@ hd720.lordfilms.pp.ru
 hd720.lordfilmu.ru
 hd720.name
 hd720.pumafilm-720.top
+hd720.serialtop.ru
 hd720.tv
 hd720.vse-chasti.ru
 hd720.xn--c1ajfnfb.su
@@ -95074,6 +95078,7 @@ newonlinecasino.azurewebsites.net
 newonlinecasino2020.biz
 newonlinecasino2020.info
 newonlinecasino2020.su
+newonlinecasino2021.info
 newpackd.com
 newpage2894file24.blog7casino.info
 newpharm.me
@@ -115522,7 +115527,6 @@ roxcasinos5.ru
 roxcasinos6.com
 roxcasinos6.ru
 roxcasinos7.com
-roxcasinos7.ru
 roxcasinos8.com
 roxcasinos9.com
 roxcasinosart.ru
@@ -121065,6 +121069,7 @@ samara.godiplomsa.com
 samara.godiplomsis.com
 samara.godiplomsus.com
 samara.godiplomy.com
+samara.gooddiplomu.com
 samara.goodiplomes.com
 samara.gozznakdiploma.com
 samara.kupui-prava.com
@@ -139335,6 +139340,7 @@ vulkan-olimp.com
 vulkan-olimp.kz
 vulkan-olimp.space
 vulkan-olimp.xyz
+vulkan-olimp56.com
 vulkan-olimpclub.com
 vulkan-olymp.com
 vulkan-on-money.cash
