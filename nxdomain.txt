@@ -17715,10 +17715,10 @@ ARRAY(0x83a7ff810)
 ARRAY(0x83e1a07f8)
 ARRAY(0x84035f018)
 ARRAY(0x8af8175b8)
+ARRAY(0x8b22141e0)
 ARRAY(0x8b450adb0)
 ARRAY(0x8b6197630)
 ARRAY(0x8b6fdd0f0)
-ARRAY(0x8b9981c30)
 ARRAY(0x8b9dee570)
 ARRAY(0x8bb242b58)
 ARRAY(0x8bbdf28d0)
@@ -101700,6 +101700,7 @@ pin-up-casino11.net
 pin-up-casino137.win
 pin-up-casino2.com
 pin-up-casino2.net
+pin-up-casino2.win
 pin-up-casino2020.site
 pin-up-casino21.win
 pin-up-casino24.ru
@@ -144506,7 +144507,6 @@ ww4.vikiino3.ru
 ww5.technom.su
 ww6.technom.su
 ww7.technom.su
-ww74.new-rutor.org
 ww8.technom.su
 ww9.technom.su
 wwbzw-azino777.icu
