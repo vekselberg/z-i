@@ -17723,12 +17723,12 @@ ARRAY(0x834c3a8e8)
 ARRAY(0x837870f30)
 ARRAY(0x837ffdd50)
 ARRAY(0x8398ff420)
-ARRAY(0x83a06c2d0)
 ARRAY(0x83b0b2300)
 ARRAY(0x83b987be8)
 ARRAY(0x83c214240)
 ARRAY(0x84104e408)
 ARRAY(0x8412a17c8)
+ARRAY(0x8afa797e0)
 ARRAY(0x8b011a1b0)
 ARRAY(0x8b11adcf0)
 ARRAY(0x8b2b85720)
@@ -59805,6 +59805,7 @@ graphicsmarathon.win
 graphicsmbet.win
 grapples.ru
 grax.one
+grazhdanskij.okd1.ru
 grcasino.azurewebsites.net
 grcos.top
 great-casino.online
