@@ -877,6 +877,7 @@
 1-alko5.xyz
 1-alkoray.store
 1-alkoray.xyz
+1-audioknigi.online
 1-autotrade.ru
 1-azino777.com
 1-azino777.info
@@ -8137,6 +8138,7 @@
 1xbettv.site
 1xbetu.site
 1xbetu.top
+1xbetu2.top
 1xbetur.site
 1xbetur1.site
 1xbetur2.site
@@ -10710,6 +10712,7 @@
 24122018azino777.ru
 241azino777.win
 241joycasino.com
+241joycasino.xyz
 242azino777.win
 242dec.olimp95fc.top
 242joycasino.com
@@ -11212,6 +11215,7 @@
 27092019azino777.ru
 270azino777.win
 270joycasino.com
+270joycasino.xyz
 271018azino777.com
 271018azino777.ru
 27102018azino777.com
@@ -17737,8 +17741,8 @@ ARRAY(0x83614bd20)
 ARRAY(0x8374dd198)
 ARRAY(0x83ab57c00)
 ARRAY(0x83cbcfa50)
-ARRAY(0x83dee8c90)
 ARRAY(0x83dfe1f48)
+ARRAY(0x8af2ffc18)
 ARRAY(0x8af6ff750)
 ARRAY(0x8afa714b0)
 ARRAY(0x8b0f57078)
@@ -18078,6 +18082,7 @@ a1.msk-spravka.com
 a1.my-kino.site
 a1.pipitor.site
 a1.rubelfarma.vip
+a1.semenarastut.org
 a1.serialswatch.club
 a1.spon.live
 a1.tiviha-tv.ru
@@ -25081,7 +25086,6 @@ azino-bonus.com
 azino-bonus777.info
 azino-bonus777.ru
 azino-casino.ru
-azino-casino777.com
 azino-cazino.ru
 azino-cazino777.ru
 azino-club777.com
@@ -52698,7 +52702,6 @@ filmhd9.site
 filmhdk.pro
 filmhdp.pro
 filmhds.biz
-filmhds.cc
 filmhds.me
 filmhds.org
 filmhub.online
@@ -58118,7 +58121,6 @@ gidra-sajt.com
 gidra-shop24.com
 gidra-web.com
 gidra-web24.com
-gidra-zerkala24.site
 gidra-zerkala7.site
 gidra-zerkala8.site
 gidra-zerkalo.online
@@ -59740,7 +59742,6 @@ grandcasinoigray.com
 grandcasinos-online.com
 grandcasinos1.ru
 grandcasinos2.ru
-grandcasinosloty.com
 grandcasn.online
 grandcasn1.online
 grandcazin.club
@@ -60910,6 +60911,7 @@ hd.rufllm.fun
 hd.seasonvar.onl
 hd.seasonvar.xyz
 hd.serialru.online
+hd.serialtop.ru
 hd.serialy-2021.ru
 hd.serialyprosto.online
 hd.serie-online.top
@@ -66289,6 +66291,10 @@ joycasino-bag.xyz
 joycasino-bar.xyz
 joycasino-bat.xyz
 joycasino-bcc.xyz
+joycasino-bcm.xyz
+joycasino-bct.xyz
+joycasino-bdc.xyz
+joycasino-bdf.xyz
 joycasino-be2.xyz
 joycasino-ber.xyz
 joycasino-best.club
@@ -66712,6 +66718,7 @@ joycasino-rbv.xyz
 joycasino-rea.xyz
 joycasino-reg.xyz
 joycasino-reg1.xyz
+joycasino-reg2.xyz
 joycasino-registration.velpaknn.ru
 joycasino-reh.xyz
 joycasino-rel.xyz
@@ -66912,14 +66919,19 @@ joycasino-x9.xyz
 joycasino-xaf.xyz
 joycasino-xc.xyz
 joycasino-xf.xyz
+joycasino-xlt.xyz
 joycasino-xlx.xyz
 joycasino-xmf.xyz
 joycasino-xmm.xyz
 joycasino-xmr.xyz
 joycasino-xof.xyz
+joycasino-xpg.xyz
+joycasino-xpj.xyz
 joycasino-xpm.xyz
 joycasino-xpr.xyz
+joycasino-xpt.xyz
 joycasino-xrf.xyz
+joycasino-xry.xyz
 joycasino-xs0.xyz
 joycasino-xsf.xyz
 joycasino-xsi.xyz
@@ -67326,6 +67338,7 @@ joycasino42.xyz
 joycasino43.xyz
 joycasino44.xyz
 joycasino45.xyz
+joycasino46.xyz
 joycasino4win.com
 joycasino4wins.com
 joycasino5.name
@@ -67491,6 +67504,7 @@ joycasino986.com
 joycasino987.com
 joycasino988.com
 joycasino989.com
+joycasino99.xyz
 joycasino990.com
 joycasino991.com
 joycasino992.com
@@ -79247,7 +79261,6 @@ m.vavada.link
 m.vavada.one
 m.vinterfilm.cc
 m.vip-liga-stavok.com
-m.vivaro.am
 m.vk-m.ru
 m.vulcan-platinum-kasino777.com
 m.vulcanclubzz.com
@@ -93041,7 +93054,6 @@ my-casino.bet
 my-casino.life
 my-casino.net
 my-casino.ru
-my-casinogame.com
 my-casinogames.com
 my-cazinostart.com
 my-diplomchikus.com
@@ -101523,6 +101535,7 @@ partner-adnet.com
 partner-adnetw.com
 partner-ban.com
 partner-netw.com
+partner.qtx-market
 partnerad-net.com
 partnerad-netw.com
 partneradnetw.com
@@ -104207,6 +104220,7 @@ playfortuna.cloudbuddy.online
 playfortuna.cool
 playfortuna.date
 playfortuna.kz
+playfortuna.news
 playfortuna.plus
 playfortuna.uno
 playfortuna.webmister.net
@@ -106938,6 +106952,7 @@ pokerdom.mobi
 pokerdom.name
 pokerdom.network
 pokerdom.party
+pokerdom.team
 pokerdom.uno
 pokerdom.world
 pokerdom1.info
@@ -107261,7 +107276,6 @@ pornoporka.net
 pornorol.online
 pornorossia.ru
 pornoruporno.com
-pornoseks.net
 pornositexxx.info
 pornoskazka2.org
 pornoswank.com
@@ -108396,6 +108410,7 @@ prostitutkikalugirelax.info
 prostitutkikalugisee.info
 prostitutkikalugisex.com
 prostitutkikalugisite.net
+prostitutkikalugitake.info
 prostitutkikalugitop.com
 prostitutkikalugix.org
 prostitutkikalugixxx.com
@@ -108704,6 +108719,7 @@ prostitutkinizhnegotagilagid.net
 prostitutkinizhnegotagilalist.info
 prostitutkinizhnegotagilamix.net
 prostitutkinizhnegotagilamix.org
+prostitutkinizhnegotagilamuch.info
 prostitutkinizhnegotagilarelax.net
 prostitutkinizhnegotagilasex.com
 prostitutkinizhnegotagilawomen.org
@@ -121719,6 +121735,7 @@ semenacannabis.fun
 semenacannabis.space
 semenacannabis.store
 semenarastut.net
+semenarastut.org
 semenarnia-auto-seeds.ru
 semenarnia-autoseeds.ru
 semenarnia-im.ru
@@ -124523,6 +124540,7 @@ sexvspb.com
 sexy-shmeksy.net
 sexy.dosug-22.ru
 sexy.intim24.org
+sexy.intim76.com
 sexy.krasotki-vip.ru
 sexy.nalove.ru
 sexy.prostitutki72.com
@@ -138879,7 +138897,6 @@ vulcanpobeda-klub.com
 vulcanpobeda2.com
 vulcanpobeda4.com
 vulcanpobeda5.com
-vulcanpobedakasino.com
 vulcanpobedakazino.com
 vulcanprestig4.com
 vulcanprestige-club.com
@@ -139092,7 +139109,6 @@ vulkan-24.work
 vulkan-24casino.com
 vulkan-24club.net
 vulkan-24clubs.com
-vulkan-24klub.com
 vulkan-24online-official.com
 vulkan-24play.com
 vulkan-365-otzyvy.spravka-bassein1.ru
@@ -139790,7 +139806,6 @@ vulkan-vegasclub.com
 vulkan-vegasclubs.com
 vulkan-vegasklub.com
 vulkan-vegassloti.com
-vulkan-vegassloty.com
 vulkan-velkam.jk-novaya-zvezda.ru
 vulkan-vip-registratsiya.spravka-bassein1.ru
 vulkan-vip.azurewebsites.net
@@ -143092,6 +143107,7 @@ wap.betcity-clad.space
 wap.betcity-ctcc.space
 wap.betcity-dxox.space
 wap.betcity-dyub.space
+wap.betcity-ekia.space
 wap.betcity-fhjq.space
 wap.betcity-fmvs.space
 wap.betcity-fzep.space
@@ -143577,7 +143593,6 @@ wik.tiviha.su
 wik3k-azino777.icu
 wiki.asmlocator.ru
 wikiadvoderzh.ru
-wikimovies.ru
 wikimultia.zfilm-hd-1240.online
 wilbourn.mobileroulette.xyz
 wild-onlinecasino316.ru
@@ -146668,6 +146683,7 @@ www.betcity-cqcn.space
 www.betcity-ctcc.space
 www.betcity-dxox.space
 www.betcity-dyub.space
+www.betcity-ekia.space
 www.betcity-ekia.tk
 www.betcity-fasf.space
 www.betcity-fcei.space
@@ -149847,7 +149863,6 @@ www.one-casino.net
 www.onebanan.com
 www.onetwo8casino.com
 www.onetwocasino.ru
-www.onfilmz.net
 www.onk5zx.site
 www.onlainslots.com
 www.onlaynkazinorossiya.com
