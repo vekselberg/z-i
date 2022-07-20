@@ -17768,11 +17768,11 @@ ARRAY(0x8337be120)
 ARRAY(0x8374dd198)
 ARRAY(0x83c4f68a0)
 ARRAY(0x83ca5f510)
-ARRAY(0x83cbcfa50)
 ARRAY(0x8ae9f1288)
 ARRAY(0x8af2ffc18)
 ARRAY(0x8af6ff750)
 ARRAY(0x8afe89ed0)
+ARRAY(0x8b043ede0)
 ARRAY(0x8b15ea8b8)
 ARRAY(0x8b361b438)
 ARRAY(0x8b428f258)
@@ -31932,6 +31932,7 @@ bet.1xbet-lks.site
 bet.4club-vulkan24.com
 bet.casino-vulcan14.com
 bet.casino-vulkan46.com
+bet.gunsbet.com
 bet.onlinefonbet.ru
 bet.pin-up.tech
 bet.vn24.club
@@ -82256,7 +82257,6 @@ med.vipdocs-medkdl1.com
 med1.proektgn.online
 med1.ufa-sirrena.com
 med1.vlg-farmmed.com
-med152.ru
 med172.ru
 med47.ru
 med495online.com
@@ -96462,6 +96462,7 @@ nuts.bet
 nutsbet2.com
 nuttydaily.site
 nuxe2qfx.club
+nuzhnyj.okd1.ru
 nv4w4.72ofgk3cu.icu
 nvchmkix.olimp2f56.xyz
 nveagddl.olimpw672.xyz
@@ -145363,6 +145364,7 @@ ww9.technom.su
 wwbzw-azino777.icu
 wwc24-biz.tras.city
 wwe.goldsong.fun
+wwe.vtrahe.pro
 wwh.ug
 wwjwmst3q8i.com
 wwl3mstmyhz.com
@@ -148728,7 +148730,6 @@ www.kinozz-hd.club
 www.kinozzz.online
 www.kinuxa.ru
 www.kionotik.site
-www.kitobz.com
 www.kl2.life
 www.klad24.xyz
 www.klapshtos.ru
