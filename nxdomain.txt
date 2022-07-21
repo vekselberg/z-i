@@ -17795,17 +17795,16 @@
 ARRAY(0x83428a030)
 ARRAY(0x834a593f0)
 ARRAY(0x835928690)
+ARRAY(0x837694f60)
 ARRAY(0x83908f540)
 ARRAY(0x83af58168)
 ARRAY(0x83fe37a38)
 ARRAY(0x84135fe88)
 ARRAY(0x8ae1489a8)
-ARRAY(0x8b043ede0)
 ARRAY(0x8b0bb8330)
 ARRAY(0x8b5dcbd38)
 ARRAY(0x8b79948b8)
 ARRAY(0x8b98b0e58)
-ARRAY(0x8b9f30cc0)
 ARRAY(0x8bb0bea98)
 ARRAY(0x8bd88de58)
 a-bets63.top
@@ -43994,6 +43993,7 @@ casinosru.online
 casinosru.org
 casinosru1.online
 casinoss-pm.xyz
+casinoss.me
 casinossbest.ru
 casinossl.club
 casinossl.info
@@ -48481,7 +48481,6 @@ diplomx-vladivostok.com
 diplomxlike.com
 diplomxxlike.com
 diplomy-56.com
-diplomy-71.com
 diplomy-areass.com
 diplomy-groups24.com
 diplomy-kemerovo.com
@@ -49021,7 +49020,6 @@ dostawca-nsk54.site
 dostawka-nsc54.site
 dostawka-nsk54.site
 dostfilms.in
-dostravel.kz
 dostup-bk.company
 dostup-bk24.website
 dostup-marafon.com
@@ -49642,7 +49640,6 @@ e100.fisher-1.ru
 e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
-e104.fisher-1.ru
 e105.fisher-1.ru
 e106.fisher-1.ru
 e107.fisher-1.ru
@@ -59246,6 +59243,7 @@ goldfishka90.com
 goldfishka91.com
 goldfishka92.com
 goldfishka93.com
+goldfishka94.com
 goldfishka96.com
 goldfishka98.com
 goldfishkaa.online
@@ -122244,6 +122242,7 @@ serial.zfilm-hd-1149.online
 serial.zfilm-hd-628.online
 serial.zfilm-hd-950.online
 serial14you.net
+serial2.utama.ru
 serial2.utama2.ru
 serial2019.ru
 serial2019hd.ru
@@ -126055,7 +126054,6 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
-slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -130002,6 +130000,7 @@ supersbezdep.club
 supersbezdeps.club
 superscasino.club
 superscasino.com
+superscasino.me
 superscasino.online
 superslot-casino.azurewebsites.net
 superslot-casino.org
@@ -154004,6 +154003,7 @@ xn----777-4ve8czbqe.xn--p1ai
 xn----7sbaabd4bfjpc3bfiqc1b.xn--p1ai
 xn----7sbaabfl2bc6afgeebtp8bg6x.xn--p1ai
 xn----7sbaahbpcj4h.xn--p1ai
+xn----7sbabahil4ay8amudfl.xn--p1ai.xn--80aaefxpuwl.xn--p1ai
 xn----7sbabgcf4dxaknn.xn--p1ai
 xn----7sbabhc7ccruemlj.xn--p1ai
 xn----7sbabjde2ajc0br8byk.xn--p1ai
@@ -155489,7 +155489,6 @@ zag.f-torrent.ru
 zagonka-hd.top
 zagonka.ru
 zagorod.vip
-zagruzi.tv
 zagruzka24.ru
 zagruzmp3.ru
 zags-mytischi.ru
