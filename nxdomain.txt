@@ -15799,6 +15799,7 @@
 777-online-games.advertcopy.ru
 777-online.info
 777-original.top
+777-original.win
 777-pin-up.fun
 777-pinup.fun
 777-planet-casino.lplimits.ru
@@ -17797,6 +17798,7 @@ ARRAY(0x834a593f0)
 ARRAY(0x835928690)
 ARRAY(0x837694f60)
 ARRAY(0x83908f540)
+ARRAY(0x839ba5348)
 ARRAY(0x83af58168)
 ARRAY(0x83fe37a38)
 ARRAY(0x84135fe88)
@@ -48252,6 +48254,7 @@ diplomiatiki.com
 diplomibayer.com
 diplomibayers.com
 diplomik24.com
+diplomikgroup.com
 diplomiks-onlines.com
 diplomiks24.com
 diplomis-24.com
@@ -49640,6 +49643,7 @@ e100.fisher-1.ru
 e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
+e104.fisher-1.ru
 e105.fisher-1.ru
 e106.fisher-1.ru
 e107.fisher-1.ru
@@ -51581,6 +51585,7 @@ f.sofosbuvir-market.ru
 f0.spon.live
 f00.kinomodus.xyz
 f002.fisher-r.ru
+f003.fisher-r.ru
 f004.fisher-r.ru
 f006.fisher-f.ru
 f007.fisher-f.ru
@@ -63118,7 +63123,6 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.ginonet1.net
 i.info.betcityaccess.com
-i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
