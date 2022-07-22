@@ -17867,7 +17867,6 @@
 ARRAY(0x8345cc1e0)
 ARRAY(0x836185048)
 ARRAY(0x836e8c318)
-ARRAY(0x837694f60)
 ARRAY(0x839ba5348)
 ARRAY(0x83cf83948)
 ARRAY(0x83e97c828)
@@ -17879,6 +17878,7 @@ ARRAY(0x8b1a5c3c0)
 ARRAY(0x8b8cfd420)
 ARRAY(0x8b9bcec78)
 ARRAY(0x8baadd600)
+ARRAY(0x8bd459b88)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -23174,7 +23174,6 @@ arbitrazhtraff.online
 arbitrazhtraff.xyz
 arbtula.ru
 arc-an-siel.ru
-arc.lis2.ga
 arc.lis4.ga
 arc.lis6.ga
 arc.lis7.ga
@@ -23187,6 +23186,7 @@ archerypinn3.live
 archigermany.ru
 archpointkids.ru
 arcobaleno-foto.ru
+arcoins.site
 areal-ex.ru
 arealcasino.com
 arealputan.lensey.ru
@@ -32762,6 +32762,7 @@ betmel.xyz
 betmem.xyz
 betmfans.ru
 betmig.xyz
+betminer.fun
 betmir.azurewebsites.net
 betmir.biz
 betmir.info
@@ -45116,6 +45117,7 @@ centerkurs.ru
 centerleg.ru
 centerloans.site
 centerstars.ru
+centminer.site
 centr-astor.com
 centr-med-bryanskk.ru
 centr-med-habarovck.ru
@@ -45167,6 +45169,7 @@ cfd.ssgp.io
 cfd25d.olimpcaf3.top
 cfd6f7.olimp0115.top
 cfdcontract.com
+cfdmining.site
 cfebxris.olimptk63.xyz
 cffltd.com
 cfmelnqbdo.top
@@ -47781,6 +47784,7 @@ deco28.lostfilm1.online
 decor4dom.ru
 ded154.olimp0115.top
 deepfrx.trade
+def-mining.online
 defeatmbetbest.top
 deka-moskva.club
 deka-spb.club
@@ -48034,6 +48038,7 @@ devki116.link
 devvsn0de.icu
 devzonestudio.com.ua
 dewris.space
+dexmining.fun
 deyo.tvfilms.club
 df.spon.live
 df0431.olimpfc65.top
@@ -49712,7 +49717,9 @@ e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
 e104.fisher-1.ru
+e105.fisher-1.ru
 e106.fisher-1.ru
+e107.fisher-1.ru
 e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -61035,6 +61042,7 @@ hd.kinoonlinego.com
 hd.kinoonlines.site
 hd.kinopools.cc
 hd.kinopools.com
+hd.kinopools.lol
 hd.kinorezka.ru
 hd.kinoshki1080.club
 hd.kinosmak.online
@@ -75778,6 +75786,7 @@ leonmelbet4.com
 leonn24chasa-onlim.ru
 leonpassednl.com
 leonru.xyz
+leonser.fun
 leonsh0p.store
 leonsport.net
 leontest-prhub-001.com
@@ -77683,6 +77692,7 @@ lordfilms.uno
 lordfilms.wiki
 lordfilms1.online
 lordfilms1.tv
+lordfilms2.org
 lordfilms2.xyz
 lordfilms3.club
 lordfilms4.link
@@ -78392,6 +78402,7 @@ lr2019.ru
 lr54tc3game7.com
 lr7w6-azino777.icu
 lrd.lordfilm.tk
+lrdfilm1.xyz
 lregbukmekersx404.top
 lrflzwcf.site
 lrfsh0p.site
@@ -78714,6 +78725,7 @@ lux3.vip
 lux555.vip
 lux777.vip
 lux9.vip
+luxbit.site
 luxdiplomi.com
 luxe.replica--club.ru
 luxecash.online
@@ -85129,6 +85141,8 @@ minex.world
 mini-tor.top
 minick.biz
 miniclips.pk
+mining-cash.online
+miningrub.online
 miningu.ru
 minizal.su
 minjust-ryazan.ru
@@ -109919,6 +109933,7 @@ psdss.ru
 pse3zub.org
 pserial.ru
 psk-diplomas.com
+psk-diplomys.com
 pskov.15dnei-y.com
 pskov.attestatuti.com
 pskov.damdiplomsa.com
@@ -119974,6 +119989,7 @@ ruazino-mobile.site
 ruazino.site
 ruazino777.site
 ruazinomobile.site
+rub-minings.online
 rub.vulcan-casino-official11.com
 rubanner.ru
 rubbonus.ru
@@ -136602,6 +136618,8 @@ vdzw.greyoyster.org
 ve6ng5jb.com
 ve9zisaj7d.site
 vebdisayn.ru
+vebmining.cloud
+vebuls.fun
 vector-pushkino.ru
 vedarun.ru
 vedinfo.net
@@ -136787,6 +136805,7 @@ vesta58.ru
 vesti-rzn.ru
 vestnik-educ24.com
 vestvai.com
+vetbix.fun
 vev.goldsong.fun
 vevo-mp3.ru
 vevobahis10.com
@@ -145263,6 +145282,7 @@ withball.fun
 witshin.fun
 wiw.goldsong.fun
 wiwsovvz.relationshipbuildinginstitute.com
+wixminer.online
 wizbet.ru
 wizhdsports.net
 wjlxranu.olimp67zf.xyz
@@ -158422,6 +158442,7 @@ zlub7-azino777.icu
 zm0fmlm.icu
 zmail.freehd.com.ua
 zmh193j.icu
+zmining.online
 zmk-marcus.ru
 zmk-msk.ru
 zmk-music.ru
@@ -158564,6 +158585,7 @@ zstz2hk1.space
 zsuperomatic.biz
 zsw0pnx.icu
 zt1anxvhdo.top
+ztcoin.site
 ztfilms.zetfilms.online
 ztgmhghs.olimpl44l.xyz
 zthv7-azinomobile.icu
