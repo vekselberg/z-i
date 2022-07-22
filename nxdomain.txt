@@ -17868,6 +17868,7 @@ ARRAY(0x8345cc1e0)
 ARRAY(0x836185048)
 ARRAY(0x836e8c318)
 ARRAY(0x83cf83948)
+ARRAY(0x83e0eb348)
 ARRAY(0x83e97c828)
 ARRAY(0x840668810)
 ARRAY(0x8407e83f0)
@@ -21441,7 +21442,6 @@ alcaklab24.club
 alcaklab24.co
 alcaklab24.shop
 alcamak66.co
-alcamz.cc
 alcanight174.store
 alcapulya196.ru
 alcapulya296.online
@@ -50261,6 +50261,7 @@ efortuna-cod-promotional.leopold-nn.ru
 efpithea.fun
 efqcjg.best
 efqp54y.host
+ega.bet
 egabet.org
 eganadrid.top
 egcmdywr.olimppjyt.xyz
@@ -61331,7 +61332,6 @@ hd1080-serial.ru
 hd1080.2021-kino.online
 hd1080.baskino1.top
 hd1080.baskino3.xyz
-hd1080.baskino5.site
 hd1080.biz
 hd1080.filmive-hd.club
 hd1080.firebros.top
@@ -63236,6 +63236,7 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.ginonet1.net
 i.info.betcityaccess.com
+i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -64167,7 +64168,6 @@ igrovye-avtomaty-world.online
 igrovye-avtomaty.azart-online.net
 igrovye-avtomaty.azurewebsites.net
 igrovye-avtomaty.bsimie.ru
-igrovye-avtomaty.club
 igrovye-avtomaty.igrovoy-zal.com
 igrovye-avtomaty.joycasino.life
 igrovye-avtomaty.su
@@ -66853,6 +66853,7 @@ joycasino-msd.xyz
 joycasino-msi.xyz
 joycasino-msv.xyz
 joycasino-mvd.xyz
+joycasino-ni.xyz
 joycasino-nic.xyz
 joycasino-nl.xyz
 joycasino-nna.xyz
@@ -67237,6 +67238,7 @@ joycasino-x86.xyz
 joycasino-x9.xyz
 joycasino-xadd.xyz
 joycasino-xaf.xyz
+joycasino-xb.xyz
 joycasino-xba.xyz
 joycasino-xc.xyz
 joycasino-xf.xyz
@@ -74090,7 +74092,6 @@ kupit-ydo.com
 kupit.dzheneriki.online
 kupit.legalklad.xyz
 kupit.shopspravki.top
-kupit.viski-spb.ru
 kupitdiplom-2.net
 kupitdiplom-3.net
 kupitdiplom-4.net
@@ -79328,7 +79329,6 @@ m.ligast1.bet
 m.ligast2.bet
 m.ligastavok-vip.com
 m.ligastavok25.com
-m.lis2.ga
 m.lis4.ga
 m.lis6.ga
 m.lis7.ga
@@ -84570,7 +84570,6 @@ mercymachineplay.com
 meridianshop.ru
 meritgroup.trade
 meritiran.com
-meriv.tvlost.me
 merkur-spielautomaten-bestes-spiel.quantumbuilding.biz
 merkurii-stop.shop
 merkurii-stop.site
@@ -107668,6 +107667,7 @@ ponomarev2014.ru
 pool.startmail.com
 pooldrop.top
 pop.55ledy.com
+pop.alkoeburg20.ru
 pop.kinogo-kinozz.ru
 pop.litvik.ru
 pop.see-me.ru
@@ -137565,7 +137565,6 @@ vktsu.ru
 vkuchnyashka.ru
 vkusvill-dostavka.com
 vkuswill-dostavka.com
-vkuswill.com
 vkwopidserqs.site
 vl-kon.ru
 vl.best-vulkan.online
@@ -147163,7 +147162,6 @@ www.baskino-hd2.best
 www.baskino-hd2.xyz
 www.baskino2018.space
 www.baskino2019.online
-www.baskino5.site
 www.baskinoclub.ru
 www.baskinohd.top
 www.basshunter.online
@@ -147435,7 +147433,6 @@ www.betin.com
 www.betin76.com
 www.betinsports.pro
 www.betlatina.ag
-www.betlive88.com
 www.betmarathonbet.win
 www.betmarathonbetting.com
 www.betmira.net
@@ -148959,7 +148956,6 @@ www.hitluck-english.com
 www.hitluck-russian.com
 www.hitmp3.ru
 www.hitov.net
-www.hizbuttahrir.info
 www.hobitalfxtrade.com
 www.holastyak-tv.ru
 www.holgor.ru
