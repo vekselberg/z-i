@@ -17872,13 +17872,12 @@ ARRAY(0x83e0eb348)
 ARRAY(0x83e97c828)
 ARRAY(0x840668810)
 ARRAY(0x8407e83f0)
-ARRAY(0x840c69600)
 ARRAY(0x8af16c8e8)
+ARRAY(0x8b0a674c8)
+ARRAY(0x8b0f4dfd8)
 ARRAY(0x8b6c6f9a8)
 ARRAY(0x8b73d9738)
-ARRAY(0x8b8cfd420)
 ARRAY(0x8b9bcec78)
-ARRAY(0x8baadd600)
 ARRAY(0x8bd459b88)
 a-bets63.top
 a-bt56.top
@@ -20177,6 +20176,7 @@ agentjwfmuvksdisd.azureedge.net
 agentkpygwpafwwix.azureedge.net
 agentnsmswkwhifda.azureedge.net
 agentomzchdlzkuuh.azureedge.net
+agentpcobwwyknrhd.azureedge.net
 agentpdivftelbeay.azureedge.net
 agentqkleawacpzqb.azureedge.net
 agentqoqjnxcgbqlw.azureedge.net
@@ -21477,6 +21477,7 @@ alco-magazin002.site
 alco-magazin009.site
 alco-magazin011.site
 alco-magazin012.site
+alco-magazin020.site
 alco-magazin79.site
 alco-magazin82.site
 alco-magazin84.site
@@ -21559,7 +21560,6 @@ alcocity1313.xyz
 alcocity154.fun
 alcocity54.fun
 alcodost0050.pw
-alcodostavka.com
 alcoexpress010.xyz
 alcoexpress02.xyz
 alcoexpress03.xyz
@@ -21587,6 +21587,7 @@ alcoexpress21.xyz
 alcoexpress23.xyz
 alcoexpress27.xyz
 alcoexpress33.xyz
+alcoexpress36.xyz
 alcoexpress66.ru
 alcoexpress67.ru
 alcofast27.xyz
@@ -21748,10 +21749,12 @@ alcostock1313.xyz
 alcotaxi1.xyz
 alcotaxi3.xyz
 alcotaxi4.xyz
+alcotaxi6.xyz
 alcotaxi7.ru
 alcotime01.site
 alcotime010.xyz
 alcotime02.xyz
+alcotime024.site
 alcotime03.xyz
 alcotime04.xyz
 alcotime05.xyz
@@ -22276,7 +22279,6 @@ alotgames.org
 aloxa.tntx.ru
 alpari.company
 alpha32.ru
-alphacanabis.com
 alphacinema.me
 alphacinema.tv
 alphaguide.ru
@@ -23635,7 +23637,6 @@ at2ux3me.website
 at4c64f0dq.srcl.connect.netcdn.bcdl.rocks
 at9m6c8k8.icu
 ataspor5.net
-ataspor6.net
 atc-g.ru
 ateka.site
 atelierhome.ru
@@ -24614,6 +24615,7 @@ azatlcitnedqhpdcm.azureedge.net
 azatlcjzstvsjiycz.azureedge.net
 azatlcxhkohdzwesl.azureedge.net
 azatldijeaiupfqql.azureedge.net
+azatldvpexxqxeqfp.azureedge.net
 azatlelsqaywkyzyw.azureedge.net
 azatlfzcooxegveqh.azureedge.net
 azatlgwhgxuwztphj.azureedge.net
@@ -30478,6 +30480,7 @@ bbctifrkkwggffx.azureedge.net
 bbctmmminypnmai.azureedge.net
 bbcuekafmazxsbj.azureedge.net
 bbcuyornmqwamgn.azureedge.net
+bbcvubxbnlfbvqt.azureedge.net
 bbcxljrndsyslhi.azureedge.net
 bbe824.olimp31d2.top
 bbekmf.top
@@ -35111,6 +35114,7 @@ bezdep2.space
 bezdep2020.ru
 bezdep2020.site
 bezdep2021.online
+bezdep2021.space
 bezdep3.one
 bezdep3.space
 bezdep4.one
@@ -36691,7 +36695,6 @@ bkin-14472.space
 bkin-14475.space
 bkin-14483.website
 bkin-14487.space
-bkin-14488.space
 bkin-14490.space
 bkin-14493.website
 bkin-14495.space
@@ -36705,7 +36708,6 @@ bkin-14516.xyz
 bkin-14517.top
 bkin-14518.space
 bkin-14519.top
-bkin-14520.website
 bkin-14526.website
 bkin-14529.website
 bkin-14531.space
@@ -38078,6 +38080,7 @@ bonus-100000rub.site
 bonus-1xbet.info
 bonus-300-ruble-v-kazino.downloadpdfebuk5.info
 bonus-3000-rub.site
+bonus-3000rub.site
 bonus-5000rub.xyz
 bonus-777-azino777.ru
 bonus-8000-rub.site
@@ -38091,6 +38094,7 @@ bonus-bez-depozita-kazino.date
 bonus-bez-depozita.su
 bonus-bezdep.info
 bonus-bezdep.net
+bonus-bezdep.online
 bonus-bezdep.ru
 bonus-casino-2018.info
 bonus-casino-888.info
@@ -38336,9 +38340,11 @@ bonustawkazina.com
 bonustawkazino.com
 bonustawkazino.ru
 bonustop.info
+bonustop.site
 bonustopcasino.site
 bonusupcasinoorvulkan.info
 bonusvlc.com
+bonusvsem.space
 bonusvulcan.com
 bonusvulkan.com
 bonusvulkangrand.com
@@ -40178,6 +40184,7 @@ casino-bonus333s.space
 casino-bonus444.space
 casino-bonus555.space
 casino-bonusi.ru
+casino-bonusi.space
 casino-bonusi.xyz
 casino-booi-money.ru
 casino-booi-new.ru
@@ -40350,6 +40357,7 @@ casino-eurogrand.com
 casino-eurogrand.ru
 casino-everum.ru
 casino-evrogrand.ru
+casino-expert.site
 casino-f.site
 casino-f1.site
 casino-f10.site
@@ -41109,6 +41117,7 @@ casino-slot-v.site
 casino-slot-v.tech
 casino-slot-v.website
 casino-slot.xyz
+casino-sloti.site
 casino-slotn.info
 casino-slotokesh.slaves4u.com
 casino-slotoking.ru
@@ -41414,6 +41423,7 @@ casino-vulkan-officialniy10.site
 casino-vulkan-officialniy11.site
 casino-vulkan-officialniy12.site
 casino-vulkan-officialniy13.site
+casino-vulkan-officialniy14.site
 casino-vulkan-officialniy2.site
 casino-vulkan-officialniy3.site
 casino-vulkan-officialniy4.site
@@ -47125,6 +47135,7 @@ curresfrnkyxlpauj.azureedge.net
 curresliyyxwptzfa.azureedge.net
 currestoymtquzfsu.azureedge.net
 curretdvyqdmkgdek.azureedge.net
+curretjsnbkfvzfjg.azureedge.net
 curretxqvtbohddtw.azureedge.net
 currevkhxuznfjrjw.azureedge.net
 curreyjsrtoucmyds.azureedge.net
@@ -49490,7 +49501,6 @@ duty-free-alco12.com
 duty-free-alco6.com
 duty-free-alco7.com
 duty-free-alco9.com
-duty-free.viski-spb.ru
 dutyfreealko10.com
 dutyfreealko4.com
 duvgctbq.olimpu6rz.xyz
@@ -50503,6 +50513,7 @@ ekhoknrimitupjzul.azureedge.net
 ekhokoiblvnmzygij.azureedge.net
 ekhokpxyrqpxijjnz.azureedge.net
 ekhokqxrrdlisjxqf.azureedge.net
+ekhokqznqytqzjsii.azureedge.net
 ekhokrareoywldqlp.azureedge.net
 ekhokspfoujmsncwa.azureedge.net
 ekhoksxpubzlqbyms.azureedge.net
@@ -51285,7 +51296,6 @@ erh8w-azinomobile.icu
 ermak-1.ru
 ermak-med.ru
 ermci.ru
-erokomiksi6.com
 erokomiksi7.com
 erokomiksi8.com
 eromix.su
@@ -51680,7 +51690,6 @@ f.sofosbuvir-market.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
-f001.fisher-r.ru
 f002.fisher-r.ru
 f003.fisher-r.ru
 f004.fisher-r.ru
@@ -52007,6 +52016,7 @@ factodinmpfrgyhss.azureedge.net
 factodnyulihukptc.azureedge.net
 factodquewabafvfu.azureedge.net
 factoeiczkapnmyaw.azureedge.net
+factoekcihrrvzoqy.azureedge.net
 factoeovukechljod.azureedge.net
 factoesuytrnswyfq.azureedge.net
 factofanfcmihorhb.azureedge.net
@@ -59439,6 +59449,7 @@ golosgnjgtznxcvkp.azureedge.net
 golosgtnxsnlhjhyu.azureedge.net
 golosgzjloqewpsmq.azureedge.net
 goloshdilvzpivlte.azureedge.net
+goloshldwkttytomn.azureedge.net
 golosihcojzpxcllr.azureedge.net
 golosisbhsfbxzwrd.azureedge.net
 golosivaxzaomwmcx.azureedge.net
@@ -60386,7 +60397,6 @@ guteli.info
 gutelu.info
 gutely.info
 gutfilms.ru
-gutfilms.space
 guzman.startmail.com
 gv6q02uemst.com
 gvdk1ralv4mst.com
@@ -62731,6 +62741,7 @@ hydra-relax.net
 hydra-sait.cc
 hydra-shops.com
 hydra-shops.net
+hydra-site.xyz
 hydra-slon.org
 hydra-ssylka-zerkalo.hydra-site-2021.com
 hydra-ssylka.hydra-site-2021.com
@@ -63512,7 +63523,6 @@ idealural.host
 idealurali.host
 idealurall.host
 idealuraller.host
-ideameglobal.com
 ideika-biznesy.online
 ideika-biznesy.ru
 idel-ural1.ru
@@ -63545,6 +63555,7 @@ idelrojfvejkxzpse.azureedge.net
 idelrpddzgqzsnxnr.azureedge.net
 idelrptnpgkvubukx.azureedge.net
 idelrpwjujjwugaaa.azureedge.net
+idelrqkidmpwvdree.azureedge.net
 idelrrccvpgytzmac.azureedge.net
 idelrsxdajfszpdgj.azureedge.net
 idelrsysngprzhdpz.azureedge.net
@@ -65392,6 +65403,7 @@ istoritdqcjqwbpus.azureedge.net
 istorkatvhkxjgpnq.azureedge.net
 istorklmhymqasrvc.azureedge.net
 istorkoudfnvmfcew.azureedge.net
+istorkvsjwxstjwma.azureedge.net
 istorncdmjzkouwwe.azureedge.net
 istorpbhyfkudfpgr.azureedge.net
 istorpsraawfgboic.azureedge.net
@@ -68982,6 +68994,7 @@ kavkakkznsdflhpvm.azureedge.net
 kavkakuvtoexasklr.azureedge.net
 kavkalrftonqleaaa.azureedge.net
 kavkamrtmpdmykgxd.azureedge.net
+kavkapbuklqdeokib.azureedge.net
 kavkapmpsnxffbzbf.azureedge.net
 kavkaqksfjafwktkj.azureedge.net
 kavkaqmdptuxyjlwu.azureedge.net
@@ -73926,6 +73939,7 @@ krymrrbtzfhdeckvz.azureedge.net
 krymrrrxbrjpffeyq.azureedge.net
 krymrtduezmvzkhac.azureedge.net
 krymrtdymedikhgun.azureedge.net
+krymrtyfexcoxhhqh.azureedge.net
 krymrubmcmopgsoty.azureedge.net
 krymruwyjwarfvoia.azureedge.net
 krymrwfhlojdgtzyj.azureedge.net
@@ -77438,7 +77452,6 @@ lord2.videocdn.pw
 lord23-film.lordfilmu.ru
 lord24-film.lordfilmu.ru
 lord29.lordflix.net
-lord2film.online
 lord3-film.lordfilm-x.online
 lord3-filmhd.lordfilm-x.online
 lord3-filmhdr.lordfilm-x.online
@@ -79329,6 +79342,7 @@ m.ligast1.bet
 m.ligast2.bet
 m.ligastavok-vip.com
 m.ligastavok25.com
+m.lis2.ga
 m.lis4.ga
 m.lis6.ga
 m.lis7.ga
@@ -87649,6 +87663,7 @@ mopscasino.fun
 mopscasino1.fun
 mopscasino11.fun
 mopscazino.fun
+mopscazlino.site
 mor82-azinomobile.host
 morbet.ru
 morbetz.ru
@@ -98715,7 +98730,6 @@ onedeluxe.online
 onegowin.top
 onegowinz.top
 onepisode.me
-oneporno.cc
 oneredbox.org
 oneserials.online
 onesports.space
@@ -99120,6 +99134,7 @@ online-casinos10.pro
 online-casinos11.pro
 online-casinos12.pro
 online-casinos13.pro
+online-casinos14.pro
 online-casinos2.com
 online-casinos2.pro
 online-casinos3.pro
@@ -99357,7 +99372,6 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.net
 online.games-slots.com
 online.gidonline-1176.site
@@ -100789,7 +100803,6 @@ paramushir.ru
 parasino15.com
 parazetka.torrent-filmy.ru
 parazit.xyz
-parelsvanhetnoorden.com
 paren-vyigral-v-kazino-onlayn.upcasinor-tmmvulkan.info
 parent-school.ru
 pari-mail10.com
@@ -111028,6 +111041,7 @@ radiooacummiawxvbsfj.azureedge.net
 radiooayduoitgauf.azureedge.net
 radioocadyevlfjjc.azureedge.net
 radioojkwfkzmtyjd.azureedge.net
+radiooxqmjytjqnty.azureedge.net
 radiopghpdojvlhzy.azureedge.net
 radioplcmekzkvrcx.azureedge.net
 radioqyaificxijad.azureedge.net
@@ -112210,7 +112224,6 @@ refpakbrlbrs.top
 refpakbz.top
 refpakbzrgfh.top
 refpakccvqqu.top
-refpakchdg.space
 refpakckmjls.best
 refpakcsgvry.top
 refpakctsh.top
@@ -112557,7 +112570,6 @@ refpaptvzj.top
 refpaputme.top
 refpapvlucxn.top
 refpapvn.top
-refpapvvru.space
 refpapwmmm.top
 refpapwyhg.top
 refpapxags.top
@@ -121195,6 +121207,7 @@ s1.tryserial.name
 s1.tryserial.space
 s1.viduck.cc
 s1.vse-chasti.ru
+s1.vsetorrent.org
 s1.vulkan.services
 s1.xattab.games
 s1.xn--c1ajfnfb.su
@@ -122220,7 +122233,6 @@ semensloto.ru
 semenslotov.com
 semenslotov.ru
 semenslots.site
-semenslotscasino.com
 semenslotscaslno.com
 semenslotss.ru
 semenssioto.ru
@@ -122241,6 +122253,7 @@ semnabxjidpjunqky.azureedge.net
 semnafftnnttkexrt.azureedge.net
 semnafrjahkoeeicz.azureedge.net
 semnagtdcfhsejlxv.azureedge.net
+semnahudnxdwthkwv.azureedge.net
 semnamhrxvckdjeen.azureedge.net
 semnangtkximcblvy.azureedge.net
 semnantscjechynqw.azureedge.net
@@ -122380,6 +122393,7 @@ serialbot.ru
 serialbox.biz
 serialbox.fun
 serialbox.kinogo-hd.icu
+serialbox.org
 serialbox.pickfilm.monster
 serialbox.pw
 serialcat.club
@@ -122776,6 +122790,7 @@ severutkihwynyifw.azureedge.net
 severveevcdjtssia.azureedge.net
 severwjrhgjgqxovd.azureedge.net
 severxfmeppeohqsl.azureedge.net
+severxhzdqgogvjro.azureedge.net
 severxqbqhvirgzrw.azureedge.net
 severxrowjhcadprr.azureedge.net
 severxyjgtsyujzjn.azureedge.net
@@ -125415,6 +125430,7 @@ sibrebnhipqfmtvbv.azureedge.net
 sibrebxakpshmluzd.azureedge.net
 sibrechbsqrpdephs.azureedge.net
 sibrecmnmziutnule.azureedge.net
+sibrecmwmaftzaptg.azureedge.net
 sibredtirjiojknfx.azureedge.net
 sibreepbmvibrtvef.azureedge.net
 sibreewmfvyxgbqck.azureedge.net
@@ -126216,7 +126232,6 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
-slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -126784,6 +126799,7 @@ slottxclub.org
 slotty-vegas-kazino-otzivy.all4wargames.ru
 slottywaycasino.club
 slottywaykasino.club
+slotu.club
 slotu.info
 slotu.me
 slotu.russavtomat.ru
@@ -130368,6 +130384,7 @@ svobogsdlarzksorv.azureedge.net
 svoboiyfxqhsbffld.azureedge.net
 svobojdljerkteahg.azureedge.net
 svobojqxhkyghhxpm.azureedge.net
+svobojvqzphwyfjoz.azureedge.net
 svobokhtoyfmrvsjm.azureedge.net
 svoboluvtdkjstmtl.azureedge.net
 svobonykuloarbggj.azureedge.net
@@ -132496,6 +132513,7 @@ torrentin.org
 torrentinka.ljucifer.com
 torrentinka.zfilm-hd.ink
 torrentinki.com
+torrentino.info
 torrentino.su
 torrentinos.info
 torrentiz.org
@@ -135204,7 +135222,9 @@ va-banks.net
 va-va-da.org.ru
 va.vavadawi.com
 va5623osc6u.top
+vaaavaaadaa.online
 vaaavaaadaa.ru
+vaavaadaa.online
 vaavaadaa.ru
 vabanc-casino.com
 vabanc-casino.ru
@@ -137564,7 +137584,6 @@ vkrtroc4mstru.com
 vktsu.ru
 vkuchnyashka.ru
 vkusvill-dostavka.com
-vkuswill-dostavka.com
 vkwopidserqs.site
 vl-kon.ru
 vl.best-vulkan.online
@@ -138375,6 +138394,7 @@ voshodbank.com
 voskresensk.prostitutki-13.com
 voskresenskie-usadby.ru
 vospitanie-online.ru
+vostok777.xyz
 vostokcasino.xyz
 vostokclub.xyz
 vot.takoe-kino.com
@@ -140309,7 +140329,6 @@ vulkan-slots-official.com
 vulkan-slots.casino
 vulkan-slots.com
 vulkan-slots.fun
-vulkan-slots.space
 vulkan-slots.store
 vulkan-slots.tech
 vulkan-slots.website
@@ -147959,6 +147978,7 @@ www.casino-royale-online.com
 www.casino-ruletka.net
 www.casino-ruletka.org
 www.casino-s-vyvodom.com
+www.casino-sloti.site
 www.casino-spin.net
 www.casino-stavka.com
 www.casino-velkam10.co
@@ -148092,7 +148112,6 @@ www.cmstrader.com
 www.cn-studio.online
 www.cofn-gov.com
 www.comarathonbet.win
-www.comggg.com
 www.commandante.ru
 www.compass-yur.ru
 www.comprefloridalottoonline.com
@@ -148219,7 +148238,7 @@ www.dostavka-alcohol-mosk2.site
 www.dostavka-alcohol-msk.site
 www.dostavka-alcoholl-mosk.site
 www.dostavka-alcoholl-mosk1.site
-www.dostavka-alcoholl-mosk2.site
+www.dostavka-alcoholl-mosk3.site
 www.dostavka-piva-mosk.site
 www.dostavka-piva-mosk5.site
 www.dostavka-piva-msk.site
@@ -150403,7 +150422,6 @@ www.offvulcan.ru
 www.ofprogi.ru
 www.ofx.xyz
 www.oglavnom-online.ru
-www.ogolbet.com
 www.ogrik.ru
 www.ohmymarathon.win
 www.oj5zaw.site
@@ -151553,6 +151571,7 @@ www.sextube.com
 www.sferastudio.ru
 www.sh0p.rosall24.ru
 www.shadrikov.ru
+www.shama24rc.biz
 www.shame.am
 www.shanson-casino.com
 www.sharm-style.ru
@@ -153953,6 +153972,7 @@ xbxpb-azinomobile.icu
 xby-azinomobile.icu
 xc.lordfilmsbs.com
 xc.onlinehd.plus
+xcase.best
 xcase.fun
 xcase.pw
 xcase.su
