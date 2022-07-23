@@ -2096,6 +2096,7 @@
 1316azm.host
 131b0d.olimpb4cc.top
 131joycasino.com
+131joycasino.xyz
 132001.okah.top
 13202809.firebros.top
 1322joycasino.com
@@ -17885,12 +17886,12 @@ ARRAY(0x83d65d8a0)
 ARRAY(0x83e0eb348)
 ARRAY(0x840d10900)
 ARRAY(0x8b0a674c8)
+ARRAY(0x8b0b0c570)
 ARRAY(0x8b0f4dfd8)
 ARRAY(0x8b30f66f0)
 ARRAY(0x8b5031ea0)
 ARRAY(0x8b56bcc90)
 ARRAY(0x8b65b56c0)
-ARRAY(0x8b6c6f9a8)
 ARRAY(0x8be3a90a8)
 a-bets63.top
 a-bt56.top
@@ -49862,8 +49863,10 @@ e100.fisher-1.ru
 e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
+e104.fisher-1.ru
 e105.fisher-1.ru
 e106.fisher-1.ru
+e107.fisher-1.ru
 e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -51811,7 +51814,6 @@ f0.spon.live
 f00.kinomodus.xyz
 f001.fisher-r.ru
 f002.fisher-r.ru
-f003.fisher-r.ru
 f004.fisher-r.ru
 f005.fisher-r.ru
 f006.fisher-f.ru
@@ -59478,6 +59480,7 @@ goldfishka65.ru
 goldfishka66.com
 goldfishka67.com
 goldfishka69.com
+goldfishka7.com
 goldfishka72.com
 goldfishka73.com
 goldfishka74.com
@@ -61472,6 +61475,7 @@ hd1.zfilm-hd1.icu
 hd1.zfilmhd.icu
 hd1.zfim.xyz
 hd10.1-lordserials.xyz
+hd10.2lordserials.xyz
 hd10.bxfilm.org
 hd10.kinomops.club
 hd10.kinomops.xyz
@@ -61531,6 +61535,7 @@ hd1080px.fan
 hd1080px.run
 hd1080px.top
 hd11.1-lordserials.xyz
+hd11.2lordserials.xyz
 hd11.bxfilm.org
 hd11.kinomops.xyz
 hd11.kinoshki1080.club
@@ -61538,11 +61543,13 @@ hd11.lordfillms.xyz
 hd11.lords.cam
 hd112.tiviha-tv.ru
 hd12.1-lordserials.xyz
+hd12.2lordserials.xyz
 hd12.bxfilm.org
 hd12.kinomops.xyz
 hd12.kinoshki1080.club
 hd12.lordfillms.xyz
 hd13.1-lordserials.xyz
+hd13.2lordserials.xyz
 hd13.bxfilm.org
 hd13.kinomops.xyz
 hd13.lordfillms.xyz
@@ -61550,12 +61557,15 @@ hd14.1-lordserials.xyz
 hd14.bxfilm.org
 hd14.lordfillms.xyz
 hd15.1-lordserials.xyz
+hd15.2lordserials.xyz
 hd15.bxfilm.org
 hd16.1-lordserials.xyz
 hd16.bxfilm.org
 hd17.1-lordserials.xyz
+hd17.2lordserials.xyz
 hd17.bxfilm.org
 hd18.1-lordserials.xyz
+hd18.2lordserials.xyz
 hd18.bxfilm.org
 hd19.bxfilm.org
 hd1me.xyz
@@ -61663,9 +61673,14 @@ hd3.xn--h1agd3a1be.su
 hd3.zfim.xyz
 hd30.bxfilm.org
 hd31.bxfilm.org
+hd32.1-lordserials.xyz
 hd32.bxfilm.org
+hd33.1-lordserials.xyz
 hd33.bxfilm.org
+hd34.1-lordserials.xyz
 hd35.3lordfilm-0.xyz
+hd38.1-lordserials.xyz
+hd39.1-lordserials.xyz
 hd4.baskino1.top
 hd4.batlen.site
 hd4.bxfilm.org
@@ -61691,6 +61706,12 @@ hd4.serialru.online
 hd4.smotri1080.online
 hd4.tvfilms.club
 hd4.x-film.live
+hd40.1-lordserials.xyz
+hd41.1-lordserials.xyz
+hd42.1-lordserials.xyz
+hd44.1-lordserials.xyz
+hd45.1-lordserials.xyz
+hd46.1-lordserials.xyz
 hd4me.xyz
 hd4you.ru
 hd5-film.lordfilm1.zone
@@ -62019,7 +62040,6 @@ hdland.ru
 hdlava.com.ua
 hdlava.info
 hdlava.tv
-hdlim.com
 hdline.tv
 hdlook.ru
 hdlord.net
@@ -65121,7 +65141,6 @@ installmediaplay.win
 instamarathonbet.win
 instambetplayluck.top
 instant-casino.online
-instant-pay-casinos.com
 instantpay-zerkalo.istorioskop.ru
 instantpaycasino.su
 instantplaycasino.co.uk
@@ -66567,6 +66586,7 @@ joycasino-2021.hdfree4u.info
 joycasino-2021.xyz
 joycasino-2022.xyz
 joycasino-2023.xyz
+joycasino-2024.xyz
 joycasino-22.info
 joycasino-24.azurewebsites.net
 joycasino-24.net
@@ -66802,6 +66822,7 @@ joycasino-bre.xyz
 joycasino-bt.xyz
 joycasino-btc.xyz
 joycasino-bu.xyz
+joycasino-bw.xyz
 joycasino-bwp.xyz
 joycasino-bz2.xyz
 joycasino-bza.xyz
@@ -67180,6 +67201,7 @@ joycasino-ose.xyz
 joycasino-ot.xyz
 joycasino-ota.xyz
 joycasino-own.xyz
+joycasino-oy.xyz
 joycasino-pdp.xyz
 joycasino-pdq.xyz
 joycasino-pfb.xyz
@@ -67275,6 +67297,7 @@ joycasino-site.website
 joycasino-site1.top
 joycasino-site1.xyz
 joycasino-site10.xyz
+joycasino-site11.xyz
 joycasino-site2.top
 joycasino-site2.xyz
 joycasino-site3.top
@@ -67790,6 +67813,7 @@ joycasino164.xyz
 joycasino165.xyz
 joycasino166.xyz
 joycasino167.xyz
+joycasino168.xyz
 joycasino17.win
 joycasino18.com
 joycasino18.win
@@ -67883,6 +67907,7 @@ joycasino771.xyz
 joycasino772.xyz
 joycasino773.xyz
 joycasino774.xyz
+joycasino775.xyz
 joycasino777-online.com
 joycasino777-slots.com
 joycasino777.link
@@ -102944,7 +102969,6 @@ phonex8ioeck.xyz
 phonexeioect.xyz
 phongvevietnambooking.com
 photo-curs.su
-photo.casinopinups.com
 photocodeathome.info
 photokaluga.online
 photokaluga.ru
@@ -104282,8 +104306,11 @@ play-fortuna-zercalo.ru
 play-fortuna-zerkalo-na-segodnya.kaluga-dubrava.ru
 play-fortuna-zerkalo.com
 play-fortuna.azurewebsites.net
+play-fortuna.city
 play-fortuna.cloudbuddy.online
 play-fortuna.club
+play-fortuna.date
+play-fortuna.digital
 play-fortuna.fans
 play-fortuna.party
 play-fortuna.run
@@ -137330,6 +137357,7 @@ vi.myhirepro.in
 vi34jkay4mpnr.xyz
 via-nsk.org
 via-shop.org
+via7.org
 viadi.ru
 viagdrive.ru
 viagra-nnov2.ru
@@ -142227,6 +142255,7 @@ w.gidonline-2660.site
 w.gidonline-2664.site
 w.gidonline-289.site
 w.gidonline-892.site
+w.goldfishka7.com
 w.gomovies720.com
 w.gov-bxd-q.top
 w.hdfilmi-hd.top
@@ -155928,7 +155957,6 @@ yousport.media
 yousport.today
 youtor.ru
 youtube-com.club
-youtubeizleindir.org
 youtubemp3.scriptscraft.com
 youwinrate.ru
 yoyo-casino-25-free-spins.kokosankapieczeitestuje-blog24.pl
@@ -158548,7 +158576,6 @@ zevafilm.ru
 zeztymmw.livevehicletracker.com
 zf-fm.biz
 zf-fm.club
-zf-fm.co
 zf-fm.fun
 zf-fm.guru
 zf-fm.icu
