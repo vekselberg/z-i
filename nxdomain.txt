@@ -17892,14 +17892,14 @@ ARRAY(0x838f655b8)
 ARRAY(0x8396c2780)
 ARRAY(0x83d04ab28)
 ARRAY(0x83d131b40)
-ARRAY(0x840d10900)
-ARRAY(0x8b0b0c570)
 ARRAY(0x8b0c25a68)
 ARRAY(0x8b1943390)
+ARRAY(0x8b2331b10)
 ARRAY(0x8b4191120)
 ARRAY(0x8b4be6f30)
 ARRAY(0x8b6dd0120)
 ARRAY(0x8b7f252e8)
+ARRAY(0x8bd7677f8)
 ARRAY(0x8bdfda7e0)
 a-bets63.top
 a-bt56.top
@@ -18629,6 +18629,7 @@ ab-45681.xyz
 ab-50403.info
 ab-53344.com
 ab-53953.com
+ab-63042.xyz
 ab-64592.xyz
 ab-65632.xyz
 ab-65889.xyz
@@ -19123,6 +19124,7 @@ ad-5558.info
 ad-56824.com
 ad-58535.info
 ad-59142.info
+ad-60296.xyz
 ad-61606.info
 ad-67510.xyz
 ad-70269.xyz
@@ -23728,6 +23730,7 @@ atorrents.net
 atribut72.ru
 atstekskiye-kamni-igrat.artemievastudio.ru
 attachmediaplay.win
+attestati-sale.com
 attestatov.com
 attestatov.store
 attestats-sale.com
@@ -43099,6 +43102,7 @@ casino.alljackpot.net
 casino.azart-lucky.com
 casino.azart.uno
 casino.azartmaniya.mobi
+casino.azartsmaniya.org
 casino.azino777-officialsite.top
 casino.azino777-slots.org
 casino.azurewebsites.net
@@ -43818,12 +43822,6 @@ casinootzyv.net
 casinootzyv1.info
 casinop.online
 casinopage.net
-casinopage1015file28.ksb-spb.ru
-casinopage1646file28.ksb-spb.ru
-casinopage2544file28.ksb-spb.ru
-casinopage2file20.ksb-spb.ru
-casinopage6394file28.ksb-spb.ru
-casinopage7653file28.ksb-spb.ru
 casinopartner.ru
 casinopay.azurewebsites.net
 casinopay.info
@@ -44390,6 +44388,7 @@ casinox-4you.club
 casinox-777.ru
 casinox-af.xyz
 casinox-big.net
+casinox-bk.xyz
 casinox-bonus.info
 casinox-club.com
 casinox-com.top
@@ -44406,10 +44405,13 @@ casinox-game-fun.com
 casinox-game-slot.com
 casinox-game.com
 casinox-games.online
+casinox-hb.xyz
+casinox-hl.xyz
 casinox-ho.xyz
 casinox-mk.xyz
 casinox-mn.xyz
 casinox-mobile.ru
+casinox-ng.xyz
 casinox-official-site.com
 casinox-official.azurewebsites.net
 casinox-official.online
@@ -44457,6 +44459,7 @@ casinox-slotx-game.com
 casinox-slotx.com
 casinox-top-play.site
 casinox-vip.net
+casinox-vo.xyz
 casinox-win.club
 casinox-win.live
 casinox-win.site
@@ -44468,6 +44471,7 @@ casinox-xl.live
 casinox-xm.club
 casinox-xs.club
 casinox-xx.net
+casinox-yy.xyz
 casinox-zg.xyz
 casinox.azurewebsites.net
 casinox.bar
@@ -50128,11 +50132,13 @@ eb-47590.xyz
 eb-5201.com
 eb-52114.info
 eb-52901.xyz
+eb-53551.xyz
 eb-5549.info
 eb-57365.xyz
 eb-60067.info
 eb-61899.xyz
 eb-62446.xyz
+eb-62719.xyz
 eb-6301.info
 eb-6327.info
 eb-63387.info
@@ -50241,6 +50247,7 @@ ed-05237.xyz
 ed-06037.com
 ed-11731.xyz
 ed-18627.com
+ed-19896.xyz
 ed-24228.xyz
 ed-25649.com
 ed-2796.info
@@ -50249,6 +50256,7 @@ ed-35553.info
 ed-36441.info
 ed-38442.info
 ed-3846.info
+ed-39181.xyz
 ed-39615.com
 ed-41494.xyz
 ed-49348.info
@@ -50363,6 +50371,7 @@ ef-4227.info
 ef-44203.com
 ef-44885.com
 ef-48037.com
+ef-50119.xyz
 ef-54284.com
 ef-54758.xyz
 ef-56002.xyz
@@ -50386,6 +50395,7 @@ ef-91647.xyz
 ef-93104.info
 ef-95384.com
 ef-96043.info
+ef-96316.xyz
 ef.spon.live
 ef01.startmail.com
 ef0hudz7w4mb.com
@@ -51646,7 +51656,9 @@ ex-08521.info
 ex-11554.com
 ex-13215.xyz
 ex-13353.xyz
+ex-14478.xyz
 ex-14837.xyz
+ex-15589.xyz
 ex-20480.info
 ex-21768.xyz
 ex-21796.xyz
@@ -59527,7 +59539,6 @@ goldfishka65.ru
 goldfishka66.com
 goldfishka67.com
 goldfishka69.com
-goldfishka7.com
 goldfishka72.com
 goldfishka73.com
 goldfishka74.com
@@ -78309,6 +78320,7 @@ lostfilm-hd1080p.club
 lostfilm-hd1080p.fun
 lostfilm-hd1080p.link
 lostfilm-hd1080p.online
+lostfilm-hd1080p.space
 lostfilm-hd720.by
 lostfilm-hd720.cc
 lostfilm-hd720.club
@@ -92451,6 +92463,7 @@ mp3hy.ru
 mp3karm.ru
 mp3lazer.ru
 mp3life.su
+mp3live.co
 mp3liza.ru
 mp3melody.ru
 mp3mi.net
@@ -97606,6 +97619,7 @@ od-27292.xyz
 od-29062.com
 od-30719.xyz
 od-32771.xyz
+od-33297.xyz
 od-35270.info
 od-35925.xyz
 od-37259.xyz
@@ -97626,6 +97640,7 @@ od-72766.com
 od-75048.com
 od-75954.xyz
 od-87956.xyz
+od-89306.xyz
 od-90560.info
 od-90925.info
 od-94428.xyz
@@ -97681,6 +97696,7 @@ of-3600.info
 of-42782.info
 of-45658.info
 of-46286.xyz
+of-48236.xyz
 of-50454.info
 of-58765.xyz
 of-6329.info
@@ -98286,12 +98302,14 @@ ok-40319.com
 ok-40411.com
 ok-42161.xyz
 ok-42665.xyz
+ok-43249.xyz
 ok-44148.info
 ok-46369.com
 ok-48230.xyz
 ok-49267.xyz
 ok-49908.xyz
 ok-50504.xyz
+ok-52274.xyz
 ok-59421.xyz
 ok-62553.xyz
 ok-68385.info
@@ -98307,6 +98325,7 @@ ok-83186.xyz
 ok-83219.info
 ok-83278.xyz
 ok-86069.info
+ok-91458.xyz
 ok-93914.com
 ok-94210.xyz
 ok-95562.com
@@ -99747,6 +99766,7 @@ online.giga-filmhd.com
 online.hdkino.tv
 online.hdpoisk.com
 online.holchow-natv.ru
+online.hollnatv.ru
 online.holostyak.su
 online.holshow-natv.ru
 online.igrovoy-zal.com
@@ -100765,6 +100785,7 @@ ox-55308.xyz
 ox-57997.xyz
 ox-60607.xyz
 ox-62422.xyz
+ox-63485.xyz
 ox-66127.xyz
 ox-6744.info
 ox-71418.xyz
@@ -105011,6 +105032,7 @@ playfortuna-kazino4.ru
 playfortuna-kazino5.ru
 playfortuna-kazino6.ru
 playfortuna-kf.xyz
+playfortuna-kl.xyz
 playfortuna-kz.xyz
 playfortuna-lc500.azurewebsites.net
 playfortuna-lh.xyz
@@ -105048,6 +105070,7 @@ playfortuna-ru.net
 playfortuna-ru1.com
 playfortuna-ru2.com
 playfortuna-russia.club
+playfortuna-rw.xyz
 playfortuna-s.azurewebsites.net
 playfortuna-sf.xyz
 playfortuna-site.azurewebsites.net
@@ -105057,11 +105080,13 @@ playfortuna-spins.net
 playfortuna-ta.xyz
 playfortuna-td.xyz
 playfortuna-topcasino.ru
+playfortuna-ts.xyz
 playfortuna-uk.xyz
 playfortuna-usd.com
 playfortuna-vn.xyz
 playfortuna-vo.xyz
 playfortuna-wc.xyz
+playfortuna-xd.xyz
 playfortuna-xxx.azurewebsites.net
 playfortuna-xxxx.azurewebsites.net
 playfortuna-yc.xyz
@@ -105069,6 +105094,7 @@ playfortuna-z.azurewebsites.net
 playfortuna-ze.xyz
 playfortuna-zerkalo-casino.com
 playfortuna-zf.xyz
+playfortuna-zo.xyz
 playfortuna.bar
 playfortuna.best
 playfortuna.biz
@@ -127003,6 +127029,7 @@ slots-win.xyz
 slots-wulkan.azurewebsites.net
 slots.admiral-casino-slot.online
 slots.avtomaty-luck.com
+slots.azartsmaniya.org
 slots.azino777-cazino.com
 slots.azurewebsites.net
 slots.bike
@@ -127600,6 +127627,7 @@ smotret-tut.net
 smotret.biz
 smotret.bobfilm1.ru
 smotret.films-online.pro
+smotret.hollnatv.ru
 smotret.holostyak.su
 smotret.holshow-natv.ru
 smotret.pw
@@ -128570,6 +128598,7 @@ spb-diplomz-178.com
 spb-diplomz.com
 spb-diploss.com
 spb-diplss.com
+spb-diplus.com
 spb-dips.com
 spb-dipz.com
 spb-generic.ru
@@ -128893,6 +128922,7 @@ sportfox.online
 sportgame.space
 sportgo.online
 sportgol.org
+sportgormon.ru
 sporthmrn.ru
 sportikbet.ru
 sportikplus.ru
@@ -131633,6 +131663,7 @@ thismusic.ru
 thisrotate.win
 thmgifxxhg.host
 thnahdl.icu
+threadmediaplay.win
 three-axes-azino.ru
 thro.bz
 thuglifemoscow.ru
@@ -134324,7 +134355,6 @@ two.sexiriski.pro
 two.sexohota.pro
 two.slot-mag-3.xyz
 two.tatarsex.com
-two.vip57.org
 twolove.ru
 twrru-azinomobile.icu
 twwbcpssd.space
@@ -142339,7 +142369,6 @@ w.gidonline-2660.site
 w.gidonline-2664.site
 w.gidonline-289.site
 w.gidonline-892.site
-w.goldfishka7.com
 w.gomovies720.com
 w.gov-bxd-q.top
 w.hdfilmi-hd.top
@@ -156477,6 +156506,7 @@ zaycev-net.fun
 zaycev-net.online
 zaycev-net.site
 zaycev-ru.ru
+zaycev-tut.me
 zaycev-tut.org
 zaycev-tut.ru
 zaycev-win.online
