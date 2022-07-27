@@ -6216,6 +6216,7 @@
 1xbet-2020-go.website
 1xbet-2021.top
 1xbet-2021.xyz
+1xbet-2022.top
 1xbet-2022.xyz
 1xbet-20s.site
 1xbet-21.xyz
@@ -6394,6 +6395,8 @@
 1xbet-ad.xyz
 1xbet-add.xyz
 1xbet-adr.xyz
+1xbet-ah.xyz
+1xbet-ai.xyz
 1xbet-ain.xyz
 1xbet-air.site
 1xbet-al.xyz
@@ -6616,6 +6619,7 @@
 1xbet-d8.top
 1xbet-d9.top
 1xbet-day.site
+1xbet-dc.xyz
 1xbet-dd.site
 1xbet-dep.xyz
 1xbet-des.xyz
@@ -6955,6 +6959,7 @@
 1xbet-margo.online
 1xbet-mas.xyz
 1xbet-mc.xyz
+1xbet-md.xyz
 1xbet-me.xyz
 1xbet-mec.xyz
 1xbet-meh.xyz
@@ -7739,6 +7744,7 @@
 1xbet-zpl.xyz
 1xbet-zr.site
 1xbet-zs.site
+1xbet-zs.xyz
 1xbet-zv.xyz
 1xbet-zw.xyz
 1xbet-zwo.xyz
@@ -8148,6 +8154,7 @@
 1xbets-1xbetx29.top
 1xbets-1xbetx3.top
 1xbets-1xbetx30.top
+1xbets-1xbetx31.top
 1xbets-1xbetx4.top
 1xbets-1xbetx5.top
 1xbets-1xbetx6.top
@@ -17929,7 +17936,6 @@ ARRAY(0x838ac5528)
 ARRAY(0x839b28108)
 ARRAY(0x83c388a20)
 ARRAY(0x83cc37990)
-ARRAY(0x8411f1240)
 ARRAY(0x8ae7c5ae0)
 ARRAY(0x8aeb0cbe8)
 ARRAY(0x8aebe9e10)
@@ -17938,6 +17944,7 @@ ARRAY(0x8b0053558)
 ARRAY(0x8b2877b58)
 ARRAY(0x8b64d6870)
 ARRAY(0x8b69f4f18)
+ARRAY(0x8ba2d6dc8)
 ARRAY(0x8be71e870)
 a-bets63.top
 a-bt56.top
@@ -35032,13 +35039,16 @@ betwinner242.site
 betwinner252.site
 betwinner27.ru
 betwinner277.ru
+betwinner32.xyz
 betwinner33.com
 betwinner34.com
+betwinner34.xyz
 betwinner35.com
 betwinner36.com
 betwinner365.club
 betwinner365.online
 betwinner365.ru
+betwinner38.xyz
 betwinner4.buzz
 betwinner4.ru
 betwinner45.com
@@ -35064,6 +35074,7 @@ betwinnerlink1.com
 betwinnermobi.site
 betwinnermobi.space
 betwinnermsk.ru
+betwinnermsk.xyz
 betwinneroff.online
 betwinnerok.com
 betwinneron.ru
@@ -38673,6 +38684,7 @@ booi-cazinox.info
 booi-cazinox.pro
 booi-com.online
 booi-fz.xyz
+booi-gl.xyz
 booi-kasino.azurewebsites.net
 booi-kasino.com
 booi-kasino.info
@@ -38692,11 +38704,17 @@ booi-official2.com
 booi-official2.xyz
 booi-offsite.club
 booi-online.ru
+booi-or.xyz
 booi-polnaya-versiya.1citadel.ru
+booi-qq.xyz
 booi-registratsiya.leopold-nn.ru
 booi-site-casino.azurewebsites.net
 booi-skachat.marjani-mechet.ru
 booi-slots1.com
+booi-ux.xyz
+booi-vh.xyz
+booi-vz.xyz
+booi-wd.xyz
 booi.store
 booi01v2ha.com
 booi045xk.com
@@ -50053,7 +50071,6 @@ e101.fisher-1.ru
 e102.fisher-1.ru
 e103.fisher-1.ru
 e104.fisher-1.ru
-e105.fisher-1.ru
 e106.fisher-1.ru
 e107.fisher-1.ru
 e108.fisher-1.ru
@@ -52024,6 +52041,7 @@ f00.kinomodus.xyz
 f001.fisher-r.ru
 f002.fisher-r.ru
 f003.fisher-r.ru
+f004.fisher-r.ru
 f006.fisher-f.ru
 f007.fisher-f.ru
 f008.fisher-f.ru
@@ -104325,7 +104343,6 @@ pinup91.com
 pinup92.com
 pinup93.com
 pinup94.com
-pinupbet.uz
 pinupbet182.com
 pinupbet2020.site
 pinupbet245.com
@@ -105351,6 +105368,7 @@ playfortuna-ab.xyz
 playfortuna-active.club
 playfortuna-ap.xyz
 playfortuna-aq.xyz
+playfortuna-bc.xyz
 playfortuna-bx.xyz
 playfortuna-casino-com.ru
 playfortuna-casino-mirror.info
@@ -105415,6 +105433,7 @@ playfortuna-ij.xyz
 playfortuna-ik.xyz
 playfortuna-in.ru
 playfortuna-is.xyz
+playfortuna-je.xyz
 playfortuna-kasino.azurewebsites.net
 playfortuna-kasinos.azurewebsites.net
 playfortuna-kazino2.com
@@ -105428,6 +105447,7 @@ playfortuna-lc500.azurewebsites.net
 playfortuna-lh.xyz
 playfortuna-mb.xyz
 playfortuna-mi.xyz
+playfortuna-mk.xyz
 playfortuna-mo.xyz
 playfortuna-mobile.ru
 playfortuna-mt.xyz
@@ -126243,7 +126263,6 @@ shopstoyal.su
 shopthe9.website
 shortcpgen.com
 shot.generikmsk.ru
-shotasekai.net
 shou-holostyak.site
 shovv.holastyak-tv.ru
 shovv.holl-natv.ru
@@ -139870,6 +139889,7 @@ vu3-release.isitdomain.com
 vu487y7a1pmst.com
 vu790-azino777.icu
 vuc6m9iomst.com
+vugrand.online
 vugrand1.club
 vugrand1.online
 vuikanapp.com
@@ -150000,6 +150020,7 @@ www.fongame-online.tk
 www.fonmusic.ru
 www.fonsportbet.tk
 www.footballarena.online
+www.footballfox.net
 www.footballobz.online
 www.footballobz.ru
 www.footballobzor24.online
@@ -153329,6 +153350,7 @@ www.totallycasino.co
 www.toto71.casino
 www.totobet24.com
 www.tracid.ru
+www.tradefxlance.com
 www.trademuto.com
 www.transarbitr.ru
 www.traveladler.ru
