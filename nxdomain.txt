@@ -17935,9 +17935,9 @@ ARRAY(0x8330f6378)
 ARRAY(0x833e27b70)
 ARRAY(0x834399c48)
 ARRAY(0x83477c708)
-ARRAY(0x838ac5528)
 ARRAY(0x839ffce88)
 ARRAY(0x83ae8e720)
+ARRAY(0x83c5fe4e0)
 ARRAY(0x83e2ecf60)
 ARRAY(0x83fffd990)
 ARRAY(0x8ae7c5ae0)
@@ -19606,6 +19606,7 @@ admiral777-casinos.ru
 admiral777-casinoz.ru
 admiral777-cazino.club
 admiral777-club.online
+admiral777-official-casino.win
 admiral777-official-casino1.win
 admiral777-official-casino2.win
 admiral777-official-casino3.win
@@ -19643,6 +19644,7 @@ admiral888-com.ru
 admiral888-kasino.azurewebsites.net
 admiral888-kasino.club
 admiral888-kasino.online
+admiral888-official-casino.win
 admiral888-online-casino.win
 admiral888-onlinel-casino.win
 admiral888.azurewebsites.net
@@ -19792,6 +19794,7 @@ admiralx-kw.xyz
 admiralx-mob.com
 admiralx-mobilnaya.com
 admiralx-official-24.ru
+admiralx-official-casino.win
 admiralx-official-casino1.win
 admiralx-official.club
 admiralx-official.online
@@ -31832,6 +31835,7 @@ best.legalshop24.xyz
 best.lion-official.online
 best.magnit-market.club
 best.markets24.xyz
+best.nodep.club
 best.official-site-vulkan.com
 best.official-site-vulkan.net
 best.pipitor.site
@@ -50063,7 +50067,6 @@ e1.liveball8.ml
 e1.spon.live
 e100.fisher-1.ru
 e101.fisher-1.ru
-e102.fisher-1.ru
 e103.fisher-1.ru
 e104.fisher-1.ru
 e105.fisher-1.ru
@@ -61687,6 +61690,7 @@ hd.zfilme-online.space
 hd.zfilme1-hd.site
 hd.zfilme1-hd.space
 hd.zfim.xyz
+hd.zorgfilm1.xyz
 hd.zorgfilm2.xyz
 hd0.futbolonlajn.ru
 hd1-lordfilm.lordfilm1.zone
@@ -64812,7 +64816,6 @@ igrovyye-apparaty-sloty-skachat.shamora-cinema.ru
 igrovyye-apparaty-ye.sviter-cafe.ru
 igrovyye-avtomaty-1-xbet-igrat-onlayn.orenplace.ru
 igrovyye-avtomaty-7-onlayn.artemievastudio.ru
-igrovyye-avtomaty-777-azino.zipprofi.ru
 igrovyye-avtomaty-777-klubniki.kharitoshka.ru
 igrovyye-avtomaty-777-klubniki.marina-meshcheryakova.ru
 igrovyye-avtomaty-admiral-777-na-dengi.art101km.ru
@@ -67688,6 +67691,7 @@ joycasino-vh.xyz
 joycasino-vhod.online
 joycasino-vip-net.ccleaner-ru.info
 joycasino-vip-ru.site
+joycasino-vip.site
 joycasino-vjm.xyz
 joycasino-vmd.xyz
 joycasino-vmo.xyz
@@ -88428,7 +88432,6 @@ moscow.dondiplom.com
 moscow.luxdiplomi.com
 moscow.medspravochka-msk.com
 moscow.mister-tvister.com
-moscow.sdiplomomi.com
 moscow.spravkaaa.top
 moscow.spravki.sale
 moscow.spravochka.com
@@ -94891,7 +94894,6 @@ nationalnews.in.ua
 nationals-diplom.com
 natrava.org
 naturalworld.ru
-naturists-nudists.fun
 navalny.punkchords.com
 navalny.zerofilm.cc
 navel.gay-radio.ru
@@ -97571,10 +97573,8 @@ nu.phikino.club
 nu.sigmakino.club
 nucleoagneschristie.com.br
 nudgemediaplay.win
-nudimblog.fun
 nudiplanetblog.site
 nudist-foto.ru
-nudiworlds.fun
 nukinopoisk.com
 nul3o.ny3blpuku.cc
 nulltorrents.com
@@ -118468,6 +118468,7 @@ ru.ekhn18ak.com
 ru.emxxndxcvf.com
 ru.eo9t9gkdxh.com
 ru.eonap6o6cvk90.com
+ru.esportsbetting.pro
 ru.ev23hj2jnfj.com
 ru.ewfgkf23k.com
 ru.ex5iro11lm7.com
@@ -133283,6 +133284,7 @@ tornadozenit.top
 torobest.torrent-filmy.fun
 torofun.club
 torofun.site
+torolaf.pro
 tororg.club
 torpeda.press
 torpoisk.ru
@@ -133457,6 +133459,7 @@ torrent.rgmechanics.games
 torrent.skachat-filmy.ru
 torrent.skahcat-filmy.ru
 torrent.tm
+torrent.torolaf.pro
 torrent.vse-chasti.ru
 torrent.xlcafe.ru
 torrent.zagonka-409.site
@@ -148794,6 +148797,7 @@ www.betin.com
 www.betin76.com
 www.betinsports.pro
 www.betlatina.ag
+www.betlive88.com
 www.betmarathonbet.win
 www.betmarathonbetting.com
 www.betmira.net
@@ -159944,6 +159948,7 @@ zor.online-zor.me
 zor.tiviha-tv.ru
 zorgfilm.org
 zorgfilm.xyz
+zorgfilm1.xyz
 zorgfilm3.xyz
 zorgfilms.net
 zorofilm.ru
