@@ -17960,10 +17960,10 @@ ARRAY(0x8397a5540)
 ARRAY(0x83f222b40)
 ARRAY(0x8af0b4708)
 ARRAY(0x8af45f480)
-ARRAY(0x8b163f3a8)
 ARRAY(0x8b3263618)
 ARRAY(0x8b34a7d50)
 ARRAY(0x8b419b6a8)
+ARRAY(0x8b4300c78)
 ARRAY(0x8b4cb7a20)
 ARRAY(0x8b8da92e8)
 ARRAY(0x8bab3e720)
@@ -50282,6 +50282,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e102.fisher-1.ru
 e103.fisher-1.ru
 e105.fisher-1.ru
 e108.fisher-1.ru
@@ -62361,6 +62362,7 @@ hd8.kinoshki1080.club
 hd8.lordfillms.xyz
 hd8.lordix.cc
 hd8.lords.cam
+hd8.lordz.me
 hd8.serialru.online
 hd8.smotri1080.online
 hd84.kinohaip.net
@@ -88775,6 +88777,7 @@ moscow.dondiplom.com
 moscow.luxdiplomi.com
 moscow.medspravochka-msk.com
 moscow.mister-tvister.com
+moscow.sdiplomomi.com
 moscow.spravkaaa.top
 moscow.spravki.sale
 moscow.spravochka.com
