@@ -17955,7 +17955,7 @@ ARRAY(0x8ae790048)
 ARRAY(0x8aedf6420)
 ARRAY(0x8b02db048)
 ARRAY(0x8b1855ed0)
-ARRAY(0x8b48b07c8)
+ARRAY(0x8bb9ef2b8)
 ARRAY(0x8bbaf6540)
 ARRAY(0x8bc2fedb0)
 ARRAY(0x8bdbd3bb8)
@@ -25439,7 +25439,6 @@ azino-777.mistressbynight.info
 azino-777.mobi
 azino-777.montorigin.ru
 azino-777.ooo
-azino-777.pw
 azino-777.vin
 azino-777.zone
 azino-7773tan.icu
@@ -127592,6 +127591,7 @@ slot-zona.info
 slot-zona.me
 slot-zona.net
 slot-zona.one
+slot-zonas.me
 slot-zoona.com
 slot-zzona.com
 slot.admiral-casino-slot.online
@@ -136511,6 +136511,7 @@ v1.vulcan-casino-official3.com
 v1.vulcan-club-luck.com
 v1.vulcan-luck-club.com
 v1.vulcanclubplay.com
+v1.vulcans-azart-games.com
 v1.vulcans-spins-game.com
 v1.vzagryzke.ru
 v1.zalipalovo.online
@@ -136578,6 +136579,7 @@ v2.vulcan-azart-lucky.com
 v2.vulcan-club-luck.com
 v2.vulcan-luck-club.com
 v2.vulcanclubplay.com
+v2.vulcans-azart-games.com
 v2.vulcans-spins-game.com
 v2.zalipalovo.online
 v20.lostfilm1.net
@@ -138916,8 +138918,10 @@ vip-ssteroid.com
 vip-steroed.com
 vip-u.trade
 vip-vegas-club.com
+vip-vulcan-clubs.com
 vip-vulcan-online.com
 vip-vulcan.fun
+vip-vulcans-club.com
 vip-vulkan.ru
 vip-vulkan777.com
 vip-vulkanplay.com
