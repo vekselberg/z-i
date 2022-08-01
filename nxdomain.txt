@@ -17951,6 +17951,7 @@ ARRAY(0x838a15588)
 ARRAY(0x83aab9ed0)
 ARRAY(0x83b290cd8)
 ARRAY(0x83c7ad210)
+ARRAY(0x83f3c5060)
 ARRAY(0x8ae46c9c0)
 ARRAY(0x8ae6a9870)
 ARRAY(0x8b4921ba0)
@@ -19771,6 +19772,7 @@ admiralslotroom.surf
 admiralslotsra.azurewebsites.net
 admiralslotsra.com
 admiralsxxx.com
+admiraltrade.co
 admiralv.club
 admiralv.online
 admiralvipvip.com
@@ -82480,6 +82482,7 @@ maxbets-sports-betting.club
 maxbets-sports-betting.website
 maxbets.azurewebsites.net
 maxbetslotcasino.com
+maxbetslots-mirror.info
 maxbetslots-online.com
 maxbetslots-play.com
 maxbetslots-pro.com
@@ -98469,6 +98472,7 @@ offical.casino-vulkan37.com
 offical.cazino-777.co
 office-free.ru
 office.admiraltrade.club
+office.admiraltrade.co
 officiai-pinup.xyz
 official-1x.ru
 official-1xbet-online.com
