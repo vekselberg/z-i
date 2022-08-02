@@ -18024,9 +18024,9 @@
 9z7g3-azino777.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x832ce00a8)
 ARRAY(0x833357540)
 ARRAY(0x833791660)
+ARRAY(0x8345964c8)
 ARRAY(0x834fd4e88)
 ARRAY(0x836520af8)
 ARRAY(0x83a769d38)
@@ -18041,6 +18041,7 @@ ARRAY(0x8b0398dc8)
 ARRAY(0x8b2031450)
 ARRAY(0x8b5b91a20)
 ARRAY(0x8b84c1150)
+ARRAY(0x8b851d888)
 ARRAY(0x8b86c8ae0)
 ARRAY(0x8b8f3aa08)
 ARRAY(0x8ba586d38)
@@ -39356,6 +39357,7 @@ boss-casino.online
 boss.lordfilin.net
 bossaball.xyz
 boston-continental.ru
+bot.play-kino.ru
 bot1.cinemahouse.online
 bot6oxk7j.icu
 bot78.online
@@ -39997,6 +39999,7 @@ by-avto.ru
 by.cybbet.com
 by.kinogo.gg
 by.lordfilmix.ru
+by.maxbetgroup.com
 by.slot-mag-8.xyz
 by6xci2vi7mst.com
 bybylalo.info
@@ -50393,7 +50396,6 @@ e1.spon.live
 e102.fisher-1.ru
 e103.fisher-1.ru
 e105.fisher-1.ru
-e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -67381,6 +67383,7 @@ joycasino-asa.xyz
 joycasino-asax.xyz
 joycasino-ascx.xyz
 joycasino-ashx.xyz
+joycasino-asi.xyz
 joycasino-asml.xyz
 joycasino-aspx.xyz
 joycasino-asr.xyz
@@ -67404,6 +67407,7 @@ joycasino-bag.xyz
 joycasino-bar.xyz
 joycasino-bat.xyz
 joycasino-bbb.xyz
+joycasino-bbk.xyz
 joycasino-bcc.xyz
 joycasino-bcm.xyz
 joycasino-bct.xyz
@@ -67412,6 +67416,7 @@ joycasino-bdf.xyz
 joycasino-be2.xyz
 joycasino-ber.xyz
 joycasino-best.club
+joycasino-bets.xyz
 joycasino-bezdepozitnyy-bonus-kod.kartinka74.ru
 joycasino-bf.xyz
 joycasino-bhf.xyz
@@ -67441,6 +67446,7 @@ joycasino-c02.xyz
 joycasino-c10.xyz
 joycasino-can.xyz
 joycasino-car.xyz
+joycasino-carr.xyz
 joycasino-casino-105.xyz
 joycasino-casino-games105.site
 joycasino-casino-games105.win
@@ -67516,6 +67522,7 @@ joycasino-crp.xyz
 joycasino-crz.xyz
 joycasino-csn.xyz
 joycasino-csp.xyz
+joycasino-csr.xyz
 joycasino-ct.xyz
 joycasino-darklace-ltd.art-of-sun.ru
 joycasino-day.xyz
@@ -67526,6 +67533,7 @@ joycasino-deluxe.ccleaner-ru.info
 joycasino-den.xyz
 joycasino-dkc.xyz
 joycasino-dll.xyz
+joycasino-dlnm.xyz
 joycasino-doc.xyz
 joycasino-dostup.online
 joycasino-dostup.ru
@@ -67535,6 +67543,7 @@ joycasino-ea.xyz
 joycasino-easy-play.com
 joycasino-eb.xyz
 joycasino-ee-official.azurewebsites.net
+joycasino-egr.xyz
 joycasino-ei.xyz
 joycasino-emb.xyz
 joycasino-emo.xyz
@@ -67695,6 +67704,7 @@ joycasino-mol.xyz
 joycasino-msd.xyz
 joycasino-msg.xyz
 joycasino-msi.xyz
+joycasino-msj.xyz
 joycasino-msv.xyz
 joycasino-mvd.xyz
 joycasino-ni.xyz
@@ -67988,6 +67998,7 @@ joycasino-ssd.xyz
 joycasino-ssi.xyz
 joycasino-ssl.xyz
 joycasino-sss.xyz
+joycasino-sta.xyz
 joycasino-ste.xyz
 joycasino-su.xyz
 joycasino-successful.site
@@ -68077,6 +68088,7 @@ joycasino-win105.xyz
 joycasino-winner.site
 joycasino-winner.website
 joycasino-wis.xyz
+joycasino-wise.xyz
 joycasino-wll.xyz
 joycasino-wlz.xyz
 joycasino-wo.xyz
@@ -77018,6 +77030,7 @@ life-kino.online
 life-kino.site
 life-kino.xyz
 life.sibgirl.com
+lifecasino.ru
 lifefilm.info
 lifekino.xyz
 lifemus.net
@@ -80361,7 +80374,6 @@ m.ligast1.bet
 m.ligast2.bet
 m.ligastavok-vip.com
 m.ligastavok25.com
-m.lis2.ga
 m.lis4.ga
 m.lis6.ga
 m.lis7.ga
@@ -80573,6 +80585,7 @@ m.parkerlabs.me
 m.pharaonbet.com.ru
 m.pin8899.com
 m.pivo.website
+m.play-kino.ru
 m.pm-027.info
 m.pm-031.info
 m.pm-039.info
@@ -121363,7 +121376,6 @@ ru6.alphakino.cam
 ru6.djeneriki.biz
 ru6.hdkinoteater.net
 ru6.lordfilmax.net
-ru6.lords.cam
 ru6.musicoff.online
 ru6.rump3.info
 ru7.djeneriki.biz
@@ -131851,6 +131863,7 @@ superslots.club
 superslots.vin
 superslots.vip
 superslots1.tv
+superslots11.tv
 superslots12.tv
 superslots2.com
 superslots2.ru
