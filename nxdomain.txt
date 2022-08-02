@@ -18032,9 +18032,9 @@ ARRAY(0x836520af8)
 ARRAY(0x83a769d38)
 ARRAY(0x83c227eb8)
 ARRAY(0x83eb9b5e8)
-ARRAY(0x83f3c5060)
 ARRAY(0x841875600)
 ARRAY(0x8987e3f18)
+ARRAY(0x89880d120)
 ARRAY(0x8ae7fcd80)
 ARRAY(0x8b012fa68)
 ARRAY(0x8b0398dc8)
@@ -18042,6 +18042,7 @@ ARRAY(0x8b2031450)
 ARRAY(0x8b5b91a20)
 ARRAY(0x8b84c1150)
 ARRAY(0x8b86c8ae0)
+ARRAY(0x8b8f3aa08)
 ARRAY(0x8ba586d38)
 a-bets63.top
 a-bt56.top
@@ -30631,6 +30632,7 @@ baskino-2018.online
 baskino-2019.top
 baskino-2020.best
 baskino-2020.online
+baskino-2020.site
 baskino-2020.xyz
 baskino-2531.site
 baskino-club.online
@@ -52903,6 +52905,7 @@ faraon-casino.fun
 faraon-casino.host
 faraon-casino.site
 faraon-casino.website
+faraon-casino777.ru
 faraon-casinos.com
 faraon-casinos.ru
 faraon-games32p.com
@@ -63956,6 +63959,7 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
 i.inter-apteka.ru
+i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -105711,6 +105715,7 @@ play.pokerstars-com.ru
 play.prostocasino.info
 play.roxcasino-official.net
 play.roxy-slots.com
+play.russianvulkan-slots.com
 play.russianvulkan.su
 play.ruvulcans.com
 play.slidercom.ru
