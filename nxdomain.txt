@@ -18025,13 +18025,14 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x8345964c8)
+ARRAY(0x837095258)
 ARRAY(0x8382ce618)
 ARRAY(0x83d0b5540)
 ARRAY(0x83d41c588)
 ARRAY(0x83d93f8e8)
 ARRAY(0x840769690)
+ARRAY(0x8985e5f60)
 ARRAY(0x8986e80c0)
-ARRAY(0x89880d120)
 ARRAY(0x89892fab0)
 ARRAY(0x89893b408)
 ARRAY(0x89893fac8)
@@ -18052,7 +18053,6 @@ ARRAY(0x8b86874f8)
 ARRAY(0x8b86d9438)
 ARRAY(0x8b86ed438)
 ARRAY(0x8b86fc438)
-ARRAY(0x8b8f3aa08)
 ARRAY(0x8bcd2cab0)
 a-bets63.top
 a-bt56.top
@@ -22400,6 +22400,7 @@ all-video.xn--c1ajfnfb.xn--p1acf
 all.alleng.org
 all.alljackpot.net
 all.freshfit-vrn.com
+all.growerz.world
 all.myslotik.net
 all.ssio.ru
 all.vgrand.top
@@ -23401,6 +23402,7 @@ arbitrazhtraff.online
 arbitrazhtraff.xyz
 arbtula.ru
 arc-an-siel.ru
+arc.lis2.ga
 arc.lis4.ga
 arc.lis6.ga
 arc.lis7.ga
@@ -35892,6 +35894,7 @@ bigcinema.info
 bigcinema.kz
 bigcinema.online
 bigcinema.pw
+bigcinema.xyz
 bigcinemag.com
 bigdata4business.ru
 bigdbet.ru
@@ -36119,6 +36122,7 @@ bitstarzcasinoreview.ru
 bittorrentsearchweb.com
 bittorrentsearchweb.xyz
 bitva-na-tnt.ru
+bitva-online.org
 bitva-online.ru
 biysk.diplom-obrazovanie.com
 biysk.diplombrend.com
@@ -52892,7 +52896,6 @@ faraon-casino.fun
 faraon-casino.host
 faraon-casino.site
 faraon-casino.website
-faraon-casino777.ru
 faraon-casinos.com
 faraon-casinos.ru
 faraon-games32p.com
@@ -56857,6 +56860,7 @@ fresh-cazino.azurewebsites.net
 fresh-cazino.com
 fresh-cazino.fun
 fresh-cazino.info
+fresh-cazino.net.ru
 fresh-cazino.online
 fresh-cazino.ru
 fresh-cazino.space
@@ -60958,6 +60962,7 @@ growerz.cc
 growerz.click
 growerz.cloud
 growerz.cyou
+growerz.digital
 growerz.icu
 growerz.men
 growerz.monster
@@ -63753,7 +63758,6 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
 i.inter-apteka.ru
-i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -126618,6 +126622,7 @@ shop.gepanet13.ru
 shop.gepanets.ru
 shop.growerz.cc
 shop.growerz.life
+shop.growerz.store
 shop.kalyan-hut.ru
 shop.klad24.xyz
 shop.legal24.xyz
@@ -149387,6 +149392,7 @@ www.bitcoincasino.com
 www.bitcoincasinogames.net
 www.bitrutor.org
 www.bitstarzcasino.info
+www.bitva-online.org
 www.bk-betcity.com
 www.bk-betcity.top
 www.bk-fon-bet.com
@@ -150209,6 +150215,7 @@ www.filmy-smotret-hd.online
 www.filmy2021hd.online
 www.filmytorrent.ru
 www.findmedia.ru
+www.first-m.ru
 www.fishka-club.org
 www.fismarton.ru
 www.five-points.ru
