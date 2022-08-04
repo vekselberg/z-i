@@ -18059,7 +18059,6 @@ ARRAY(0x833cd4b58)
 ARRAY(0x834770210)
 ARRAY(0x8365db978)
 ARRAY(0x837095258)
-ARRAY(0x8382ce618)
 ARRAY(0x8391fd618)
 ARRAY(0x83b58f168)
 ARRAY(0x83d0b5540)
@@ -18070,10 +18069,11 @@ ARRAY(0x8986ebdf8)
 ARRAY(0x8986fda20)
 ARRAY(0x898701a20)
 ARRAY(0x89871ea20)
-ARRAY(0x89892fab0)
 ARRAY(0x8b15fad38)
+ARRAY(0x8b4066090)
 ARRAY(0x8b4bb5ba0)
 ARRAY(0x8b79a7840)
+ARRAY(0x8b8102468)
 ARRAY(0x8b82d8018)
 ARRAY(0x8b83b91c8)
 ARRAY(0x8b83bc1c8)
@@ -22847,7 +22847,6 @@ anvplays.net
 anvplays.pro
 anwap.info
 anwap.net
-any-diplommas.com
 anybook.one
 anzhelina-vityzevo.ru
 anzhero-sudzhensk.damdiplomsa.com
@@ -39954,7 +39953,6 @@ buy.covid-certificate.shop
 buy.medosmotroff.online
 buy.mygeneric24.ru
 buy.shopstoyal.su
-buy24.viarussia.org
 buyallweedonline.com
 buyhelpspb.ru
 buyhgh.casa
@@ -45141,6 +45139,7 @@ casx-prx.com
 casx-site.com
 casynovavada.club
 casynowavada.club
+cat-casino.info
 cat.dostfilms.org
 cat.tvfilms.club
 cat1.tvfilms.club
@@ -47908,6 +47907,7 @@ d.33rutor.site
 d.34rutor.site
 d.35rutor.site
 d.36rutor.site
+d.amintas24.com
 d.babes159.com
 d.babes39.com
 d.baza-knig.info
@@ -52919,7 +52919,6 @@ fanzal.ru
 faoboxtj.olimpcu7g.xyz
 fap.theteenxxx.pro
 fapcheck.ru
-fapnem.com
 fapor7rre.icu
 far.mc-clinik.com
 far.medikom-fast.com
@@ -53395,6 +53394,8 @@ feb14.alfakino.net
 feb15.gorafilm.ru
 feb15.lordfillms.ru
 feb25.2gidonline.online
+feb6.seasonvar.one
+feb7.seasonvar.one
 febrerowind.com
 fecnhwlo.olimpfsk4.xyz
 federal-product.ru
@@ -66470,6 +66471,7 @@ jan16.2gidonline.online
 jan21.2gidonline.online
 jan21.lord2film.net
 jan27.lordfilmix.me
+jan31.seasonvar.one
 janaarybet.com
 janetmcbride.startmail.com
 janrzfynddijj.xyz
@@ -74144,6 +74146,7 @@ knigi.plus
 knigi1.ru
 knigiaudio.org
 knigifb2.com
+knigism.net
 knigism.org
 knignik.xyz
 knlnadrtg.top
@@ -93408,7 +93411,6 @@ mskspravka.medokey.ltd
 mskspravki.medokey.ltd
 msksprawki.medokey.ltd
 mskuniver.ru
-msport.newsrbk.ru
 msports.betadonis78.com
 msraojn.host
 mssapp.xyz
@@ -95497,6 +95499,7 @@ nevinnomyssk.godiplomis.com
 nevinnomyssk.pravac-ru.com
 nevinnomyssk.snus-good.ru
 nevinnomyssk1.sex-rach.com
+nevskoersu.ru
 new-azino-10.ru
 new-bank.xyz
 new-baskino.club
@@ -140485,7 +140488,6 @@ vulcan-grand-official777.win
 vulcan-grand-official8.win
 vulcan-grand-official9.fun
 vulcan-grand-official9.win
-vulcan-grand-vip.com
 vulcan-grand.azurewebsites.net
 vulcan-grand.fun
 vulcan-grand.space
@@ -149742,6 +149744,7 @@ www.casino.download-slot.net
 www.casino.flashslots777.com
 www.casino.freegames-slots.net
 www.casino.playroulette-online.com
+www.casino.vulcanofficial.online
 www.casino1onecent.net
 www.casino1onecent.org
 www.casino888games.net
@@ -151019,6 +151022,7 @@ www.kniga.zone
 www.knigaaudio.online
 www.knigapokera.com
 www.knigi1.ru
+www.knigism.net
 www.knpz-ken.com
 www.kodeks37.ru
 www.kodges.ru
