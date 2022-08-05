@@ -10257,7 +10257,6 @@
 1z-game.com
 1zerbet.ru
 1zerkalo-bet.ru
-1zerkalo-vavada13.ru
 1zerkalo-vavada14.ru
 1zerkalo.org
 1zerkalobet.org
@@ -18075,6 +18074,7 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x832fb67c8)
+ARRAY(0x834f320f0)
 ARRAY(0x8356b99c0)
 ARRAY(0x83629b7f8)
 ARRAY(0x837018360)
@@ -18082,10 +18082,10 @@ ARRAY(0x8373a28d0)
 ARRAY(0x838466288)
 ARRAY(0x83937e918)
 ARRAY(0x83b75cc30)
-ARRAY(0x83baeff30)
 ARRAY(0x83e0afc90)
 ARRAY(0x89838c708)
 ARRAY(0x8984a7a98)
+ARRAY(0x8984c1a50)
 ARRAY(0x8984f0f18)
 ARRAY(0x8984fef18)
 ARRAY(0x8985100c0)
@@ -18101,7 +18101,6 @@ ARRAY(0x8b4255b58)
 ARRAY(0x8b764cf78)
 ARRAY(0x8b7992f90)
 ARRAY(0x8b804bd98)
-ARRAY(0x8b80a85b8)
 ARRAY(0x8b8100d68)
 ARRAY(0x8b8266408)
 ARRAY(0x8b8315f90)
@@ -23225,6 +23224,7 @@ app.7bezdep-bonus-casino.win
 app.broclub.vip
 app.btr.club
 app.casino-slot-v.tech
+app.indapills.com
 app.kino-onlinego.space
 app.licenzionnoe-kazino5.ru
 app.vegaplatform.club
@@ -39926,8 +39926,8 @@ buy-the.website
 buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.shopstoyal.su
-buy24.viarussia.org
 buyallweedonline.com
+buyersdiplomi.com
 buyhelpspb.ru
 buyhgh.casa
 buyhgh.club
@@ -48983,6 +48983,7 @@ diplomiks-onlines.com
 diplomiks24.com
 diplomis-24.com
 diplomis-bratsk.com
+diplomis-grz.com
 diplomis-kupi.com
 diplomisang.com
 diplomisbayer.com
@@ -49249,6 +49250,7 @@ diplomys-samara.com
 diplomys-stavropol.com
 diplomys-volgograd.com
 diplomysattestati.com
+diplomysattestaty.com
 diplomyschelyabinsk.com
 diplomysrostovnadonu.com
 diplomysrussiana.com
@@ -60262,6 +60264,7 @@ goodcasino.work
 goodcluub.com
 gooddiplom.com
 gooddiplomu.com
+gooddiplomus.com
 goodfella.live
 goodgambler.info
 goodgambler.net
@@ -65268,6 +65271,7 @@ increasebed.site
 increaseprofit.xyz
 incrediblegamebonus.com
 ind93oex.com
+indapills.com
 indi-chelyabinsk.com
 indi-samara.biz
 indi-samara.net
@@ -66167,6 +66171,7 @@ izhevsk.diplombrandd.com
 izhevsk.diplomp-kurerom.com
 izhevsk.diplomr-4you.com
 izhevsk.diploms4yours.com
+izhevsk.diplomysattestaty.com
 izhevsk.exdiplomse.com
 izhevsk.firma-diplomass.com
 izhevsk.firma-diplomls.com
@@ -69546,6 +69551,7 @@ kaskad52.ru
 kaslna-d.ru
 kasnfn1k2n.com
 kasparov.punkchords.com
+kaspijsk.diplomysattestaty.com
 kaspijsk.godiplomy.com
 kaspiy.credit
 kaspiy.org
@@ -73804,6 +73810,7 @@ kirov.diplomusattestati.com
 kirov.diplomv-4you.com
 kirov.diplomys-24.com
 kirov.diplomysattestati.com
+kirov.diplomysattestaty.com
 kirov.exat-vsem.site
 kirov.exdiplomsys.com
 kirov.firma-diplomass.com
@@ -74362,6 +74369,7 @@ krasnodar.diplomlike.com
 krasnodar.diplomp-kurerom.com
 krasnodar.diplomp-magazine.com
 krasnodar.diplomp-rf.com
+krasnodar.diplomysattestaty.com
 krasnodar.exdiplomes.com
 krasnodar.exdiplomsys.com
 krasnodar.firma-diplomsa.com
@@ -88369,6 +88377,7 @@ morbetz.ru
 mordkovich10.ru
 mordkovich7.ru
 more-kino.online
+more.indapills.com
 more.kinozadrot.cc
 moreandmorembet.win
 morebets.ru
@@ -90065,6 +90074,7 @@ mostbet9.site
 mostbeta.site
 mostbeta.xyz
 mostbeta10.top
+mostbeta11.top
 mostbeta3.site
 mostbeta4.site
 mostbeta5.site
@@ -93904,6 +93914,7 @@ murmansk.diplomr-4you.com
 murmansk.diplomvrukib.com
 murmansk.diplomvrukizz.com
 murmansk.diplomxlike.com
+murmansk.diplomysattestaty.com
 murmansk.exat-vsem.site
 murmansk.exdiplomes.com
 murmansk.fort-pravams.com
@@ -96755,6 +96766,7 @@ nizhnij-novgorod.diploms4yours.com
 nizhnij-novgorod.diplomtop1.com
 nizhnij-novgorod.diplomusattestats.com
 nizhnij-novgorod.diplomysattestati.com
+nizhnij-novgorod.diplomysattestaty.com
 nizhnij-novgorod.exdiplomsys.com
 nizhnij-novgorod.godiplomis.com
 nizhnij-novgorod.godiplomsis.com
@@ -99102,6 +99114,7 @@ omsk.diplomp-rf.com
 omsk.diplomv-4you.com
 omsk.diplomvzruki.com
 omsk.diplomxlike.com
+omsk.diplomysattestaty.com
 omsk.exat-vsem.site
 omsk.firma-diplomoss.com
 omsk.focus-nomer.ru
@@ -103108,6 +103121,7 @@ penza.diplom-obrazovanie.com
 penza.diplomp-magazine.com
 penza.diplomp-rf.com
 penza.diplomv-4you.com
+penza.diplomysattestaty.com
 penza.exat-vsem.site
 penza.gozznakdiploma.com
 penza.medspravkus-177.com
@@ -110858,6 +110872,7 @@ pryamoj-ehfir.ru
 przhevalski.ru
 przibag9mst.com
 ps.filmhd1080.net
+ps.indapills.com
 ps.joycasino.com
 ps3hiits.ru
 ps71kbb5ga8me.com
@@ -114040,6 +114055,7 @@ relaxation.pub
 relaxzona.club
 reldirt.win
 release.su
+relizov.net
 reliztop.ru
 rell.city
 relv.online
@@ -114820,6 +114836,7 @@ rostov-na-donu.damdiplomsa.com
 rostov-na-donu.damdiplomys.com
 rostov-na-donu.diplom-store.net
 rostov-na-donu.diploms4yours.com
+rostov-na-donu.diplomysattestaty.com
 rostov-na-donu.exdiplomes.com
 rostov-na-donu.exdiplomse.com
 rostov-na-donu.exdiplomsys.com
@@ -122491,6 +122508,7 @@ sankt-peterburg.damdiplomsa.com
 sankt-peterburg.damdiplomys.com
 sankt-peterburg.diplom4yours.com
 sankt-peterburg.diplomysattestati.com
+sankt-peterburg.diplomysattestaty.com
 sankt-peterburg.godiplomis.com
 sankt-peterburg.godiplomsis.com
 sankt-peterburg.godiplomsus.com
@@ -131026,6 +131044,7 @@ studiobella.ru
 studiohd.lordfilm-682.site
 study-diplomer.com
 study-diplomma.com
+study-diplomms6.com
 study-document.com
 study4me.ru
 stuff-blackstar.xyz
@@ -131707,6 +131726,7 @@ takebigbonus2.life
 takembetbest.top
 takenus8.com
 takeprofit.link
+takeprofit.site
 takinamitakashi.info
 taktika-igry-v-21-na-1xbet.missmua.ru
 tal.generikmsk.ru
@@ -132478,6 +132498,7 @@ tomsk.diplomp-magazine.com
 tomsk.diplomp-rf.com
 tomsk.diplomus-24.com
 tomsk.diplomv-4you.com
+tomsk.diplomysattestaty.com
 tomsk.exdiplomsys.com
 tomsk.firma-diplomoss.com
 tomsk.fort-pravama.com
@@ -135016,6 +135037,7 @@ tyumen.godiplomsis.com
 tyumen.godiplomsus.com
 tyumen.godiplomy.com
 tyumen.gooddiplomu.com
+tyumen.gooddiplomus.com
 tyumen.goodiplom.com
 tyumen.goodiplomu.com
 tyumen.likediplom.com
@@ -135910,6 +135932,7 @@ uzlovaya.godiplomsus.com
 uzmelqfodo.top
 uznav.ru
 uznav.su
+uznavat.okd1.ru
 uznavu.ru
 uznayvse.in.ua
 uzonadrwv.top
@@ -145251,6 +145274,7 @@ web.drug-market.xyz
 web.eldorado-casino4.com
 web.eldorado-casino5.com
 web.goldbet.it
+web.indapills.com
 web.kinotazz.xyz
 web.kladshop.xyz
 web.legalklad.xyz
@@ -156882,6 +156906,7 @@ zakaz-bolnichniyh.com
 zakaz-bolnichnjyh.com
 zakaz-bolnjchnyh.com
 zakaz-spravka.com
+zakaz.indapills.com
 zakaz.shopstoyal.su
 zakaz.spravka-v-spb.net
 zakazat-prava.ru
