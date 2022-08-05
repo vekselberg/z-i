@@ -6483,6 +6483,7 @@
 1xbet-all.xyz
 1xbet-alx.xyz
 1xbet-am.xyz
+1xbet-aml.xyz
 1xbet-an.xyz
 1xbet-ann.xyz
 1xbet-anr.xyz
@@ -6751,6 +6752,7 @@
 1xbet-ec.xyz
 1xbet-ed.xyz
 1xbet-edi.xyz
+1xbet-eh.xyz
 1xbet-ei.xyz
 1xbet-eig.xyz
 1xbet-ek.xyz
@@ -7053,6 +7055,7 @@
 1xbet-man.xyz
 1xbet-margo.online
 1xbet-mas.xyz
+1xbet-mb.xyz
 1xbet-mc.xyz
 1xbet-md.xyz
 1xbet-me.xyz
@@ -7232,6 +7235,7 @@
 1xbet-qqv.xyz
 1xbet-qr.xyz
 1xbet-qtd.xyz
+1xbet-qu.xyz
 1xbet-qy.xyz
 1xbet-qz.xyz
 1xbet-r.site
@@ -7577,6 +7581,7 @@
 1xbet-top1.club
 1xbet-top1.online
 1xbet-top1.site
+1xbet-top1t.xyz
 1xbet-top1x.online
 1xbet-top1x.site
 1xbet-top1x1.site
@@ -7817,6 +7822,7 @@
 1xbet-zap.xyz
 1xbet-zar.xyz
 1xbet-zaz.xyz
+1xbet-zb.xyz
 1xbet-zc.xyz
 1xbet-zcv.xyz
 1xbet-ze.xyz
@@ -11276,6 +11282,7 @@
 255joycasino.ru
 255joycasino.xyz
 2562-azino777.icu
+2568.fun
 256azino777.win
 256joycasino.com
 256joycasino.xyz
@@ -13356,6 +13363,7 @@
 436301m90.xyz
 4364.info
 436joycasino.com
+4371.info
 437joycasino.com
 438-azino777.icu
 4383-777azino.com
@@ -18095,8 +18103,7 @@ ARRAY(0x8373a28d0)
 ARRAY(0x838466288)
 ARRAY(0x83937e918)
 ARRAY(0x83b75cc30)
-ARRAY(0x83e0afc90)
-ARRAY(0x89838c708)
+ARRAY(0x898497f00)
 ARRAY(0x8984a7a98)
 ARRAY(0x8984c1a50)
 ARRAY(0x8984f0f18)
@@ -18117,6 +18124,7 @@ ARRAY(0x8b7f69df8)
 ARRAY(0x8b804bd98)
 ARRAY(0x8b8315f90)
 ARRAY(0x8b8324060)
+ARRAY(0x8b8d18f00)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -58112,6 +58120,7 @@ game.mechanics.team
 game.moneylacky.space
 game.official-azino777-slots.online
 game.online-casino777.ru
+game.russianvulkan-slots.com
 game.top-admiral-casino.online
 game.top-admiral-casino.xyz
 game.v-vulkan.club
@@ -67090,6 +67099,7 @@ joycasino-ak.xyz
 joycasino-alx.xyz
 joycasino-alz.xyz
 joycasino-aml.xyz
+joycasino-ammo.xyz
 joycasino-amn.xyz
 joycasino-amx.xyz
 joycasino-amxx.xyz
@@ -67135,6 +67145,7 @@ joycasino-b64.xyz
 joycasino-bag.xyz
 joycasino-bar.xyz
 joycasino-bat.xyz
+joycasino-bb2.xyz
 joycasino-bbb.xyz
 joycasino-bbk.xyz
 joycasino-bcc.xyz
@@ -67267,6 +67278,7 @@ joycasino-deluxe.ccleaner-ru.info
 joycasino-den.xyz
 joycasino-dkc.xyz
 joycasino-dll.xyz
+joycasino-dln2.xyz
 joycasino-dlnm.xyz
 joycasino-doc.xyz
 joycasino-dostup.online
@@ -67277,6 +67289,7 @@ joycasino-ea.xyz
 joycasino-easy-play.com
 joycasino-eb.xyz
 joycasino-ee-official.azurewebsites.net
+joycasino-eg2.xyz
 joycasino-egr.xyz
 joycasino-ei.xyz
 joycasino-emb.xyz
@@ -67338,6 +67351,7 @@ joycasino-go.win
 joycasino-go.xyz
 joycasino-go1.xyz
 joycasino-gol.xyz
+joycasino-gol2.xyz
 joycasino-gold.xyz
 joycasino-gon.xyz
 joycasino-good.site
@@ -67609,6 +67623,7 @@ joycasino-play70.win
 joycasino-ple.xyz
 joycasino-por.xyz
 joycasino-pox.xyz
+joycasino-pp2.xyz
 joycasino-ppp.xyz
 joycasino-pro.win
 joycasino-pro1.win
@@ -67702,6 +67717,7 @@ joycasino-site6.xyz
 joycasino-site7.xyz
 joycasino-site9.xyz
 joycasino-sites.azurewebsites.net
+joycasino-sl2.xyz
 joycasino-slk.xyz
 joycasino-sll.xyz
 joycasino-slm.xyz
@@ -67731,8 +67747,10 @@ joycasino-slots.xyz
 joycasino-slots24.club
 joycasino-slr.xyz
 joycasino-sls.xyz
+joycasino-slt2.xyz
 joycasino-slts.xyz
 joycasino-slv.xyz
+joycasino-sm2.xyz
 joycasino-spi2.xyz
 joycasino-spin.xyz
 joycasino-spin105.win
@@ -67781,6 +67799,7 @@ joycasino-ufo.xyz
 joycasino-uin.xyz
 joycasino-ul.xyz
 joycasino-ums.xyz
+joycasino-ut2.xyz
 joycasino-utn.xyz
 joycasino-uv.xyz
 joycasino-uxz.xyz
@@ -67835,6 +67854,7 @@ joycasino-win105.xyz
 joycasino-winner.site
 joycasino-winner.website
 joycasino-wis.xyz
+joycasino-wis2.xyz
 joycasino-wise.xyz
 joycasino-wll.xyz
 joycasino-wlz.xyz
@@ -67913,6 +67933,7 @@ joycasino-ygf.xyz
 joycasino-yka.xyz
 joycasino-ym.xyz
 joycasino-yn.xyz
+joycasino-yo2.xyz
 joycasino-you.xyz
 joycasino-yq.xyz
 joycasino-ys.xyz
@@ -74561,6 +74582,7 @@ krupann.ru
 kruticasino.azurewebsites.net
 kruticasino.website
 kruticasino1.website
+kruticasino10.website
 kruticasino101.website
 kruticasino119.website
 kruticasino123.website
@@ -84012,9 +84034,11 @@ melbet-arj.xyz
 melbet-ark.xyz
 melbet-ass.site
 melbet-ave.xyz
+melbet-bbk.xyz
 melbet-best.site
 melbet-bet.club
 melbet-bet.net
+melbet-bet1.xyz
 melbet-beta.site
 melbet-beta10.club
 melbet-beta11.xyz
@@ -84137,6 +84161,7 @@ melbet-gma.site
 melbet-gmb.site
 melbet-go.ru
 melbet-go.site
+melbet-gold.xyz
 melbet-good.com
 melbet-gue.xyz
 melbet-hd.ru
@@ -85646,6 +85671,7 @@ mfnjer3k3a.com
 mfonline.ru
 mfs.tax
 mfutbol.ru
+mfwpharmacy.com
 mg.live-viagra.ru
 mg.lordsfilms.store
 mg24.pro
@@ -89362,10 +89388,12 @@ mostbet-a2c.xyz
 mostbet-aaui.xyz
 mostbet-ae.xyz
 mostbet-ah.xyz
+mostbet-as1.xyz
 mostbet-asml.xyz
 mostbet-asu.xyz
 mostbet-ave.xyz
 mostbet-bat.xyz
+mostbet-bb1.xyz
 mostbet-bci.xyz
 mostbet-bcm.xyz
 mostbet-be2.xyz
@@ -89435,6 +89463,7 @@ mostbet-gam.xyz
 mostbet-gin.xyz
 mostbet-gld.xyz
 mostbet-go-wins.website
+mostbet-gol1.xyz
 mostbet-gri.xyz
 mostbet-gtr.xyz
 mostbet-gue.xyz
@@ -89471,6 +89500,7 @@ mostbet-lwa.xyz
 mostbet-ma.xyz
 mostbet-mobile.space
 mostbet-mos.xyz
+mostbet-ms1.xyz
 mostbet-msi.xyz
 mostbet-nay.xyz
 mostbet-ock.xyz
@@ -89494,6 +89524,7 @@ mostbet-otzyvy.ru
 mostbet-owl.xyz
 mostbet-pen.xyz
 mostbet-ply.xyz
+mostbet-pp1.xyz
 mostbet-prime.website
 mostbet-pte.xyz
 mostbet-qd.xyz
@@ -89502,6 +89533,7 @@ mostbet-r.top
 mostbet-r1.online
 mostbet-re2.xyz
 mostbet-red.xyz
+mostbet-reg1.xyz
 mostbet-registration-qop.top
 mostbet-rew.xyz
 mostbet-rf.xyz
@@ -92947,6 +92979,7 @@ mp3up.net
 mp3vek.info
 mp3vevo.ru
 mp3vk.info
+mp3xa.club
 mp3you.club
 mp3you.net
 mp3ze.com
@@ -126547,6 +126580,7 @@ silmagno14.ru
 silmagno15.ru
 silnaya-lichnost.ru
 siloviki.press
+silver-fin.ltd
 silverazino777-63.ru
 silverbrok.ltd
 silvercasino.ru
@@ -132888,7 +132922,6 @@ top10-online-casino1.xyz
 top10-online-casino2.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
-top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -149298,7 +149331,6 @@ www.bonus-azino.ru
 www.bonus.co.uk
 www.bonus777aziino.com
 www.bonuscodebets.com
-www.bonuscodes.casino
 www.bonuses-finder.ru
 www.bonuskazino.net
 www.bonuskazino.su
@@ -158944,6 +158976,7 @@ zerkalo-melbet.site
 zerkalo-melbet.xyz
 zerkalo-melbet1.xyz
 zerkalo-melbet2.ru
+zerkalo-melbet2.xyz
 zerkalo-melbet24.xyz
 zerkalo-melbet26.xyz
 zerkalo-melbet27.xyz
