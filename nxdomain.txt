@@ -18104,23 +18104,22 @@
 ARRAY(0x834612048)
 ARRAY(0x8390140f0)
 ARRAY(0x8406958d0)
-ARRAY(0x8410dee58)
 ARRAY(0x84167df00)
 ARRAY(0x8984673f0)
 ARRAY(0x8984693f0)
 ARRAY(0x89846f3f0)
+ARRAY(0x898470648)
 ARRAY(0x8984713f0)
 ARRAY(0x8984764e0)
 ARRAY(0x89849e3f0)
-ARRAY(0x8af2f5d80)
 ARRAY(0x8b03f7ab0)
 ARRAY(0x8b139c9a8)
+ARRAY(0x8b16afe40)
 ARRAY(0x8b29dbab0)
 ARRAY(0x8b3920c78)
 ARRAY(0x8b439ca50)
 ARRAY(0x8b583b5d0)
 ARRAY(0x8b6fef3f0)
-ARRAY(0x8b823f150)
 ARRAY(0x8b8240a38)
 ARRAY(0x8b824be40)
 ARRAY(0x8b8254780)
@@ -42046,6 +42045,7 @@ casino-vulkan-platinum3.xyz
 casino-vulkan-play.site
 casino-vulkan-pobeda.net
 casino-vulkan-russia1.win
+casino-vulkan-russia17.win
 casino-vulkan-russia2.win
 casino-vulkan-russia3.win
 casino-vulkan-russia4.win
@@ -46930,7 +46930,6 @@ club-vulkan-platinum.online
 club-vulkan-play.azurewebsites.net
 club-vulkan-plt.club
 club-vulkan-russia.club
-club-vulkan-russia.com
 club-vulkan-stavka.net
 club-vulkan.azurewebsites.net
 club-vulkan.ereginasvetlana.ru
@@ -49688,7 +49687,6 @@ domainredb.com
 domainredsbet.com
 domashka.me
 domashka24.com
-domashke.net
 domashniiyserial.ru
 domashniiyserial.site
 domashniymillioner.net
@@ -50458,6 +50456,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e105.fisher-1.ru
 e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -51545,7 +51544,6 @@ eldoradoclub-casino.online
 eldoradoclub-casino.ru
 eldoradoclub-offical.com
 eldoradoclub.azurewebsites.net
-eldoradoclub.org
 eldoradoclub.xyz
 eldoradogames.icu
 eldoradogolds.net
@@ -63793,7 +63791,7 @@ i.fantasy-worlds.org
 i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
-i.jenery.ru
+i.inter-apteka.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -70874,7 +70872,6 @@ kemerovo.life-diplomt.com
 kemerovo.metannrus.com
 kemerovo.mydiplomusstores.com
 kemerovo.pravac-ru.com
-kemerovo.prostitutki.win
 kemerovo.sam-poehali.com
 kemerovo.silmag10.ru
 kemerovo.silmag11.ru
@@ -73019,7 +73016,6 @@ kinomania-online.ru
 kinomania.gidonline-1176.site
 kinomania.host
 kinomania.monster
-kinomania.pro
 kinomanias.net
 kinomaniy.ru
 kinomaniya.club
@@ -74224,7 +74220,6 @@ knigism.org
 knignik.xyz
 knlnadrtg.top
 knlordfilm.lordfilm.uk
-knnen-sie-in-online-casinos-geld-verdienen.gruener-pfeil.de
 knowledgeablecarpenter.site
 knpz-ken.com
 ko.azartplay-casino.site
@@ -100983,7 +100978,6 @@ orenburg.mydiplomustores.com
 orenburg.prava-vsemrus.site
 orenburg.pravac-ru.com
 orenburg.prawavuonline.com
-orenburg.prostitutki.win
 orenburg.pto555.org
 orenburg.sam-poehali.com
 orenburg.sam-poexal.com
@@ -115190,7 +115184,6 @@ rostov.diplomp-rf.com
 rostov.gozznakdiploma.com
 rostov.pravaw-4you.com
 rostov.prostitutki.photo
-rostov.prostitutki.win
 rostov.vodb-prava.com
 rotaambetbeat.top
 rotaambetcoach.top
@@ -117665,6 +117658,7 @@ ru-mobileazino.site
 ru-music.net
 ru-music.org
 ru-music.ru
+ru-music.xyz
 ru-musics.com
 ru-open.top
 ru-p-oker.com
@@ -122789,7 +122783,6 @@ samara.pravac-ru.com
 samara.pravag-4you.com
 samara.prodiplomis.com
 samara.prostitutki.photo
-samara.prostitutki.win
 samara.pto555.org
 samara.real-diplomus.com
 samara.realdiplomes.com
@@ -123928,6 +123921,7 @@ severtmthitxgcqdi.azureedge.net
 severutkihwynyifw.azureedge.net
 severveevcdjtssia.azureedge.net
 severwielaaiqsqyl.azureedge.net
+severwitsisginqeu.azureedge.net
 severwjrhgjgqxovd.azureedge.net
 severxfmeppeohqsl.azureedge.net
 severxhzdqgogvjro.azureedge.net
@@ -128502,7 +128496,6 @@ smolensk.mydiplomusstores.com
 smolensk.mydiplomustore.com
 smolensk.pravac-ru.com
 smolensk.prostitutki.tips
-smolensk.prostitutki.win
 smolensk.pto555.org
 smolensk.real-diplom.com
 smolensk.realdiplomes.com
@@ -132079,7 +132072,6 @@ tambov.mydiplomusstore.com
 tambov.pravac-ru.com
 tambov.prostitutki.bid
 tambov.prostitutki.tips
-tambov.prostitutki.win
 tambov.simadiplom.com
 tambov.vipp-steroid.com
 tambov.vodb-prava.com
@@ -136565,7 +136557,6 @@ v6.720filmshd.ru
 v6.gokino.vip
 v6.hdlim.ru
 v6.kinomutant.online
-v6.koshara.top
 v6.lostfilm.rocks
 v6.sportmagaz.click
 v6.top-movie.ru
@@ -139851,7 +139842,6 @@ voronezh.metanruss.com
 voronezh.mydiplomatstore.com
 voronezh.prava-fast.online
 voronezh.pravac-ru.com
-voronezh.prostitutki.win
 voronezh.silmag12.ru
 voronezh.simadiplom.com
 voronezh.vip-steroed.com
@@ -142334,7 +142324,6 @@ vulkandeluxepro-1.com
 vulkandeluxes-club.com
 vulkandeluxesclub.com
 vulkandeluxess.com
-vulkandeluxevip.com
 vulkandemo-casino.com
 vulkandemo-kazino.com
 vulkandemo.azurewebsites.net
@@ -149143,6 +149132,7 @@ www.betin.com
 www.betin76.com
 www.betinsports.pro
 www.betlatina.ag
+www.betlive88.com
 www.betmarathonbet.win
 www.betmarathonbetting.com
 www.betmira.net
@@ -149913,7 +149903,6 @@ www.dom-filmov.ru
 www.dom-knig.com
 www.dom2-lifes.ru
 www.domain546.xyz
-www.domashke.net
 www.domkino.kz
 www.domovenokedic.ru
 www.dompers.ru
@@ -160099,7 +160088,6 @@ zolotoy-fazan.kz
 zolotoyarbuz.casino
 zolotoyarbuz.vip
 zolotoyarbuz7.com
-zolotoyarbuz777.com
 zolotoyarbuzkazino.xyz
 zolotyeknigi.ru
 zombie-dev.online
