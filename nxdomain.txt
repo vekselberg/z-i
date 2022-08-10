@@ -1367,6 +1367,7 @@
 1080-hd.gidonline-289.site
 1080-hd.gidonline-892.site
 1080-hd.unikino-hd.com
+1080-hd.zagonka-1359.site
 1080-hd.zagonka-1389.site
 1080-hd.zagonka-2156.site
 1080-hd.zagonka-2822.site
@@ -6473,10 +6474,12 @@
 1xbet-ad.xyz
 1xbet-add.xyz
 1xbet-adr.xyz
+1xbet-ag.xyz
 1xbet-ah.xyz
 1xbet-ai.xyz
 1xbet-ain.xyz
 1xbet-air.site
+1xbet-ak.xyz
 1xbet-al.xyz
 1xbet-all.xyz
 1xbet-alx.xyz
@@ -6666,6 +6669,7 @@
 1xbet-casinos24.club
 1xbet-cat.xyz
 1xbet-cd.xyz
+1xbet-ch.xyz
 1xbet-chu.xyz
 1xbet-cia.xyz
 1xbet-ck.xyz
@@ -7074,6 +7078,7 @@
 1xbet-men.site
 1xbet-merx.site
 1xbet-mf.xyz
+1xbet-mg.xyz
 1xbet-mi.xyz
 1xbet-michael.site
 1xbet-mim.xyz
@@ -7089,6 +7094,7 @@
 1xbet-mixxx.site
 1xbet-ml.xyz
 1xbet-mm.xyz
+1xbet-mn.xyz
 1xbet-mo.xyz
 1xbet-mob.club
 1xbet-mobi.by
@@ -18122,7 +18128,6 @@
 9zm5omo.icu
 ARRAY(0x8336611f8)
 ARRAY(0x833689468)
-ARRAY(0x833deae88)
 ARRAY(0x834433c78)
 ARRAY(0x834fb2c18)
 ARRAY(0x835021018)
@@ -18135,13 +18140,15 @@ ARRAY(0x8398235a0)
 ARRAY(0x83af92f18)
 ARRAY(0x83bb6e270)
 ARRAY(0x83e3eb660)
+ARRAY(0x83e7179d8)
+ARRAY(0x83eb82090)
 ARRAY(0x8add42b70)
 ARRAY(0x8ae0f3b70)
 ARRAY(0x8b04b5c78)
 ARRAY(0x8b0f20318)
+ARRAY(0x8b20fc180)
 ARRAY(0x8b20ffe28)
 ARRAY(0x8b2d9cfa8)
-ARRAY(0x8b36cb690)
 ARRAY(0x8b3cc0990)
 ARRAY(0x8b3dc4198)
 ARRAY(0x8b61c04b0)
@@ -18150,8 +18157,7 @@ ARRAY(0x8b76c2a68)
 ARRAY(0x8b8edd678)
 ARRAY(0x8b9ba7078)
 ARRAY(0x8ba172258)
-ARRAY(0x8bc767e70)
-ARRAY(0x8bd465648)
+ARRAY(0x8bd042a08)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -18334,6 +18340,8 @@ a.semenarniasite.space
 a.semenarniasite.website
 a.semyanich-dostupen.online
 a.semyanich-market.ru
+a.semyanich-semena.life
+a.semyanich-semena.world
 a.semyanichmarket.ru
 a.semyanichmarket.site
 a.serialy.tv
@@ -44426,6 +44434,7 @@ casinopaysmoney.ru
 casinopedia.ru
 casinoper179.com
 casinoper577.com
+casinoper876.com
 casinopharaon.azurewebsites.net
 casinopharaon.ru
 casinopharaon.su
@@ -48922,10 +48931,13 @@ dipl-atts.com
 diplatte-1.net
 diplatte-2.net
 diplatte-24.net
+diplatte-2d.net
 diplatte-3.net
 diplatte-4.net
 diplatte-5.net
 diplatte-6.net
+diplatte-7.net
+diplatte1d.net
 diplatte2.net
 diplatte3d.net
 diplatte5.net
@@ -48938,6 +48950,9 @@ diplom-4you.com
 diplom-77-1.net
 diplom-77-2.net
 diplom-77-3.net
+diplom-77-5.net
+diplom-77-6.net
+diplom-77-7.net
 diplom-77.net
 diplom-cl.com
 diplom-expert.top
@@ -48983,6 +48998,8 @@ diplom24rus.com
 diplom2rus.com
 diplom4rus.com
 diplom4yours.com
+diplom77-1x.net
+diplom77-2x.net
 diplom77-4.net
 diplom77-5.net
 diplom77-6.net
@@ -51761,6 +51778,8 @@ emb.apl47.me
 emb.apl48.me
 emb.apl49.me
 emb.apl50.me
+emb.apl52.me
+emb.apl53.me
 emb.x150635.apl31.me
 embetplayluck.top
 emcahqnt.club
@@ -52082,6 +52101,7 @@ etlkfsv.site
 etm-oao.ru
 eto.4e3a.site
 eto.tvfilms.club
+etokino.com
 etopers.cc
 etopers.me
 etore-azinomobile.icu
@@ -63882,6 +63902,7 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
 i.inter-apteka.ru
+i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -67893,6 +67914,7 @@ joycasino-slk.xyz
 joycasino-sll.xyz
 joycasino-slm.xyz
 joycasino-slot.azurewebsites.net
+joycasino-slot.com
 joycasino-slot.top
 joycasino-slot1.win
 joycasino-slot10.xyz
@@ -104612,6 +104634,7 @@ piramidlist.ru
 pirap-azino777.icu
 pirat-bit.top
 pirat-bitru.gq
+pirat.shop
 piratbit-ru.gq
 piratbit-tor.ml
 piratbit-wow.tk
@@ -110354,6 +110377,7 @@ prostitutkinovosibirskaboom.com
 prostitutkinovosibirskacase.net
 prostitutkinovosibirskagid.info
 prostitutkinovosibirskagood.net
+prostitutkinovosibirskahappy.net
 prostitutkinovosibirskahim.com
 prostitutkinovosibirskalucky.info
 prostitutkinovosibirskanice.net
@@ -111404,6 +111428,7 @@ q.parkerlabs.me
 q.turkru-720.com
 q.uspehisporta.moscow
 q.wkino.pro
+q.zagonka-1359.site
 q.zagonka-1857.site
 q.zagonka-2531.site
 q.zagonka-952.site
@@ -114400,6 +114425,7 @@ revertmirr.com
 review-auto.net
 review-casino.online
 reviews-casino.ru
+revolution-fx.io
 revolvemediaplay.win
 rew.kinotazz.xyz
 reyting-foreks.com
@@ -123343,6 +123369,8 @@ semyanich-online24.ru
 semyanich-semechki.online
 semyanich-semechki.pw
 semyanich-semechki.ru
+semyanich-semena.life
+semyanich-semena.world
 semyanich-sidbank.ru
 semyanich.fun
 semyanich.world
@@ -136158,7 +136186,6 @@ uzlovaya.godiplomsus.com
 uzmelqfodo.top
 uznav.ru
 uznav.su
-uznavat.okd1.ru
 uznavu.ru
 uznayvse.in.ua
 uzonadrwv.top
@@ -137483,6 +137510,7 @@ vavadakty1.com
 vavadal.site
 vavadalf.com
 vavadalf7.com
+vavadalive.club
 vavadalive.com
 vavadalive.pro
 vavadalive.ru
@@ -142941,8 +142969,13 @@ vupobeda.com
 vuumqjda.olimpvkdz.xyz
 vuwtg.top
 vuyllccans.com
+vuzinfo-1x.com
 vuzinfo-24.com
 vuzinfo-4.com
+vuzinfo-5.com
+vuzinfo-5x.com
+vuzinfo-7.com
+vuzinfo-7x.com
 vuzinfo5.com
 vv.kinolords.com
 vv.movies-online.su
@@ -149065,7 +149098,6 @@ www.betin36.com
 www.betin76.com
 www.betinsports.pro
 www.betlatina.ag
-www.betlive88.com
 www.betmarathonbet.win
 www.betmarathonbetting.com
 www.betmira.net
@@ -150638,6 +150670,7 @@ www.ikinokrad.info
 www.ilm-capital.ru
 www.ilovebettingmarathon.win
 www.ilovemarathonbet.win
+www.imeb.ru
 www.imperator-777.net
 www.imperator-cazino.com
 www.imperator777.site
