@@ -2155,6 +2155,7 @@
 1358joycasino.com
 1359joycasino.com
 135joycasino.com
+135joycasino.xyz
 136-azino777.win
 136.ledi36.nl
 1360joycasino.com
@@ -11330,6 +11331,7 @@
 251azino777.win
 251joycasino.com
 251joycasino.ru
+251joycasino.xyz
 252004.firebros.top
 252008.serialhit.club
 2520azinogo.icu
@@ -18129,13 +18131,13 @@ ARRAY(0x833d9dfd8)
 ARRAY(0x8343888b8)
 ARRAY(0x834f660a8)
 ARRAY(0x83773bb70)
+ARRAY(0x837d94090)
 ARRAY(0x83882db40)
 ARRAY(0x83947bfc0)
 ARRAY(0x83baba600)
 ARRAY(0x83c726048)
 ARRAY(0x83d638ab0)
 ARRAY(0x83e163468)
-ARRAY(0x83e7179d8)
 ARRAY(0x83eb82090)
 ARRAY(0x8ad484690)
 ARRAY(0x8ae056930)
@@ -18145,11 +18147,11 @@ ARRAY(0x8aee22db0)
 ARRAY(0x8afbe10d8)
 ARRAY(0x8b11d1e40)
 ARRAY(0x8b20b8a98)
-ARRAY(0x8b20fc180)
 ARRAY(0x8b31780f0)
 ARRAY(0x8b4745cd8)
 ARRAY(0x8b49c71f8)
 ARRAY(0x8b5860120)
+ARRAY(0x8b6768858)
 ARRAY(0x8ba1a2240)
 ARRAY(0x8ba5c00f0)
 ARRAY(0x8ba751558)
@@ -18207,8 +18209,10 @@ a.baskino1.top
 a.baza-knig.info
 a.belgorodnb.info
 a.bestseeds1.live
+a.bestseeds10.live
 a.bestseeds2.live
 a.bestseeds3.live
+a.bestseeds8.live
 a.blackrutor.site
 a.bobfilm-hd.ru
 a.bobfilm1.ru
@@ -32248,6 +32252,7 @@ bestseeds.shop
 bestseeds.site
 bestseeds1.live
 bestseeds1.online
+bestseeds10.live
 bestseeds2.live
 bestseeds2.online
 bestseeds3.live
@@ -32255,6 +32260,7 @@ bestseeds3.online
 bestseeds5.live
 bestseeds5.online
 bestseeds7.online
+bestseeds8.live
 bestseller.pp.ru
 bestserial.online
 bestseriala.online
@@ -35327,6 +35333,7 @@ betwinner-oficial.org
 betwinner-oficialniy.site
 betwinner-oficialniy.xyz
 betwinner-online.club
+betwinner-op3.xyz
 betwinner-p.club
 betwinner-play.club
 betwinner-play1.xyz
@@ -35368,6 +35375,7 @@ betwinner-sport.website
 betwinner-sports-betting.site
 betwinner-sports-betting.website
 betwinner-sports.azurewebsites.net
+betwinner-sr3.xyz
 betwinner-stavka.com
 betwinner-stavki.com
 betwinner-store.site
@@ -48303,6 +48311,7 @@ danceandlife.ru
 dancemonkey.ru
 dancy.filmix.la
 dandie-dinmont.ru
+daniella.omg.wang
 dankesound.ru
 danludan.net
 danrunach.ru
@@ -50471,6 +50480,7 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e105.fisher-1.ru
+e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -58511,6 +58521,7 @@ gaminatorslotsru.org
 gaminatorslotsru.ru
 gaminatorslotss.ru
 gaminatorslotszerkalo.com
+gaminatorslotszerkalo2.com
 gaminatorstar.com
 gaminatorsuper.best
 gaminatorsuper.club
@@ -67871,6 +67882,7 @@ joycasino-site7.xyz
 joycasino-site9.xyz
 joycasino-sites.azurewebsites.net
 joycasino-sl2.xyz
+joycasino-sl9.xyz
 joycasino-slk.xyz
 joycasino-sll.xyz
 joycasino-slm.xyz
@@ -67911,6 +67923,7 @@ joycasino-spin105.xyz
 joycasino-spn.xyz
 joycasino-sr2.xyz
 joycasino-ss2.xyz
+joycasino-ss9.xyz
 joycasino-ssd.xyz
 joycasino-ssi.xyz
 joycasino-ssl.xyz
@@ -68084,6 +68097,7 @@ joycasino-ybw.xyz
 joycasino-yc.xyz
 joycasino-ydl.xyz
 joycasino-ygf.xyz
+joycasino-yh.xyz
 joycasino-yka.xyz
 joycasino-ym.xyz
 joycasino-yn.xyz
@@ -68825,6 +68839,7 @@ joyeru.ru
 joyfilm.cc
 joygu.top
 joyjoycazino.xyz
+joyjoycazino1.xyz
 joyka.pro
 joykasino-24.azurewebsites.net
 joykasino-blue.azurewebsites.net
