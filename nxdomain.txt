@@ -18194,7 +18194,6 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x833367e88)
-ARRAY(0x833d9dfd8)
 ARRAY(0x8341368b8)
 ARRAY(0x8373f6d20)
 ARRAY(0x837d94090)
@@ -18208,23 +18207,24 @@ ARRAY(0x83fac5bb8)
 ARRAY(0x840a36ac8)
 ARRAY(0x8414701e0)
 ARRAY(0x8ad484690)
-ARRAY(0x8ae056930)
 ARRAY(0x8ae95bf90)
 ARRAY(0x8afbe10d8)
-ARRAY(0x8b11d1e40)
+ARRAY(0x8b0d7d138)
 ARRAY(0x8b20b8a98)
+ARRAY(0x8b2de54c8)
 ARRAY(0x8b2f7ca08)
 ARRAY(0x8b334f780)
 ARRAY(0x8b34e23f0)
 ARRAY(0x8b5963b28)
 ARRAY(0x8b6768858)
 ARRAY(0x8b6a66ba0)
+ARRAY(0x8b8f360a8)
 ARRAY(0x8b95363a8)
 ARRAY(0x8ba5c00f0)
 ARRAY(0x8ba72fe10)
 ARRAY(0x8ba751558)
 ARRAY(0x8bb09dea0)
-ARRAY(0x8bcbc4690)
+ARRAY(0x8bd229060)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -30734,6 +30734,7 @@ barnaul.diplomr-kurerom.com
 barnaul.diploms4yours.com
 barnaul.diplomv-4you.com
 barnaul.diplomysattestati.com
+barnaul.exdiplomsus.com
 barnaul.exdiplomsys.com
 barnaul.firma-diplomoss.com
 barnaul.fort-pravama.com
@@ -39565,6 +39566,7 @@ bootclose.com
 bootes.ru
 boozekirov43.ru
 boptiks.xyz
+bor.exdiplomsus.com
 bor.texdk.org
 bor9.ru
 borabora-casino.com
@@ -39807,6 +39809,7 @@ bt1anxpndo.top
 bt34.top
 bt569.top
 btbkmarathon.win
+btc100.club
 btct-zerkalo11eth.ru
 btct-zerkalo1eds3.ru
 btct-zerkalo1egh2.ru
@@ -53921,6 +53924,7 @@ filmlife.tv
 filmlook.online
 filmlord.club
 filmlord.ru
+filmlord2.net
 filmlord4i.online
 filmlord4l.online
 filmlordi.online
@@ -60566,6 +60570,7 @@ google.qrutor.org
 google.slotvulcan777.com
 google.vlkn-deluxe.com
 google.youfonbet.com
+googleirk-24.biz
 gookind.com
 gool.ssio.ru
 goolo.filmyhd-torrent.fun
@@ -61546,6 +61551,7 @@ habarovsk.diplomhvruki.com
 habarovsk.diplomm-v-ruki.com
 habarovsk.diplomp-kurerom.com
 habarovsk.diplomp-magazine.com
+habarovsk.diplomr-v-ruki.com
 habarovsk.diploms4yours.com
 habarovsk.diplomus-24.com
 habarovsk.diplomvtrend.com
@@ -66090,7 +66096,6 @@ irkutsk.diploms4yours.com
 irkutsk.diplomus-24.com
 irkutsk.diplomvzruki.com
 irkutsk.diplomys-24.com
-irkutsk.exdiplomsus.com
 irkutsk.exdiplomsys.com
 irkutsk.fort-pravams.com
 irkutsk.fort-pravan.com
@@ -71079,6 +71084,7 @@ kemerovo.diplomc-24.com
 kemerovo.diplomgsos.com
 kemerovo.diplomm-v-ruki.com
 kemerovo.diplomp-v-ruki.com
+kemerovo.diplomr-v-ruki.com
 kemerovo.diplomusattestati.com
 kemerovo.diplomv-4you.com
 kemerovo.diplomvrukizz.com
@@ -74217,6 +74223,7 @@ kirov.diplomv-4you.com
 kirov.diplomys-24.com
 kirov.diplomysattestati.com
 kirov.diplomysattestaty.com
+kirov.exdiplomsus.com
 kirov.exdiplomsys.com
 kirov.firma-diplomass.com
 kirov.firma-diplomls.com
@@ -74271,6 +74278,7 @@ kiskistar.com
 kislovodsk.15dnei-y.com
 kislovodsk.diplom4yours.com
 kislovodsk.diplombrandd.com
+kislovodsk.exdiplomsus.com
 kislovodsk.fit-activplus.ru
 kislovodsk.godiplomsus.com
 kislovodsk.godiplomy.com
@@ -74537,6 +74545,7 @@ komsomolsk-na-amure.diplom4yours.com
 komsomolsk-na-amure.diplombrend.com
 komsomolsk-na-amure.diplomp-4you.com
 komsomolsk-na-amure.diplomv-4you.com
+komsomolsk-na-amure.exdiplomsus.com
 komsomolsk-na-amure.exdiplomsys.com
 komsomolsk-na-amure.godiplomy.com
 komsomolsk-na-amure.life-diplomp.com
@@ -74741,6 +74750,7 @@ krasnodar.diplomp-kurerom.com
 krasnodar.diplomp-magazine.com
 krasnodar.diplomp-rf.com
 krasnodar.diplomr-kurerom.com
+krasnodar.diplomr-v-ruki.com
 krasnodar.diplomysattestaty.com
 krasnodar.exdiplomsys.com
 krasnodar.firma-diplomsa.com
@@ -77671,6 +77681,7 @@ lipeck.diplomp-kurerom.com
 lipeck.diplomp-rf.com
 lipeck.diplomp-v-ruki.com
 lipeck.diplomr-kurerom.com
+lipeck.diplomr-v-ruki.com
 lipeck.diplomv-4you.com
 lipeck.prostitutki-today2.com
 lipeck.vipp-steroid.com
@@ -81250,6 +81261,7 @@ majilisbme1k.site
 majkop.15dnei-y.com
 majkop.damdiplomsa.com
 majkop.diplom4yours.com
+majkop.exdiplomsus.com
 majkop.godiplomsis.com
 majkop.godiplomy.com
 majkop.mydiplomusstores.com
@@ -82620,7 +82632,6 @@ maximumvulkan4.com
 maximumvulkan5.com
 maximumvulkan777.com
 maxisoc.ru
-maxitub.ru
 maxkino2.xyz
 maxkino4.xyz
 maxkinox.xyz
@@ -86063,6 +86074,7 @@ mgjjfhjq.olimphkjt.xyz
 mgka6-azino777.icu
 mgmail.online
 mgrxqv.yonatanhyatt.com
+mgstav.ru
 mgyhu-azino777.icu
 mh.lordsfilms.store
 mh01.kinomot.xyz
@@ -94541,6 +94553,7 @@ my.bezdepozita.online
 my.bonusbezdep.fun
 my.casinobezdep.one
 my.casinotropezclub.com
+my.climaxprime.org
 my.cryptonbroker.com
 my.dluxe.online
 my.dtrex.com
@@ -95150,6 +95163,7 @@ nalchik.diplom4yours.com
 nalchik.diplomp-4you.com
 nalchik.diploms4yours.com
 nalchik.diplomv-4you.com
+nalchik.exdiplomsus.com
 nalchik.goodiplom.com
 nalchik.kupuj-prava.com
 nalchik.life-diplomp.com
@@ -95399,6 +95413,7 @@ neftekamsk.diplomvrukizz.com
 neftekamsk.diplomvtrend.com
 neftekamsk.diplomxlike.com
 neftekamsk.diplomzsos.com
+neftekamsk.exdiplomsus.com
 neftekamsk.godiplomsis.com
 neftekamsk.godiplomsus.com
 neftekamsk.likediplom.com
@@ -96172,6 +96187,7 @@ new.thebestcasino.me
 new.thebestcasino.su
 new.userialsoul.online
 new.vip44.org
+new.vip45.org
 new.vip57.org
 new.vulcans.info
 new.winline-bet1.com
@@ -97034,6 +97050,7 @@ nizhnij-novgorod.diplomtop1.com
 nizhnij-novgorod.diplomusattestats.com
 nizhnij-novgorod.diplomysattestati.com
 nizhnij-novgorod.diplomysattestaty.com
+nizhnij-novgorod.exdiplomsus.com
 nizhnij-novgorod.exdiplomsys.com
 nizhnij-novgorod.godiplomsis.com
 nizhnij-novgorod.gooddiplomus.com
@@ -97125,6 +97142,7 @@ nn.diplomp-magazine.com
 nn.diplomp-rf.com
 nn.diplomp-v-ruki.com
 nn.diplomr-kurerom.com
+nn.diplomr-v-ruki.com
 nn.diplomv-4you.com
 nn.diplomvzruki.com
 nn.diplomw-rf.com
@@ -97436,6 +97454,7 @@ novocherkassk.diplom-obrazovanie.com
 novocherkassk.diplom4yours.com
 novocherkassk.diplombrend.com
 novocherkassk.diploms4yours.com
+novocherkassk.exdiplomsus.com
 novocherkassk.godiplomsis.com
 novocherkassk.godiplomsus.com
 novocherkassk.luxdiplomi.com
@@ -97457,6 +97476,7 @@ novokujbyshevsk.damdiplomsa.com
 novokujbyshevsk.diplom4yours.com
 novokujbyshevsk.diploms4yours.com
 novokujbyshevsk.diplomysattestati.com
+novokujbyshevsk.exdiplomsus.com
 novokujbyshevsk.exdiplomsys.com
 novokujbyshevsk.godiplomsis.com
 novokujbyshevsk.mass-diplomiks24.com
@@ -97489,6 +97509,7 @@ novokuznetsk.damdiplomsa.com
 novokuznetsk.diplom-store.net
 novokuznetsk.diplom4yours.com
 novokuznetsk.diploms4yours.com
+novokuznetsk.exdiplomsus.com
 novokuznetsk.exdiplomsys.com
 novokuznetsk.firma-diplomass.com
 novokuznetsk.firma-diplomls.com
@@ -97533,6 +97554,7 @@ novorossiysk.15dnei-y.com
 novoshahtinsk.15dnei-y.com
 novoshahtinsk.damdiplomsa.com
 novoshahtinsk.diplom4yours.com
+novoshahtinsk.exdiplomsus.com
 novoshahtinsk.exdiplomsys.com
 novoshahtinsk.godiplomsis.com
 novoshahtinsk.godiplomsus.com
@@ -97782,6 +97804,7 @@ nsk.diplomp-4you.com
 nsk.diplomp-kurerom.com
 nsk.diplomp-magazine.com
 nsk.diplomp-rf.com
+nsk.diplomr-v-ruki.com
 nsk.diplomvtrend.com
 nsk.diplomw-rf.com
 nsk.kupuh-prava.com
@@ -99788,6 +99811,7 @@ onion-hydra.cn
 onion-market.fun
 onion-market.host
 onion-shop.com
+onion.hdrhdr.io
 onion.hydradarknet.cn
 onion.hydraruzxpnew4afs-onion.com
 onion.hydraruzxpnyw4af.com
@@ -103387,6 +103411,7 @@ perm.diplomlike.com
 perm.diplomp-4you.com
 perm.diplomp-kurerom.com
 perm.diplomp-rf.com
+perm.diplomr-v-ruki.com
 perm.diplomus-24.com
 perm.diplomvtrend.com
 perm.diplomysattestaty.com
@@ -103651,7 +103676,6 @@ phonex8ioeck.xyz
 phonexeioect.xyz
 phongvevietnambooking.com
 photo-curs.su
-photo.casinopinups.com
 photocodeathome.info
 photokaluga.online
 photokaluga.ru
@@ -122872,6 +122896,7 @@ saransk.diplomb-4you.com
 saransk.diplombrend.com
 saransk.diplomp-rf.com
 saransk.diploms4yours.com
+saransk.exdiplomsus.com
 saransk.exdiplomsys.com
 saransk.fort-pravan.com
 saransk.godiplomsis.com
@@ -122906,6 +122931,7 @@ saratov.diplomr-kurerom.com
 saratov.diploms4yours.com
 saratov.diplomv-4you.com
 saratov.diplomvrukizz.com
+saratov.exdiplomsus.com
 saratov.exdiplomsys.com
 saratov.firma-diplomos.com
 saratov.fort-pravams.com
@@ -126505,6 +126531,7 @@ shahty.15dnei-y.com
 shahty.diplom4yours.com
 shahty.diploms4yours.com
 shahty.diplomv-4you.com
+shahty.exdiplomsus.com
 shahty.exdiplomsys.com
 shahty.godiplomy.com
 shahty.life-diplomt.com
@@ -128555,6 +128582,7 @@ smolensk.diplomlike.com
 smolensk.diplomp-rf.com
 smolensk.diploms4yours.com
 smolensk.diplomw-rf.com
+smolensk.exdiplomsus.com
 smolensk.exdiplomsys.com
 smolensk.godiplomsus.com
 smolensk.gozznakdiploma.com
@@ -129446,6 +129474,7 @@ solnechnogorsk.diplomxknam.com
 solnechnogorsk.diplomxxlike.com
 solnechnogorsk.diplomznsos.com
 solnechnogorsk.diplomzzlike.com
+solnechnogorsk.exdiplomsus.com
 solnechnogorsk.exdiplomsys.com
 solnechnogorsk.godiplomsus.com
 solnechnogorsk.pedsovet.info
@@ -132768,6 +132797,7 @@ tolyatti.diplomp-4you.com
 tolyatti.diplomp-kurerom.com
 tolyatti.diplomp-rf.com
 tolyatti.diplomr-kurerom.com
+tolyatti.diplomr-v-ruki.com
 tolyatti.diploms4yours.com
 tolyatti.diplomysattestati.com
 tolyatti.exdiplomsys.com
@@ -134840,7 +134870,6 @@ tula.diplomp-4you.com
 tula.diplomp-magazine.com
 tula.diplomp-rf.com
 tula.diplomr-kurerom.com
-tula.diplomr-v-ruki.com
 tula.diploms4yours.com
 tula.diplomv-4you.com
 tula.diplomvtrend.com
@@ -137272,6 +137301,7 @@ vavadabook.com
 vavadabos.xyz
 vavadabose.xyz
 vavadaboss.xyz
+vavadabosse.xyz
 vavadabow.com
 vavadabtc.com
 vavadabum.xyz
@@ -139717,6 +139747,7 @@ vologda.diplombbrend.com
 vologda.diplombrend.com
 vologda.diplomp-4you.com
 vologda.diplomv-4you.com
+vologda.exdiplomsus.com
 vologda.fort-pravan.com
 vologda.godiplomsis.com
 vologda.godiplomsus.com
@@ -150423,6 +150454,7 @@ www.free33.ru
 www.freebetslots.ru
 www.freecasino-game.net
 www.freecasino-online.xyz
+www.freeflashonlinegames.com
 www.freehomeslots.com
 www.freekaraoke.ru
 www.freekurses.online
@@ -153813,6 +153845,7 @@ www.vkovk.ru
 www.vlilkuz.com
 www.vlk-russ.ru
 www.vmarathonbet.win
+www.vmeste.tv
 www.vmiresport.ru
 www.voffline.net
 www.volki-yolki.ru
@@ -155857,6 +155890,7 @@ xn----7sbbayc2ael9arrf6o.xn--p1ai
 xn----7sbbdqc7bifnfncgu.xn--p1ai
 xn----7sbbf2agjcfwfm8c.xn--80asehdb
 xn----7sbbfd0biflupmhe.xn--p1ai
+xn----7sbbftmz0cj6h1a.xn--p1ai
 xn----7sbbgrpbaopwhhon0d9a2gra.xn--p1ai
 xn----7sbbh1amcpnfeblrf.xn--p1ai
 xn----7sbbhxglfirfg1e.su
@@ -156730,6 +156764,7 @@ yakutsk.diplomusattestati.com
 yakutsk.diplomv-4you.com
 yakutsk.diplomvtrend.com
 yakutsk.diplomysattestati.com
+yakutsk.exdiplomsus.com
 yakutsk.godiplomsis.com
 yakutsk.godiplomsus.com
 yakutsk.gooddiplomu.com
