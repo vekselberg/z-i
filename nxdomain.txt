@@ -18240,8 +18240,6 @@
 9zm5omo.icu
 ARRAY(0x8334f2de0)
 ARRAY(0x8334f7258)
-ARRAY(0x833d80b10)
-ARRAY(0x8341862d0)
 ARRAY(0x8348f3450)
 ARRAY(0x83523d180)
 ARRAY(0x8355b5de0)
@@ -18257,6 +18255,8 @@ ARRAY(0x8ad8bad98)
 ARRAY(0x8b2dfe1e0)
 ARRAY(0x8b6497a50)
 ARRAY(0x8b6681ae0)
+ARRAY(0x8b6a30d38)
+ARRAY(0x8b85c6df8)
 ARRAY(0x8b90b5fa8)
 ARRAY(0x8ba23a348)
 ARRAY(0x8baa58948)
@@ -49530,7 +49530,6 @@ diplomp-v-ruki.com
 diplomp-v-samare.com
 diplomp-v-tumeni.com
 diplomp-v-ufe.com
-diplomp.com
 diplompro24.pro
 diplompsos.com
 diplomq-55.com
@@ -94592,7 +94591,6 @@ music-sbornikov.pro
 music-shanson.ru
 music-top.pro
 music-vk.net
-music.freshbeat.ru
 music.wottut.ru
 music2018.org
 music4love.me
@@ -111081,7 +111079,6 @@ prostitutkisamaryonline.info
 prostitutkisamaryrelax.net
 prostitutkisamarysex.net
 prostitutkisamarysex.org
-prostitutkisamaryslap.org
 prostitutkisamarystay.info
 prostitutkisamarysuck.org
 prostitutkisamarytask.net
@@ -121665,7 +121662,6 @@ ruflims.store
 rufllm.fun
 rufllms.store
 rugame.org
-rugames.net
 rugang.net
 rugudja.ru
 ruhimtrade.ru
@@ -150045,6 +150041,7 @@ www.californialotteryonline.com
 www.callcenterworld.ru
 www.cam-clips.com
 www.campleziertje.nl
+www.cannabissearch.com
 www.canopuscorp.ru
 www.capitaloffocus.com
 www.caprizcasino.com
