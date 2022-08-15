@@ -18242,9 +18242,10 @@ ARRAY(0x8334f2de0)
 ARRAY(0x8334f7258)
 ARRAY(0x833d80b10)
 ARRAY(0x8341862d0)
+ARRAY(0x8348f3450)
+ARRAY(0x83523d180)
 ARRAY(0x8355b5de0)
 ARRAY(0x83625c870)
-ARRAY(0x836280df8)
 ARRAY(0x83754f9a8)
 ARRAY(0x8378baaf8)
 ARRAY(0x838c39d98)
@@ -18255,7 +18256,6 @@ ARRAY(0x840af4180)
 ARRAY(0x8ad8bad98)
 ARRAY(0x8b2dfe1e0)
 ARRAY(0x8b34148b8)
-ARRAY(0x8b3edc1e0)
 ARRAY(0x8b6497a50)
 ARRAY(0x8b6681ae0)
 ARRAY(0x8b90b5fa8)
@@ -22859,6 +22859,7 @@ amyrose.ru
 an-argo.ru
 an-online.lordfilms-s.art
 an2fy-azinomobile.host
+anabolicshops.info
 anaboliki.vip
 anaboliki5.net
 anaboliki6.net
@@ -52193,6 +52194,7 @@ enjoy-pmcs-casinoss.xyz
 enjoy-pmcs-cazinos.xyz
 enjoy-pmcs-cazinozs.xyz
 enjoy-slot.xyz
+enjoy.pivo.website
 enjoy24wlcs.com
 enjoybooks.info
 enjoybooks.me
@@ -52713,7 +52715,6 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
-f002.fisher-r.ru
 f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
@@ -61019,7 +61020,6 @@ grand-casinoinfo.azurewebsites.net
 grand-casinoklub.com
 grand-casinoo.ru
 grand-casinosloty.com
-grand-casinovip.com
 grand-casinoz.online
 grand-cassino.ru
 grand-cazina.azurewebsites.net
@@ -78327,7 +78327,6 @@ lkcen-azino777.icu
 lkface.top
 lkfc.ru
 lkh-mar-zfggf.win
-lkino.ru
 lkjj.city
 lklccvdt.olimpyk3k.xyz
 lkmpila.xyz
@@ -81636,6 +81635,7 @@ maneuvermediaplay.win
 maneylocky.space
 mango.pipitor.site
 mango.pyramidgambling.xyz
+mango.xacku.cc
 mangooo.ru
 mania-beting.ru
 mania-betting.ru
@@ -111679,6 +111679,7 @@ putlocker.cx
 putlocker.sc
 putlocker68.online
 putlocker9.as
+putlockermovies.ch
 putlockernew.site
 putlockers.gg
 puvo.ny3blpuku.cc
@@ -128953,7 +128954,6 @@ sms.freehd.com.ua
 sms2domen.ru
 smtbet.site
 smtlbet.site
-smtp.alkoeburg22.ru
 smtp.see-me.ru
 smtpseguro.freehd.com.ua
 smwecufl.olimpm50v.xyz
@@ -150830,7 +150830,6 @@ www.free.playroulette-online.net
 www.free33.ru
 www.freecasino-game.net
 www.freecasino-online.xyz
-www.freeflashonlinegames.com
 www.freehomeslots.com
 www.freekaraoke.ru
 www.freekurses.online
