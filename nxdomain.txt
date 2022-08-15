@@ -13271,6 +13271,7 @@
 3tyza.info
 3tyza.itdist.ru
 3tyza.lesstrana.ru
+3tyza.link
 3tyza.mobi
 3tyza.name
 3tyza.one
@@ -18243,8 +18244,8 @@ ARRAY(0x833d80b10)
 ARRAY(0x8341862d0)
 ARRAY(0x8355b5de0)
 ARRAY(0x836280df8)
-ARRAY(0x836fde9d8)
 ARRAY(0x83754f9a8)
+ARRAY(0x8378baaf8)
 ARRAY(0x838c39d98)
 ARRAY(0x83aedb198)
 ARRAY(0x83ba54318)
@@ -18254,13 +18255,13 @@ ARRAY(0x8ad8bad98)
 ARRAY(0x8b2dfe1e0)
 ARRAY(0x8b34148b8)
 ARRAY(0x8b3edc1e0)
-ARRAY(0x8b50e76f0)
 ARRAY(0x8b6497a50)
 ARRAY(0x8b6681ae0)
 ARRAY(0x8b6c1a0c0)
 ARRAY(0x8b7b09d98)
 ARRAY(0x8b8ff1630)
 ARRAY(0x8b90b5fa8)
+ARRAY(0x8ba23a348)
 ARRAY(0x8baa58948)
 ARRAY(0x8bba8da20)
 ARRAY(0x8bce0eae0)
@@ -30760,6 +30761,7 @@ bangcash.pro
 bangcash.pw
 bangcash.ru
 bangcash.su
+bangseeds.xyz
 banimsk.ru
 bank-chronos.online
 bank-petergoff.online
@@ -48645,6 +48647,7 @@ darkbet.pro
 darkcash.pro
 darknet-site.com
 darknet.capital
+darknet.center
 darknet.group
 darknet.private24.xyz
 darmowe-automaty-kasynowe.mekongdluga29.pl
@@ -52288,6 +52291,7 @@ eplayfortune.azurewebsites.net
 eplayfortune.info
 eplayfortune.online
 eplayfortunes.azurewebsites.net
+epls.pro
 epmelqyrdo.top
 epokerdom.com
 epravda.life
@@ -67727,6 +67731,7 @@ joycasino-casino-official15.win
 joycasino-casino-official16.win
 joycasino-casino-official17.win
 joycasino-casino-official18.win
+joycasino-casino-official19.win
 joycasino-casino-online105.xyz
 joycasino-casino-online888.win
 joycasino-casino-play01.win
@@ -68854,6 +68859,7 @@ joycasino2021i.azurewebsites.net
 joycasino21.win
 joycasino22.win
 joycasino23.win
+joycasino24.win
 joycasino24.xyz
 joycasino24play.com
 joycasino24ru10.xyz
@@ -78697,6 +78703,7 @@ lord.lordfilm.frl
 lord.lordfilm.tk
 lord.lordfilm.wine
 lord.lordfilm4.tk
+lord.lordfilm6.tk
 lord.lutikhd.com
 lord1-filmhd.lordfilm-x.online
 lord1-filmi.lordfilm-x.online
@@ -78709,6 +78716,7 @@ lord1.film.filmlordi4i.online
 lord1.lordfilm1.zone
 lord10zs-film.lordfilm1.zone
 lord11sz-film.lordfilm1.zone
+lord12.lordfilm6.tk
 lord124.lordfilm.hair
 lord12sz-film.lordfilm1.zone
 lord13sz-film.lordfilm1.zone
@@ -78747,6 +78755,7 @@ lord3-filmzhd.lordfilm-x.online
 lord3.videocdn.ca
 lord30.lordflix.net
 lord32.lordflix.net
+lord34.lordfilm6.tk
 lord345.lordfilm.hair
 lord3s-film.lordsfilms3.club
 lord4-filmhd.lordfilm-x.online
@@ -78762,8 +78771,10 @@ lord6-film.lordfilm1.zone
 lord6.videocdn.ca
 lord7-filme.lordfilm1.zone
 lord7-filmz.lordfilm-x.online
+lord789.lordfilm6.tk
 lord7z-film.lordfilm1.zone
 lord8-films.lordfilm1.zone
+lord89.lordfilm6.tk
 lord9-film.lordfilm1.zone
 lord9-films.lordfilm1.zone
 lord9-filmsi.lordfilm1.zone
@@ -78898,6 +78909,7 @@ lordfilm3.tk
 lordfilm4.ru
 lordfilm4.tk
 lordfilm5.tk
+lordfilm6.tk
 lordfilm720.ru
 lordfilma.online
 lordfilmas.tech
@@ -83961,6 +83973,7 @@ medd-v.ru
 meddoki.ru
 medeslife.ru
 medfirma.com
+medfirma.org
 medi-cprawce24.com
 media-rs.info
 media-rus.info
@@ -93464,6 +93477,7 @@ mp3heet.ru
 mp3hit.top
 mp3hy.ru
 mp3karm.ru
+mp3ku.music.startandpartners.eu
 mp3lazer.ru
 mp3life.su
 mp3live.co
@@ -123084,6 +123098,7 @@ salavat.godiplomy.com
 salavat.luxdiplomi.com
 salavat.prostitutki-13.com
 sale.8l2.mobi
+sale.medfirma.org
 sale.vipklad.xyz
 sale2.kupit-diplom365.com
 saledym.com
@@ -129064,6 +129079,7 @@ snusmsk.org
 snusmsk.site
 snusoff.info
 snusoff.live
+snusoff.org
 snusoff.pro
 snusoff.xyz
 snuss.ru
@@ -131592,6 +131608,7 @@ stopting.ru
 store-first.ru
 store-hydra.xyz
 store.alc.name
+store.bangseeds.xyz
 store.dostavka.date
 store.ganja-seeds.tk
 store.ganjaseeds.life
@@ -141659,6 +141676,7 @@ vulkan-casino-club.azurewebsites.net
 vulkan-casino-club.info
 vulkan-casino-deluxe777.win
 vulkan-casino-demo.com
+vulkan-casino-fun.win
 vulkan-casino-gerolstein.targetcare.eu
 vulkan-casino-hammerbrook.hotelowa7.pl
 vulkan-casino-kod-promocyjny.uratuj-zycie.org.pl
@@ -142000,6 +142018,7 @@ vulkan-officialnye-casino777.win
 vulkan-officialnyi-casino777.win
 vulkan-officialnyi-site777.win
 vulkan-officialnyi777.win
+vulkan-officialnyy-casino777.win
 vulkan-officialsite.online
 vulkan-officialsite.ru
 vulkan-oficial.com
@@ -150971,6 +150990,7 @@ www.goldruvulkan.org
 www.goldrv.online
 www.golldfishka.com
 www.gomarathon.win
+www.gomgal.lviv.ua
 www.goo-mar-skok.win
 www.goodbizidea.ru
 www.goodmarbet.com
@@ -152239,6 +152259,7 @@ www.moksha-kuban.ru
 www.monalisa-tour.ru
 www.moneyazart.net
 www.moneymd.club
+www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
