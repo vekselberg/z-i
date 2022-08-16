@@ -18257,11 +18257,11 @@ ARRAY(0x83754f9a8)
 ARRAY(0x8378baaf8)
 ARRAY(0x838c39d98)
 ARRAY(0x83b0e5420)
-ARRAY(0x83ba54318)
+ARRAY(0x83df8eb10)
 ARRAY(0x840af4180)
+ARRAY(0x840b05ee8)
 ARRAY(0x84103a558)
 ARRAY(0x8ad3c5db0)
-ARRAY(0x8ad8bad98)
 ARRAY(0x8b37bc720)
 ARRAY(0x8b6497a50)
 ARRAY(0x8b6a30d38)
@@ -42389,6 +42389,7 @@ casino-vulkan-officialniy6.site
 casino-vulkan-officialniy7.site
 casino-vulkan-officialniy8.site
 casino-vulkan-officialniy9.site
+casino-vulkan-online777.xyz
 casino-vulkan-platinum-official.com
 casino-vulkan-platinum-official.info
 casino-vulkan-platinum-official.net
@@ -89006,7 +89007,6 @@ mopbet.ru
 mops.cc
 mops1.casino
 mopscasino.fun
-mopscasino.ru
 mopscasino1.fun
 mopscasino11.fun
 mopscazino.fun
@@ -100739,7 +100739,6 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.net
 online.games-slots.com
 online.gidonline-1176.site
