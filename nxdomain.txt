@@ -18254,18 +18254,18 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x833a73288)
+ARRAY(0x834e19438)
 ARRAY(0x835069c60)
 ARRAY(0x83563de40)
 ARRAY(0x835770570)
 ARRAY(0x835be58e8)
 ARRAY(0x835ff08b8)
+ARRAY(0x8365ea4f8)
 ARRAY(0x836b4eea0)
 ARRAY(0x83703fe58)
 ARRAY(0x838b104f8)
 ARRAY(0x839256fa8)
 ARRAY(0x839ee3318)
-ARRAY(0x83a708420)
-ARRAY(0x83a74e6f0)
 ARRAY(0x83b0a94f8)
 ARRAY(0x8b012bbe8)
 ARRAY(0x8b036a798)
@@ -18277,7 +18277,6 @@ ARRAY(0x8b3bcea98)
 ARRAY(0x8b47bd018)
 ARRAY(0x8b4dc2228)
 ARRAY(0x8b63bf198)
-ARRAY(0x8b784ef78)
 ARRAY(0x8b8075858)
 ARRAY(0x8b9d99ac8)
 ARRAY(0x8badb2108)
@@ -32326,6 +32325,7 @@ best.all-kino.online
 best.betwinner-official.biz
 best.bezdepozita.online
 best.bonusbezdep.fun
+best.bonuses.center
 best.casino-xoffsite.ru
 best.casinobezdep.one
 best.casinoru.fun
@@ -47087,6 +47087,7 @@ clado.plus
 clado.zone
 claimingbenefits.org
 clashofthetitans.xyz
+classes.mattcole.us
 classic.parimatch-mail.com
 classic.parimatch-mail1.com
 classic.parimatch-mail10.com
@@ -50774,6 +50775,7 @@ e.gidonline-892.site
 e.gov-bxd-q.top
 e.hcv-help.online
 e.hd-lostfilm.site
+e.itorrents-igruha.org
 e.kinoxa-in.xyz
 e.lordfilm-smotret.one
 e.lordfilms-film.online
@@ -52750,7 +52752,6 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
-f002.fisher-r.ru
 f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
@@ -64269,6 +64270,7 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
 i.inter-apteka.ru
+i.itorrents-igruha.org
 i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
@@ -78604,13 +78606,11 @@ lord-film13.lordfilm1.link
 lord-film14.lordfilm1.link
 lord-film18si.lordfilm1.zone
 lord-film1o.lordfilm1.zone
-lord-film1z.lordfilm.band
 lord-film1z1.lordfilm.band
 lord-film2.lordfilm1.zone
 lord-film21a.lordfilm1.link
 lord-film24si.lordfilm1.zone
 lord-film3.lordfilm1.zone
-lord-film3z.lordfilm.band
 lord-film3zz.lordfilm.band
 lord-film4-hd.lordfilm1.zone
 lord-film6is.lordfilm1.zone
@@ -78662,7 +78662,6 @@ lord-filmhd1.lordfilm1.zone
 lord-filmhd1.lordfilm2.skin
 lord-filmhd4.lordfilm1.zone
 lord-filmi7.lordfilm1.zone
-lord-filmihd.lordfilm.band
 lord-filmix.online
 lord-filml8.lordfilm1.zone
 lord-filmm13.lordfilm1.link
@@ -80634,6 +80633,7 @@ m.hd-filmy-smotret.online
 m.hd-smotret-filmy.online
 m.hd2020.online
 m.inapteka1.ru
+m.itorrents-igruha.org
 m.johnny-shop.co
 m.joy-online.us
 m.joycasino32.com
@@ -94944,6 +94944,7 @@ my.fxstart-online.ru
 my.ginvestco.org
 my.goldsong.fun
 my.hdfilms.life
+my.itorrents-igruha.org
 my.izmailov.bar
 my.kinocruise.club
 my.kinokod.life
@@ -95225,6 +95226,7 @@ n.dokumenty-ohrana.net
 n.dr-phil.org
 n.fantasy-worlds.org
 n.feimsk.city
+n.itorrents-igruha.org
 n.kinosimka3.be
 n.kupit-med-spravku.info
 n.lordfilms-film.online
@@ -111419,6 +111421,7 @@ q.hdrezka-2697.site
 q.hdrezka-2845.site
 q.hdrezka-340.site
 q.hdrezka-760.site
+q.itorrents-igruha.org
 q.kinogo-hd.icu
 q.lordfillms.net
 q.lordfilm.cfd
@@ -111980,6 +111983,7 @@ r.gidonline-2664.site
 r.gidonline-289.site
 r.gidonline-892.site
 r.hd-lostfilm.site
+r.itorrents-igruha.org
 r.kino-onlinego.com
 r.kinogo.wtf
 r.kinohaip.net
@@ -111999,6 +112003,7 @@ r.spravki-shop.pro
 r.spravki77-v-msk.info
 r.thebestcasino.biz
 r.thebestcasino.su
+r.torrents-igruha.org
 r.uspehisporta.moscow
 r.vse-sezony.co
 r.xxxufa.net
@@ -120927,6 +120932,7 @@ ru.topfilmshd.net
 ru.topscasino.su
 ru.torento.games
 ru.torrent-igruha.games
+ru.torrents-igruha.org
 ru.tr33nbyoop99f.com
 ru.tra53uub774.com
 ru.traffaccess8634link.com
@@ -122233,6 +122239,7 @@ s.film-v.ru
 s.firsthd1.ru
 s.gidonline-2156.site
 s.girls23.club
+s.itorrents-igruha.org
 s.kino-onlinego.club
 s.kinoed.pro
 s.kinogo.wtf
@@ -122363,6 +122370,7 @@ s1.torrent-capella.me
 s1.torrent-post.org
 s1.torrent5.games
 s1.torrent6.games
+s1.torrents-igruha.org
 s1.tryserial.fun
 s1.tryserial.name
 s1.tryserial.space
@@ -122457,6 +122465,7 @@ s2.slivup.me
 s2.spbsosamba.ru
 s2.tntx.cc
 s2.tntx.club
+s2.torrents-igruha.org
 s2.tryserial.fun
 s2.viewlost.club
 s2.xn--c1ajfnfb.su
@@ -122554,6 +122563,7 @@ s4.slivup.ch
 s4.slivup.me
 s4.tntx.cc
 s4.tntx.club
+s4.torrents-igruha.org
 s4.viewlost.club
 s4.xn--c1ajfnfb.su
 s41.kinomot.xyz
@@ -131408,6 +131418,7 @@ t.gidonline-1977.site
 t.gidonline-2156.site
 t.gidonline-2660.site
 t.gidonline-2664.site
+t.itorrents-igruha.org
 t.kinohaip.net
 t.kinosimka3.biz
 t.kupit-prava-777.club
@@ -132593,6 +132604,7 @@ top.slotgames.pro
 top.spravkaaa.top
 top.tazfilm.ru
 top.torrent-filmy.fun
+top.torrents-igruha.org
 top.vip-farm.net
 top.vipbonusgame.ru
 top.vulkanydachi.ru
@@ -134819,6 +134831,7 @@ tyulgan.fit-activplus.ru
 tyulpanovskoe-sp.ru
 tyumen-farm.ru
 tyumen-kupit-snus.xyz
+tyumen-medic.ru
 tyumen.annabolrus.com
 tyumen.damdiplomsa.com
 tyumen.diplom-store.net
@@ -134886,6 +134899,7 @@ u.gidonline-1921.site
 u.gidonline-2156.site
 u.hd-1080.site
 u.iserialsoul.online
+u.itorrents-igruha.org
 u.izmailov.bar
 u.kinobon.pw
 u.kinoma.best
@@ -135780,6 +135794,7 @@ v.feimsk.city
 v.film-v.ru
 v.filmive-hd.net
 v.hdlim.ru
+v.itorrents-igruha.org
 v.kingfilm.site
 v.kinodoza.tv
 v.kinogo1.xyz
@@ -142937,6 +142952,7 @@ w.hdrezka-ag.site
 w.hdrezka-hd.space
 w.hdrezka-me-n.top
 w.hrezka.net
+w.itorrents-igruha.org
 w.kiinogo.net
 w.kino-onlinego.com
 w.kinobas.online
@@ -149493,6 +149509,7 @@ www.diven.ru
 www.dliphep.org
 www.dlplomsxx.com
 www.dnbmusic.ru
+www.dob.biggap.ru
 www.docbet.com
 www.docplayer.ru
 www.docronika.ru
@@ -154620,6 +154637,7 @@ x.fantasy-worlds.org
 x.film-v.ru
 x.gid-onlain.ru
 x.goldsong.fun
+x.itorrents-igruha.org
 x.kingfilmi.online
 x.kinobaza.website
 x.lordfilm-smotret.one
@@ -156698,6 +156716,7 @@ z.ekranka.top
 z.ereksi.co
 z.fantasy-worlds.org
 z.film-v.ru
+z.itorrents-igruha.org
 z.kikin.top
 z.kino-2020hd.ru
 z.kino-onlinego.site
