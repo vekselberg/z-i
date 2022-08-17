@@ -18258,6 +18258,8 @@ ARRAY(0x835069c60)
 ARRAY(0x83563de40)
 ARRAY(0x835770570)
 ARRAY(0x835be58e8)
+ARRAY(0x835ff08b8)
+ARRAY(0x836b4eea0)
 ARRAY(0x83703fe58)
 ARRAY(0x838b104f8)
 ARRAY(0x839256fa8)
@@ -18265,7 +18267,6 @@ ARRAY(0x839ee3318)
 ARRAY(0x83a708420)
 ARRAY(0x83a74e6f0)
 ARRAY(0x83b0a94f8)
-ARRAY(0x840950f90)
 ARRAY(0x8b012bbe8)
 ARRAY(0x8b036a798)
 ARRAY(0x8b08b2438)
@@ -18277,7 +18278,6 @@ ARRAY(0x8b47bd018)
 ARRAY(0x8b4dc2228)
 ARRAY(0x8b63bf198)
 ARRAY(0x8b784ef78)
-ARRAY(0x8b7b4de70)
 ARRAY(0x8b8075858)
 ARRAY(0x8b9d99ac8)
 ARRAY(0x8badb2108)
@@ -35956,6 +35956,7 @@ bezdep-v-vulkan-grand.spravka-070.ru
 bezdep-vulkan-vip.raventest.ru
 bezdep.azurewebsites.net
 bezdep.best
+bezdep.bonuses.center
 bezdep.casino
 bezdep.club
 bezdep.expert
@@ -73207,7 +73208,6 @@ kinoigo.ru
 kinoillusion.com
 kinoimpulse.ru
 kinoio.ru
-kinoit.vago.xyz
 kinojet.ru
 kinojin.club
 kinojj.ru
@@ -78609,7 +78609,6 @@ lord-film1z1.lordfilm.band
 lord-film2.lordfilm1.zone
 lord-film21a.lordfilm1.link
 lord-film24si.lordfilm1.zone
-lord-film2z.lordfilm.band
 lord-film3.lordfilm1.zone
 lord-film3z.lordfilm.band
 lord-film3zz.lordfilm.band
@@ -84128,6 +84127,7 @@ medotvod.com
 medp-spravki.com
 medsan-spb.ru
 medsertefekat.org
+medsertefikat.org
 medsertificaty-centr.com
 medspirt-store-msk.online
 medspirt-store-msk.ru
@@ -85612,6 +85612,7 @@ melbetoxq.top
 melbetoyds.top
 melbetoylv.top
 melbetoyu.host
+melbetpartners.su
 melbetpci.top
 melbetpdw.top
 melbetpezr.top
@@ -104341,6 +104342,7 @@ pin-up-slots5.fun
 pin-up-slots7.fun
 pin-up-sport.online
 pin-up-stavki.mobi
+pin-up-store.com
 pin-up-style.org
 pin-up.azurewebsites.net
 pin-up.cool
@@ -133629,6 +133631,7 @@ tradepluss.net
 trader.secure.finseas-system.com
 trader.secure.system-safetrade.com
 traders-miningnetwork.com
+tradersroom.a1-capitals.com
 tradersroom.acttrader.net
 tradersroom.acttrader.org
 tradersroom.fpi24trade.com
@@ -151396,6 +151399,7 @@ www.moksha-kuban.ru
 www.monalisa-tour.ru
 www.moneyazart.net
 www.moneymd.club
+www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
