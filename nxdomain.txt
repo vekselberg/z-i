@@ -18267,6 +18267,7 @@ ARRAY(0x835770570)
 ARRAY(0x835be58e8)
 ARRAY(0x83703fe58)
 ARRAY(0x839256fa8)
+ARRAY(0x839ee3318)
 ARRAY(0x83a708420)
 ARRAY(0x83a74e6f0)
 ARRAY(0x840950f90)
@@ -18287,6 +18288,7 @@ ARRAY(0x8b79f4cc0)
 ARRAY(0x8b7b4de70)
 ARRAY(0x8b7f88828)
 ARRAY(0x8b8075858)
+ARRAY(0x8b9d99ac8)
 ARRAY(0x8ba42e510)
 ARRAY(0x8badb2108)
 ARRAY(0x8bb12e138)
@@ -29818,6 +29820,7 @@ baetterm.com
 baf.lordfilin.net
 baf974.olimp38fc.top
 bafilm.ru
+bagsalavse.ru
 bagsslavse.ru
 bahofuhy.tk
 baibinbek.club
@@ -50824,6 +50827,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -52662,6 +52666,7 @@ export37.ru
 exportprim.ru
 expres.life
 express-live-site.com
+express-millioner.ru
 express-wallet.org
 express.flash.city
 express.game
@@ -52756,6 +52761,7 @@ f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
 f002.fisher-r.ru
+f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -63774,6 +63780,7 @@ hottrack.ru
 house.x-cazin0.net
 house.xcasino1.com
 housebook.ru
+houswatchses.ru
 howopen.ru
 hp-servicenter.ru
 hp0osyxeshmst.com
@@ -156573,6 +156580,7 @@ you-watch.hdfilmz720.online
 you.dluxe.online
 you.generikmsk.ru
 youazart777.ru
+youbagse.ru
 youfootball.online
 youhdporno.me
 youkino.club
