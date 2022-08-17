@@ -18264,7 +18264,9 @@ ARRAY(0x839256fa8)
 ARRAY(0x839ee3318)
 ARRAY(0x83a708420)
 ARRAY(0x83a74e6f0)
+ARRAY(0x83b0a94f8)
 ARRAY(0x840950f90)
+ARRAY(0x8b012bbe8)
 ARRAY(0x8b036a798)
 ARRAY(0x8b08b2438)
 ARRAY(0x8b0c5adc8)
@@ -18805,6 +18807,7 @@ a6.baza-knig.ru
 a6.blackrutor.site
 a6.fantasy-worlds.org
 a6.kinospin.club
+a6.lordfilmx-online.net
 a6.lordssfilm.life
 a6.lostfilmtv.live
 a6.spon.live
@@ -100787,6 +100790,7 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
+online.frank-casino.info
 online.game-casinox.net
 online.games-slots.com
 online.gidonline-1176.site
@@ -154592,6 +154596,7 @@ x-torrent.club
 x-torrent.ru
 x-whore2.com
 x.100pezd.net
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
