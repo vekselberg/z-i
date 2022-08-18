@@ -18263,12 +18263,13 @@
 ARRAY(0x832f2dfd8)
 ARRAY(0x8334ddc48)
 ARRAY(0x8337181e0)
+ARRAY(0x8341861e0)
 ARRAY(0x834e19438)
+ARRAY(0x83562b7e0)
 ARRAY(0x835ff08b8)
 ARRAY(0x8365ea4f8)
 ARRAY(0x836b4eea0)
 ARRAY(0x838b104f8)
-ARRAY(0x839ee3318)
 ARRAY(0x83ab054f8)
 ARRAY(0x83b0a94f8)
 ARRAY(0x83c6dfb58)
@@ -18283,7 +18284,6 @@ ARRAY(0x8b139ae58)
 ARRAY(0x8b1da6960)
 ARRAY(0x8b6399120)
 ARRAY(0x8b6e92198)
-ARRAY(0x8b9d99ac8)
 ARRAY(0x8bbacc1e0)
 ARRAY(0x8bbcc5d68)
 ARRAY(0x8bc659a68)
@@ -40907,6 +40907,7 @@ cash-slot.biz
 cash-slot.top
 cash-voucher.info
 cash.admiral-game.top
+cash.avtomaty-lucks.com
 cash.novomats.com
 cash.official-frank-casino.com
 cash.slot-korona.xyz
@@ -50897,7 +50898,6 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e105.fisher-1.ru
-e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -52834,7 +52834,6 @@ f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
 f002.fisher-r.ru
-f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -64193,6 +64192,7 @@ hydraruzxpinew4afb-onion.com
 hydraruzxpinew4afi-onion.com
 hydraruzxpn3w4af.onion-shop.com
 hydraruzxpnev4afoniona.com
+hydraruzxpnew11.onions7777.com
 hydraruzxpnew12.rkg7.com
 hydraruzxpnew14.onions7777.com
 hydraruzxpnew16.onions7777.com
@@ -84149,6 +84149,7 @@ medi-cprawce24.com
 media-rs.info
 media-rus.info
 media-tracker.info
+media-works.ru
 media3.fast-torrent.ru
 media66fiary.com
 media711dreamsyz.com
@@ -111460,6 +111461,7 @@ putanisearch.club
 putanka.dosug-ekb.com
 putanka.dosug-ufa.info
 putany-krym.com
+putanykiss24n7.ru
 putevka-volgograd.ru
 putinmediaplay.win
 putlocker.cx
@@ -126311,6 +126313,7 @@ shop.gepatitof10.ru
 shop.growerz.cc
 shop.growerz.life
 shop.growerz.store
+shop.japanpharma.ru
 shop.kalyan-hut.ru
 shop.legal24.xyz
 shop.legalklad.xyz
