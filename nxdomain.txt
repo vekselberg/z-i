@@ -1363,7 +1363,6 @@
 1080-hd.zfilm-hd777.buzz
 1080-hd.zfilm-ukraine.com
 1080-hd.zfilme-hd.space
-1080-hd1.zfilm-hd.ink
 1080-hd720.2zfilm-hd.life
 1080-hd720.gidonline-2660.site
 1080-hd720.zfilm-hd-1367.online
@@ -13806,7 +13805,6 @@
 4ac8fe.olimp98b4.top
 4admiral-777.ru
 4admiral888.com
-4athlete.net
 4athlete.store
 4aug.alfakino.net
 4awin-azino777.host
@@ -15583,7 +15581,6 @@
 720-720.lordsfilms-720.top
 720-720.pickfilm.top
 720-720.zfilm-hd-2813.online
-720-720.zfilm-hd.ink
 720-720.zfilm-hd.site
 720-720.zfilm-hd.xyz
 720-720.zfilm-hd1.monster
@@ -18263,12 +18260,14 @@ ARRAY(0x839ffec00)
 ARRAY(0x83bcf8e70)
 ARRAY(0x83e0699a8)
 ARRAY(0x83f3f0618)
+ARRAY(0x8413a9750)
 ARRAY(0x841eaa6f0)
 ARRAY(0x897fb24c8)
 ARRAY(0x8af5c9c00)
 ARRAY(0x8b19eb330)
 ARRAY(0x8b1fd4240)
 ARRAY(0x8b23d1870)
+ARRAY(0x8b40f8af8)
 ARRAY(0x8b47a7690)
 ARRAY(0x8b68783a8)
 ARRAY(0x8b6bc9300)
@@ -18280,8 +18279,6 @@ ARRAY(0x8baa18c60)
 ARRAY(0x8bc0ac540)
 ARRAY(0x8bc481ae0)
 ARRAY(0x8bcaecbb8)
-ARRAY(0x8bd5dae28)
-ARRAY(0x8bd750a20)
 ARRAY(0x8bdc8acc0)
 a-bets63.top
 a-bt56.top
@@ -19622,6 +19619,7 @@ admembest.win
 admembet.win
 admerotate.com
 admfilms.fun
+admfilms.online
 admin.p-t.online
 admin2.olimpapp.xyz
 adminandmbet.win
@@ -21874,8 +21872,6 @@ alc.flash.city
 alc.xacku.cc
 alca174.club
 alcaclab24.site
-alcaklab24.club
-alcaklab24.shop
 alcamak66.co
 alcanight174.shop
 alcanight174.store
@@ -21911,14 +21907,10 @@ alco-magazin011.site
 alco-magazin012.site
 alco-magazin020.site
 alco-magazin021.site
-alco-magazin82.site
-alco-night24.xyz
-alco-nn.ru
 alco-raketa-voronezh.online
 alco-shop-54.site
 alco-spb-dostavka24.online
 alco-trade.xyz
-alco-vip02.ru
 alco-vip154.xyz
 alco.24x7.icu
 alco.8l2.mobi
@@ -21946,9 +21938,6 @@ alcobar1214.net
 alcobar1258.xyz
 alcobar1286.xyz
 alcobar1297.xyz
-alcobar555.xyz
-alcobar575.xyz
-alcobar585.xyz
 alcobrelok.com
 alcocafe22.ru
 alcocafe3.ru
@@ -21971,11 +21960,9 @@ alcocity07.xyz
 alcocity08.xyz
 alcocity09.xyz
 alcocity1211.net
-alcocity1212.xyz
 alcocity1253.xyz
 alcocity1280.xyz
 alcocity1294.xyz
-alcocity1313.xyz
 alcodost0050.pw
 alcoexpress010.xyz
 alcoexpress011.xyz
@@ -21991,7 +21978,6 @@ alcoexpress07.xyz
 alcoexpress08.xyz
 alcoexpress09.xyz
 alcoexpress1212.net
-alcoexpress1261.xyz
 alcoexpress1265.xyz
 alcoexpress1287.xyz
 alcoexpress1290.xyz
@@ -22005,7 +21991,6 @@ alcogol-154.site
 alcogol-24.site
 alcogol-center54.site
 alcogol-dostavka777.xyz
-alcogol-market35.xyz
 alcogol-market888.xyz
 alcogol-market99.xyz
 alcogol-market999.xyz
@@ -22018,9 +22003,6 @@ alcogol-nochyu24.xyz
 alcogol-nochyu54.xyz
 alcogol-novosibirk.online
 alcogol-novosibirsk154.online
-alcogol-nsk-24.online
-alcogol-shop-54.site
-alcogol-vip54.xyz
 alcogol.24x7.icu
 alcogold1011.pw
 alcogold1011.ru
@@ -22035,7 +22017,6 @@ alcohol-na-dom-24.site
 alcohol-na-dom24.site
 alcohol-na-dom54.site
 alcohol-nck154.site
-alcohol-nck24.site
 alcohol-night54.xyz
 alcohol-nochyu154.xyz
 alcohol-nochyu24.xyz
@@ -22044,7 +22025,6 @@ alcohol-novosibirsk154.online
 alcohol-novosibirsk54.online
 alcohol-shop-54.site
 alcohol.24x7.icu
-alcohome.xyz
 alcolab0707.ru
 alcolavca010.xyz
 alcolavca011.xyz
@@ -22067,9 +22047,6 @@ alcolux07.ru
 alcolux08.ru
 alcolux10.ru
 alcolux11.ru
-alcomag-nnov.ru
-alcomarket247.com
-alcomen2.ru
 alcomol.24x7.icu
 alconadom8220.com
 alconice1.online
@@ -22089,23 +22066,17 @@ alconight07.xyz
 alconight08.xyz
 alconight09.xyz
 alconight1216.net
-alconight1245.xyz
 alconight1299.xyz
 alconights108.ru
-alconnov2.ru
 alconol.24x7.icu
-alconsk239.ru
 alconsk42.ru
 alcopresent106.ru
 alcopresent117.ru
-alcopresent35.ru
 alcopresent41.ru
 alcopresent42.ru
 alcopresent50.ru
 alcopresent52.ru
-alcoshop-nn.ru
 alcoshop-nnov.ru
-alcosib-54.fun
 alcosib154.fun
 alcostock010.xyz
 alcostock011.xyz
@@ -22124,7 +22095,6 @@ alcostock1213.net
 alcostock1252.xyz
 alcostock1282.xyz
 alcostock1295.xyz
-alcostock1313.xyz
 alcotaxi1.xyz
 alcotaxi10.xyz
 alcotaxi3.xyz
@@ -22150,16 +22120,10 @@ alcotime08.site
 alcotime08.xyz
 alcotime09.site
 alcotime09.xyz
-alcotime1.ru
 alcotime1217.net
-alcotime1227.net
-alcotime1235.xyz
-alcotime1243.xyz
 alcotime1253.xyz
 alcotime1289.xyz
 alcotime1291.xyz
-alcotime1313.xyz
-alcotime3.ru
 alcotorg30.ru
 alcotrade24.xyz
 alcovillage.pw
@@ -22184,7 +22148,6 @@ alexin.diploms4yours.com
 alfa-colour.ru
 alfa.betcityaccess.com
 alfa.pipitor.site
-alfaa-spirtt.ru
 alfaassets.com
 alfabroker.trade
 alfacorp.ltd
@@ -22225,24 +22188,16 @@ alikgordan.com
 alisa.omg.wang
 alivemarathon.win
 alivembet.win
-alka174.club
 alkhaleejelan.com
 alkhimik-igrovoy-avtomat.sukcai-mito.info
-alko-72.ru
 alko-butik.xyz
-alko-bytovo97.com
-alko-dostavka78.xyz
 alko-dostavka888.xyz
 alko-klub24.xyz
 alko-marcet888.xyz
-alko-na-dom24.site
 alko-nadom52.ru
 alko-nadom53.ru
-alko-night-154.xyz
 alko-night.xyz
-alko-night47.ru
 alko-nochiu54.xyz
-alko-podolsk333.biz
 alko-shop-54.site
 alko-shop24.site
 alko-store.xyz
@@ -22254,11 +22209,7 @@ alko-store010.xyz
 alko-store012.xyz
 alko-store100.ru
 alko-store24.ru
-alko-store24.xyz
 alko-store48.ru
-alko-trade.xyz
-alko-zakaz34.ru
-alko-zakaz35.ru
 alko.deliv-ery.xyz
 alko.krasnoibeloe.xyz
 alko2dom.ru
@@ -22266,17 +22217,12 @@ alko2dom2.ru
 alko2dom4.ru
 alko52.xyz
 alkobonus66.co
-alkobum1.xyz
 alkocity-54.fun
 alkocourier.ru
 alkocourier18.ru
 alkodaily.online
-alkodaily.ru
 alkodaily24.online
 alkodaily24.ru
-alkodelivery-tmn2.ru
-alkodelivery-tmn3.ru
-alkodelivery-tmn4.ru
 alkodelivery001.xyz
 alkodelivery006.xyz
 alkodelivery007.xyz
@@ -22287,13 +22233,7 @@ alkodelivery014.xyz
 alkodelivery020.xyz
 alkodelivery022.xyz
 alkodelivery024.xyz
-alkodelivery6.info
-alkodelivery82.xyz
-alkodelivery83.xyz
-alkodom108.ru
 alkodom109.ru
-alkodostavka-tyumen37.ru
-alkodostavka-tyumen41.ru
 alkodostavka-tyumen46.ru
 alkodostavka003.xyz
 alkodostavka005.xyz
@@ -22304,11 +22244,9 @@ alkodostavka012.xyz
 alkodostavka013.xyz
 alkodostavka015.xyz
 alkodostavka54.info
-alkodostavka69.xyz
 alkogol-dostavca777.xyz
 alkogol-dostavca888.xyz
 alkogol-market777.xyz
-alkogol-market99.xyz
 alkogol-na-dom-154.site
 alkogol-na-dom-24.site
 alkogol-na-dom154.site
@@ -22336,10 +22274,6 @@ alkogrand384.ru
 alkogrand385.ru
 alkogrand387.ru
 alkogrand388.ru
-alkogrand408.ru
-alkogrand409.ru
-alkogrand411.ru
-alkogrand412.ru
 alkogrand430.ru
 alkogrand431.ru
 alkogrand433.ru
@@ -22349,8 +22283,6 @@ alkogrand436.ru
 alkogrand437.ru
 alkogrand438.ru
 alkogrand439.ru
-alkogrand504.ru
-alkogrand505.ru
 alkogrand529.ru
 alkogrand530.ru
 alkogrand531.ru
@@ -22360,7 +22292,6 @@ alkogrand534.ru
 alkogrand536.ru
 alkogrand538.ru
 alkogrand539.ru
-alkogrand602.ru
 alkogrand620.ru
 alkogrand621.ru
 alkogrand622.ru
@@ -22374,7 +22305,6 @@ alkogrand629.ru
 alkohol-market555.xyz
 alkohol-na-dom-154.site
 alkohol-na-dom-54.site
-alkohol-night54.xyz
 alkohol-nochyu154.xyz
 alkohol-nochyu24.xyz
 alkohol-nochyu54.xyz
@@ -22382,8 +22312,6 @@ alkohol-novosibirck154.online
 alkohol-novosibirsk154.online
 alkohol-novosibirsk54.online
 alkohol-nsc154.site
-alkohol-shop24.buzz
-alkohol-shop45.xyz
 alkohol-vip154.xyz
 alkoholstore.online
 alkohouse.xyz
@@ -22392,8 +22320,6 @@ alkohouse4.ru
 alkohouse6.ru
 alkomart66.shop
 alkomig96n.ru
-alkonapitkoff05.xyz
-alkonapitkoff08.xyz
 alkonapitkoff101.xyz
 alkonapitkoff102.xyz
 alkonapitkoff103.xyz
@@ -30655,7 +30581,6 @@ bar.bigazart46.com
 bar.dostavkin.men
 bar0n-filmzhd.baronfilm.biz
 bar22kopeyki.ru
-bar400.xyz
 bara-bu.in.ua
 baraban-obzor.ru
 barabinsk.texdk.ru
@@ -35532,7 +35457,6 @@ betwinner.tech
 betwinner.wtf
 betwinner.zone
 betwinner02.ru
-betwinner03.ru
 betwinner1.club
 betwinner10.ru
 betwinner11.ru
@@ -38615,6 +38539,7 @@ blog.dc0pq4mfj53liwm.freehd.com.ua
 blog.dev.6l6hicfquflzhbt.freehd.com.ua
 blog.eml.freehd.com.ua
 blog.extranet.freehd.com.ua
+blog.ganja-expert.xyz
 blog.git.freehd.com.ua
 blog.gmkqbzpmrunzfmi.freehd.com.ua
 blog.go.freehd.com.ua
@@ -46749,7 +46674,6 @@ chita.mydiplomustore.com
 chita.pravag-4you.com
 chita.pravap-4you.com
 chita.pravaw-ru.com
-chita.prawavuonline.com
 chita.prostitutki.bid
 chita.prostitutki.tips
 chita.real-diplom.com
@@ -48004,6 +47928,7 @@ cse-group.trade
 cseria.ru
 cservise.ru
 csgetto.fun
+csgetto.skin
 csgf.fan
 csgf.fun
 csgo.pink
@@ -48772,7 +48697,6 @@ dec.18rutor.site
 dec.20rutor.site
 dec.21rutor.site
 dec.25rutor.site
-dec.26rutor.site
 dec.27rutor.site
 dec.28rutor.site
 dec.29rutor.site
@@ -49516,7 +49440,6 @@ diplomtop1.com
 diplomtopp.com
 diplomu-cheboksary.com
 diplomu-v-krimu.com
-diplomub.com
 diplomug.com
 diplomugid.com
 diplomuok.com
@@ -50039,17 +49962,13 @@ dosfilm.xyz
 dosgidwf.olimpsbi4.xyz
 doska-medicina.ru
 doskamos.ru
-dostavca-nsc24.online
 dostavka-alcoholl-mosk.site
 dostavka-cprawka.net
 dostavka-kazan.xyz
 dostavka-kazani.xyz
-dostavka-nck24.site
 dostavka-nn-alco.store
-dostavka-nn.xyz
 dostavka-nsc154.site
 dostavka-sim24.ru
-dostavka-sochi.site
 dostavka-v-ukrainu.ru
 dostavka-voronezh-alco.store
 dostavka.24x7.icu
@@ -50064,12 +49983,10 @@ dostavka152.xyz
 dostavkaalkogolyakruglosutochnospb.club
 dostavkagorod.online
 dostavkagorod.ru
-dostavkanadom.xyz
 dostavkapokazani.xyz
 dostavkaproduktovvspb.ru
 dostavkavkazani.xyz
 dostavkazk.ru
-dostawca-nsk24.site
 dostawca-nsk54.site
 dostfilms.in
 dostup-bk.company
@@ -50446,9 +50363,7 @@ dutik-voronezh.ru
 dutik39.store
 duty-free-alco11.com
 duty-free-alco12.com
-duty-free-alco7.com
 dutyfree-sigarets.info
-dutyfreealko10.com
 dutyfreealko4.com
 duvgctbq.olimpu6rz.xyz
 duvrp.top
@@ -53251,6 +53166,7 @@ farmann.ru
 farmannov.ru
 farmashop-spb.ru
 farmashopspb.ru
+farmavik.mobi
 farmavnn.ru
 farmekb.ru
 farmlandpro.ru
@@ -56393,7 +56309,6 @@ forum-ru-play.luckyru.club
 forum-ruplay.luckyru.club
 forum-ukraina.net
 forum.4bets.pro
-forum.asmlocator.ru
 forum.bezdepa.biz
 forum.bitmmgp.ru
 forum.ganjalive.tk
@@ -58847,6 +58762,7 @@ gamydisarm.site
 gangnambauer.com
 ganja-expert.online
 ganja-expert.org
+ganja-expert.xyz
 ganja-liv.tk
 ganja-live.net
 ganja-live.org
@@ -59406,7 +59322,6 @@ gidonline.zfilm-hd-l.site
 gidonline.zfilm-hd-z.site
 gidonline.zfilm-hd-zerkalo-putin.site
 gidonline.zfilm-hd.gay
-gidonline.zfilm-hd.ink
 gidonline.zfilm-hd.site
 gidonline.zfilm-hd.wiki
 gidonline.zfilm-hd777.monster
@@ -60815,7 +60730,6 @@ graceb.online
 graceline.online
 gradedare.site
 gradskayaschool.ru
-gradus116.xyz
 gradus16.xyz
 grafcasino3.com
 grafcasino4.com
@@ -61089,6 +61003,7 @@ grandcasinoigrai.com
 grandcasinoigray.com
 grandcasinoplay1.ru
 grandcasinos-onliine.com
+grandcasinos-onlline.com
 grandcasinos1.ru
 grandcasinos2.ru
 grandcasn.online
@@ -62017,7 +61932,6 @@ hd-zfilm.2021-film.site
 hd-zfilm.mnb-zfilm.sitel
 hd-zfilm.serial-720hd.com
 hd-zfilmhd.zagonka-l.site
-hd-zfilmhd.zfilm-hd.ink
 hd.1zfilm-hd.site
 hd.2021-filmaaa.net
 hd.2021-kino.online
@@ -62060,6 +61974,7 @@ hd.gid-onlain.ru
 hd.gidonline-742.site
 hd.gidonline.click
 hd.gidonline.cx
+hd.gidonline.gd
 hd.gigmov.ru
 hd.golostfilm.ru
 hd.goorup.ru
@@ -65792,7 +65707,6 @@ individualki-saratov.top
 individualki-vladimir.ru
 individualkicheboksary.net
 individualkichelyabinska.com
-individualkikazani.com
 individualkikurskasweet.com
 individualkimsk.org
 individualkinovosibirskaslip.net
@@ -69871,8 +69785,6 @@ kanfar.ru
 kangaroo.dostavka.date
 kangin.ru
 kaninhop.site
-kanistra-alco14.xyz
-kanistra-alco15.xyz
 kanistra-alco16.xyz
 kanistra-alco21.xyz
 kanistra-alco23.xyz
@@ -75492,7 +75404,6 @@ kursk.luxdiplomi.com
 kursk.mydiplomustores.com
 kursk.pravag-4you.com
 kursk.pravag-ru.com
-kursk.prawavuonline.com
 kursk.pto555.org
 kursk.real-diplom.com
 kursk.sam-poehali.com
@@ -75626,6 +75537,7 @@ kzz37y55rv2.com
 l-movie.com
 l.fantasy-worlds.org
 l.filmishki.net
+l.ganja-expert.xyz
 l.kino-hdzo.club
 l.kinogo.wtf
 l.lordfilm-smotret.one
@@ -78182,7 +78094,6 @@ live.f0nbet.com
 live.fon-bet.com
 live.fon-sportsbet.com
 live.futbik.net
-live.kambohstream.online
 live.noventus-partners.com
 live.xsnap.me
 live1xbet.space
@@ -93921,7 +93832,6 @@ msk9.euro-doktor24.com
 mskbuydip.com
 mskdip.win
 mskdiplom.com
-mskmed-spirt-store.online
 mskonline499.medspravki.city
 mskseeds.click
 mskseeds.club
@@ -95561,7 +95471,6 @@ naold-azino777.host
 naoqw-azinomobile.icu
 nap.rkn.gov.ru.19rutor.site
 naperstki-igrat-onlayn-na-dengi-60-000.dvv-spb.ru
-napitki-bytovo2019.name
 napitky24one.com
 napitky24one.pw
 napitky24one.ru
@@ -97534,7 +97443,6 @@ nn.nizhnij-novgorod.godiplomsus.com
 nn.pravag-ru.com
 nn.pravaw-ru.com
 nn.prawaonline.com
-nn.prawavuonline.com
 nn.real-diplomus.com
 nn.rusb-diplomy.com
 nn.vigronnov.ru
@@ -98143,10 +98051,7 @@ ns3.startmail.com
 ns3.topzaycevs.ru
 ns4.topzaycevs.ru
 nsc-alcohol154.site
-nsc-alcosib.fun
-nsc-alkohol24.site
 nsc-dostavca24.site
-nsc-klab54.xyz
 nsc-klub154.site
 nsgspb.ru
 nsib.fort-pravams.com
@@ -98156,7 +98061,6 @@ nsk-alcohol54.site
 nsk-alkohol.site
 nsk-alkohol154.site
 nsk-alkohol54.site
-nsk-clab54.xyz
 nsk-diplomas.com
 nsk-docs.ru
 nsk-doctavca154.site
@@ -101408,7 +101312,6 @@ orenburg.mydiplomatstore.com
 orenburg.mydiplomustore.com
 orenburg.mydiplomustores.com
 orenburg.prava-vsemrus.site
-orenburg.prawavuonline.com
 orenburg.prostitutki-today2.com
 orenburg.pto555.org
 orenburg.pto777.org
@@ -109715,7 +109618,6 @@ preobragmonast.ru
 preparat-sofosbuvir.ru
 preparemediaplay.win
 pres777.com
-present15.ru
 presentationdemarie.net
 press-stroy.ru
 pressa-vsem.ru
@@ -110095,14 +109997,12 @@ prostitutki-habarovska.com
 prostitutki-igevska1.com
 prostitutki-individualki.ru
 prostitutki-irkutska.com
-prostitutki-izhevska.com
 prostitutki-kemerovo.com
 prostitutki-kirov.net
 prostitutki-kislovodska.ru
 prostitutki-krasnoyarska.net
 prostitutki-kurgana.su
 prostitutki-mos1.com
-prostitutki-moskvy.org
 prostitutki-msk-1.com
 prostitutki-novgoroda.com
 prostitutki-novosibirsk.net
@@ -110111,9 +110011,7 @@ prostitutki-orehovo-zuevo.ru
 prostitutki-perm.com
 prostitutki-pitera.name
 prostitutki-rostov2.org
-prostitutki-samary.com
 prostitutki-samary.site
-prostitutki-saratova.net
 prostitutki-sex.ru
 prostitutki-shita.ru
 prostitutki-stavropolya2.net
@@ -110189,6 +110087,7 @@ prostitutkibarnaulaarea.net
 prostitutkibarnaulainfo.com
 prostitutkibarnaulalast.com
 prostitutkibelgoroda.pro
+prostitutkibelgorodaact.net
 prostitutkibelgorodaarea.net
 prostitutkibelgorodacasa.com
 prostitutkibelgorodachange.net
@@ -110264,11 +110163,9 @@ prostitutkichityarea.org
 prostitutkichitydate.info
 prostitutkichitydate.net
 prostitutkichityfit.com
-prostitutkichitygid.info
 prostitutkichitygood.info
 prostitutkichitygood.org
 prostitutkichityhim.info
-prostitutkichityinfo.com
 prostitutkichityinfo.info
 prostitutkichitylast.info
 prostitutkichitylucky.info
@@ -110299,7 +110196,6 @@ prostitutkiekaterinburgaafter.net
 prostitutkiekaterinburgacool.org
 prostitutkiekaterinburgagid.info
 prostitutkiekaterinburgagoal.info
-prostitutkiekaterinburgahelp.com
 prostitutkiekaterinburgakiss.info
 prostitutkiekaterinburgameet.com
 prostitutkiekaterinburgamix.net
@@ -110384,7 +110280,6 @@ prostitutkikaliningradachange.org
 prostitutkikaliningradadeep.info
 prostitutkikaliningradagid.top
 prostitutkikaliningradagirls.info
-prostitutkikaliningradainfo.com
 prostitutkikaliningradasex.info
 prostitutkikaliningradashe.net
 prostitutkikaliningradaslap.info
@@ -110486,7 +110381,6 @@ prostitutkikostromynice.com
 prostitutkikostromysite.org
 prostitutkikostromystay.com
 prostitutkikostromysuck.info
-prostitutkikostromytut.net
 prostitutkikostromywant.net
 prostitutkikostromywithin.org
 prostitutkikostromywomen.info
@@ -110863,7 +110757,6 @@ prostitutkismolenskaclub.net
 prostitutkismolenskadate.info
 prostitutkismolenskadosug.net
 prostitutkismolenskagid.com
-prostitutkismolenskagid.info
 prostitutkismolenskareal.com
 prostitutkismolenskasexy.com
 prostitutkismolenskaslip.info
@@ -110916,7 +110809,6 @@ prostitutkitambovagirls.top
 prostitutkitambovago.com
 prostitutkitambovahelp.net
 prostitutkitambovahim.info
-prostitutkitambovainfo.com
 prostitutkitambovameet.info
 prostitutkitambovaonline.net
 prostitutkitambovarus.info
@@ -110976,7 +110868,6 @@ prostitutkiufyfun.info
 prostitutkiufyfun.net
 prostitutkiufygid.info
 prostitutkiufygid.org
-prostitutkiufyhelp.com
 prostitutkiufyinfo.com
 prostitutkiufymix.info
 prostitutkiufysex.org
@@ -110984,7 +110875,6 @@ prostitutkiufyshe.net
 prostitutkiufytop.info
 prostitutkiufyxx.net
 prostitutkiufyxxx.info
-prostitutkiulanude.net
 prostitutkiulanude2021.com
 prostitutkiulanudeboom.com
 prostitutkiulanudeclub.info
@@ -121548,7 +121438,6 @@ rusb-diplomy.com
 ruscasino-info.me
 ruscasino.club
 ruscasino.online
-ruscasino.org
 ruscasinoinfo-3.me
 ruscasinoinfo1.me
 ruscasinoinfo3.me
@@ -124066,7 +123955,6 @@ sex.prostitutki-v-kazani.date
 sex.prostitutki-v-krasnodare.men
 sex.prostitutki-v-krasnoyarske.date
 sex.prostitutki-vladivostoka.stream
-sex.prostitutki-volgograda.com
 sex.prostitutki-voronezha.net
 sex.prostitutki-yalty.date
 sex.prostitutki-yalty.party
@@ -130161,7 +130049,6 @@ spring.vlk.site
 sprinter.flash.city
 sprtsjpp.xyz
 spt-trads.ru
-spt-trady.ru
 spt-trejdb.site
 spthukdk.olimphs1h.xyz
 sptsjpp.xyz
@@ -133387,7 +133274,6 @@ torrent.zfilm-hd-3030.online
 torrent.zfilm-hd-520.online
 torrent.zfilm-hd-633.online
 torrent.zfilm-hd-915.online
-torrent.zfilm-hd.ink
 torrent.zfilm-hd1.monster
 torrent09.ru
 torrent1.games
@@ -133455,7 +133341,6 @@ torrentin.cc
 torrentin.org
 torrentinka.ljucifer.com
 torrentinka.org
-torrentinka.zfilm-hd.ink
 torrentinki.com
 torrentino.info
 torrentino.su
@@ -134631,6 +134516,7 @@ tv.filmtu.ru
 tv.filmyx.online
 tv.gid-onlain.ru
 tv.gid-online.site
+tv.gidonline.gd
 tv.hd1080px.run
 tv.hd1080px.xyz
 tv.hdrpuls.ru
@@ -134740,7 +134626,6 @@ tver.mydiplomusstores.com
 tver.pravag-4you.com
 tver.pravap-4you.com
 tver.pravaw-4you.com
-tver.prawavuonline.com
 tver.prostitutki-today2.com
 tver.real-diplom.com
 tver.sam-poehali.com
@@ -137984,6 +137869,7 @@ veryhdrezka.com
 verymarathonbet.win
 verymbetplayluck.top
 verymbetplaywin.top
+veselo-gaz.kz
 vesna12.lostsfilms.me
 vesorikol.ru
 vesper-casino.store
@@ -138769,7 +138655,6 @@ vladivostok.mydiplomustores.com
 vladivostok.pravag-4you.com
 vladivostok.pravap-4you.com
 vladivostok.pravaw-ru.com
-vladivostok.prawavuonline.com
 vladivostok.prostitutki.bid
 vladivostok.prostitutki.tips
 vladivostok.pto777.org
@@ -142985,6 +142870,7 @@ vzdtlmellg.top
 vzgladd.ru
 vzlom-info.ru
 vzlomal.org
+vzloms.biz
 vzmelaofdo.top
 vzmf1guamb.com
 vzmsh2013.ru
@@ -145270,7 +145156,6 @@ web-onion.com
 web-sit.ru
 web-slots.com
 web-sport.online
-web-uteka.online
 web.1club-vulkan24.com
 web.betsbc555.com
 web.casino-grand.online
@@ -145494,7 +145379,6 @@ whwga-azino777.icu
 whwhwh.vip
 wi1xday0ytmb.com
 wi9jcqu8.club
-wici.asmlocator.ru
 wickedwiper.space
 wid.kinozam.com
 widemrelpage.com
@@ -148081,7 +147965,6 @@ www.akula.in
 www.akvarelkin.ru
 www.alcapulya66.ru
 www.alcapulya96.online
-www.alco-bistro01.ru
 www.alcobar010.xyz
 www.alcobar011.xyz
 www.alcobar012.xyz
@@ -148095,7 +147978,6 @@ www.alcobar06.xyz
 www.alcobar07.xyz
 www.alcobar08.xyz
 www.alcobar09.xyz
-www.alcobar1212.xyz
 www.alcobar1214.net
 www.alcobar1258.xyz
 www.alcobar1286.xyz
@@ -148113,8 +147995,6 @@ www.alcoexpress07.xyz
 www.alcoexpress08.xyz
 www.alcoexpress09.xyz
 www.alcoexpress1212.net
-www.alcoexpress1221.net
-www.alcoexpress1242.xyz
 www.alcoexpress1265.xyz
 www.alcoexpress1287.xyz
 www.alcolavca010.xyz
@@ -148131,11 +148011,8 @@ www.alcolavca07.xyz
 www.alcolavca08.xyz
 www.alcolavca09.xyz
 www.alcolavca1215.net
-www.alcolavca1224.net
-www.alcolavca1241.xyz
 www.alcolavca1255.xyz
 www.alcolavca1285.xyz
-www.alcoliberty-nsk.com
 www.alcostock010.xyz
 www.alcostock011.xyz
 www.alcostock012.xyz
@@ -148150,8 +148027,6 @@ www.alcostock07.xyz
 www.alcostock08.xyz
 www.alcostock09.xyz
 www.alcostock1213.net
-www.alcostock1225.net
-www.alcostock1248.xyz
 www.alcostock1252.xyz
 www.alcostock1282.xyz
 www.alcotime010.xyz
@@ -148168,9 +148043,7 @@ www.alcotime07.xyz
 www.alcotime08.xyz
 www.alcotime09.xyz
 www.alcotime1217.net
-www.alcotime1227.net
 www.alcotime1253.xyz
-www.alcotime1254.xyz
 www.alcotime1289.xyz
 www.alcotime1291.xyz
 www.aldebarans.ru
@@ -149593,7 +149466,6 @@ www.dorznaki53.ru
 www.dostavka-alcoholl-mosk.site
 www.dostavka-alcoholl-mosk1.site
 www.dostavka-alcoholl-mosk3.site
-www.dostavka-piva-mosk.site
 www.dostavka-piva-mosk5.site
 www.dostavka-piva-msk2.site
 www.dostavkagorod.ru
