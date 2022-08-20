@@ -18265,6 +18265,7 @@ ARRAY(0x841dfe810)
 ARRAY(0x8ade2b570)
 ARRAY(0x8aeee5558)
 ARRAY(0x8af2f6e58)
+ARRAY(0x8b05365a0)
 ARRAY(0x8b07fda68)
 ARRAY(0x8b18fb390)
 ARRAY(0x8b1dbd9d8)
@@ -18273,14 +18274,13 @@ ARRAY(0x8b2ccb678)
 ARRAY(0x8b3495498)
 ARRAY(0x8b3a60858)
 ARRAY(0x8b4a3ef30)
-ARRAY(0x8b675eb70)
 ARRAY(0x8b7e2a1e0)
 ARRAY(0x8b7ea2438)
+ARRAY(0x8b81e7528)
 ARRAY(0x8ba0ba270)
 ARRAY(0x8ba0e81f8)
 ARRAY(0x8bb241288)
 ARRAY(0x8bb2f8b40)
-ARRAY(0x8bc2d01e0)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -40101,6 +40101,7 @@ buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy1.qrcode-covid.com
+buy24.viarussia.org
 buyallweedonline.com
 buyersdiplomi.com
 buyhelpspb.ru
@@ -40201,6 +40202,7 @@ c.babes159.com
 c.babes39.com
 c.baza-knig.info
 c.beliyspisok.name
+c.bioseedss.top
 c.bobfilm-hd.ru
 c.cinema-24.net
 c.ekaxxx.net
@@ -50571,7 +50573,6 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
-e105.fisher-1.ru
 e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -93837,6 +93838,7 @@ mskseeds.top
 mskseeds.website
 mskuniver.ru
 msmedblank.com
+msport.newsrbk.ru
 msports.betadonis78.com
 msraojn.host
 mssapp.xyz
@@ -110636,6 +110638,7 @@ prostitutkipetrozavodskawant.com
 prostitutkipetrozavodskawithin.info
 prostitutkipetrozavodskax.com
 prostitutkipetrozavodskaxx.com
+prostitutkipiteraboom.com
 prostitutkipiteraexcite.net
 prostitutkipiterareal.net
 prostitutkiprokopievskadosug.info
@@ -110661,6 +110664,7 @@ prostitutkiruzydosug.info
 prostitutkiryazani2021.com
 prostitutkiryazanibest.info
 prostitutkiryazanibest.net
+prostitutkiryazaniboom.com
 prostitutkiryazanicasa.com
 prostitutkiryazanicase.net
 prostitutkiryazanichange.info
@@ -132572,6 +132576,7 @@ top10-online-casino2.xyz
 top10-online-casino3.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
+top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -140633,7 +140638,6 @@ vulcanslots-club.club
 vulcanslots.azurewebsites.net
 vulcanstar.ru
 vulcanstars-officials.com
-vulcanstars-oficials.com
 vulcanstars-onlineklub.com
 vulcanstars-sloti.com
 vulcanstars.business
@@ -142381,7 +142385,6 @@ vulkanstarsgame.com
 vulkanstarsgames.com
 vulkanstarsofficial.com
 vulkanstarsofficial1.ru
-vulkanstarspro.com
 vulkanstarsru.com
 vulkanstarsrus.com
 vulkanstarstop.com
