@@ -18250,7 +18250,6 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x834e93c78)
-ARRAY(0x8350538b8)
 ARRAY(0x8351ac720)
 ARRAY(0x835678168)
 ARRAY(0x836c8bfc0)
@@ -18262,11 +18261,11 @@ ARRAY(0x838a3a318)
 ARRAY(0x8414dfb70)
 ARRAY(0x8ae719048)
 ARRAY(0x8afafb7e0)
+ARRAY(0x8b0d5c438)
 ARRAY(0x8b1ac6540)
 ARRAY(0x8b4fc8b10)
 ARRAY(0x8b5191900)
 ARRAY(0x8b5ed15d0)
-ARRAY(0x8b646b0c0)
 ARRAY(0x8b7534ae0)
 ARRAY(0x8b79ff4e0)
 ARRAY(0x8b8d21a98)
@@ -18280,6 +18279,7 @@ ARRAY(0x8bb9ac300)
 ARRAY(0x8bba13d20)
 ARRAY(0x8bbab5870)
 ARRAY(0x8bbb86b40)
+ARRAY(0x8bcfe49c0)
 ARRAY(0x8bd96f3c0)
 a-bets63.top
 a-bt56.top
@@ -47515,6 +47515,7 @@ columbus-slots.azurewebsites.net
 columbus-x.com
 columbus-x.ru
 columbus.5000rubley.com
+columbus.casino
 columbus.foot-bol.com
 columbus.luckyru.club
 columbus.nlofact.com
@@ -51326,6 +51327,7 @@ ekaterinburg.godiplomy.com
 ekaterinburg.gooddiplomu.com
 ekaterinburg.goodiplomes.com
 ekaterinburg.metanruss.com
+ekaterinburg.mydiplomatstores.com
 ekaterinburg.mydiplomustores.com
 ekaterinburg.prostitutki-13.com
 ekaterinburg.silmag12.ru
@@ -66305,6 +66307,7 @@ irkutsk.godiplomsus.com
 irkutsk.gozznakdiploma.com
 irkutsk.mdiplomes.com
 irkutsk.metanruss.com
+irkutsk.mydiplomatstores.com
 irkutsk.mydiplomusstore.com
 irkutsk.mydiplomusstores.com
 irkutsk.pravag-ru.com
@@ -66694,6 +66697,7 @@ izhevsk.intim-place2.com
 izhevsk.life-diplomp.com
 izhevsk.metanruss.com
 izhevsk.mydiplomatstore.com
+izhevsk.mydiplomatstores.com
 izhevsk.mydiplomusstores.com
 izhevsk.pravag-ru.com
 izhevsk.prawaonline.com
@@ -69818,6 +69822,7 @@ kaliningrad.luxdiplomi.com
 kaliningrad.mass-diplomik24.com
 kaliningrad.msk-anydip.com
 kaliningrad.mydiplomatstore.com
+kaliningrad.mydiplomatstores.com
 kaliningrad.pravag-4you.com
 kaliningrad.pravaw-ru.com
 kaliningrad.real-diplom.com
@@ -81395,6 +81400,7 @@ magadan.diplomysattestati.com
 magadan.doc-avto.life
 magadan.exdiplomsys.com
 magadan.fort-pravan.com
+magadan.mydiplomatstores.com
 magadan.mydiplomusstores.com
 magadan.mydiplomustores.com
 magadan.prostitutki-13.com
@@ -95566,6 +95572,7 @@ naberezhnye-chelny.life-diplomj.com
 naberezhnye-chelny.life-diplomp.com
 naberezhnye-chelny.life-diplomt.com
 naberezhnye-chelny.msk-anydip.com
+naberezhnye-chelny.mydiplomatstores.com
 naberezhnye-chelny.real-diplomus.com
 naberezhnye-chelny.vodp-prava.com
 naberezhnyechelny.damdiplomsa.com
@@ -97538,6 +97545,7 @@ nizhnij-novgorod.goodiplomi.com
 nizhnij-novgorod.goodiplomu.com
 nizhnij-novgorod.metanruss.com
 nizhnij-novgorod.mydiplomatstore.com
+nizhnij-novgorod.mydiplomatstores.com
 nizhnij-novgorod.mydiplomusstore.com
 nizhnij-novgorod.mydiplomusstores.com
 nizhnij-novgorod.mydiplomustore.com
@@ -122924,6 +122932,7 @@ samara.luxdiplomi.com
 samara.mdiplomes.com
 samara.metanruss.com
 samara.mydiplomatstore.com
+samara.mydiplomatstores.com
 samara.mydiplomusstore.com
 samara.mydiplomusstores.com
 samara.mydiplomustores.com
@@ -128517,6 +128526,7 @@ sochi.life-diplomp.com
 sochi.likediplom.com
 sochi.mass-diplomik24.com
 sochi.mass-diplomiks24.com
+sochi.mydiplomatstores.com
 sochi.pedsovet.info
 sochi.pokerstars-com.ru
 sochi.pravap-4you.com
@@ -134616,6 +134626,7 @@ tula.mass-diplomik24.com
 tula.metannrus.com
 tula.metanruss.com
 tula.mydiplomatstore.com
+tula.mydiplomatstores.com
 tula.mydiplomusstore.com
 tula.mydiplomusstores.com
 tula.mydiplomustore.com
@@ -138104,6 +138115,7 @@ velikiedengi.net
 velikii-novgorod.xn----dtbfeaon2bc5ai0e5b.xn--p1ai
 velikij-novgorod.doc-avto.life
 velikij-novgorod.gooddiplomu.com
+velikij-novgorod.mydiplomatstores.com
 velikijnovgorod.damdiplomsa.com
 velikijnovgorod.exdiplomsys.com
 velikijnovgorod.godiplomsis.com
@@ -143226,6 +143238,7 @@ w.azino777-reg-1.xyz
 w.azino777-reg-2.xyz
 w.azino777-reg-3.xyz
 w.casino-mars-1.xyz
+w.evro-lek.ru
 w.fantasy-worlds.org
 w.fast-torrent-720.top
 w.fast-torrent.buzz
@@ -149656,6 +149669,7 @@ www.club-gaminators.com
 www.club-gaminators.net
 www.club-gaminators.org
 www.club01.ru
+www.clubato.ru
 www.clubduat.ru
 www.clubgam.org
 www.clubgaminator.com
@@ -155155,6 +155169,7 @@ x2money.net
 x2money.pro
 x2moneyref.ru
 x3.dropmp3.net
+x3.escort-balashikha.com
 x3.kinopolosa.online
 x3.liveball8.ml
 x3.livefilms.pw
