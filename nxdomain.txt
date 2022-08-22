@@ -18250,7 +18250,6 @@
 9z7g3-azino777.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x834d8be40)
 ARRAY(0x834e93c78)
 ARRAY(0x8350538b8)
 ARRAY(0x8351ac720)
@@ -18258,12 +18257,13 @@ ARRAY(0x835678168)
 ARRAY(0x836c8bfc0)
 ARRAY(0x836e61288)
 ARRAY(0x83707d1f8)
+ARRAY(0x8380658d0)
 ARRAY(0x83830d798)
 ARRAY(0x838a3a318)
-ARRAY(0x83af57300)
 ARRAY(0x8414dfb70)
 ARRAY(0x8ae719048)
 ARRAY(0x8b1ac6540)
+ARRAY(0x8b4fc8b10)
 ARRAY(0x8b5191900)
 ARRAY(0x8b5ed15d0)
 ARRAY(0x8b646b0c0)
@@ -41590,6 +41590,7 @@ casino-pinup-slot6.fun
 casino-pinup-slot7.fun
 casino-pinup-slot7.win
 casino-pinup-slot8.win
+casino-pinup-slot9.win
 casino-pinup-slots.win
 casino-pinup-spin.win
 casino-pinup-spin906.fun
@@ -65816,6 +65817,7 @@ indianolympi.com
 indiapfarmaopt.ru
 indiatablets2.ru
 indiatablets3.ru
+indiavir.su
 indigo-consult.ru
 indigo-info.eu
 individialka-78.com
@@ -68058,6 +68060,7 @@ joycasino-official-game13.win
 joycasino-official-game14.win
 joycasino-official-game15.win
 joycasino-official-game16.win
+joycasino-official-game17.win
 joycasino-official-game2.win
 joycasino-official-game3.win
 joycasino-official-game4.win
@@ -84194,7 +84197,6 @@ medspravka-shop.com
 medspravka-sochi.top
 medspravka-ylyanovsk.top
 medspravka.club
-medspravka.co.ua
 medspravka.pp.ru
 medspravka.pw
 medspravka24-krasnoyarsk.ru
@@ -93947,6 +93949,7 @@ msk.3kinopoisk.ru
 msk.diplom-mastaka.vip
 msk.diplom-store.net
 msk.diplom-stores.com
+msk.diploma-russian.com
 msk.diplomi-rus.com
 msk.diplomm24.online
 msk.diploms-master24.com
@@ -99024,6 +99027,7 @@ official-joycasino19.win
 official-joycasino2.fun
 official-joycasino2.win
 official-joycasino21.win
+official-joycasino22.win
 official-joycasino3.win
 official-joycasino4.win
 official-joycasino5.win
@@ -109230,6 +109234,7 @@ pokerdom-casino-best5.win
 pokerdom-casino-best6.win
 pokerdom-casino-best7.win
 pokerdom-casino-best8.win
+pokerdom-casino-best9.win
 pokerdom-casino-game.ru
 pokerdom-casino-official.azurewebsites.net
 pokerdom-casino-official.com
@@ -109285,6 +109290,7 @@ pokerdom-official-play.win
 pokerdom-official-site.fun
 pokerdom-official-site.org
 pokerdom-official-site1.win
+pokerdom-official-site2.win
 pokerdom-official.azurewebsites.net
 pokerdom-official.casino
 pokerdom-official.pw
@@ -131353,6 +131359,7 @@ surfbase.net
 surfcasino.live
 surfcasino1.surf
 surfing313.art
+surgut-hot.mobi
 surgut-medspravkii.ru
 surgut.diplom4yours.com
 surgut.diplomb-4you.com
@@ -134024,6 +134031,7 @@ trans02.xyz
 trans07.xyz
 trans12.xyz
 trans777.xyz
+transi-msk.mobi
 transiki.club
 translatekorean.info
 translitsport.ru
@@ -141433,6 +141441,7 @@ vulkan-officialnyi-casino777.win
 vulkan-officialnyi-site777.win
 vulkan-officialnyi777.win
 vulkan-officialnyy-casino777.win
+vulkan-officialnyy-casino888.win
 vulkan-officialsite.online
 vulkan-officialsite.ru
 vulkan-oficial.com
@@ -151636,6 +151645,7 @@ www.moksha-kuban.ru
 www.monalisa-tour.ru
 www.moneyazart.net
 www.moneymd.club
+www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
