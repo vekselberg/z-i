@@ -6692,6 +6692,7 @@
 1xbet-ch.xyz
 1xbet-chu.xyz
 1xbet-cia.xyz
+1xbet-cj.xyz
 1xbet-ck.xyz
 1xbet-club.live
 1xbet-club.xyz
@@ -6970,6 +6971,7 @@
 1xbet-jht.xyz
 1xbet-jig.xyz
 1xbet-jim.xyz
+1xbet-jj.xyz
 1xbet-jm.xyz
 1xbet-joh.xyz
 1xbet-jp.xyz
@@ -7483,6 +7485,7 @@
 1xbet-rv5.xyz
 1xbet-rv6.club
 1xbet-rv7.xyz
+1xbet-rv8.xyz
 1xbet-rz.xyz
 1xbet-s1.xyz
 1xbet-sac.xyz
@@ -18262,6 +18265,7 @@ ARRAY(0x8afafb7e0)
 ARRAY(0x8b0d5c438)
 ARRAY(0x8b1ac6540)
 ARRAY(0x8b3cd0948)
+ARRAY(0x8b3e0f5e8)
 ARRAY(0x8b4a99a08)
 ARRAY(0x8b4fc8b10)
 ARRAY(0x8b5191900)
@@ -18270,6 +18274,7 @@ ARRAY(0x8b7534ae0)
 ARRAY(0x8b79ff4e0)
 ARRAY(0x8b8d21a98)
 ARRAY(0x8b8d74180)
+ARRAY(0x8ba098438)
 ARRAY(0x8ba42c2b8)
 ARRAY(0x8bab5c5e8)
 ARRAY(0x8bb39fdc8)
@@ -38852,6 +38857,7 @@ bonus-exclusive-casino.zorro-tools.ru
 bonus-giant-casino.chaletnordic.info
 bonus-grand-kazino.artemievastudio.ru
 bonus-jekpot.info
+bonus-joycasino.xyz
 bonus-kaziino-online.ru
 bonus-kazino-chudo-slot.simkaa.ru
 bonus-kazino-gouaild.fablabtv.net
@@ -40994,6 +41000,7 @@ casino-columbs.azurewebsites.net
 casino-columbs.live
 casino-columbus-new.ru
 casino-columbus-official.azurewebsites.net
+casino-columbus-official.com
 casino-columbus-slot.ru
 casino-columbus-win.ru
 casino-columbus.best
@@ -52579,6 +52586,8 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
+f002.fisher-r.ru
+f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -54135,6 +54144,7 @@ filmshd.one
 filmshd.pro
 filmshd.su
 filmshd.turkru-720.com
+filmshd.tv
 filmshd.unikino-hd.com
 filmshd.work
 filmshd.zfilm-hd.site
@@ -79700,10 +79710,12 @@ lowerseries.online
 lowireu0.website
 lozvvlrb.olimplsah.xyz
 lp-01.fon-bet.info
+lp-01.fon-infosport.info
 lp-01.fonbet3.info
 lp-01.fongametime.info
 lp-01.foninfobet.info
 lp-01.infoinbet.info
+lp-02.fon-infosport.info
 lp-02.fongametime.info
 lp-02.foninfo.net
 lp-02.foninfo.org
@@ -79731,6 +79743,7 @@ lp-06.fonbet3.info
 lp-06.foninfobet.info
 lp-07.fon-infosport.info
 lp-08.fon-infosport.info
+lp-09.fon-infosport.info
 lp-10.fon-infosport.info
 lp-11.fon-infosport.info
 lp-12.fon-infosport.info
@@ -79738,9 +79751,13 @@ lp-13.fon-infosport.info
 lp-14.fon-infosport.info
 lp-15.fon-infosport.info
 lp-16.fon-infosport.info
+lp-17.fon-infosport.info
 lp-18.fon-infosport.info
+lp-19.fon-infosport.info
 lp-20.fon-infosport.info
 lp-21.fon-infosport.info
+lp-22.fon-infosport.info
+lp-23.fon-infosport.info
 lp-24.fon-infosport.info
 lp-25.fon-infosport.info
 lp-26.fon-infosport.info
@@ -79750,10 +79767,15 @@ lp-29.fon-infosport.info
 lp-30.fon-infosport.info
 lp-31.fon-infosport.info
 lp-32.fon-infosport.info
+lp-33.fon-infosport.info
+lp-34.fon-infosport.info
 lp-35.fon-infosport.info
+lp-36.fon-infosport.info
 lp-37.fon-infosport.info
 lp-38.fon-infosport.info
+lp-39.fon-infosport.info
 lp-40.fon-infosport.info
+lp-41.fon-infosport.info
 lp-42.fon-infosport.info
 lp-43.fon-infosport.info
 lp-44.fon-infosport.info
@@ -106758,6 +106780,7 @@ playslotsonline.info
 playslotv.namobile.fun
 playslotv.sport-people.club
 playspincities.club
+playspincities.com
 playspincity.club
 playspincityonline.com
 playsporthere.com
@@ -132862,6 +132885,7 @@ top10-online-casino2.xyz
 top10-online-casino3.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
+top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
