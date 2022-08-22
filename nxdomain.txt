@@ -7537,7 +7537,6 @@
 1xbet-stav.top
 1xbet-stavkafree.club
 1xbet-stavki.net
-1xbet-stavki.top
 1xbet-stavki1.site
 1xbet-stavki1.top
 1xbet-stavki1x.top
@@ -18257,11 +18256,12 @@ ARRAY(0x835678168)
 ARRAY(0x836c8bfc0)
 ARRAY(0x836e61288)
 ARRAY(0x83707d1f8)
+ARRAY(0x837b96a50)
 ARRAY(0x8380658d0)
-ARRAY(0x83830d798)
 ARRAY(0x838a3a318)
 ARRAY(0x8414dfb70)
 ARRAY(0x8ae719048)
+ARRAY(0x8afafb7e0)
 ARRAY(0x8b1ac6540)
 ARRAY(0x8b4fc8b10)
 ARRAY(0x8b5191900)
@@ -18271,7 +18271,6 @@ ARRAY(0x8b7534ae0)
 ARRAY(0x8b79ff4e0)
 ARRAY(0x8b8d21a98)
 ARRAY(0x8b8d74180)
-ARRAY(0x8b9d70978)
 ARRAY(0x8b9e5a150)
 ARRAY(0x8ba42c2b8)
 ARRAY(0x8bab5c5e8)
@@ -23541,6 +23540,7 @@ arhangelsk.godiplomsis.com
 arhangelsk.godiplomsus.com
 arhangelsk.godiplomy.com
 arhangelsk.kupit-diplom365.com
+arhangelsk.mydiplomatstores.com
 arhangelsk.mydiplomusstore.com
 arhangelsk.mydiplomusstores.com
 arhangelsk.mydiplomustore.com
@@ -39742,6 +39742,7 @@ bryansk.diplomc-24.com
 bryansk.diplomlike.com
 bryansk.diplomp-kurerom.com
 bryansk.godiplomy.com
+bryansk.mydiplomatstores.com
 bryansk.mydiplomusstores.com
 bryansk.real-diplomus.com
 bryansk.silmag12.ru
@@ -40123,6 +40124,7 @@ butxzkx.californiafood.ru
 buxsar.ru
 buy-diplom.top
 buy-dlplom.com
+buy-dlploms.com
 buy-kazino-otzyvy.sidewinders.info
 buy-kazino-zerkalo-rabocheye.dom-evropa.ru
 buy-panel-inc.com
@@ -46381,6 +46383,7 @@ cheboksary.gooddiplomu.com
 cheboksary.intim-place2.com
 cheboksary.kupuj-prava.com
 cheboksary.life-diplomp.com
+cheboksary.mydiplomatstores.com
 cheboksary.mydiplomusstores.com
 cheboksary.pedsovet.info
 cheboksary.prostitutki-today2.com
@@ -50556,6 +50559,7 @@ e.1ordfilm.art
 e.1ordfilm.pw
 e.3zfilm-hd.site
 e.7zfilme-hd.top
+e.alphatech.pw
 e.azino777-reg-4.xyz
 e.babes39.com
 e.fantasy-worlds.org
@@ -57839,6 +57843,7 @@ ftp.sledyss63.com
 ftp.vabankclub.email
 ftp.zetflix.vip
 ftp0.ru
+ftp5.netco.uz
 ftpuotbs.space
 ftpvuuff.fun
 fu.kinogood.me
@@ -63953,7 +63958,6 @@ hydraclubbioknikokex7njchwhua2l67lfiz7z36md2jvopda7nchid.online
 hydraclubbioknikokex7njhw.ooniono.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.hudra-onion.com.cn
-hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.onion-login.app
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.ooniono.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z46md2jvopda7nchid.hudra-onion.com.cn
 hydraclubbioknikokex7njhwuuhc2l67lfiz77z36md2jvopda7nchid.gidra.com.cn
@@ -67720,6 +67724,7 @@ joycasino-casino-play05.win
 joycasino-casino-play06.win
 joycasino-casino-play07.win
 joycasino-casino-play08.win
+joycasino-casino-play09.win
 joycasino-casino-play10.win
 joycasino-casino-play2.win
 joycasino-casino-play3.win
@@ -75162,6 +75167,7 @@ krasnoyarsk.life-diplomt.com
 krasnoyarsk.mass-diplomiks24.com
 krasnoyarsk.metanruss.com
 krasnoyarsk.mydiplomatstore.com
+krasnoyarsk.mydiplomatstores.com
 krasnoyarsk.mydiplomustore.com
 krasnoyarsk.pravap-4you.com
 krasnoyarsk.prostitutki-13.com
@@ -75509,6 +75515,7 @@ kurgan.godiplomsus.com
 kurgan.godiplomy.com
 kurgan.life-diplomj.com
 kurgan.medicinckie-spravkii.ru
+kurgan.mydiplomatstores.com
 kurgan.mydiplomusstores.com
 kurgan.pedsovet.info
 kurgan.pravag-ru.com
@@ -94694,6 +94701,7 @@ murmansk.likediplom.com
 murmansk.luxdiplomi.com
 murmansk.medicinckie-spravkii.ru
 murmansk.msk-anydip.com
+murmansk.mydiplomatstores.com
 murmansk.mydiplomusstores.com
 murmansk.mydiplomustore.com
 murmansk.poluchi-diplom.com
@@ -95115,6 +95123,7 @@ mydeluxe.uno
 mydeluxewin1.com
 mydeluxewin3.com
 mydiplomatstore.com
+mydiplomatstores.com
 mydiplomusstore.com
 mydiplomusstores.com
 mydiplomustore.com
@@ -97998,6 +98007,7 @@ novokuznetsk.firma-diplomoss.com
 novokuznetsk.godiplomsis.com
 novokuznetsk.godiplomsus.com
 novokuznetsk.mydiplomatstore.com
+novokuznetsk.mydiplomatstores.com
 novokuznetsk.mydiplomustore.com
 novokuznetsk.study-document.com
 novokuznetsk2.prostitutki-13.com
@@ -99876,6 +99886,7 @@ omsk.metannrus.com
 omsk.metanruss.com
 omsk.msk-anydip.com
 omsk.mydiplomatstore.com
+omsk.mydiplomatstores.com
 omsk.pravag-4you.com
 omsk.pravag-ru.com
 omsk.pravap-4you.com
@@ -103947,6 +103958,7 @@ perm.gozznakdiploma.com
 perm.kupuj-prava.com
 perm.life-diplomp.com
 perm.metanruss.com
+perm.mydiplomatstores.com
 perm.mydiplomusstores.com
 perm.mydiplomustore.com
 perm.pedsovet.info
@@ -122975,6 +122987,7 @@ sankt-peterburg.goodiplomu.com
 sankt-peterburg.mass-diplomik24.com
 sankt-peterburg.metanruss.com
 sankt-peterburg.mydiplomatstore.com
+sankt-peterburg.mydiplomatstores.com
 sankt-peterburg.mydiplomusstore.com
 sankt-peterburg.mydiplomusstores.com
 sankt-peterburg.mydiplomustore.com
@@ -123052,6 +123065,7 @@ saratov.mass-diplomiks24.com
 saratov.metanruss.com
 saratov.msk-anydip.com
 saratov.mydiplomatstore.com
+saratov.mydiplomatstores.com
 saratov.mydiplomusstore.com
 saratov.mydiplomustore.com
 saratov.plenka-focus.ru
@@ -127300,6 +127314,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -127864,6 +127879,7 @@ slottyway.su
 slottywaycasino.club
 slottywaycazino.club
 slottywaykasino.club
+slotu-online.net
 slotu.club
 slotu.info
 slotu.me
@@ -128221,6 +128237,7 @@ smolensk.godiplomsus.com
 smolensk.gozznakdiploma.com
 smolensk.life-diplomp.com
 smolensk.mass-diplomik24.com
+smolensk.mydiplomatstores.com
 smolensk.mydiplomusstores.com
 smolensk.mydiplomustore.com
 smolensk.prostitutki-today2.com
@@ -128879,6 +128896,7 @@ sol13.ru
 sol1casino.ru
 sol1l.com
 sol316.ru
+sol3l.casino
 sol433.ru
 sol705-download.ru
 solandmost.com
@@ -131123,6 +131141,7 @@ super-avto-perm.ru
 super-azino777804.ru
 super-besdep.club
 super-besdeps.club
+super-betwinner.club
 super-bezdep.club
 super-bezdeps.club
 super-bezdeps.com
@@ -131131,6 +131150,7 @@ super-bonusi.xyz
 super-cat-casino.ru
 super-cat.club
 super-lottery.ru
+super-melbet.club
 super-memo.ru
 super-million.ru
 super-muz.ru
@@ -132532,6 +132552,7 @@ tomsk.fort-pravan.com
 tomsk.gozznakdiploma.com
 tomsk.kupuh-prava.com
 tomsk.mydiplomatstore.com
+tomsk.mydiplomatstores.com
 tomsk.pravag-4you.com
 tomsk.pravap-4you.com
 tomsk.prostitutki-13.com
@@ -134024,6 +134045,7 @@ train.pipitor.site
 trainingpop.online
 trainingpop.space
 trakcer.ru
+trakdomfab1.info
 trandtrade.com
 tranleone.ru
 trans01.xyz
@@ -135092,6 +135114,7 @@ tyumen.luxdiplomi.com
 tyumen.mass-diplomik24.com
 tyumen.mdiplomes.com
 tyumen.mydiplomatstore.com
+tyumen.mydiplomatstores.com
 tyumen.mydiplomustore.com
 tyumen.mydiplomustores.com
 tyumen.prostitutki-today2.com
@@ -139469,7 +139492,6 @@ volgaslot1.com
 volgaslot2.com
 volgaslot3.com
 volgaslot4.com
-volgaslot5.com
 volgdiplomas.com
 volgdiploms.com
 volghsk.prostitutki-13.com
@@ -140458,6 +140480,7 @@ vulcan24-casino-official6.win
 vulcan24-casino-official8.win
 vulcan24-casino-official9.win
 vulcan24-casino-officialnie777.win
+vulcan24-casino-officialnie888.win
 vulcan24-casino-officialnyi777.win
 vulcan24-casino-officialnyy777.win
 vulcan24-casino.net
@@ -151574,6 +151597,7 @@ www.mbkplusrotate.win
 www.mclips.net
 www.mcvouo.ru
 www.medc-spravki.com
+www.medfirma.com
 www.mediacool.win
 www.medianik-club.ru
 www.mediarot-newyear.win
@@ -156657,6 +156681,7 @@ yaroslavl.life-diplomj.com
 yaroslavl.life-diplomp.com
 yaroslavl.life-diplomt.com
 yaroslavl.mass-diplomiks24.com
+yaroslavl.mydiplomatstores.com
 yaroslavl.mydiplomusstores.com
 yaroslavl.mydiplomustores.com
 yaroslavl.prostitutki-today2.com
