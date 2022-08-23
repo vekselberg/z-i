@@ -7492,7 +7492,6 @@
 1xbet-rv5.xyz
 1xbet-rv6.club
 1xbet-rv7.xyz
-1xbet-rv8.xyz
 1xbet-rz.xyz
 1xbet-s1.xyz
 1xbet-sac.xyz
@@ -18274,14 +18273,16 @@ ARRAY(0x83cf70be8)
 ARRAY(0x83d8647e0)
 ARRAY(0x83df89930)
 ARRAY(0x83e731f18)
+ARRAY(0x89837cd20)
 ARRAY(0x8adfb2ca8)
 ARRAY(0x8aefe5828)
+ARRAY(0x8b09634f8)
 ARRAY(0x8b15759d8)
 ARRAY(0x8b19ed1b0)
 ARRAY(0x8b2526bd0)
 ARRAY(0x8b294bbb8)
 ARRAY(0x8b3d030d8)
-ARRAY(0x8b3e0f5e8)
+ARRAY(0x8b42da3f0)
 ARRAY(0x8b43e25b8)
 ARRAY(0x8b5b460d8)
 ARRAY(0x8b76aa978)
@@ -18290,7 +18291,6 @@ ARRAY(0x8b82c5828)
 ARRAY(0x8b8506e40)
 ARRAY(0x8b85cded0)
 ARRAY(0x8b8630dc8)
-ARRAY(0x8ba098438)
 ARRAY(0x8bbdb2b58)
 ARRAY(0x8bcd3d060)
 ARRAY(0x8bdcf7eb8)
@@ -39579,6 +39579,7 @@ botaoshi.site
 both.kingfllm4im.online
 botl.pivo.website
 botle.pivo.website
+botrdy.top
 bottle.pivo.website
 botywmelym.top
 bouncemediaplay.win
@@ -52567,7 +52568,6 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
-f002.fisher-r.ru
 f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
@@ -56811,6 +56811,7 @@ frankofisial.ru
 frankonlygames.com
 frankplay.me
 frankplayclub.com
+frankplaylink.com
 frankpremierclub.com
 frankpremiergames.club
 frankpremium.club
@@ -71336,6 +71337,7 @@ kb.kinobase.online
 kb3or-azinomobile.host
 kb6n1-azino777.icu
 kbaqwqw.xyz
+kbcapitals.com
 kbi-azinomobile.icu
 kbinfo.pro
 kbmbet.win
@@ -110031,6 +110033,7 @@ profit-casino.org
 profit-casino.top
 profit-max.net
 profit-vsem.xyz
+profitassist.cc
 profitcarriage.site
 profitfife.com
 profitfinans.site
@@ -126207,6 +126210,7 @@ shop-alcogol154.site
 shop-rc.cc
 shop.24x7.icu
 shop.8l2.mobi
+shop.bioseeds.live
 shop.centr-prof.top
 shop.diplom-master24.com
 shop.dostavka.date
@@ -133755,6 +133759,7 @@ trade-invest-bank.pw
 trade.abacofund.com
 trade.achdeal.com
 trade.boxinvest.pro
+trade.budgetinvest.org
 trade.dealernets.com
 trade.dealofficials.com
 trade.eliquidcentral.com
@@ -133767,6 +133772,7 @@ trade.fuysltd.com
 trade.goldenstream.online
 trade.hubblebit.com
 trade.just2trading.com
+trade.k-corporation.pro
 trade.libbit.org
 trade.mancardinc.com
 trade.mediumfx.business
@@ -155034,6 +155040,7 @@ x2money.net
 x2money.pro
 x2moneyref.ru
 x3.dropmp3.net
+x3.escort-balashikha.com
 x3.kinopolosa.online
 x3.liveball8.ml
 x3.livefilms.pw
