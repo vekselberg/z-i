@@ -7363,7 +7363,6 @@
 1xbet-reg28.top
 1xbet-reg3.site
 1xbet-reg3.top
-1xbet-reg30.top
 1xbet-reg32.top
 1xbet-reg33.top
 1xbet-reg4.site
@@ -13458,6 +13457,7 @@
 422joycasino.com
 423567.olimpcc44.top
 423joycasino.com
+4243.fun
 4246azm.host
 424777.info
 424joycasino.com
@@ -18262,6 +18262,7 @@
 9zm5omo.icu
 ARRAY(0x834c3e480)
 ARRAY(0x83507cd68)
+ARRAY(0x837260228)
 ARRAY(0x837a466d8)
 ARRAY(0x8386ce228)
 ARRAY(0x838ada4f8)
@@ -18277,7 +18278,6 @@ ARRAY(0x89837cd20)
 ARRAY(0x8adfb2ca8)
 ARRAY(0x8aefe5828)
 ARRAY(0x8b09634f8)
-ARRAY(0x8b15759d8)
 ARRAY(0x8b19ed1b0)
 ARRAY(0x8b2526bd0)
 ARRAY(0x8b294bbb8)
@@ -18285,13 +18285,14 @@ ARRAY(0x8b3d030d8)
 ARRAY(0x8b42da3f0)
 ARRAY(0x8b43e25b8)
 ARRAY(0x8b5b460d8)
+ARRAY(0x8b620edc8)
 ARRAY(0x8b76aa978)
 ARRAY(0x8b76ed150)
 ARRAY(0x8b82c5828)
 ARRAY(0x8b8506e40)
 ARRAY(0x8b85cded0)
 ARRAY(0x8b8630dc8)
-ARRAY(0x8bbdb2b58)
+ARRAY(0x8b86557f8)
 ARRAY(0x8bcd3d060)
 ARRAY(0x8bdcf7eb8)
 a-bets63.top
@@ -50604,7 +50605,6 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e105.fisher-1.ru
-e108.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -62125,7 +62125,6 @@ hd.kinofilmtop.online
 hd.kinoflag.top
 hd.kinofun.online
 hd.kinogarazh.online
-hd.kinogid.pw
 hd.kinogo-hd720.biz
 hd.kinogo.gg
 hd.kinogo.onl
@@ -82650,6 +82649,7 @@ market.private24.xyz
 market.seenrben.com
 market.vipklad.xyz
 market.xacku.cc
+market1.reduxin-planet.club
 marketbull.co.uk
 marketngrotate.win
 markets-invest.com
@@ -95593,7 +95593,6 @@ namekd.top
 namelbet.com
 namigrushki.online
 namigrushki.ru
-nammpi.uz
 nammuz.ru
 namp3.ru
 nano-network.ru
