@@ -18260,17 +18260,16 @@
 9zm5omo.icu
 ARRAY(0x834c3e480)
 ARRAY(0x83507cd68)
-ARRAY(0x835678168)
 ARRAY(0x837a466d8)
 ARRAY(0x837b96a50)
 ARRAY(0x8380658d0)
 ARRAY(0x8386ce228)
 ARRAY(0x838ada4f8)
+ARRAY(0x83b515600)
 ARRAY(0x83cf70be8)
 ARRAY(0x83d8647e0)
 ARRAY(0x83df89930)
 ARRAY(0x8414dfb70)
-ARRAY(0x8ae719048)
 ARRAY(0x8aefe5828)
 ARRAY(0x8afafb7e0)
 ARRAY(0x8b0d5c438)
@@ -18283,6 +18282,7 @@ ARRAY(0x8b4a99a08)
 ARRAY(0x8b4fc8b10)
 ARRAY(0x8b5b460d8)
 ARRAY(0x8b76aa978)
+ARRAY(0x8b76ed150)
 ARRAY(0x8ba098438)
 ARRAY(0x8bb9ac300)
 ARRAY(0x8bbdb2b58)
@@ -22495,6 +22495,7 @@ allserias.pro
 allsex.info
 allsites-vulcan.azurewebsites.net
 allsitesvulcan.azurewebsites.net
+allsport.site
 allsportbet.ru
 allsporthd.online
 alltv.top
@@ -38753,6 +38754,7 @@ bollist.pw
 bollist24.xyz
 bolnica-na-turgenevskoj.ru
 bolnichka-24-spravki.com
+bolnichka-ru.info
 bolnichka.org
 bolnichkasprawki.com
 bolnichnie-online.com
@@ -44431,6 +44433,8 @@ casinogrant.azurewebsites.net
 casinogrant1.azurewebsites.net
 casinogrant2.azurewebsites.net
 casinogrant3.azurewebsites.net
+casinograntt.azurewebsites.net
+casinograntt1.azurewebsites.net
 casinogrnd1.club
 casinogrnd1.online
 casinoguru.azurewebsites.net
@@ -45983,6 +45987,8 @@ ccazinogrant4.azurewebsites.net
 ccazinogrant5.azurewebsites.net
 ccazinogrant6.azurewebsites.net
 ccazinogrant7.azurewebsites.net
+ccazinogrant8.azurewebsites.net
+ccazinogrant9.azurewebsites.net
 ccb17b.olimpf4ab.top
 ccbkmbet.win
 ccc.nevprofmax.site
@@ -56938,6 +56944,7 @@ free-war.ru
 free.10zfilm-hd.site
 free.2zfilm-hd.life
 free.7zfilme-hd.top
+free.allsport.space
 free.azart-online.net
 free.azartnie-avtomaty.com
 free.azartnie-avtomaty777.com
@@ -58392,6 +58399,7 @@ game-avtomats.info
 game-avtomats.net
 game-azino777.ru
 game-casino-x.com
+game-casino2.win
 game-casinox-slot.com
 game-casinox-slots.com
 game-casinox.com
@@ -61064,6 +61072,7 @@ grand-vylkan.com
 grand-wulcan.azurewebsites.net
 grand1-play.azurewebsites.net
 grand1.club
+grand2-play.azurewebsites.net
 grand2295.ru
 grand349-vip.ru
 grandasino.azurewebsites.net
@@ -62643,7 +62652,6 @@ hd3.batlen.site
 hd3.bxfilm.org
 hd3.chasti-filmov.ru
 hd3.kino-rezka.ru
-hd3.kinogonka.top
 hd3.kinolenta.cc
 hd3.kinoma.tv
 hd3.kinomops.su
@@ -68458,6 +68466,7 @@ joycasino-vxod12.win
 joycasino-vxod13.win
 joycasino-vxod14.win
 joycasino-vxod15.win
+joycasino-vxod16.win
 joycasino-vxod2.win
 joycasino-vxod3.win
 joycasino-vxod4.win
@@ -96274,6 +96283,7 @@ new.720film.ru
 new.720filmshd.ru
 new.8afd95.olimpa0c1.top
 new.a4d95e.olimpa0c1.top
+new.allsport.site
 new.b892c4.olimpa0c1.top
 new.baskino-2018.online
 new.baskino1.top
@@ -99048,6 +99058,7 @@ official-joycasino4.win
 official-joycasino5.win
 official-joycasino6.win
 official-joycasino7.win
+official-joycasino777.site
 official-joycasino777.win
 official-joycasino8.win
 official-joycasino9.win
@@ -101261,6 +101272,7 @@ only-best-casino.ru
 only-melbet.club
 only-tv.date
 only.1hd1080.info
+only.allsport.space
 only.kingfilmj.online
 onlycases.ru
 onlycashgames.com
@@ -104221,7 +104233,6 @@ phonex8ioeck.xyz
 phonexeioect.xyz
 phongvevietnambooking.com
 photo-curs.su
-photo.casinopinups.com
 photocodeathome.info
 photokaluga.online
 photokaluga.ru
@@ -105520,6 +105531,7 @@ play-casino-video-poker.mp3-ostrov.ru
 play-casino-with-bitcoin.k-t-k.info
 play-casino-wulkan.com
 play-casino-x.net
+play-casino2.win
 play-casinos-online.org
 play-casx-game.com
 play-casx-games.com
@@ -130243,6 +130255,7 @@ spravkar-na-zacaz.com
 spravkar-online.com
 spravkas-na-dom.com
 spravkashop.online
+spravkashop.org
 spravkau-na-zacaz.com
 spravkavbassejn.com
 spravkavip196-medlain.com
