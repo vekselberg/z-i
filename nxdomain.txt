@@ -18266,8 +18266,8 @@ ARRAY(0x837260228)
 ARRAY(0x83806e8d0)
 ARRAY(0x839c4c330)
 ARRAY(0x83c0b1c48)
-ARRAY(0x83c5cf918)
 ARRAY(0x83df71240)
+ARRAY(0x840d79390)
 ARRAY(0x841502228)
 ARRAY(0x89802f450)
 ARRAY(0x89808b9a8)
@@ -18292,8 +18292,7 @@ ARRAY(0x8b5cc13a8)
 ARRAY(0x8b620edc8)
 ARRAY(0x8b6adce40)
 ARRAY(0x8b6c8fde0)
-ARRAY(0x8b82c5828)
-ARRAY(0x8b8506e40)
+ARRAY(0x8b81eeeb8)
 ARRAY(0x8b8578240)
 ARRAY(0x8b8579e70)
 ARRAY(0x8b85cded0)
@@ -18302,6 +18301,7 @@ ARRAY(0x8b86557f8)
 ARRAY(0x8ba057078)
 ARRAY(0x8ba595d38)
 ARRAY(0x8baf3af18)
+ARRAY(0x8bb3a80f0)
 ARRAY(0x8bb7c9348)
 ARRAY(0x8bb9e0288)
 ARRAY(0x8bbf0a600)
@@ -40167,7 +40167,6 @@ buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy1.qrcode-covid.com
-buy24.viarussia.org
 buyallweedonline.com
 buyersdiplomi.com
 buyhelpspb.ru
@@ -41635,6 +41634,7 @@ casino-pinup-spin.win
 casino-pinup-spin906.fun
 casino-pinup-super906.xyz
 casino-pinup-super907.xyz
+casino-pinup-win.com
 casino-pinup.azurewebsites.net
 casino-pinup.kz
 casino-pinup.name
@@ -49458,6 +49458,7 @@ diplomr-v-kemerovo.com
 diplomr-v-krasnodare.com
 diplomr-v-permi.com
 diplomr-v-ruki.com
+diplomr-v-tomske.com
 diplomr-v-ufe.com
 diplomr-v-yaroslavle.com
 diploms-174.com
@@ -62275,6 +62276,7 @@ hd.lordix.cc
 hd.lordkinogo.me
 hd.lordofilm.site
 hd.lordofilm.xyz
+hd.lords.one
 hd.lordserial10.xyz
 hd.lordsfilms-720.top
 hd.lordsfilms-hd.top
@@ -63271,6 +63273,7 @@ hdtochka.club
 hdtochka.com
 hdtop.ru
 hdtorrent.biz
+hdtron.tv
 hdtv.bobfilm-hd.ru
 hdtv.bobfilm1.ru
 hdtv.film-v.ru
@@ -64079,6 +64082,7 @@ hydraruzxpnew4afen.onion.photo
 hydraruzxpnew4afer-onion.com
 hydraruzxpnew4aff.onion-shop.com
 hydraruzxpnew4aff.onnnion.com
+hydraruzxpnew4affs.onionp.com
 hydraruzxpnew4afionlon.com
 hydraruzxpnew4afl-onion.com
 hydraruzxpnew4afo.online
@@ -74035,6 +74039,7 @@ kinostart.art
 kinostart.online
 kinostatus.me
 kinostock.online
+kinostok.org
 kinostok.xyz
 kinostoryhd.online
 kinostoryhd.ru
@@ -75431,6 +75436,7 @@ kupit-diplom-spb.com
 kupit-diplom-v-permi.com
 kupit-diplomic.com
 kupit-diplomio.com
+kupit-diplomis.com
 kupit-diplomiu.com
 kupit-diplomoz-198.com
 kupit-diplomq.com
@@ -80335,7 +80341,6 @@ m.24vulkan.net
 m.24vulkan007.com
 m.24vulkan5.com
 m.24x7.icu
-m.24xxx.club
 m.777betcityru.com
 m.7spravok.com
 m.admiral-casino.su
@@ -84081,6 +84086,7 @@ medical-spravki.com
 medical-spravky-fast.com
 medicalblank.net
 medicaldo.ru
+medicblanks.com
 medicians-centr-garant.com
 medicians-centr-zdorov.com
 medicians-centr-zdorovia.com
@@ -95712,6 +95718,7 @@ nationalnews.in.ua
 nationals-diplom.com
 nationals-diploms.com
 nationaly-dipioman.com
+natrava.net
 natrava.xyz
 naturalworld.ru
 naturecd.top
@@ -101546,7 +101553,6 @@ orenburg.mydiplomustore.com
 orenburg.mydiplomustores.com
 orenburg.prava-vsemrus.site
 orenburg.prostitutki-today2.com
-orenburg.prostitutki.win
 orenburg.pto555.org
 orenburg.pto777.org
 orenburg.sam-poehali.com
@@ -111355,6 +111361,7 @@ pulldrop.net
 pullmediaplay.win
 pulpfilm.ru
 pumafilm-hd.top
+pump-tracker.com
 pumpedcat.site
 punchbubble.site
 pundaotrobanda.club
@@ -115012,6 +115019,7 @@ rip.movies-online.su
 rip1.ultradox.online
 rip1.ultradox.store
 rip2.ultradox.online
+rip2.ultradox.ru
 rip2.ultradox.store
 riper-am.ru
 riper.am
@@ -137412,6 +137420,7 @@ vavadakl5.com
 vavadaklm.com
 vavadako.trafytch.com
 vavadako11.com
+vavadako7.com
 vavadakp10.com
 vavadakpo1.com
 vavadakr.com
@@ -139278,6 +139287,7 @@ vlkn-deluxe.com
 vlkn-gold.club
 vlkn-gold.net
 vlkn-gold.org
+vlkn-offical.com
 vlkn-platinum.com
 vlkn-slot.com
 vlkn.best-vulkan.online
@@ -144019,6 +144029,7 @@ w1.hdrezka.golf
 w1.hdrip.biz
 w1.hdsunduk.online
 w1.hdsunduks.net
+w1.hdtron.tv
 w1.hdzlo.club
 w1.hdzlo.life
 w1.kino-fs.vip
@@ -144211,6 +144222,7 @@ w2.hdrezka.cam
 w2.hdrezka.golf
 w2.hdsunduk.online
 w2.hdsunduks.net
+w2.hdtron.tv
 w2.hdzlo.club
 w2.hdzlo.life
 w2.kino.filmive-hd.net
@@ -144301,6 +144313,7 @@ w3.hd-videobox3.ru
 w3.hd1080px.top
 w3.hdrezka.golf
 w3.hdsunduk.online
+w3.hdtron.tv
 w3.hdzlo.life
 w3.kiinogo.net
 w3.kinocool.ru
@@ -144357,6 +144370,7 @@ w4.hd-videobox3.ru
 w4.hd1080px.top
 w4.hdrezka.golf
 w4.hdsunduk.online
+w4.hdtron.tv
 w4.hdzlo.life
 w4.kinocool.ru
 w4.kinocool.su
@@ -150926,6 +150940,7 @@ www.kskrapsodia.ru
 www.kudav.ru
 www.kudo24.ru
 www.kupi-cialis.ru
+www.kupit-diplomis.com
 www.kupit-kartu.com
 www.kupizveti.ru
 www.kupon-rostov.ru
@@ -152739,6 +152754,7 @@ www.pst-net.ru
 www.ptster.com
 www.pumafilm-1080.top
 www.pumafilm-hd.site
+www.pump-tracker.com
 www.pussycat-girlls.net
 www.pustgovorat2017.ru
 www.putlockers.gg
@@ -156393,6 +156409,7 @@ xx-62.ru
 xx-63.ru
 xx-66.ru
 xx-music.ru
+xx.escort-sterlitamak.com
 xx.kinobos.net
 xx.kinopools.cc
 xx.lortfilm.cc
