@@ -18253,6 +18253,7 @@ ARRAY(0x834520618)
 ARRAY(0x837103678)
 ARRAY(0x837260228)
 ARRAY(0x83806e8d0)
+ARRAY(0x83a4fd888)
 ARRAY(0x83c0b1c48)
 ARRAY(0x83df71240)
 ARRAY(0x840d79390)
@@ -18266,14 +18267,12 @@ ARRAY(0x898358de0)
 ARRAY(0x898372de0)
 ARRAY(0x898374de0)
 ARRAY(0x898376de0)
-ARRAY(0x89837cd20)
-ARRAY(0x8b09634f8)
 ARRAY(0x8b0e6e330)
 ARRAY(0x8b1cabf30)
 ARRAY(0x8b2970e88)
 ARRAY(0x8b3cf2a50)
-ARRAY(0x8b42da3f0)
 ARRAY(0x8b458f0d8)
+ARRAY(0x8b4924720)
 ARRAY(0x8b4b491c8)
 ARRAY(0x8b598cee8)
 ARRAY(0x8b5cc13a8)
@@ -18282,6 +18281,7 @@ ARRAY(0x8b6adce40)
 ARRAY(0x8b6c8fde0)
 ARRAY(0x8b81882a0)
 ARRAY(0x8b81eeeb8)
+ARRAY(0x8b82767b0)
 ARRAY(0x8b8578240)
 ARRAY(0x8b8579e70)
 ARRAY(0x8b8648840)
@@ -20612,6 +20612,7 @@ agentcygvydycmuym.azureedge.net
 agentdhoscldknmxf.azureedge.net
 agentekiotwnntmxe.azureedge.net
 agentermbet.site
+agentfpjyewoagdvh.azureedge.net
 agentfwlstlxfavkb.azureedge.net
 agentgqudpyfmlfaj.azureedge.net
 agentihgxfodjwqcs.azureedge.net
@@ -39562,7 +39563,6 @@ botaoshi.site
 both.kingfllm4im.online
 botl.pivo.website
 botle.pivo.website
-botrdy.top
 bottle.pivo.website
 botywmelym.top
 bouncemediaplay.win
@@ -48040,6 +48040,7 @@ curreeqkducxdmpou.azureedge.net
 currefcfvoxzkxlns.azureedge.net
 curreflkiwvpbgbqp.azureedge.net
 currefuniegvclqal.azureedge.net
+curregnzmedisjxgv.azureedge.net
 curregvstsiwfestn.azureedge.net
 currehbmrmdprevoo.azureedge.net
 currehgoutopzmfcj.azureedge.net
@@ -49358,12 +49359,14 @@ diplomr-magazine.com
 diplomr-moskva177.com
 diplomr-murmansk.com
 diplomr-naberezhnie-chelni.com
+diplomr-nsk.com
 diplomr-omsk.com
 diplomr-spb.com
 diplomr-tolyatti.com
 diplomr-tumen.com
 diplomr-v-kemerovo.com
 diplomr-v-krasnodare.com
+diplomr-v-krasnoyarske.com
 diplomr-v-permi.com
 diplomr-v-ruki.com
 diplomr-v-tomske.com
@@ -49892,6 +49895,7 @@ dosfilm.org
 dosfilm.ru
 dosfilm.xyz
 dosgidwf.olimpsbi4.xyz
+doska-med.ru
 doska-medicina.ru
 doskamos.ru
 dostavka-alcoholl-mosk.site
@@ -52484,7 +52488,6 @@ f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
 f002.fisher-r.ru
-f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -52860,6 +52863,7 @@ factorealocoondef.azureedge.net
 factoritrcszcrumc.azureedge.net
 factorjlrntahhmxi.azureedge.net
 factorqgwnuurtblx.azureedge.net
+factorxlzkifvuvut.azureedge.net
 factotcahajmbxysn.azureedge.net
 factotmthkuklnjsz.azureedge.net
 factotnelxzsblwle.azureedge.net
@@ -53718,6 +53722,7 @@ film2019.pro
 film2019.top
 film2019.xyz
 film2020.xyz
+film2021.net
 film22lord.lord2film.net
 film24lord.lord2film.net
 film25lord.lord2film.net
@@ -66253,6 +66258,7 @@ istordeytalvgjjrp.azureedge.net
 istordnhstcwodqen.azureedge.net
 istorfgyvhrxzgfir.azureedge.net
 istorfmqtymjxxbmh.azureedge.net
+istorfywlijqojbxd.azureedge.net
 istorgbxpmwmjhotl.azureedge.net
 istorgncrkouggeyo.azureedge.net
 istorgpbrbiessple.azureedge.net
@@ -75151,6 +75157,7 @@ krymrnzoldlmjkg.azureedge.net
 krymroicxkwkhqfdj.azureedge.net
 krymromjpamkymywe.azureedge.net
 krymronqpchrivywd.azureedge.net
+krymrphbbaqneefva.azureedge.net
 krymrpkgnypwwuyim.azureedge.net
 krymrpscpexbogyca.azureedge.net
 krymrqpbqunfskoow.azureedge.net
@@ -77892,6 +77899,7 @@ liquiddeposit.com
 liquidzenit.site
 liquor.dostavka.date
 liquor.flash.city
+lirunexinvest.com
 lis161.ga
 lisamuz.ru
 liski.damdiplomsa.com
@@ -83871,6 +83879,7 @@ mediafiarys.com
 mediaforumzz.com
 mediainfo.in.ua
 medialight.site
+mediamanthree.com
 mediamara.win
 mediamarathon.win
 mediambet.win
@@ -83955,6 +83964,7 @@ medknijk-omsk.top
 medknijki-v-permi.ru
 medknijki-v-permii.ru
 medknizhka-102.top
+medknizhka-za-den.com
 medknizhkamsk24.com
 medknizhki-medspravki-ekb.net
 medknizhki-medspravki-ekb.org
@@ -126102,7 +126112,6 @@ shop-alcogol154.site
 shop-rc.cc
 shop.24x7.icu
 shop.8l2.mobi
-shop.bioseeds.live
 shop.centr-prof.top
 shop.diplom-master24.com
 shop.dostavka.date
@@ -131711,6 +131720,7 @@ telego6.com
 telego6.net
 telego6.ru
 telego7.ru
+telego919.com
 telek.live
 telemark.fun
 telemaster-pro.online
@@ -132635,7 +132645,6 @@ top10-online-casino2.xyz
 top10-online-casino3.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
-top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -136781,6 +136790,7 @@ vavadabn2.com
 vavadabom.xyz
 vavadabonus100free.com
 vavadabonus24.com
+vavadaboom.com
 vavadabos.xyz
 vavadabose.xyz
 vavadaboss.xyz
@@ -137156,6 +137166,7 @@ vavadan17.com
 vavadan18.com
 vavadan20.com
 vavadan5.com
+vavadan77.com
 vavadanba.com
 vavadanetent.com
 vavadanew.trafytch.com
@@ -137257,6 +137268,7 @@ vavadapower.com
 vavadapp.com
 vavadapr.com
 vavadapr7.com
+vavadaprd.com
 vavadapro1.com
 vavadaprt1.com
 vavadaps.com
@@ -154685,6 +154697,7 @@ x1.cazx-money.com
 x1.cazx-moneyx.com
 x1.dropmp3.net
 x1.easyfilms21.xyz
+x1.escort-sterlitamak.com
 x1.game-casino-x.com
 x1.game-casinox-slot.com
 x1.game-casinox-slots.com
@@ -154868,7 +154881,6 @@ x2money.net
 x2money.pro
 x2moneyref.ru
 x3.dropmp3.net
-x3.escort-balashikha.com
 x3.kinopolosa.online
 x3.liveball8.ml
 x3.livefilms.pw
