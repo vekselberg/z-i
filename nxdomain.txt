@@ -7554,7 +7554,6 @@
 1xbet-stav.top
 1xbet-stavkafree.club
 1xbet-stavki.net
-1xbet-stavki.top
 1xbet-stavki1.site
 1xbet-stavki1.top
 1xbet-stavki1x.top
@@ -11167,6 +11166,7 @@
 24betsbc.space
 24betting.azurewebsites.net
 24bopt.com
+24bot.shop
 24bz.biz
 24c91f.olimp0bae.top
 24cashwylkanz.com
@@ -11258,6 +11258,7 @@
 24sportmix.ru
 24sportnew.ru
 24sportnow.ru
+24sportpon.ru
 24sporttop.ru
 24sportwin.ru
 24sportwow.ru
@@ -12241,6 +12242,7 @@
 2ndflkazan-gd.ru
 2ndflkrasnodar-sq.ru
 2ndfllipeck-sg.ru
+2ndfllipeck-sk.ru
 2ndflnn-gd.ru
 2ndflnn-rq.ru
 2ndflnn-sg.ru
@@ -18266,12 +18268,11 @@ ARRAY(0x83a497060)
 ARRAY(0x83a93e498)
 ARRAY(0x83c810138)
 ARRAY(0x83d30df78)
-ARRAY(0x83f8a5a98)
 ARRAY(0x8405c72e8)
 ARRAY(0x840984858)
+ARRAY(0x841998360)
 ARRAY(0x897d2d228)
 ARRAY(0x897d89750)
-ARRAY(0x897dbf690)
 ARRAY(0x897df9360)
 ARRAY(0x897dff360)
 ARRAY(0x897e16360)
@@ -18290,6 +18291,7 @@ ARRAY(0x8b6bba810)
 ARRAY(0x8b6d7cfd8)
 ARRAY(0x8b74edd80)
 ARRAY(0x8b7d706f0)
+ARRAY(0x8b7fc7540)
 ARRAY(0x8b8061c48)
 ARRAY(0x8b8069c48)
 ARRAY(0x8b81143f0)
@@ -18297,10 +18299,10 @@ ARRAY(0x8b811eeb8)
 ARRAY(0x8b8155c48)
 ARRAY(0x8b822be28)
 ARRAY(0x8b88dae28)
+ARRAY(0x8b8b2fc48)
 ARRAY(0x8ba762678)
 ARRAY(0x8bb3036d8)
 ARRAY(0x8bbb5d2e8)
-ARRAY(0x8bbe6cc78)
 ARRAY(0x8bc88b708)
 ARRAY(0x8bd7cd330)
 a-bets63.top
@@ -22777,6 +22779,7 @@ animevost2.org
 animevost3.org
 animevvost.ru
 anistar.info
+anistar.pro
 anistar11.org
 anistar12.org
 anistar13.org
@@ -51243,6 +51246,7 @@ ekb.fort-pravama.com
 ekb.fort-pravams.com
 ekb.fort-pravan.com
 ekb.gozznakdiploma.com
+ekb.gozznakdiplomas.com
 ekb.kupuj-prava.com
 ekb.magnity-na-schetchiki.ru
 ekb.mdiplomes.com
@@ -53110,6 +53114,7 @@ farm-krasnodar.ru
 farm-kz.xyz
 farm43.ru
 farm7a.ru
+farm7b.ru
 farm7c.ru
 farm82.ru
 farm96.ru
@@ -69744,6 +69749,7 @@ kaliningrad.gooddiplomu.com
 kaliningrad.gooddiplomus.com
 kaliningrad.goodiplom.com
 kaliningrad.gozznakdiploma.com
+kaliningrad.gozznakdiplomas.com
 kaliningrad.intim-place2.com
 kaliningrad.kupuh-prava.com
 kaliningrad.kupuj-prava.com
@@ -70331,6 +70337,7 @@ kazan116.xyz
 kazan16.xyz
 kazandiplomis.com
 kazanj.doc-avto.life
+kazbilim-edu.kz
 kazdiplom24.com
 kazds.ru
 kazibonus.ru
@@ -75084,6 +75091,7 @@ krasnoyarsk.godiplomsus.com
 krasnoyarsk.goodiplomi.com
 krasnoyarsk.gosznakdiploma.com
 krasnoyarsk.gozznakdiploma.com
+krasnoyarsk.gozznakdiplomas.com
 krasnoyarsk.kupuh-prava.com
 krasnoyarsk.kupuj-prava.com
 krasnoyarsk.life-diplomp.com
@@ -97475,6 +97483,7 @@ nn.firma-diplomass.com
 nn.firma-diplomoss.com
 nn.goznakdiplomas.com
 nn.gozznakdiploma.com
+nn.gozznakdiplomas.com
 nn.kupuh-prava.com
 nn.kupuj-prava.com
 nn.life-diplomj.com
@@ -100722,7 +100731,6 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.net
 online.gidonline-1176.site
 online.gidonline-1228.site
@@ -101074,6 +101082,7 @@ only.allsport.space
 only.kingfilmj.online
 onlycases.ru
 onlycashgames.com
+onlyfilm.tv
 onlyhd.ru
 onlyk.net
 onlyneo.ru
@@ -101361,6 +101370,7 @@ orenburg.fort-pravan.com
 orenburg.godiplomsis.com
 orenburg.godiplomsus.com
 orenburg.gozznakdiploma.com
+orenburg.gozznakdiplomas.com
 orenburg.mydiplomatstore.com
 orenburg.mydiplomustore.com
 orenburg.mydiplomustores.com
@@ -114813,6 +114823,7 @@ riobetonline555.azurewebsites.net
 riobetonline77.azurewebsites.net
 riobetonline88.azurewebsites.net
 riobetpayz.ru
+riobetplay.club
 riobetplaylink.com
 riobetplays.ru
 riobetplayz.ru
@@ -121269,6 +121280,7 @@ rubtsovsk.likediplom.com
 rubtsovsk.simadiplom.com
 rubtsovsk.study-docum.com
 rubtsovwk.diploms4yours.com
+rubuild.online
 ruby-fortune-casino-en-ligne.npplus.ru
 ruby-fortune.flyinginn.ru
 rubye-fritsch.i-sefon.pro
@@ -150315,7 +150327,6 @@ www.grand-cazino.net
 www.grandazzi.ru
 www.grandreefcasino.com
 www.granulema.ru
-www.gratisbingopengar.com
 www.grbets35.com
 www.greatmarathon.win
 www.green-okna.ru
@@ -151852,6 +151863,7 @@ www.onlinerpl.ru
 www.onlinevuz.ru
 www.only-hd.online
 www.onlyadmiral.pw
+www.onlyfilm.tv
 www.onlyneo.ru
 www.opelaps.ru
 www.optimtaxes.net
@@ -152912,6 +152924,7 @@ www.shkololo.ru
 www.shlupkatv8.com
 www.shollsoch.ru
 www.shonkino.ru
+www.shopbalu.ru
 www.short-film.me
 www.showtv-online.com
 www.shtuka.moscow
@@ -155037,7 +155050,6 @@ x1zlrvxd.world
 x2.casinox-slot-game.com
 x2.dropmp3.net
 x2.easyfilms21.xyz
-x2.escort-sterlitamak.com
 x2.kinopolosa.online
 x2.liveball8.ml
 x2.livefilms.pw
