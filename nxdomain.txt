@@ -18269,11 +18269,9 @@ ARRAY(0x83d30df78)
 ARRAY(0x83f8a5a98)
 ARRAY(0x8405c72e8)
 ARRAY(0x840984858)
-ARRAY(0x84113fe58)
-ARRAY(0x841c79768)
+ARRAY(0x897d2d228)
 ARRAY(0x897d89750)
 ARRAY(0x897dbf690)
-ARRAY(0x897dca228)
 ARRAY(0x897df9360)
 ARRAY(0x897dff360)
 ARRAY(0x897e16360)
@@ -18298,8 +18296,10 @@ ARRAY(0x8b81143f0)
 ARRAY(0x8b811eeb8)
 ARRAY(0x8b8155c48)
 ARRAY(0x8b822be28)
+ARRAY(0x8b88dae28)
 ARRAY(0x8ba762678)
 ARRAY(0x8bb3036d8)
+ARRAY(0x8bbb5d2e8)
 ARRAY(0x8bbe6cc78)
 ARRAY(0x8bc88b708)
 ARRAY(0x8bd7cd330)
@@ -18883,6 +18883,7 @@ a7z7i7no.ru
 a8.4rdr.top
 a8.baza-knig.ru
 a8.blackrutor.site
+a8.fantasy-worlds.org
 a8.kinospin.club
 a8.kinostar.me
 a8.lordfilmx-online.net
@@ -24921,7 +24922,6 @@ azatlholssabwduzy.azureedge.net
 azatlhotfefdwgzjn.azureedge.net
 azatliq.azureedge.net
 azatljfziosaachat.azureedge.net
-azatljokcnucnwmve.azureedge.net
 azatljxgaosihprjt.azureedge.net
 azatlkgbjmyqulebl.azureedge.net
 azatllgaqzdcplqdn.azureedge.net
@@ -47041,6 +47041,7 @@ client.capitalfx.co
 client.capitalonemarkets.com
 client.crypneteasy.com
 client.ctsolutions.uk
+client.eastscotinvest.org
 client.ecn-broker.pro
 client.ex-cbc.com
 client.farione.com
@@ -50710,6 +50711,7 @@ eamelzivdo.top
 earnings.fun
 earnmbetbest.top
 eas2e-azino777.icu
+eastscotinvest.org
 eastwind.biz.klad.mobi
 eastwind.biz.localbot.pro
 easy-coins.info
@@ -51265,10 +51267,8 @@ ekhokfggixqmpibqoi.azureedge.net
 ekhokfhnulqhowzls.azureedge.net
 ekhokfhxxnveeynul.azureedge.net
 ekhokfmdiawpteryq.azureedge.net
-ekhokfyladwenjoca.azureedge.net
 ekhokfyzoblwfxoxw.azureedge.net
 ekhokgbkclvsevdqo.azureedge.net
-ekhokgructkgxhood.azureedge.net
 ekhokhdqlufagmgsd.azureedge.net
 ekhokibeqhpzjxkgd.azureedge.net
 ekhokivewjqnrmovo.azureedge.net
@@ -60689,6 +60689,7 @@ goznak-diplomm.club
 goznakdiplom.com
 goznakdiplomas.com
 gozznakdiploma.com
+gozznakdiplomas.com
 gp-com.com
 gp3ya-azino777.host
 gp6z05wwxamst.com
@@ -64361,7 +64362,6 @@ idelrdfxgewfnigtq.azureedge.net
 idelrdojtdwgmrbab.azureedge.net
 idelreal.azureedge.net
 idelrejluzmrpfpru.azureedge.net
-idelrepdohkiknrqr.azureedge.net
 idelreqnmddnhpiyy.azureedge.net
 idelrerflnxkbismv.azureedge.net
 idelreuoahbfakiat.azureedge.net
@@ -64420,7 +64420,6 @@ idelrvyzlusdwlrkg.azureedge.net
 idelrwatwjkorqnrq.azureedge.net
 idelrwhplthpcvjbc.azureedge.net
 idelrwqapowlllqpq.azureedge.net
-idelrwspdefjldqkp.azureedge.net
 idelrwuvptvwxlicd.azureedge.net
 idelrxatohjgkxmeh.azureedge.net
 idelrxaurvaxsgmgt.azureedge.net
@@ -66189,6 +66188,7 @@ irkutsk.fort-pravan.com
 irkutsk.godiplomsis.com
 irkutsk.godiplomsus.com
 irkutsk.gozznakdiploma.com
+irkutsk.gozznakdiplomas.com
 irkutsk.mdiplomes.com
 irkutsk.metanruss.com
 irkutsk.mydiplomatstores.com
@@ -70245,7 +70245,6 @@ kavkakkznsdflhpvm.azureedge.net
 kavkakuvtoexasklr.azureedge.net
 kavkakwojtfwkegnh.azureedge.net
 kavkalrftonqleaaa.azureedge.net
-kavkalzumdgqgjouu.azureedge.net
 kavkamfyxivixjyfd.azureedge.net
 kavkamrtmpdmykgxd.azureedge.net
 kavkamwdynpplsmef.azureedge.net
@@ -70274,7 +70273,6 @@ kavkaxqkqgqvjtqfg.azureedge.net
 kavkaxrqjhkfsvdjx.azureedge.net
 kavkaybmilhrdwuwp.azureedge.net
 kavkaykwbzukmxxgp.azureedge.net
-kavkayqbsjnlmsruc.azureedge.net
 kavkayvzrdciomalt.azureedge.net
 kavkaz.army
 kavkazkzuihhfdkxu.azureedge.net
@@ -75191,7 +75189,6 @@ kry745kcv.com
 krym.life-diplomt.com
 krymrauoscphrlcne.azureedge.net
 krymrawtihhchgnex.azureedge.net
-krymrayhadzmifvre.azureedge.net
 krymraytgaqeebkun.azureedge.net
 krymrayzegaijyfwe.azureedge.net
 krymrbcwgzlasuqqh.azureedge.net
@@ -75578,6 +75575,7 @@ kzz32loo7rf3.com
 kzz37y55rv2.com
 l-movie.com
 l.2generic-russia-24.ru
+l.beliyspisok.name
 l.fantasy-worlds.org
 l.filmishki.net
 l.ganja-expert.xyz
@@ -115190,6 +115188,7 @@ rostov.diplomp-rf.com
 rostov.diplomr-kurerom.com
 rostov.doc-avto.life
 rostov.gozznakdiploma.com
+rostov.gozznakdiplomas.com
 rostovhot.mobi
 rotaambetbeat.top
 rotaambetcoach.top
@@ -123945,7 +123944,6 @@ severodvinsk.mydiplomusstores.com
 severodvinske.damdiplomsa.com
 severomiksjhlgysw.azureedge.net
 severopiicxjyeqoa.azureedge.net
-severpoctngexfukp.azureedge.net
 severqcftjelsvbtj.azureedge.net
 severqnssubqmvclh.azureedge.net
 severqscddushaebt.azureedge.net
@@ -126385,7 +126383,6 @@ sibreepbmvibrtvef.azureedge.net
 sibreewmfvyxgbqck.azureedge.net
 sibrefevvmalukcnp.azureedge.net
 sibrefganxebqfmyj.azureedge.net
-sibrefocxcirkueck.azureedge.net
 sibrefwtfwxkdbgwc.azureedge.net
 sibrehab.host
 sibreibgfjvuifcig.azureedge.net
@@ -129250,6 +129247,7 @@ spb.fort-pravams.com
 spb.gosznakdiploma.com
 spb.goznakdiplomas.com
 spb.gozznakdiploma.com
+spb.gozznakdiplomas.com
 spb.kupuh-prava.com
 spb.kupuj-prava.com
 spb.life-diplomt.com
@@ -133739,6 +133737,7 @@ trade.boxinvest.pro
 trade.budgetinvest.org
 trade.dealernets.com
 trade.dealofficials.com
+trade.eastscotinvest.org
 trade.eliquidcentral.com
 trade.exyness.com
 trade.fiestacapital.org
@@ -133767,6 +133766,7 @@ trade.tradepluss.net
 trade.tradexxx.io
 trade.tvk-capital.com
 trade.voudeal.com
+trade2.eastscotinvest.org
 tradegroup.cc
 tradeinvestltd.com
 trademuto.com
@@ -135351,6 +135351,7 @@ ulyanovsk.firma-diplomos.com
 ulyanovsk.firma-diplomoss.com
 ulyanovsk.godiplomsus.com
 ulyanovsk.godiplomy.com
+ulyanovsk.gozznakdiplomas.com
 ulyanovsk.intim-place2.com
 ulyanovsk.life-diplomp.com
 ulyanovsk.prawaonline.com
@@ -155063,7 +155064,6 @@ x3.escort-balashikha.com
 x3.kinopolosa.online
 x3.liveball8.ml
 x3.livefilms.pw
-x3.ufa-escort.com
 x3.z4z.one
 x3.zvukons.ru
 x31jv5r0olmb.com
@@ -156231,7 +156231,6 @@ xx-62.ru
 xx-63.ru
 xx-66.ru
 xx-music.ru
-xx.escort-balashikha.com
 xx.escort-sterlitamak.com
 xx.kinobos.net
 xx.kinopools.cc
