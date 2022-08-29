@@ -18327,17 +18327,17 @@ ARRAY(0x836893ea0)
 ARRAY(0x8386344e0)
 ARRAY(0x838ea7798)
 ARRAY(0x83b2fa138)
+ARRAY(0x83b35c7e0)
 ARRAY(0x83bafb210)
 ARRAY(0x83bdd7f60)
 ARRAY(0x83bf3f0f0)
 ARRAY(0x83c020d38)
 ARRAY(0x83d042e70)
 ARRAY(0x83d6f0030)
-ARRAY(0x83e487330)
 ARRAY(0x83eefb8d0)
 ARRAY(0x83fcba990)
 ARRAY(0x8400ec708)
-ARRAY(0x8416d2690)
+ARRAY(0x897cb5f18)
 ARRAY(0x897d2cc48)
 ARRAY(0x897d45b58)
 ARRAY(0x897d59b58)
@@ -18351,7 +18351,6 @@ ARRAY(0x8b00cb420)
 ARRAY(0x8b3e60a68)
 ARRAY(0x8b3f38e28)
 ARRAY(0x8b6fdc588)
-ARRAY(0x8b7c9e588)
 ARRAY(0x8b7f23ea0)
 ARRAY(0x8b8084588)
 ARRAY(0x8b8094588)
@@ -18361,6 +18360,7 @@ ARRAY(0x8b819f348)
 ARRAY(0x8b827fea0)
 ARRAY(0x8b8358858)
 ARRAY(0x8b92f39c0)
+ARRAY(0x8b9a9ff48)
 ARRAY(0x8bde21b10)
 a-bets63.top
 a-bt56.top
@@ -62743,8 +62743,10 @@ hd45.1-lordserials.xyz
 hd45.2lordserials.xyz
 hd46.1-lordserials.xyz
 hd46.2lordserials.xyz
+hd47.1-lordserials.xyz
 hd47.2lordserials.xyz
 hd48.1-lordserials.xyz
+hd49.1-lordserials.xyz
 hd4me.xyz
 hd5-film.lordfilm1.zone
 hd5.batlen.site
@@ -104319,6 +104321,7 @@ phonex8ioeck.xyz
 phonexeioect.xyz
 phongvevietnambooking.com
 photo-curs.su
+photo.casinopinups.com
 photocodeathome.info
 photokaluga.online
 photokaluga.ru
@@ -110174,6 +110177,7 @@ pro1xbet.site
 proazart777.ru
 probavrn.online
 probavrn.ru
+probet.top
 probiv.club
 probiv.me
 probizness.ru
@@ -129406,6 +129410,7 @@ solslots.ru
 solstart.ru
 solstice-store.com
 solutionsday.ru
+solwriter.com
 som.narutor.site
 somebeted.com
 somebettraf.com
@@ -135560,7 +135565,6 @@ uhta.damdiplomsa.com
 uhta.doc-avto.life
 uhta.exdiplomsys.com
 uhta.texdk.org
-uhty.online
 uhwn4-azino777.icu
 uhydqc8v.website
 ui8cj-azino777.icu
@@ -136593,6 +136597,7 @@ vabroker.global
 vacmhned.olimpsx70.xyz
 vactmnclv68b-setka.com
 vad2ml32.com
+vaginke.tv
 vagriuslib.ru
 vai6xbt48nmst.com
 vakivus.ru
@@ -150782,7 +150787,6 @@ www.imperatorcasino.su
 www.imperatorcasino.win
 www.imperatorfilm.com
 www.impignorate.bar
-www.indiasports.co
 www.indigocapitals.com
 www.infinitetoons.com
 www.info-sliv.ru
@@ -150936,7 +150940,6 @@ www.kino-v-dome.net
 www.kino-youtube.ru
 www.kino-zona.info
 www.kino.go.kg
-www.kino.hdbomba.ru
 www.kino.promo
 www.kino24-7.ru
 www.kino2go.net
@@ -151865,6 +151868,7 @@ www.moksha-kuban.ru
 www.monalisa-tour.ru
 www.moneyazart.net
 www.moneymd.club
+www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
@@ -155091,6 +155095,7 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
