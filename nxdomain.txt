@@ -18296,11 +18296,12 @@
 9zm5omo.icu
 ARRAY(0x8344aa3a8)
 ARRAY(0x835270b10)
+ARRAY(0x8355d9918)
 ARRAY(0x835675570)
 ARRAY(0x83665ded0)
+ARRAY(0x838af9120)
 ARRAY(0x839836a98)
 ARRAY(0x839ec2b70)
-ARRAY(0x83b2fa138)
 ARRAY(0x83b35c7e0)
 ARRAY(0x8400ec708)
 ARRAY(0x841067b88)
@@ -18316,7 +18317,6 @@ ARRAY(0x897e0f228)
 ARRAY(0x897e23228)
 ARRAY(0x897e47a98)
 ARRAY(0x8ad8fa5d0)
-ARRAY(0x8b00cb420)
 ARRAY(0x8b0f14018)
 ARRAY(0x8b2dda540)
 ARRAY(0x8b3e60a68)
@@ -18324,7 +18324,6 @@ ARRAY(0x8b41e3888)
 ARRAY(0x8b4f51648)
 ARRAY(0x8b827fea0)
 ARRAY(0x8b82f9ab0)
-ARRAY(0x8b8358858)
 ARRAY(0x8b83b0ab0)
 ARRAY(0x8b83bdab0)
 ARRAY(0x8b8c54ca8)
@@ -18334,6 +18333,7 @@ ARRAY(0x8b992dd80)
 ARRAY(0x8b9a9ff48)
 ARRAY(0x8bb4b30c0)
 ARRAY(0x8bb501210)
+ARRAY(0x8bcc5a9a8)
 ARRAY(0x8bd3eb948)
 ARRAY(0x8bdb6c9a8)
 ARRAY(0x8bde21b10)
@@ -50366,7 +50366,9 @@ dus.muzlo.website
 dus.muzofond.online
 dushilumpia.space
 dutch-seeds.me
+dutch-seeds.net
 dutch-seeds.online
+dutch-seeds.shop
 dutch-seeds.site
 dutchseeds.club
 dutchseeds.me
@@ -79507,6 +79509,7 @@ lostfilm-hd1080p.one
 lostfilm-hd1080p.online
 lostfilm-hd1080p.space
 lostfilm-hd1080p.store
+lostfilm-hd1080p.xyz
 lostfilm-hd720.by
 lostfilm-hd720.cc
 lostfilm-hd720.club
@@ -88843,6 +88846,7 @@ moekino.xyz
 mofmosu.ru
 mofra.ru
 mohudbroslpya.uno
+moi-finansy.net.ru
 moi.online-generik.ru
 moidosugi.ru
 mojavedesert4x4club.com
@@ -95853,6 +95857,7 @@ navalny.zerofilm.cc
 navel.gay-radio.ru
 naviboard-nn.ru
 navigatemediaplay.win
+navigator.la
 navigatorg.ru
 navinka.ru
 navulkan.com
@@ -99642,6 +99647,7 @@ ok.myslotik.net
 ok.putanamama.me
 ok.sexanketa-nsk.com
 ok.sexanketa-perm.net
+ok.sexanketa-samara3.com
 ok.slot-bob-4.xyz
 ok.slot-bob-5.xyz
 ok.slot-bob-6.xyz
@@ -109796,6 +109802,7 @@ porno365.pink
 porno365xxxx.com
 pornoall.net
 pornocheating.net
+pornocomicsi.pro
 pornodav.net
 pornodron.net
 pornogol.net
@@ -111381,6 +111388,7 @@ providenceitconsulting.com
 provincia.vip
 provincial-designer.ru
 provinvest.net
+provinvest.org
 proviron-moskva.club
 prowinner24.ru
 prowinner365.ru
@@ -133073,7 +133081,6 @@ top10-online-casino2.xyz
 top10-online-casino3.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
-top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -134055,6 +134062,7 @@ trade.mediumfx.net
 trade.mjs-fx.com
 trade.novoideal.com
 trade.pearlfx.net
+trade.provinvest.org
 trade.rockcapital.io
 trade.rockcapital.pro
 trade.sm24online.com
@@ -148547,7 +148555,6 @@ www.allserias.pro
 www.alltv.top
 www.alphafxc.com
 www.alphatradeoptions.com
-www.altex-acc.com
 www.ambon.ru
 www.amcet.net
 www.amiges.ru
@@ -155152,7 +155159,6 @@ x1.cazx-money.com
 x1.cazx-moneyx.com
 x1.dropmp3.net
 x1.easyfilms21.xyz
-x1.escort-sterlitamak.com
 x1.game-casino-x.com
 x1.game-casinox-slot.com
 x1.game-casinox-slots.com
