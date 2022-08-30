@@ -1056,6 +1056,7 @@
 1.killernews.ru
 1.kino-hdzo.club
 1.kino.filmive-hd.net
+1.kinobis.online
 1.kinogo.by
 1.kinokamin.net
 1.kinolion-films.fun
@@ -18287,6 +18288,7 @@
 9z7g3-azino777.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x8344aa3a8)
 ARRAY(0x835270b10)
 ARRAY(0x835675570)
 ARRAY(0x83665ded0)
@@ -18295,10 +18297,12 @@ ARRAY(0x83b2fa138)
 ARRAY(0x83b35c7e0)
 ARRAY(0x83bf3f0f0)
 ARRAY(0x8400ec708)
+ARRAY(0x841067b88)
 ARRAY(0x84177c1f8)
 ARRAY(0x897cb5f18)
 ARRAY(0x897d2cc48)
 ARRAY(0x897d59b58)
+ARRAY(0x897db38a0)
 ARRAY(0x897dd3870)
 ARRAY(0x897de8c30)
 ARRAY(0x897dfa228)
@@ -52581,6 +52585,7 @@ f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
 f002.fisher-r.ru
+f004.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -63404,6 +63409,7 @@ hhcwszst.olimpu24b.xyz
 hhfkl.site
 hhiecpiq.top
 hhjkwzjc.olimpvg2s.xyz
+hhkk2-azino777.icu
 hhrnadrco.top
 hhvxfich.olimp188s.xyz
 hi-hat.ru
@@ -66529,6 +66535,7 @@ iuppiterluna.com
 iuwis.online
 iuwis.ru
 iuyrqowierow.com
+iv23g-azino777.icu
 iva-print.online
 iva-print.ru
 iva1.tvfilms.club
@@ -74052,6 +74059,7 @@ kinoroot1.info
 kinoroot2.info
 kinoroot3.info
 kinoroot4.info
+kinorp.ru
 kinorr.ru
 kinort.ru
 kinorubik.net
@@ -105361,6 +105369,7 @@ pinupcasinos5.com
 pinupcasinos6.com
 pinupcasinos7.com
 pinupcasinos8.com
+pinupcasinosite.net
 pinupcasinoslotz.ru
 pinupcasinovip.ru
 pinupcasinox.com
@@ -128835,6 +128844,7 @@ sol-3-kazino.steptostudy.ru
 sol-413.ru
 sol-57.ru
 sol-64-casino.nudoring.ru
+sol-9607.ru
 sol-asia.ru
 sol-asia1.ru
 sol-asia2.ru
@@ -152948,6 +152958,7 @@ www.remont-tops.ru
 www.rentego.ru
 www.rentgameshop.xyz
 www.repack-xatab.ru
+www.replica-watches2.ru
 www.resheba.online
 www.resheba.ru
 www.reshimzavas.com
