@@ -12244,6 +12244,7 @@
 2ndflcredit.xyz
 2ndfldoki-sx.ru
 2ndflekb-sb.ru
+2ndflekb-zs.ru
 2ndflexpert.xyz
 2ndflizhevsk-sv.ru
 2ndflkazan-gd.ru
@@ -18295,11 +18296,12 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x8344aa3a8)
+ARRAY(0x83511a3a8)
 ARRAY(0x835270b10)
 ARRAY(0x8355d9918)
 ARRAY(0x835675570)
-ARRAY(0x83665ded0)
 ARRAY(0x838af9120)
+ARRAY(0x83968d858)
 ARRAY(0x839836a98)
 ARRAY(0x839ec2b70)
 ARRAY(0x83b35c7e0)
@@ -18317,12 +18319,12 @@ ARRAY(0x897e0f228)
 ARRAY(0x897e23228)
 ARRAY(0x897e47a98)
 ARRAY(0x8ad8fa5d0)
+ARRAY(0x8af172918)
 ARRAY(0x8b0f14018)
 ARRAY(0x8b2dda540)
 ARRAY(0x8b3e60a68)
 ARRAY(0x8b41e3888)
 ARRAY(0x8b4f51648)
-ARRAY(0x8b827fea0)
 ARRAY(0x8b82f9ab0)
 ARRAY(0x8b83b0ab0)
 ARRAY(0x8b83bdab0)
@@ -18336,7 +18338,6 @@ ARRAY(0x8bb501210)
 ARRAY(0x8bcc5a9a8)
 ARRAY(0x8bd3eb948)
 ARRAY(0x8bdb6c9a8)
-ARRAY(0x8bde21b10)
 ARRAY(0x8bdec9150)
 ARRAY(0x8bdfe5e40)
 a-bets63.top
@@ -19030,6 +19031,7 @@ aatrailmbet.top
 aaworkoutmbet.top
 aazino777.com
 aazino777.online
+aazurewebsites.net
 ab-0173.info
 ab-04264.xyz
 ab-0917.info
@@ -22772,6 +22774,7 @@ angarsk.exdiplomsys.com
 angarsk.godiplomsis.com
 angarsk.godiplomsus.com
 angarsk.life-diplomp.com
+angarsk.life-diplomr.com
 angarsk.life-diplomt.com
 angarsk.likediplom.com
 angarsk.luxdiplomi.com
@@ -22779,6 +22782,7 @@ angarsk.prostitutki-13.com
 angarsk.prostitutki.tips
 angarsk.real-diplom.com
 angarsk.rusb-diplomy.com
+angarsk.rusr-diplomy.com
 angarsk.simadiplom.com
 angarskhve.ru
 angarsochi.ru
@@ -23629,6 +23633,7 @@ arhangelsk.mydiplomusstores.com
 arhangelsk.mydiplomustore.com
 arhangelsk.mydiplomustores.com
 arhangelsk.prostitutki.bid
+arhangelsk.rusr-diplomy.com
 arhangelsk.study-docum.com
 arhangelsk.texdk.ru
 arhangelsk.x-whore2.com
@@ -30745,6 +30750,7 @@ barnaul.pto555.org
 barnaul.pto777.org
 barnaul.real-diplom.com
 barnaul.rusb-diplomy.com
+barnaul.rusr-diplomy.com
 barnaul.snus-good.ru
 barnaul.snus-magaz-snus.ru
 barnaul.vipp-steroid.com
@@ -36422,6 +36428,7 @@ biysk.life-diplomt.com
 biysk.msk-anydip.com
 biysk.real-diplom.com
 biysk.rusb-diplomy.com
+biysk.rusr-diplomy.com
 biz-0.club
 biz-24.online
 biz-24.shop
@@ -39729,7 +39736,9 @@ bratsk.doc-avto.life
 bratsk.exdiplomsus.com
 bratsk.godiplomsis.com
 bratsk.godiplomsus.com
+bratsk.life-diplomr.com
 bratsk.luxdiplomi.com
+bratsk.rusr-diplomy.com
 bratsk.study-docum.com
 bratsk.vipp-steroid.com
 brawlers27.art
@@ -46776,6 +46785,7 @@ chita.goodiplomi.com
 chita.kupuj-prava.com
 chita.life-diplomj.com
 chita.life-diplomp.com
+chita.life-diplomr.com
 chita.luxdiplomi.com
 chita.msk-anydip.com
 chita.mydiplomusstores.com
@@ -50463,6 +50473,7 @@ dzerzhinsk.mass-diplomik24.com
 dzerzhinsk.msk-anydip.com
 dzerzhinsk.pto777.org
 dzerzhinsk.rusb-diplomy.com
+dzerzhinsk.rusr-diplomy.com
 dzerzhinsk.simadiplom.com
 dzerzhinsk.texdk.ru
 dzeta.pipitor.site
@@ -50614,7 +50625,6 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e105.fisher-1.ru
-e108.fisher-1.ru
 e109.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -51683,6 +51693,7 @@ eldoradocasin-o.com
 eldoradocasin-o.xyz
 eldoradocasino-au.xyz
 eldoradocasino-best.club
+eldoradocasino-deluxe.com
 eldoradocasino-ew.xyz
 eldoradocasino-hot.club
 eldoradocasino-hq.xyz
@@ -52025,6 +52036,7 @@ engels.godiplomsis.com
 engels.life-diplomj.com
 engels.life-diplomp.com
 engels.rusb-diplomy.com
+engels.rusr-diplomy.com
 engistudio.ru
 english-films.kinogo.gay
 englishfun.org
@@ -63969,6 +63981,7 @@ hydra4jpwhfx4mst.b-onion.com
 hydra4jpwhfx4mst.c-onion.com
 hydra4jpwhfx4mst.j-onion.com
 hydra4zahod.com
+hydra54wsk3sgxfo.onion-site.net
 hydra5etioavaz7p.a-onion.com
 hydra5etioavaz7p.b-onion.com
 hydra5etioavaz7p.c-onion.com
@@ -63986,6 +63999,7 @@ hydra7lpipoe4q2d.b-onion.com
 hydra7lpipoe4q2d.c-onion.com
 hydra7lpipoe4q2d.j-onion.com
 hydra7untmpoklbg.onion-site.org
+hydraa7dikudurlg.onion-site.net
 hydraclubbioknikokex7.onion.am
 hydraclubbioknikokex7nj.darknet-onion.shop
 hydraclubbioknikokex7njchwhua2l67lfiz7z36md2jvopda7nchid.online
@@ -66754,6 +66768,7 @@ izhevsk.firma-diplomass.com
 izhevsk.firma-diplomls.com
 izhevsk.intim-place2.com
 izhevsk.life-diplomp.com
+izhevsk.life-diplomr.com
 izhevsk.metanruss.com
 izhevsk.mydiplomatstore.com
 izhevsk.mydiplomatstores.com
@@ -66855,11 +66870,13 @@ j6.lordfilmx-online.net
 j67lg3yc5bmb.com
 j7.filmx-2021.net
 j7.jack-pot-csn.com
+j7.lordfilmx-online.net
 j79ys-azino777.icu
 j7axtwhfmst.com
 j7sif0c4h4mb.com
 j7xndty.icu
 j7ymgpfzmb.com
+j8.filmx-2021.net
 j8.jack-pot-csn.com
 j8riwbqy.club
 j9.jack-pot-csn.com
@@ -69965,6 +69982,7 @@ kaliningrad.intim-place2.com
 kaliningrad.kupuh-prava.com
 kaliningrad.kupuj-prava.com
 kaliningrad.life-diplomj.com
+kaliningrad.life-diplomr.com
 kaliningrad.life-diplomt.com
 kaliningrad.luxdiplomi.com
 kaliningrad.mass-diplomik24.com
@@ -71584,6 +71602,7 @@ kemerovo.goodiplomu.com
 kemerovo.gozznakdiploma.com
 kemerovo.kupuh-prava.com
 kemerovo.kupuj-prava.com
+kemerovo.life-diplomr.com
 kemerovo.life-diplomt.com
 kemerovo.metannrus.com
 kemerovo.mydiplomusstores.com
@@ -75080,6 +75099,7 @@ komsomolsk-na-amure.exdiplomsys.com
 komsomolsk-na-amure.life-diplomp.com
 komsomolsk-na-amure.luxdiplomi.com
 komsomolsk-na-amure.real-diplom.com
+komsomolsk-na-amure.rusr-diplomy.com
 komsomolsknaamure.pto555.org
 komsomolsknaamure.pto777.org
 konakfashion.com
@@ -75184,9 +75204,11 @@ kostroma.godiplomsus.com
 kostroma.goodiplomu.com
 kostroma.kupuh-prava.com
 kostroma.life-diplomj.com
+kostroma.life-diplomr.com
 kostroma.msk-anydip.com
 kostroma.mydiplomatstore.com
 kostroma.prostitutki.tips
+kostroma.rusr-diplomy.com
 kostroma.sam-poehali.com
 kostroma.silmag12.ru
 kostroma.snus-good.ru
@@ -75326,6 +75348,7 @@ krasnoyarsk.gozznakdiplomas.com
 krasnoyarsk.kupuh-prava.com
 krasnoyarsk.kupuj-prava.com
 krasnoyarsk.life-diplomp.com
+krasnoyarsk.life-diplomr.com
 krasnoyarsk.life-diplomt.com
 krasnoyarsk.mass-diplomiks24.com
 krasnoyarsk.metanruss.com
@@ -77489,6 +77512,7 @@ life-casino-game.ru
 life-casino.ru
 life-diplomj.com
 life-diplomp.com
+life-diplomr.com
 life-diplomt.com
 life-films.ru
 life-kasino.ru
@@ -94830,6 +94854,7 @@ murmansk.godiplomsus.com
 murmansk.kupuh-prava.com
 murmansk.kupuj-prava.com
 murmansk.life-diplomj.com
+murmansk.life-diplomr.com
 murmansk.likediplom.com
 murmansk.luxdiplomi.com
 murmansk.msk-anydip.com
@@ -95777,6 +95802,7 @@ nalchik.exdiplomsus.com
 nalchik.goodiplom.com
 nalchik.kupuj-prava.com
 nalchik.life-diplomp.com
+nalchik.life-diplomr.com
 nalchik.life-diplomt.com
 nalchik.mass-diplomik24.com
 nalchik.mass-diplomiks24.com
@@ -97770,12 +97796,14 @@ nn.kupuh-prava.com
 nn.kupuj-prava.com
 nn.life-diplomj.com
 nn.life-diplomp.com
+nn.life-diplomr.com
 nn.life-diplomt.com
 nn.msk-anydip.com
 nn.nizhnij-novgorod.godiplomsus.com
 nn.pravaw-ru.com
 nn.prawaonline.com
 nn.rusb-diplomy.com
+nn.rusr-diplomy.com
 nn.vigronnov.ru
 nn1.vigronnov.ru
 nn5.vigronnov.ru
@@ -98109,6 +98137,7 @@ novokuzneck.diplomw-4you.com
 novokuzneck.kupuh-prava.com
 novokuzneck.life-diplomj.com
 novokuzneck.life-diplomp.com
+novokuzneck.life-diplomr.com
 novokuzneck.life-diplomt.com
 novokuzneck.mass-diplomik24.com
 novokuzneck.prostitutki-today2.com
@@ -100444,6 +100473,7 @@ oniom.gs
 onion-hydra.cn
 onion-market.fun
 onion-market.host
+onion-site.net
 onion.hdrhdr.io
 onion.hydradarknet.cn
 onion.hydraruzxpnew4afs-onion.com
@@ -101641,6 +101671,7 @@ orel.goodiplom.com
 orel.goodiplomi.com
 orel.goodiplomu.com
 orel.life-diplomj.com
+orel.life-diplomr.com
 orel.life-diplomt.com
 orel.magazin-kaljanov.ru
 orel.mydiplomusstores.com
@@ -104226,6 +104257,7 @@ petrozavodsk.mydiplomustores.com
 petrozavodsk.prostitutki-13.com
 petrozavodsk.prostitutki-today2.com
 petrozavodsk.pto555.org
+petrozavodsk.rusr-diplomy.com
 petrozavodsk.vodp-prava.com
 petrozavodsk1.doc-avto.life
 petrozavodsk1.sex-rach.com
@@ -110301,6 +110333,7 @@ prokopevsk.likediplom.com
 prokopevsk.luxdiplomi.com
 prokopevsk.mass-diplomiks24.com
 prokopevsk.rusb-diplomy.com
+prokopevsk.rusr-diplomy.com
 prokopevsk.shopsdiplome.com
 prokopevsk.study-document.com
 prokopyevsk.prostitutki-13.com
@@ -112624,6 +112657,7 @@ rassiancasino.ru
 rasta-rasha.club
 rasta-rasha.link
 rasta-rasha.live
+rasta-rasha.shop
 rasta-rasha.site
 rasta-rasha.store
 rastaboom.biz.klad.mobi
@@ -114839,6 +114873,8 @@ rfpraavva.online
 rfqjnju8.online
 rfqm9-azino777.host
 rfwbiwnt.top
+rg1.rgfbl.club
+rg2.rgfbl.club
 rg4onfxhmb.com
 rg7po-azino777.icu
 rg91bc47uijn5.com
@@ -114866,7 +114902,6 @@ rica-casino.casinolev.fun
 rica-casino.com
 rica-livecasino.com
 rica-livecasino.net
-rica-online.com
 ricalive.com
 ricalivebet.com
 ricalivecasino.info
@@ -121925,6 +121960,7 @@ ruspornovideo.su
 ruspravka24.com
 ruspravka24.store
 rusprognoz.ru
+rusr-diplomy.com
 rusrele.ru
 rusrub.runeww3.site
 rusrynok.ru
@@ -126402,6 +126438,7 @@ shahty.diplomv-4you.com
 shahty.doc-avto.life
 shahty.exdiplomsus.com
 shahty.exdiplomsys.com
+shahty.life-diplomr.com
 shahty.life-diplomt.com
 shahty.mass-diplomiks24.com
 shahty.msk-anydip.com
@@ -127386,11 +127423,20 @@ slot-site-5.xyz
 slot-spins.net
 slot-spins7.net
 slot-stars2.com
+slot-top-1.aazurewebsites.net
+slot-top-2.aazurewebsites.net
 slot-top-3.aazurewebsites.net
+slot-top-4.aazurewebsites.net
 slot-top-4.xyz
+slot-top-5.aazurewebsites.net
 slot-top-5.xyz
+slot-top-6.aazurewebsites.net
 slot-top-6.xyz
+slot-top-7.aazurewebsites.net
 slot-top-7.xyz
+slot-top-8.aazurewebsites.net
+slot-top-9.aazurewebsites.net
+slot-top.aazurewebsites.net
 slot-top.info
 slot-top.me
 slot-top.top
@@ -129560,6 +129606,7 @@ spb.optsweet-smoke.ru
 spb.pravaok.ru
 spb.real-diplom.com
 spb.rusb-diplomy.com
+spb.rusr-diplomy.com
 spb.spravkina.today
 spb.vodp-prava.com
 spb.xacku.cc
@@ -131132,6 +131179,7 @@ sterlitamak.exdiplomsys.com
 sterlitamak.godiplomsus.com
 sterlitamak.life-diplomj.com
 sterlitamak.life-diplomp.com
+sterlitamak.life-diplomr.com
 sterlitamak.luxdiplomi.com
 sterlitamak.mydiplomusstore.com
 sterlitamak.real-diplom.com
@@ -131602,6 +131650,7 @@ surgut.godiplomsis.com
 surgut.godiplomsus.com
 surgut.life-diplomj.com
 surgut.life-diplomp.com
+surgut.life-diplomr.com
 surgut.life-diplomt.com
 surgut.luxdiplomi.com
 surgut.magazin-kaljanov.ru
@@ -131610,6 +131659,7 @@ surgut.prostitutki-13.com
 surgut.prostitutki-today2.com
 surgut.pto555.org
 surgut.real-diplom.com
+surgut.rusr-diplomy.com
 surgut.texdk.org
 surgut.vip-steroed.com
 surgut.vipp-steroid.com
@@ -131968,6 +132018,7 @@ taganrog.exdiplomsys.com
 taganrog.goodiplomi.com
 taganrog.life-diplomj.com
 taganrog.life-diplomp.com
+taganrog.life-diplomr.com
 taganrog.likediplom.com
 taganrog.study-docum.com
 taganrog.study-document.com
@@ -132004,6 +132055,7 @@ tambov.luxdiplomi.com
 tambov.mydiplomusstore.com
 tambov.prostitutki.bid
 tambov.prostitutki.tips
+tambov.rusr-diplomy.com
 tambov.simadiplom.com
 tambov.vipp-steroid.com
 tambov.xn-----clczjulepbbgk3k7a.xn--p1ai
@@ -133081,6 +133133,7 @@ top10-online-casino2.xyz
 top10-online-casino3.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
+top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -134827,6 +134880,7 @@ tumen.kupuh-prava.com
 tumen.kupuj-prava.com
 tumen.life-diplomj.com
 tumen.life-diplomp.com
+tumen.life-diplomr.com
 tumen.pravap-4you.com
 tumen.real-diplom.com
 tumen.sam-poehali.com
@@ -135591,6 +135645,7 @@ ulan-ude.diplomr-kurerom.com
 ulan-ude.diplomw-4you.com
 ulan-ude.doc-avto.life
 ulan-ude.godiplomsus.com
+ulan-ude.life-diplomr.com
 ulan-ude.msk-anydip.com
 ulan-ude.mydiplomusstores.com
 ulan-ude.prostitutki.bid
@@ -135655,6 +135710,7 @@ ulyanovsk.godiplomsus.com
 ulyanovsk.gozznakdiplomas.com
 ulyanovsk.intim-place2.com
 ulyanovsk.life-diplomp.com
+ulyanovsk.life-diplomr.com
 ulyanovsk.prawaonline.com
 ulyanovsk.prostitutki-today2.com
 ulyanovsk.silmag12.ru
@@ -136124,6 +136180,7 @@ uzerkalobk303.top
 uzerkalobk404.top
 uzfan.ru
 uzhgorod.top
+uzhno-sahalinsk.life-diplomr.com
 uzhnosahalinsk.pto555.org
 uzhny-2.ru
 uziz3-azino777.icu
@@ -139720,6 +139777,7 @@ vologda.godiplomsis.com
 vologda.godiplomsus.com
 vologda.life-diplomj.com
 vologda.life-diplomp.com
+vologda.life-diplomr.com
 vologda.life-diplomt.com
 vologda.mass-diplomik24.com
 vologda.mydiplomatstore.com
@@ -156861,6 +156919,7 @@ yaroslavl.kupuh-prava.com
 yaroslavl.kupuj-prava.com
 yaroslavl.life-diplomj.com
 yaroslavl.life-diplomp.com
+yaroslavl.life-diplomr.com
 yaroslavl.life-diplomt.com
 yaroslavl.mass-diplomiks24.com
 yaroslavl.mydiplomatstores.com
