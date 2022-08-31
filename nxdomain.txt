@@ -15546,7 +15546,6 @@
 7-casino-777-win.hotelowa7.pl
 7-films.ru
 7-hd.lorfil.lol
-7-joycasino.com
 7.alcomat.net
 7.kiino-hdzo.club
 7.kino.hd-1080p.online
@@ -18353,25 +18352,25 @@ ARRAY(0x833df04b0)
 ARRAY(0x83445b330)
 ARRAY(0x8346d3108)
 ARRAY(0x83611a1e0)
+ARRAY(0x836ccdb28)
 ARRAY(0x837705d50)
 ARRAY(0x839ffb510)
-ARRAY(0x83a768060)
 ARRAY(0x83b04e1c8)
 ARRAY(0x83d86bf18)
 ARRAY(0x83d9af918)
+ARRAY(0x83eedfdc8)
 ARRAY(0x83f2a20d8)
 ARRAY(0x83fa16060)
-ARRAY(0x840be4d38)
 ARRAY(0x8adb17e10)
 ARRAY(0x8af834900)
 ARRAY(0x8b3ec80f0)
+ARRAY(0x8b5190558)
 ARRAY(0x8b5c353c0)
 ARRAY(0x8b5df25d0)
 ARRAY(0x8b66bd408)
 ARRAY(0x8b824e690)
 ARRAY(0x8b8492d38)
 ARRAY(0x8b883a7b0)
-ARRAY(0x8b9d781b0)
 ARRAY(0x8ba168c60)
 ARRAY(0x8ba4c6b10)
 ARRAY(0x8bac51db0)
@@ -45392,7 +45391,6 @@ casinox.kasinox.top
 casinox.lol
 casinox.name
 casinox.ofitcial.com
-casinox.store
 casinox.support
 casinox1.azurewebsites.net
 casinox2.azurewebsites.net
@@ -61046,7 +61044,6 @@ grand-slot-club-beograd.brzikrediti.info
 grand-slot-club-beograd.ssicentral.biz
 grand-slot.online
 grand-slot.ru
-grand-slots-vulcan.com
 grand-slots-vulkan.vip
 grand-slots.club
 grand-slots.one
@@ -64084,7 +64081,6 @@ hydraruzxpnew4af.onion.am
 hydraruzxpnew4af.onion.ax
 hydraruzxpnew4af.oniondd.com
 hydraruzxpnew4af.onione.fun
-hydraruzxpnew4af.onionia.com
 hydraruzxpnew4af.onionp.com
 hydraruzxpnew4af.onionss.com
 hydraruzxpnew4af.oniont.com
@@ -69297,7 +69293,6 @@ joycasinoh.xyz
 joycasinoi.xyz
 joycasinoi5.ru
 joycasinojanuary2018.co
-joycasinojoy.com
 joycasinok-x.azurewebsites.net
 joycasinok.xyz
 joycasinoklubs.com
@@ -100382,8 +100377,6 @@ oneserials.online
 onesports.space
 onesw.store
 onethey.website
-onetwocasino-games.com
-onetwocasino-slots.com
 onetwocasino.net
 onetwocasino.org
 onetwocasino.ru
@@ -120404,6 +120397,7 @@ ru.leontrucks.com
 ru.leontyot.com
 ru.leonu9dtbjc0cl.com
 ru.leonvglass.com
+ru.leonvip.ru
 ru.leonvip123.com
 ru.leonvip777.com
 ru.leonvipleon.com
@@ -123521,6 +123515,7 @@ semyanichcannabis.site
 semyanichcannabis.space
 semyanichmarket.ru
 semyanichmarket.site
+semyanych.club
 senexa.online
 senimo.ru
 senkf-azinomobile.icu
@@ -126893,6 +126888,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -141018,7 +141014,6 @@ vulkan-pobeda-kazino-ofitsialnyy-sayt.artemievastudio.ru
 vulkan-pobeda-mobilnyy.voyazhvrn.ru
 vulkan-pobeda-official.ru
 vulkan-pobeda-site.azurewebsites.net
-vulkan-pobeda-slots.com
 vulkan-pobeda-sloty.ontherockspub.biz
 vulkan-pobeda-zerkalo.ssicentral.biz
 vulkan-pobeda.azurewebsites.net
@@ -147704,6 +147699,7 @@ www.ahznpnrm.fun
 www.ajapurecocaine.com
 www.ajbook.biz
 www.ak-bors.com
+www.ak-va.ru
 www.akhbarshaam.info
 www.aksmarket.ru
 www.akula.in
