@@ -1431,6 +1431,7 @@
 1080.lamafilm-hd.monster
 1080.lordsfilms.top
 1080.lordzfilmz.me
+1080.lostfilm-hd-2260.online
 1080.lostfilm-hd-8.site
 1080.omegacinema.com
 1080.online.tryserialkin.online
@@ -3392,7 +3393,6 @@
 1grandwulcan.club
 1grandwulkan.club
 1grandwulkan.online
-1grat.ru-cas1nos.com
 1greatbkmbet.win
 1greatmbet.win
 1grndcasino.club
@@ -7953,6 +7953,7 @@
 1xbet-zb.xyz
 1xbet-zc.xyz
 1xbet-zcv.xyz
+1xbet-zd.xyz
 1xbet-ze.xyz
 1xbet-zec.xyz
 1xbet-zercalo.azurewebsites.net
@@ -10166,6 +10167,8 @@
 1xslots-2.xyz
 1xslots-3.xyz
 1xslots-4.xyz
+1xslots-ag.xyz
+1xslots-ba.xyz
 1xslots-casino-official.online
 1xslots-casino-online.online
 1xslots-casino-promokod.domservisvsk.ru
@@ -10174,17 +10177,23 @@
 1xslots-casino.host
 1xslots-casino.website
 1xslots-casinoo.com
+1xslots-ce.xyz
 1xslots-ezugi.gk-maks.ru
 1xslots-global.ru
+1xslots-in.xyz
 1xslots-kazino-skachat.svetolimp.ru
 1xslots-kazino.xn--q1aa
 1xslots-mobile.10v10.ru
+1xslots-nd.xyz
 1xslots-official.azurewebsites.net
 1xslots-play.com
+1xslots-pm.xyz
 1xslots-promo-code-2020.pochemu-otchego.info
 1xslots-rabocheye-zerkalo-skachat.polohotel.ru
 1xslots-rabocheye-zerkalo.mazhab.info
+1xslots-sb.xyz
 1xslots-slot.online
+1xslots-sn.xyz
 1xslots-vhod.online
 1xslots-zerkalo.openskys.ru
 1xslots.blog
@@ -18348,35 +18357,35 @@
 9z7g3-azino777.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x833859060)
 ARRAY(0x833df04b0)
 ARRAY(0x834539e70)
-ARRAY(0x83611a1e0)
+ARRAY(0x8358d0ba0)
+ARRAY(0x835eb5d08)
+ARRAY(0x836454f78)
 ARRAY(0x836ccdb28)
 ARRAY(0x836ecac00)
-ARRAY(0x837705d50)
+ARRAY(0x83a6ae2a0)
 ARRAY(0x83b04e1c8)
+ARRAY(0x83b0e8948)
+ARRAY(0x83c870e70)
 ARRAY(0x83cb22f60)
-ARRAY(0x83d86bf18)
-ARRAY(0x83d9af918)
+ARRAY(0x83e3085b8)
+ARRAY(0x83e748228)
 ARRAY(0x83eedfdc8)
+ARRAY(0x840560210)
 ARRAY(0x840568360)
 ARRAY(0x8af0d7f90)
-ARRAY(0x8af834900)
+ARRAY(0x8afb30108)
 ARRAY(0x8b33f3360)
 ARRAY(0x8b4c595e8)
 ARRAY(0x8b5190558)
-ARRAY(0x8b5c353c0)
-ARRAY(0x8b5df25d0)
+ARRAY(0x8b591da80)
 ARRAY(0x8b65af5b8)
-ARRAY(0x8b66bd408)
-ARRAY(0x8b883a7b0)
+ARRAY(0x8b8861468)
 ARRAY(0x8b926e408)
-ARRAY(0x8ba168c60)
-ARRAY(0x8ba4c6b10)
-ARRAY(0x8bac51db0)
-ARRAY(0x8bae63390)
-ARRAY(0x8bb97c0d8)
-ARRAY(0x8bc93e780)
+ARRAY(0x8b95d5660)
+ARRAY(0x8bc4b3390)
 ARRAY(0x8bcddd8d0)
 a-bets63.top
 a-bt56.top
@@ -19138,7 +19147,6 @@ abakan.diplomysattestaty.com
 abakan.doc-avto.life
 abakan.godiplomsus.com
 abakan.mydiplomusstores.com
-abakan.mydiplomustores.com
 abakan.prawaonline.com
 abakan.texdk.ru
 abakan.vipp-steroid.com
@@ -19435,7 +19443,6 @@ achinsk.damdiplomsa.com
 achinsk.diplom4yours.com
 achinsk.diplombrend.com
 achinsk.doc-avto.life
-achinsk.exdiplomsys.com
 achinsk.godiplomsis.com
 achinsk.gooddiplomu.com
 achinsk.prostitutki-13.com
@@ -23662,7 +23669,6 @@ arhangelsk.mydiplomatstores.com
 arhangelsk.mydiplomusstore.com
 arhangelsk.mydiplomusstores.com
 arhangelsk.mydiplomustore.com
-arhangelsk.mydiplomustores.com
 arhangelsk.prostitutki.bid
 arhangelsk.rusr-diplomy.com
 arhangelsk.study-docum.com
@@ -23702,7 +23708,6 @@ armavir.doc-avto.life
 armavir.exdiplomsus.com
 armavir.exdiplomsys.com
 armavir.godiplomsas.com
-armavir.kupuj-prava.com
 armavir.mass-diplomiks24.com
 armavir.real-diplom.com
 armavir.simadiplom.com
@@ -35457,7 +35462,9 @@ betwinner-free.club
 betwinner-fun.club
 betwinner-get.ru
 betwinner-hot.club
+betwinner-k2.xyz
 betwinner-kazino.info
+betwinner-l3.xyz
 betwinner-life.club
 betwinner-links.com
 betwinner-live.com
@@ -35469,6 +35476,7 @@ betwinner-my.club
 betwinner-natelefon.club
 betwinner-of.azurewebsites.net
 betwinner-official-2020.website
+betwinner-official-bk.ru
 betwinner-official-go.site
 betwinner-official-ru.ru
 betwinner-official-site.com
@@ -35485,6 +35493,7 @@ betwinner-official.online
 betwinner-official.site
 betwinner-official.tech
 betwinner-official.website
+betwinner-official1-bk.ru
 betwinner-official111.ru
 betwinner-official2020.site
 betwinner-official24.site
@@ -35654,6 +35663,7 @@ betwinnerok.com
 betwinneron.ru
 betwinneros.ru
 betwinnerpromokod.ru
+betwinnerpromokod.xyz
 betwinnerpromokodi.ru
 betwinnerpromokody.ru
 betwinnerr2.ru
@@ -39110,6 +39120,7 @@ bonusdep.rest
 bonusdep.ru
 bonusdep.space
 bonuses-all.azurewebsites.net
+bonuses-all.win
 bonuses-finder.ru
 bonuses-free-casino.top
 bonuses-here.ru
@@ -39848,6 +39859,7 @@ bryansk.vodp-prava.com
 bryanskaya-oblast.doc-avto.life
 brysot.com
 brzikrediti.info
+bs.borbostv.ru
 bs17jvqrtwmst.com
 bsbobet.com
 bsdry.site
@@ -40256,6 +40268,7 @@ buzzfilm.online
 buzzfilm.ru
 buzzfilm.work
 buzzfilm.xyz
+bv.borbostv.ru
 bv4ly-azino777.icu
 bvbp.eu
 bvgmlx.best
@@ -41604,6 +41617,7 @@ casino-online-belgium.targetcare.eu
 casino-online-bonus-2020.raventest.ru
 casino-online-bonus-without-deposit.d-kapriz.ru
 casino-online-espaol.ravehard.pl
+casino-online-igrat.thechay.ru
 casino-online-nz.maminobooks.com.ua
 casino-online-offers.adjvu.ru
 casino-online-play-for-fun.alkozavr.ru
@@ -41688,7 +41702,10 @@ casino-pinup-official906.fun
 casino-pinup-official906.xyz
 casino-pinup-oficial906.fun
 casino-pinup-online906.fun
+casino-pinup-play.azurewebsites.net
 casino-pinup-play21.fun
+casino-pinup-player.azurewebsites.net
+casino-pinup-site.azurewebsites.net
 casino-pinup-slot.xyz
 casino-pinup-slot1.fun
 casino-pinup-slot2.fun
@@ -41712,6 +41729,7 @@ casino-pinup.name
 casino-pinup.online
 casino-pinup02.fun
 casino-pinup797.win
+casino-pinups-play.azurewebsites.net
 casino-play-amo.ru
 casino-play-fortuna-games.net
 casino-play-fortuna-info.org
@@ -41969,6 +41987,7 @@ casino-selector.xyz
 casino-shans-slots.ru
 casino-shans-win.com
 casino-shans-win.ru
+casino-shans.azurewebsites.net
 casino-shans.com
 casino-shans.org
 casino-shanse.com
@@ -42366,6 +42385,7 @@ casino-vulkan-russia777.xyz
 casino-vulkan-russia8.xyz
 casino-vulkan-russia9.xyz
 casino-vulkan-slot.com
+casino-vulkan-stars.azurewebsites.net
 casino-vulkan-stars.club
 casino-vulkan-stavka.club
 casino-vulkan-stavka.ru
@@ -44025,7 +44045,6 @@ casino.vullkanru.com
 casino.wulkan-official.online
 casino.wulkan.pw
 casino.wulkan24-official.com
-casino.wulkanbro.xyz
 casino.wulkanplatinum-game.xyz
 casino.wullcan.online
 casino.wullcan.top
@@ -44930,6 +44949,7 @@ casinos-money.ru
 casinos-online-play.net
 casinos-otzyvy.com
 casinos-pin-up.azurewebsites.net
+casinos-pinup-site.azurewebsites.net
 casinos-play-fortuna-site.org
 casinos-play.org
 casinos-playfortuna.azurewebsites.net
@@ -45690,6 +45710,7 @@ cazino-pin-up-first.azurewebsites.net
 cazino-pin-up-one.azurewebsites.net
 cazino-pin-up.azurewebsites.net
 cazino-pin-up.site
+cazino-pinup.azurewebsites.net
 cazino-play.fortuna-38.ru
 cazino-play.fortuna-63.ru
 cazino-playfortuna.azurewebsites.net
@@ -46579,7 +46600,6 @@ chelyabinsk.firma-diplomoss.com
 chelyabinsk.godiplomsas.com
 chelyabinsk.godiplomsus.com
 chelyabinsk.gooddiplomu.com
-chelyabinsk.goodiplomu.com
 chelyabinsk.gozznakdiploma.com
 chelyabinsk.kupuh-prava.com
 chelyabinsk.life-diplomp.com
@@ -46600,6 +46620,7 @@ chemodanm.com
 chemoipncasinoclub.me
 chempio.com
 chempion-casino.cc
+chempion-casino.fun
 chempion-casino.io
 chempion-casino.org
 chempion-casino.site
@@ -46795,7 +46816,6 @@ chita.diplomw-4you.com
 chita.diplomxlike.com
 chita.diplomys-24.com
 chita.doc-avto.life
-chita.exdiplomsys.com
 chita.firma-diplomos.com
 chita.fort-pravama.com
 chita.fort-pravams.com
@@ -49273,6 +49293,7 @@ diplom-master.com
 diplom-moskva.com
 diplom-nng24.com
 diplom-obrazovanie.com
+diplom-officialls.com
 diplom-officials.com
 diplom-onlines24.com
 diplom-origiinal.com
@@ -49447,7 +49468,6 @@ diplomp-v-krasnodare.com
 diplomp-v-nn.com
 diplomp-v-rostove.com
 diplomp-v-ruki.com
-diplomp-v-samare.com
 diplomp-v-tumeni.com
 diplomp-v-ufe.com
 diplompsos.com
@@ -49502,7 +49522,6 @@ diplomshops24.com
 diplomsk.info
 diplomskei.com
 diplomss-best.com
-diplomss-boxis24.com
 diplomsshop.online
 diplomssvip.org
 diplomsuper.net
@@ -49688,7 +49707,6 @@ djwild.link
 djwild.live
 djwild.site
 djwild.xyz
-dk-games.ru
 dk.tonybet.com
 dk1anxrudo.top
 dk60l-azinomobile.icu
@@ -52300,6 +52318,7 @@ europetourizm.xyz
 europetur.xyz
 europeture.xyz
 europharmacia.site
+eurosvet-samara.ru
 eurpes.com
 eusrfmeloa.top
 eut-azinomobile.icu
@@ -52553,7 +52572,6 @@ f-v-online.ru
 f.2021-filmaaa.net
 f.2generic-russia-24.ru
 f.amintas24.com
-f.apotheke-eu.ru
 f.beliyspisok.name
 f.bioseeds.pro
 f.dosugx.com
@@ -52561,6 +52579,7 @@ f.fanfilms4k.live
 f.fantasy-worlds.org
 f.film-mix1.online
 f.filmane.ru
+f.genotech.site
 f.hcv-help.online
 f.kinogo.red
 f.lordfilm-smotret.one
@@ -53613,7 +53632,6 @@ feb6.seasonvar.one
 feb7.seasonvar.one
 febrerowind.com
 fecnhwlo.olimpfsk4.xyz
-fedcred.pro
 federal-product.ru
 federation2.cc
 fedyacomp.ru
@@ -56716,6 +56734,7 @@ frankcasino.pw
 frankcasino.reviews
 frankcasino.run
 frankcasino.show
+frankcasino.site
 frankcasino.solutions
 frankcasino.space
 frankcasino.su
@@ -57111,6 +57130,7 @@ fresh-casino-make.ru
 fresh-casino-mos.ru
 fresh-casino-nb.ru
 fresh-casino-news.ru
+fresh-casino-official-bk.ru
 fresh-casino-official.fun
 fresh-casino-official.tech
 fresh-casino-offlcial.fun
@@ -58176,6 +58196,7 @@ fwvy8vyrmb.com
 fwwag3z3r.m.betcityaccess.com
 fwwfuzp.xyz
 fx-blind.com
+fx-elitetrader.io
 fx.tipochek.xyz
 fx2.bogfilm.xyz
 fx5li3bdmstru.com
@@ -58433,6 +58454,7 @@ game-slot-online-android.imsec2019.info
 game-slot-online-jackpot-terbesar.spravka-070.ru
 game-slot-online-mustang303.francevisacentre.ru
 game-slot.ru
+game-stars.azurewebsites.net
 game-volcano.biz
 game-vulcan-casino.ecodecor-shop.ru
 game-vulcan.ru
@@ -58738,6 +58760,7 @@ gaminator-besplatno.com
 gaminator-casino-bonus.site
 gaminator-casino-club.site
 gaminator-casino-slot.site
+gaminator-casino.azurewebsites.net
 gaminator-casino.net
 gaminator-casino2021.site
 gaminator-cazino.site
@@ -60228,6 +60251,7 @@ golclubonline.top
 gold-apteka.ru
 gold-avtomaty.com
 gold-club-online.top
+gold-club-site.xyz
 gold-digger.xyz
 gold-eldo1.com
 gold-fishka-play.com
@@ -60257,11 +60281,13 @@ goldbets.fun
 goldbukmeker3-top.ru
 goldclub-online.top
 goldclub-site.top
+goldclub-site.xyz
 goldclub7.top
 goldclub777.top
 goldclub777.xyz
 goldclubs.top
 goldclubsite.top
+goldclubsite.xyz
 goldclubslots.xyz
 goldcubok.club
 goldcup.press
@@ -60741,7 +60767,6 @@ gormonrosta.pro
 gormoshka.store
 gorno-altajsk.doc-avto.life
 gorno-altaysk.diplom4yours.com
-gorno-altaysk.exdiplomsys.com
 gorno-altaysk.simadiplom.com
 gorod.putana74.net
 gorod.sex64.ru
@@ -61183,6 +61208,7 @@ grandcsn1.club
 grandcsn1.online
 grandcsno.online
 grandcusino.ru
+grandfortuna.site
 grandis-capital-trade.com
 grandis-capitaltrade.com
 grandiscapital-trade.com
@@ -62049,6 +62075,7 @@ hd-torrentinka.kinogo.gay
 hd-turkish-tv-series.kinogo.gay
 hd-tv.7zfilme-hd.top
 hd-tv.domkino-hd.com
+hd-tv.lostfilm-hd-2422.site
 hd-tv.zfilm1-hd.xyz
 hd-tvseriya.2020-film-777.site
 hd-videobox.tv
@@ -62147,6 +62174,7 @@ hd.kino-boom.fun
 hd.kino-craft.net
 hd.kino-dom.online
 hd.kino-fs.vip
+hd.kino-go.best
 hd.kino-go.fit
 hd.kino-go.golf
 hd.kino-go.guru
@@ -62437,6 +62465,7 @@ hd1.gidonline-2616.site
 hd1.gidonline.click
 hd1.hdfilm-onlines.ru
 hd1.jesfilm.me
+hd1.kino-go.best
 hd1.kinogo-hd.icu
 hd1.kinogoza.com
 hd1.kinomops.club
@@ -62478,6 +62507,7 @@ hd1.zfim.xyz
 hd10.1-lordserials.xyz
 hd10.2lordserials.xyz
 hd10.bxfilm.org
+hd10.kino-go.best
 hd10.kinomax-pro.online
 hd10.kinomops.club
 hd10.lordfillms.xyz
@@ -62528,6 +62558,7 @@ hd108op.hd-puls.ru
 hd11.1-lordserials.xyz
 hd11.2lordserials.xyz
 hd11.bxfilm.org
+hd11.kino-go.best
 hd11.kinomax-pro.online
 hd11.lordfillms.xyz
 hd11.lordix.cc
@@ -62535,32 +62566,40 @@ hd11.lordz.me
 hd12.1-lordserials.xyz
 hd12.2lordserials.xyz
 hd12.bxfilm.org
+hd12.kino-go.best
 hd12.lordfillms.xyz
 hd12.lordix.cc
 hd13.1-lordserials.xyz
 hd13.2lordserials.xyz
 hd13.bxfilm.org
+hd13.kino-go.best
 hd13.lordfillms.xyz
 hd13.lordix.cc
 hd14.1-lordserials.xyz
 hd14.bxfilm.org
+hd14.kino-go.best
 hd14.lordfillms.xyz
 hd14.lordix.cc
 hd15.1-lordserials.xyz
 hd15.2lordserials.xyz
 hd15.bxfilm.org
+hd15.kino-go.best
 hd15.lordix.cc
 hd16.1-lordserials.xyz
 hd16.5lordfilm-0.xyz
 hd16.bxfilm.org
+hd16.kino-go.best
 hd17.1-lordserials.xyz
 hd17.2lordserials.xyz
 hd17.bxfilm.org
+hd17.kino-go.best
 hd18.1-lordserials.xyz
 hd18.2lordserials.xyz
 hd18.bxfilm.org
+hd18.kino-go.best
 hd19.1-lordserials.xyz
 hd19.bxfilm.org
+hd19.kino-go.best
 hd1me.xyz
 hd1n7ut6mb.com
 hd1o80.hd-puls.ru
@@ -62583,6 +62622,7 @@ hd2.filmtu.ru
 hd2.gidonline.click
 hd2.hdfilm-onlines.ru
 hd2.jesfilm.me
+hd2.kino-go.best
 hd2.kinobu720.ru
 hd2.kinoha720.ru
 hd2.kinolenta.cc
@@ -62618,15 +62658,19 @@ hd2.xn--c1ajfnfb.xn--p1acf
 hd2.xn--h1agd3a1be.su
 hd2.zfim.xyz
 hd20.bxfilm.org
+hd20.kino-go.best
 hd2020.online
 hd2021.online
 hd2021.ru
 hd21.1-lordserials.xyz
 hd21.bxfilm.org
+hd21.kino-go.best
 hd22.1-lordserials.xyz
 hd22.bxfilm.org
+hd22.kino-go.best
 hd23.1-lordserials.xyz
 hd23.bxfilm.org
+hd23.kino-go.best
 hd24.1-lordserials.xyz
 hd24.2lordserials.xyz
 hd24.bxfilm.org
@@ -62654,6 +62698,7 @@ hd3.baskino-hd1080.online
 hd3.batlen.site
 hd3.bxfilm.org
 hd3.chasti-filmov.ru
+hd3.kino-go.best
 hd3.kino-rezka.ru
 hd3.kinolenta.cc
 hd3.kinoma.tv
@@ -62702,6 +62747,7 @@ hd4.batlen.site
 hd4.bxfilm.org
 hd4.filmlord.net
 hd4.gidonline.click
+hd4.kino-go.best
 hd4.kino-rezka.ru
 hd4.kinoma.tv
 hd4.kinomops.club
@@ -62739,6 +62785,7 @@ hd5-film.lordfilm1.zone
 hd5.batlen.site
 hd5.bxfilm.org
 hd5.filmlord2.net
+hd5.kino-go.best
 hd5.kinomops.club
 hd5.kinoz.ru
 hd5.lordfilm.bet
@@ -62754,6 +62801,7 @@ hd5.x-film.live
 hd50.1-lordserials.xyz
 hd6.bxfilm.org
 hd6.filmlord.net
+hd6.kino-go.best
 hd6.kinomops.club
 hd6.kinoz.ru
 hd6.lordfilm.bet
@@ -62769,6 +62817,7 @@ hd7.1-lordserials.xyz
 hd7.2lordserials.xyz
 hd7.bxfilm.org
 hd7.filmlord.net
+hd7.kino-go.best
 hd7.lordfilm.bet
 hd7.lordfilms5.xyz
 hd7.lordix.cc
@@ -62844,6 +62893,7 @@ hd8-kino.bazukafilms.me
 hd8.1-lordserials.xyz
 hd8.2lordserials.xyz
 hd8.bxfilm.org
+hd8.kino-go.best
 hd8.kinomops.club
 hd8.lordfillms.xyz
 hd8.lordix.cc
@@ -62854,6 +62904,7 @@ hd84.kinohaip.net
 hd9.1-lordserials.xyz
 hd9.2lordserials.xyz
 hd9.bxfilm.org
+hd9.kino-go.best
 hd9.kinomops.club
 hd9.lordfillms.xyz
 hd9.lordix.cc
@@ -63447,7 +63498,6 @@ himkashopspb.ru
 himkatop-krasnodar.ru
 himkatop-moscow.ru
 himkatopmoscow.ru
-himki.mydiplomustores.com
 himki.pto777.org
 himostland.com
 himostpart.com
@@ -65695,6 +65745,7 @@ ilovesuperslots.best
 ilovesuperslots.monster
 ilovesuperslots.news
 ilovesuperslots.site
+ilovesuperslots.xyz
 ilucki-casino.ru
 ilucki.info
 ilucki.su
@@ -67910,6 +67961,7 @@ joycasino-epq.xyz
 joycasino-era.xyz
 joycasino-ess.xyz
 joycasino-eth.xyz
+joycasino-eu.xyz
 joycasino-eu0.xyz
 joycasino-eve.xyz
 joycasino-ewa.xyz
@@ -67935,6 +67987,7 @@ joycasino-fa.xyz
 joycasino-fai.xyz
 joycasino-fbi.xyz
 joycasino-fd.xyz
+joycasino-fe.xyz
 joycasino-fe7.xyz
 joycasino-fg.xyz
 joycasino-fi.xyz
@@ -68035,6 +68088,7 @@ joycasino-jg.xyz
 joycasino-jh.xyz
 joycasino-ji.xyz
 joycasino-jj.xyz
+joycasino-jk.xyz
 joycasino-jny.xyz
 joycasino-jo.xyz
 joycasino-joy.online
@@ -68350,6 +68404,7 @@ joycasino-reg3.xyz
 joycasino-reg4.xyz
 joycasino-reg5.xyz
 joycasino-reg6.xyz
+joycasino-reg7.xyz
 joycasino-registration.velpaknn.ru
 joycasino-regt.xyz
 joycasino-reh.xyz
@@ -68698,6 +68753,7 @@ joycasino-zap.xyz
 joycasino-zb.xyz
 joycasino-zdc.xyz
 joycasino-zdd.xyz
+joycasino-ze.xyz
 joycasino-zerkalo-dd.azurewebsites.net
 joycasino-zerkalo-dd1.azurewebsites.net
 joycasino-zerkalo-dd2.azurewebsites.net
@@ -69029,6 +69085,7 @@ joycasino174.xyz
 joycasino175.xyz
 joycasino176.xyz
 joycasino177.xyz
+joycasino178.xyz
 joycasino18.com
 joycasino18.win
 joycasino19.win
@@ -70008,7 +70065,6 @@ kaluga.diplomv-4you.com
 kaluga.diplomysattestati.com
 kaluga.doc-avto.life
 kaluga.exdiplomsus.com
-kaluga.exdiplomsys.com
 kaluga.fort-pravams.com
 kaluga.godiplomsas.com
 kaluga.godiplomsis.com
@@ -70080,7 +70136,6 @@ kannas.ru
 kanobu.hdrezka-1935.site
 kanobu.zagonka-952.site
 kanon-peremen.ru
-kansk.exdiplomsys.com
 kapchagaycasino.kz
 kapec.tv
 kapitalenergobank.info
@@ -70838,6 +70893,7 @@ kazino-imperator-igrovyye-avtomaty-2020.total-game.ru
 kazino-imperator-igrovyye-avtomaty-bez-registratsii.b-humor.ru
 kazino-imperator-igrovyye-avtomaty-ultrapaymax-com.imsec2019.info
 kazino-imperator-mobilnaya-versiya.kaluga-dubrava.ru
+kazino-imperator-zerkalo-segodnya.arenda-elit-auto.ru
 kazino-imperator.club
 kazino-imperator.com
 kazino-imperator.info
@@ -71646,7 +71702,6 @@ khbet-zerkalo-na-segodnya-rabocheye-novoye.chaletnordic.info
 khbqwhgbdasmi.site
 kheeltracg.xyz
 khibins.ru
-khilafa.org
 khilafat.dk
 khill-stavki.soffandelli.ru
 khl-tickets.ru
@@ -71896,6 +71951,7 @@ kino-gid.pro
 kino-glace.ru
 kino-go-filmi-2018.club
 kino-go.bar
+kino-go.best
 kino-go.by
 kino-go.cam
 kino-go.casa
@@ -73781,7 +73837,6 @@ kinomasik.com
 kinomaster.tv
 kinomatrix.net
 kinomax-hd.club
-kinomax-hd.com
 kinomax-pro.site
 kinomax-pro.xyz
 kinomax.bar
@@ -74327,6 +74382,7 @@ kinovit.net
 kinovit.xyz
 kinovito.net
 kinovkus.info
+kinovkus.ru
 kinovlorde.net
 kinovmelochax.club
 kinovod10.cc
@@ -74999,7 +75055,6 @@ koala.dostavka.date
 kochacorp.ru
 kod-promocyjny-total-casino-2021.reprogram-horizon2020.eu
 kodeks37.ru
-kodges.ru
 kodinsk.doc-avto.life
 kodori.ru
 kody-promocyjne-vulkan-vegas.olmed.com.pl
@@ -75281,7 +75336,6 @@ krasnodar.metanruss.com
 krasnodar.mydiplomusstore.com
 krasnodar.mydiplomusstores.com
 krasnodar.mydiplomustore.com
-krasnodar.mydiplomustores.com
 krasnodar.pravag-4you.com
 krasnodar.pravap-4you.com
 krasnodar.pto555.org
@@ -75325,7 +75379,6 @@ krasnoyarsk.gosznakdiploma.com
 krasnoyarsk.gozznakdiploma.com
 krasnoyarsk.gozznakdiplomas.com
 krasnoyarsk.kupuh-prava.com
-krasnoyarsk.kupuj-prava.com
 krasnoyarsk.life-diplomp.com
 krasnoyarsk.life-diplomr.com
 krasnoyarsk.life-diplomt.com
@@ -75594,7 +75647,6 @@ kupit-diplomys.com
 kupit-diplomyz-198.com
 kupit-habarovsk-medspravkii.ru
 kupit-lyft-snus.site
-kupit-med-spravku.info
 kupit-med-spravku.org
 kupit-pharma.ru
 kupit-prava-777.club
@@ -75656,7 +75708,6 @@ kurgan.diplomr-v-ruki.com
 kurgan.doc-avto.life
 kurgan.exdiplomsys.com
 kurgan.godiplomsis.com
-kurgan.godiplomsus.com
 kurgan.life-diplomj.com
 kurgan.mydiplomatstores.com
 kurgan.mydiplomusstores.com
@@ -75688,7 +75739,6 @@ kursk.intim-place2.com
 kursk.kupuh-prava.com
 kursk.likediplom.com
 kursk.luxdiplomi.com
-kursk.mydiplomustores.com
 kursk.pravag-4you.com
 kursk.pto555.org
 kursk.real-diplom.com
@@ -76310,7 +76360,6 @@ lenlr2tracc5b.site
 lenprem.com
 lenprom.online
 lentapr.com
-lentaprem.com
 lentaslot2.com
 lentprem.com
 leo-casinos.net
@@ -76536,6 +76585,7 @@ leon-bett-pro.ru
 leon-betting-online.win
 leon-betting-online1.win
 leon-bk-com.ru
+leon-bk.site
 leon-bk81.ru
 leon-bk89.ru
 leon-black.host
@@ -76983,6 +77033,7 @@ leonbets-skachat-sloty.kaluga-dubrava.ru
 leonbets-slot.marina-meshcheryakova.ru
 leonbets-top.fun
 leonbets-top.site
+leonbets-vkhod-rossiya.34urista.ru
 leonbets-zerkalo-na-segodnya.openskys.ru
 leonbets-zerkalo.com
 leonbets-zerkalo.fun
@@ -77377,6 +77428,7 @@ levitrapro-nn.ru
 levitrapronn.ru
 levkasino.ru
 levkazino.club
+levkazino.org
 levslots1.xyz
 levslots2.xyz
 levslots3.xyz
@@ -78028,6 +78080,7 @@ limosna.site
 lin2c4.ru
 lindocine.net
 linebet-bk.fun
+linebet-bk.online
 linebet.bid
 linebet.biz
 linebet.click
@@ -80166,6 +80219,7 @@ luck.1win-bk.com
 luck.blanccafe.ru
 luck.zfilm-hd-1269.online
 luckclubs.com
+luckjoycasino.com
 luckmarathon.win
 luckmarathonnew.win
 luckmbetlive.win
@@ -81666,7 +81720,6 @@ magnitogorsk.doc-avto.life
 magnitogorsk.exdiplomsys.com
 magnitogorsk.godiplomsas.com
 magnitogorsk.gooddiplomu.com
-magnitogorsk.kupuj-prava.com
 magnitogorsk.prostitutki.tips
 magnitogorsk.simadiplom.com
 magnitogorsk.vipp-steroid.com
@@ -82190,6 +82243,7 @@ marathonbet-casino.ru
 marathonbet-casinos.site
 marathonbet-com.ru
 marathonbet-dostup.site
+marathonbet-official-bk.ru
 marathonbet-official.club
 marathonbet-official.com
 marathonbet-official.org
@@ -84206,6 +84260,7 @@ med-smolensk.ru
 med-spirt-store.online
 med-spirt-store.ru
 med-spravki-msk.info
+med-spravki-v-bas.com
 med-spravki.me
 med-spravki.su
 med-spravkii-kaliningradd.ru
@@ -84276,7 +84331,6 @@ medicians-centr-zdorovia.com
 medicians-centr-zdorovie.com
 medicina-doska.ru
 medicinskie-spravki.one
-medicinskie-spravki.pro
 medicinskije-knigki.com
 medicool-spravky-fast.com
 medicoom-spravky-bystro.com
@@ -84396,7 +84450,6 @@ medspravki-permi.net
 medspravki-samara.xyz
 medspravki-sochi.top
 medspravki-vsem66.net
-medspravki77.club
 medspravki77.info
 medspravkii-23.top
 medspravkii-medknigki-chelyabinskk.ru
@@ -95331,6 +95384,7 @@ mydeluxe.icu
 mydeluxe.news
 mydeluxe.site
 mydeluxe.uno
+mydeluxe.xyz
 mydeluxewin1.com
 mydeluxewin3.com
 mydiplomatstores.com
@@ -95516,7 +95570,6 @@ n.fastworks.top
 n.feimsk.city
 n.itorrents-igruha.org
 n.kinosimka3.be
-n.kupit-med-spravku.info
 n.kupit-med-spravku.org
 n.lordfilms-film.online
 n.med-spravki-msk.info
@@ -95527,7 +95580,6 @@ n.medspravki77.info
 n.nicotinka.ru
 n.smotretfilmi.ru
 n.spravka-moscow177.club
-n.spravka-moskva.net
 n.spravki77-v-msk.info
 n.ultradox.online
 n.vipster.net
@@ -95801,7 +95853,6 @@ nadengi.org
 nadengifart.ru
 nadezhda1992.ru
 nadezhnoye-kazino-onlayn.grib.com.ua
-nadom-spravku.online
 nadual.ru
 nadym.prostitutki-13.com
 naganstroi-komi.ru
@@ -96095,10 +96146,10 @@ neftekamsk.diplomzsos.com
 neftekamsk.exdiplomsus.com
 neftekamsk.godiplomsas.com
 neftekamsk.godiplomsis.com
-neftekamsk.godiplomsus.com
 neftekamsk.likediplom.com
 neftekamsk.luxdiplomi.com
 neftekamsk.mass-diplomiks24.com
+neftekamsk.mass-diploms.com
 neftekamsk.mydiplomusstores.com
 neftekamsk.prostitutki-13.com
 neftekamsk.simadiplom.com
@@ -96165,6 +96216,7 @@ nerobet45.com
 nerobet55.com
 nerobet56.com
 nerungri.fort-pravan.com
+nerutor.org
 nerutorher.org
 nerutorik.org
 nerveindustries.com
@@ -97884,7 +97936,6 @@ nnezs-azino777.icu
 nnfs7clbmst.com
 nnlzf85fssmst.com
 nnm-club-kz.ru
-nnm-club.free-mirror.xyz
 nnm-club.lib
 nnm-club.network
 nnm-to.gq
@@ -99359,6 +99410,7 @@ official-slotvcasino2k23.azurewebsites.net
 official-slotvcasino2k23.online
 official-slotvcasino3.online
 official-slotvcasino4.online
+official-stars.azurewebsites.net
 official-super-slots.online
 official-super-slots.ru
 official-superslots.ru
@@ -100604,6 +100656,7 @@ onlayn-kazino-igry-igrat-na-dengi-pegas-21.spravka-070.ru
 onlayn-kazino-jozz-aktualnyy-vkhod.avtolombard-1.ru
 onlayn-kazino-leon.kokosankapieczeitestuje-blog24.pl
 onlayn-kazino-leon.popaprana.pl
+onlayn-kazino-lev.transformery-igrushki.ru
 onlayn-kazino-luchshiye-casinobb-xyz.pochemu-otchego.info
 onlayn-kazino-minsk.velpaknn.ru
 onlayn-kazino-mozhno-vyigrat.jakzostacmilionerem.biz
@@ -101776,7 +101829,6 @@ orion-bus.ru
 orionstm.ru
 orionvl.ru
 orjol.kupuh-prava.com
-orjol.kupuj-prava.com
 orjol.pto777.org
 orka-88-bonus.santehnik-dom.ru
 orka-88-kazino-bonus-za-registraciyu.azinodekos.info
@@ -103760,7 +103812,6 @@ patstalom.online
 pauluskp.in.ua
 pavlovo.diplom4yours.com
 pavlovo.doc-avto.life
-pavlovo.exdiplomsys.com
 pavlovo.prostitutki-13.com
 pavlovo.prostitutki.tips
 pavlovo.simadiplom.com
@@ -104014,7 +104065,6 @@ peers.tiviha.su
 pegas-21-kazino-registratsiya.kaluga-dubrava.ru
 pegas-21-kazino.blogsembi.ru
 pegas21-casino.artemievastudio.ru
-pegas21-casino.one-mi.ru
 pei.freehd.com.ua
 pejybckjeo.space
 pelikantv.live
@@ -104258,7 +104308,6 @@ petrozavodsk.exdiplomsys.com
 petrozavodsk.godiplomsis.com
 petrozavodsk.godiplomsus.com
 petrozavodsk.life-diplomp.com
-petrozavodsk.mydiplomustores.com
 petrozavodsk.prostitutki-13.com
 petrozavodsk.prostitutki-today2.com
 petrozavodsk.pto555.org
@@ -104582,6 +104631,7 @@ pin-up-official-site.net
 pin-up-official-site.org
 pin-up-official.azurewebsites.net
 pin-up-official.cc
+pin-up-official.site
 pin-up-official.win
 pin-up-official1.ru
 pin-up-official10.fun
@@ -104634,6 +104684,8 @@ pin-up-sport.online
 pin-up-stavki.mobi
 pin-up-store.com
 pin-up-style.org
+pin-up-win.azurewebsites.net
+pin-up-wins.azurewebsites.net
 pin-up.azurewebsites.net
 pin-up.cool
 pin-up.fun
@@ -105214,6 +105266,7 @@ pinup-upup.ru
 pinup-upupup.ru
 pinup-win.club
 pinup-win.website
+pinup-wins.azurewebsites.net
 pinup-zerkalo.website
 pinup-zr5.xyz
 pinup.bigazart31.com
@@ -108503,6 +108556,7 @@ pm-cazinoactive.xyz
 pm-cazinobet.xyz
 pm-cazinobets.xyz
 pm-cazinoenjoy.xyz
+pm-cazinofly.xyz
 pm-cazinofun.xyz
 pm-cazinogamble.xyz
 pm-cazinogamer.xyz
@@ -108510,6 +108564,7 @@ pm-cazinogames.xyz
 pm-cazinogaming.xyz
 pm-cazinojoy.xyz
 pm-cazinoluck.xyz
+pm-cazinolucky.xyz
 pm-cazinoplay.xyz
 pm-cazinopower.xyz
 pm-cazinos-bet.xyz
@@ -108555,6 +108610,7 @@ pm-cazinosvictory.xyz
 pm-cazinoswin.xyz
 pm-cazinovictory.xyz
 pm-cazinowin.xyz
+pm-cazinowinning.xyz
 pm-cazinoz-enjoy.xyz
 pm-cazinoz-fart.xyz
 pm-cazinoz-gamer.xyz
@@ -109229,6 +109285,7 @@ pobeda-viploto.com
 pobeda-vlc.com
 pobeda-vlk.com
 pobeda-vulcan.club
+pobeda-vulkan.azurewebsites.net
 pobeda-vulkan.club
 pobeda.credit
 pobeda1.com
@@ -109576,6 +109633,7 @@ pokerdom.cash
 pokerdom.city
 pokerdom.cloud
 pokerdom.download
+pokerdom.fun
 pokerdom.host
 pokerdom.ml
 pokerdom.mobi
@@ -109785,7 +109843,6 @@ polkavid.site
 polkillo55.biz.localbot.pro
 polkino.xyz
 polnad.ru
-poltava.mydiplomustores.com
 poltavaopt.in.ua
 poluchi-diplom.com
 poluchit-bezdepozitnyy-bonus-onlayn-kazino.777bonusy18god.info
@@ -109858,6 +109915,7 @@ pornocheating.net
 pornocomicsi.pro
 pornodav.net
 pornodron.net
+pornofilmyxxx.icu
 pornogol.net
 pornohype.gidonline-2696.site
 pornokomiksi.com
@@ -109872,6 +109930,7 @@ pornomalina.me
 pornomorda.net
 pornone.mobi
 pornoonline.biz
+pornopodborki.net
 pornoswank.com
 pornotaxxx.com
 pornotigr.com
@@ -110038,6 +110097,7 @@ pregistrationbk505.top
 preklamer.ru
 premialnye-diplomi.com
 premium-diplom365.com
+premium-diploma365.com
 premium-diploms365.com
 premium-diplomy.info
 premium-diplomy365.com
@@ -110608,6 +110668,7 @@ prostitutkiirkutskaarea.net
 prostitutkiirkutskalist.info
 prostitutkiirkutskarest.info
 prostitutkiirkutskaslip.net
+prostitutkiivanovo2021.net
 prostitutkiivanovo24.net
 prostitutkiivanovoact.com
 prostitutkiivanovoclub.info
@@ -110715,6 +110776,7 @@ prostitutkikostromygid.info
 prostitutkikostromygo.net
 prostitutkikostromygoal.net
 prostitutkikostromylet.com
+prostitutkikostromylist.info
 prostitutkikostromymix.net
 prostitutkikostromynice.com
 prostitutkikostromyshe.info
@@ -110906,6 +110968,7 @@ prostitutkipenzygid.info
 prostitutkipenzyhappy.net
 prostitutkipenzyhim.com
 prostitutkipenzylast.com
+prostitutkipenzylist.info
 prostitutkipenzymix.com
 prostitutkipenzymuch.net
 prostitutkipenzyreal.info
@@ -111094,6 +111157,7 @@ prostitutkitumenirest.com
 prostitutkitumenivisit.net
 prostitutkitver.com
 prostitutkitveribar.info
+prostitutkitveriexcite.info
 prostitutkitveriget.net
 prostitutkitverigirls.info
 prostitutkitveriinfo.net
@@ -111402,6 +111466,7 @@ putevka-volgograd.ru
 putinmediaplay.win
 putlocker.fan
 putlocker.sc
+putlocker.show
 putlocker.world
 putlocker68.online
 putlocker9.as
@@ -112439,6 +112504,7 @@ ranbox.online
 ranbox.press
 ranbox.pro
 ranbox.space
+ranbox.store
 ranbox.vip
 rancash.pw
 rand-box.org
@@ -114721,6 +114787,7 @@ ricalivegames.com
 rich-birds-promokod.credit-click.ru
 rich-biz.xyz
 rich-club-online.top
+rich-club-site.xyz
 rich-games.club
 rich-job.xyz
 rich-slot-club.xyz
@@ -114733,6 +114800,7 @@ rich-slotsclub.xyz
 richblackmusic.com
 richclub-online.top
 richclub-site.top
+richclub-site.xyz
 richclub.top
 richclub7.top
 richclub777.top
@@ -114740,6 +114808,7 @@ richclub777.xyz
 richclubonline.top
 richclubs.top
 richclubsite.top
+richclubsite.xyz
 richclubslots.xyz
 richesse.store
 richgame.link
@@ -114894,6 +114963,7 @@ riobet-slots.club
 riobet-slots.online
 riobet-slots.ru
 riobet-slotus.club
+riobet-top.online
 riobet-top.ru
 riobet-vhod.club
 riobet-vkhod-na-sayt.neftegazhimeco.ru
@@ -114993,6 +115063,7 @@ riobett.guru
 riobett.ru
 riobett.su
 riobettcasino.ru
+riobettop.online
 riobettopcasino.ru
 riobetwild.ru
 riobetwild1.ru
@@ -115346,7 +115417,6 @@ rostov.diplomp-magazine.com
 rostov.diplomp-rf.com
 rostov.diplomr-kurerom.com
 rostov.doc-avto.life
-rostov.gozznakdiploma.com
 rostov.gozznakdiplomas.com
 rostovhot.mobi
 rotaambetbeat.top
@@ -121954,7 +122024,6 @@ rustrek.ru
 rusuka.net
 rusvidos.cc
 rusvlkn.com
-rusvul.khakimusic.ru
 rusvul24.ru
 rusvulcan3.club
 rusvulcasino.ru
@@ -122337,7 +122406,6 @@ rybinsk.godiplomsus.com
 rybinsk.goodiplomi.com
 rybinsk.likediplom.com
 rybinsk.msk-anydip.com
-rybinsk.mydiplomustores.com
 rybinsk.prostitutki.tips
 rybinsk.real-diplom.com
 rybinsk.shopsdiplome.com
@@ -122447,6 +122515,7 @@ s.rutor.press
 s.serialyprosto.online
 s.slot-spin-1.xyz
 s.slots-casino-online.com
+s.sosamba-nn.ru
 s.sosambaekb.ru
 s.spbsosamba.ru
 s.sportmagaz.click
@@ -122542,6 +122611,7 @@ s1.sharewood.xyz
 s1.slivup.ch
 s1.slivup.me
 s1.smokgames.pw
+s1.sosamba-nn.ru
 s1.sosambaekb.ru
 s1.spbsosamba.ru
 s1.tntx.cc
@@ -122589,6 +122659,7 @@ s16.allcoursesclub.cc
 s16.kinomot.xyz
 s16.sharewood.xyz
 s16.tntx.cc
+s17.allcoursesclub.cc
 s17.sharewood.xyz
 s17.tntx.cc
 s18.sharewood.xyz
@@ -122644,6 +122715,7 @@ s2.sliv-info.com
 s2.slivskladru.com
 s2.slivup.ch
 s2.slivup.me
+s2.sosamba-nn.ru
 s2.spbsosamba.ru
 s2.tntx.cc
 s2.tntx.club
@@ -122699,6 +122771,7 @@ s3.sharewood.bz
 s3.sharewood.xyz
 s3.slivup.ch
 s3.slivup.me
+s3.sosamba-nn.ru
 s3.spbsosamba.ru
 s3.tntx.cc
 s3.tryserial.fun
@@ -122938,10 +123011,8 @@ samara.fort-pravams.com
 samara.garantzayma.com
 samara.godiplomsa.com
 samara.godiplomsis.com
-samara.godiplomsus.com
 samara.gooddiplomu.com
 samara.gooddiplomus.com
-samara.gozznakdiploma.com
 samara.intim-place2.com
 samara.kupuj-prava.com
 samara.luxdiplomi.com
@@ -123000,7 +123071,6 @@ sankt-peterburg.godiplomsus.com
 sankt-peterburg.gooddiplomu.com
 sankt-peterburg.gooddiplomus.com
 sankt-peterburg.goodiplomi.com
-sankt-peterburg.goodiplomu.com
 sankt-peterburg.mass-diplomik24.com
 sankt-peterburg.metanruss.com
 sankt-peterburg.mydiplomatstores.com
@@ -126312,6 +126382,7 @@ site-rox-kaz24.ru
 site-rox-kazin24.ru
 site-rox-kazino24.ru
 site-slot-v-casino-onine.net
+site-super-slots.azurewebsites.net
 site-vulkan.azurewebsites.net
 site-vulkan.com
 site-wylkan.azurewebsites.net
@@ -126508,6 +126579,7 @@ skpc66.xyz
 skrbkaoy.olimphonr.xyz
 skrill-russia.premar.biz.pl
 sksis.ru
+skudi.ru
 skulbet.ru
 skupimusic.online
 skupimusic.ru
@@ -128841,6 +128913,7 @@ sorm-li.ru
 sort.vserialsoul.online
 sos24r.info
 sosalkino.vip
+sosamba-nn.ru
 sosambaeburg.ru
 sosambaekb.ru
 sosambansk.ru
@@ -130688,6 +130761,7 @@ studio3dworld.ru
 studio96-ekb.ru
 studiobella.ru
 studiohd.lordfilm-682.site
+studiohd.lostfilm-hd-2260.online
 study-diplomer.com
 study-diplomma.com
 study-document.com
@@ -130762,6 +130836,7 @@ super-obzor.site
 super-opportunity.ru
 super-s-slots.com
 super-site4play2.ru
+super-slot-casino.azurewebsites.net
 super-slot-machines.adwokat-prawo-karne.info
 super-slot-registratsiya.karel700.ru
 super-slot.org
@@ -131198,9 +131273,7 @@ syktyvkar.diplom-obrazovanie.com
 syktyvkar.diplom4yours.com
 syktyvkar.doc-avto.life
 syktyvkar.exdiplomsys.com
-syktyvkar.godiplomsus.com
 syktyvkar.life-diplomt.com
-syktyvkar.mydiplomustores.com
 syktyvkar.simadiplom.com
 syktyvkar.study-document.com
 syktyvkar1.doc-avto.life
@@ -132102,6 +132175,7 @@ tommybet.online
 tommybet.ru
 tommybet.site
 tomogavk.xyz
+tomorrow.onlinegrand.xyz
 tomostland.com
 tomp3.ru
 tomsk-escort.ru
@@ -132155,6 +132229,7 @@ toobettrafw.com
 toofatslot.win
 toopmix.xyz
 toosrillzanki.tk
+top-10-casino.azurewebsites.net
 top-10-casino.info
 top-10-casino.net
 top-10-casinos.azurewebsites.net
@@ -132324,6 +132399,7 @@ top-online-slots.xyz
 top-online.me
 top-rating-casino.azurewebsites.net
 top-rating-casino.ru
+top-rating.azurewebsites.net
 top-ratingcasino.online
 top-ratings-casino.azurewebsites.net
 top-reyting-kazino-shpiller-men.art-zakaz.ru
@@ -134663,7 +134739,6 @@ tyumen.mass-diplomik24.com
 tyumen.mdiplomes.com
 tyumen.mydiplomatstores.com
 tyumen.mydiplomustore.com
-tyumen.mydiplomustores.com
 tyumen.prostitutki-today2.com
 tyumen.steroidmans.com
 tyumen.study-document.com
@@ -134901,7 +134976,6 @@ ufc-hd.ru
 ufc-rpl.online
 ufc-rpl.ru
 ufenadrnj.top
-uffuff.net
 ufi5w-azino777.icu
 ufimochki.ru
 ufnikjf3.online
@@ -135125,7 +135199,6 @@ up-cash.org
 up-forsales.ru
 up-money.net
 up-vulkan955.ru
-up-x.kz
 up-x124.store
 up0h2.club
 up0l1.ru
@@ -136194,6 +136267,7 @@ vavada-moscow5.ru
 vavada-moscow6.ru
 vavada-msk2.azurewebsites.net
 vavada-nt63j.ondigitalocean.app
+vavada-of-site.azurewebsites.net
 vavada-of.azurewebsites.net
 vavada-official-casino.online
 vavada-official-kazino.info
@@ -136411,6 +136485,7 @@ vavada2225.ru
 vavada2227.ru
 vavada22casino.fun
 vavada22casino.xyz
+vavada22daet.ru
 vavada23.com
 vavada24.net.ru
 vavada24.shop
@@ -137651,7 +137726,6 @@ velikij-novgorod.doc-avto.life
 velikij-novgorod.gooddiplomu.com
 velikij-novgorod.mydiplomatstores.com
 velikijnovgorod.damdiplomsa.com
-velikijnovgorod.exdiplomsys.com
 velikijnovgorod.godiplomsis.com
 velikijnovgorod.simadiplom.com
 velikiy-novgorod.diplombrend.com
@@ -138022,7 +138096,6 @@ videozal-club.biniki.online
 videozerk.ru
 vidion.hamov.top
 vidmusparts.ru
-vidnoe.godiplomsus.com
 vidogit.online
 vidok.top
 vidos.cc
@@ -138038,7 +138111,6 @@ vigmed.ru
 vigronn1.ru
 vigronn3.ru
 vigronn4.ru
-vigronnov.ru
 vigrovit.ru
 vigrovnn.ru
 viho.fun
@@ -139742,6 +139814,7 @@ vulcan-grandgames.com
 vulcan-grandklub.com
 vulcan-grandonliines.com
 vulcan-grandonllines.com
+vulcan-heat.xyz
 vulcan-igrom.com
 vulcan-igrovie-avtomati-online.com
 vulcan-igrovoy-club.com
@@ -140947,6 +141020,7 @@ vulkan-na-dengi.online
 vulkan-na-dengi.site
 vulkan-neon-5000r.spravka-sorevnovaniya.ru
 vulkan-neon-besplatno.simkaa.ru
+vulkan-neon-casino.azurewebsites.net
 vulkan-neon-casino.com
 vulkan-neon-casino.online
 vulkan-neon-casino.ru
@@ -140969,7 +141043,6 @@ vulkan-official-site.net
 vulkan-official.club
 vulkan-official.info
 vulkan-official.net
-vulkan-official.org
 vulkan-official.top
 vulkan-officialnye-casino777.win
 vulkan-officialnyi-casino777.win
@@ -141129,6 +141202,7 @@ vulkan-premium.fun
 vulkan-premium.online
 vulkan-premium.win
 vulkan-prestig.cash
+vulkan-prestige-casino.azurewebsites.net
 vulkan-prestige-casino.com
 vulkan-prestige-klub.com
 vulkan-prestige.azurewebsites.net
@@ -141245,6 +141319,7 @@ vulkan-sberbank.azurewebsites.net
 vulkan-site-of.azurewebsites.net
 vulkan-site-official-casino.com
 vulkan-site-official.azurewebsites.net
+vulkan-site-olimp.azurewebsites.net
 vulkan-site.azurewebsites.net
 vulkan-site.club
 vulkan-site.online
@@ -141923,6 +141998,7 @@ vulkanone.xyz
 vulkanone1.xyz
 vulkanone2.xyz
 vulkanone3.xyz
+vulkanonline.website
 vulkanonline.ws
 vulkanonlinecazino.com
 vulkanonlineclub.top
@@ -142254,6 +142330,7 @@ vulkanstars14.xyz
 vulkanstars15.xyz
 vulkanstars2020.com
 vulkanstars3.net
+vulkanstars777.azurewebsites.net
 vulkanstarsez.com
 vulkanstarsgame.com
 vulkanstarsgames.com
@@ -142279,7 +142356,6 @@ vulkanstavka-4.ru
 vulkanstavka-5.ru
 vulkanstavka-6.ru
 vulkanstavka-777.net
-vulkanstavka-games.com
 vulkanstavka-ru.com
 vulkanstavka.one
 vulkanstavka.su
@@ -147926,7 +148002,6 @@ www.animehit.ru
 www.animevost.in
 www.anonimm.ru
 www.anonym-casino.com
-www.anonymous-proxy.eu
 www.anti-tor.top
 www.anusrkn.openrussia.org
 www.apatityvodokanal.ru
@@ -149394,7 +149469,6 @@ www.extratimetv.ru
 www.ezsportsbetting.com
 www.f-katalog.ru
 www.f5b.fun
-www.fabrika98.ru
 www.fail-zona.ru
 www.fairwaycasino.com
 www.fan-tv.ru
@@ -151114,6 +151188,7 @@ www.mc-doctors.com
 www.mclips.net
 www.mcvouo.ru
 www.med-doks.com
+www.med-spravki-v-bas.com
 www.medc-spravki.com
 www.medfirma.com
 www.mediacool.win
@@ -152199,6 +152274,7 @@ www.pumafilm-hd.site
 www.pump-tracker.com
 www.pussycat-girlls.net
 www.pustgovorat2017.ru
+www.putlocker.show
 www.putlockers.gg
 www.putlockers.ro
 www.pvdinvest.ru
@@ -152560,6 +152636,7 @@ www.skbbch.space
 www.skcrb.ru
 www.skidows.org
 www.skladchik.download
+www.skudi.ru
 www.skyback.ru
 www.slamdunkers.art
 www.slavaangel.ru
@@ -153195,7 +153272,6 @@ www.vsedlyavsex.com
 www.vseserial.net
 www.vsespravkitut.ru
 www.vsfilm.ru
-www.vshk-shina.ru
 www.vsyako.net
 www.vtracker.org
 www.vtrahevip.porn
@@ -154759,6 +154835,7 @@ xamp415.host
 xatab-game.ru
 xatab.games
 xatabgame.net
+xator.org
 xator.pro
 xattab-repack.com
 xazino-777.azurewebsites.net
@@ -155240,6 +155317,7 @@ xn----7sbbalcicopb0e1adekr8e2i.xn--p1ai
 xn----7sbbatphdlsiin7a.com
 xn----7sbbayc2ael9arrf6o.xn--p1ai
 xn----7sbbdqc7bifnfncgu.xn--p1ai
+xn----7sbbf2agjcfwfm8c.club
 xn----7sbbf2agjcfwfm8c.xn--80asehdb
 xn----7sbbfd0biflupmhe.xn--p1ai
 xn----7sbbftmz0cj6h1a.xn--p1ai
@@ -155860,7 +155938,6 @@ xxx.admiral-x-slots.xyz
 xxx.capitals-kz3.xyz
 xxx.porno-porno.me
 xxxcasino.ru
-xxxfreeporn.pw
 xxxonlineporno.net
 xxxpornvideos.pw
 xxxpro.ru
@@ -156742,6 +156819,7 @@ zalip77.ru
 zalipai.com
 zalipni-tyt.pro
 zalipv.online
+zaliv-market.space
 zalix.ru
 zalplayfortuna.com
 zamenaavtostekol.ru
@@ -159441,7 +159519,6 @@ zlatoust.fort-pravan.com
 zlatoust.godiplomsas.com
 zlatoust.godiplomsus.com
 zlatoust.mass-diplomik24.com
-zlatoust.mydiplomustores.com
 zlatoust.prostitutki-13.com
 zlatoust.study-docum.com
 zlatovlk.com
