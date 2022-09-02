@@ -18369,6 +18369,7 @@ ARRAY(0x83401cfc0)
 ARRAY(0x8343629a8)
 ARRAY(0x8343c4ea0)
 ARRAY(0x8344acd50)
+ARRAY(0x83465ab28)
 ARRAY(0x834992dc8)
 ARRAY(0x8356be990)
 ARRAY(0x836045a98)
@@ -18378,6 +18379,7 @@ ARRAY(0x83773c7f8)
 ARRAY(0x83877ce88)
 ARRAY(0x8387eecd8)
 ARRAY(0x8395747f8)
+ARRAY(0x83b48a870)
 ARRAY(0x83bd71e70)
 ARRAY(0x83bf065a0)
 ARRAY(0x83c137468)
@@ -18399,17 +18401,15 @@ ARRAY(0x8b4c13198)
 ARRAY(0x8b6823450)
 ARRAY(0x8b6b17c78)
 ARRAY(0x8b72d3018)
-ARRAY(0x8b91cf930)
 ARRAY(0x8b9f0fbb8)
 ARRAY(0x8ba190348)
 ARRAY(0x8ba930228)
-ARRAY(0x8bad25918)
 ARRAY(0x8bae1d438)
 ARRAY(0x8bb24eeb8)
 ARRAY(0x8bcda5d50)
 ARRAY(0x8bd507168)
 ARRAY(0x8bd6f9948)
-ARRAY(0x8bdcee270)
+ARRAY(0x8bd9204f8)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -19094,16 +19094,19 @@ aazurewebsites.net
 ab-0173.info
 ab-04264.xyz
 ab-0917.info
+ab-13038.xyz
 ab-16231.com
 ab-18835.xyz
 ab-19366.xyz
 ab-21924.xyz
 ab-2347.info
+ab-28345.xyz
 ab-28496.info
 ab-31755.com
 ab-33060.xyz
 ab-35092.xyz
 ab-35124.com
+ab-39496.xyz
 ab-43714.xyz
 ab-44065.xyz
 ab-44390.com
@@ -19590,6 +19593,7 @@ acwritembet.top
 acxhfcg.icu
 ad-05053.xyz
 ad-15752.com
+ad-22878.xyz
 ad-29252.xyz
 ad-33055.xyz
 ad-3407.info
@@ -19597,6 +19601,7 @@ ad-40526.xyz
 ad-41341.com
 ad-44287.xyz
 ad-44366.xyz
+ad-44812.xyz
 ad-44963.xyz
 ad-4643.info
 ad-48084.xyz
@@ -19610,6 +19615,7 @@ ad-58535.info
 ad-59142.info
 ad-60296.xyz
 ad-61606.info
+ad-64591.xyz
 ad-67510.xyz
 ad-70269.xyz
 ad-70593.xyz
@@ -20414,6 +20420,7 @@ af-01883.com
 af-03711.xyz
 af-05881.xyz
 af-12748.info
+af-14162.xyz
 af-15547.xyz
 af-16139.xyz
 af-16250.xyz
@@ -21867,6 +21874,7 @@ ak-16884.info
 ak-16985.com
 ak-18118.com
 ak-18207.info
+ak-21211.xyz
 ak-22957.xyz
 ak-23995.xyz
 ak-26255.xyz
@@ -21884,6 +21892,7 @@ ak-3928.info
 ak-40159.com
 ak-41388.com
 ak-43009.info
+ak-47418.xyz
 ak-48857.info
 ak-5060.info
 ak-53727.info
@@ -24464,6 +24473,8 @@ ax-23153.xyz
 ax-2417.info
 ax-27715.com
 ax-30910.xyz
+ax-31711.xyz
+ax-32014.xyz
 ax-3490.info
 ax-38505.xyz
 ax-38838.com
@@ -24473,6 +24484,7 @@ ax-47848.com
 ax-4990.info
 ax-5782.info
 ax-61168.info
+ax-63323.xyz
 ax-63891.xyz
 ax-65011.com
 ax-65582.com
@@ -38878,6 +38890,7 @@ bolnuchnji-vcem.com
 bolnuchnjj-vcem.com
 bolshiebabki.com
 bolshoe-kino.ru
+bolshye-siski.ru
 bolt.mmix.club
 bolt.vim-alliance.ru
 bolwedohoda.com
@@ -39438,6 +39451,7 @@ booicassino.info
 booicassino.online
 booicazino.azurewebsites.net
 booicazino.info
+booicazino.ru
 booicbd1w.com
 booicdj.com
 booicm1.com
@@ -50871,6 +50885,7 @@ eb-12000.com
 eb-13091.xyz
 eb-13479.xyz
 eb-1368.info
+eb-15267.xyz
 eb-18207.xyz
 eb-19679.info
 eb-20858.xyz
@@ -50892,7 +50907,9 @@ eb-52901.xyz
 eb-53551.xyz
 eb-5549.info
 eb-57365.xyz
+eb-57407.xyz
 eb-60067.info
+eb-61390.xyz
 eb-61899.xyz
 eb-62446.xyz
 eb-62719.xyz
@@ -50993,6 +51010,7 @@ ed-0403.info
 ed-05237.xyz
 ed-06037.com
 ed-11731.xyz
+ed-16085.xyz
 ed-17389.xyz
 ed-18627.com
 ed-19896.xyz
@@ -51009,6 +51027,7 @@ ed-39181.xyz
 ed-39615.com
 ed-41494.xyz
 ed-49348.info
+ed-51960.xyz
 ed-59092.com
 ed-59683.xyz
 ed-60328.xyz
@@ -51019,6 +51038,7 @@ ed-69159.xyz
 ed-74415.xyz
 ed-76388.xyz
 ed-76488.xyz
+ed-79979.xyz
 ed-8149.info
 ed-83827.xyz
 ed-86535.xyz
@@ -51263,8 +51283,10 @@ ejny8-azinomobile.host
 ejtc9-azinomobile.host
 ejzzjap4kumb.com
 ek-01197.xyz
+ek-03036.xyz
 ek-03470.xyz
 ek-08321.xyz
+ek-11512.xyz
 ek-16763.com
 ek-20513.xyz
 ek-20980.info
@@ -51273,6 +51295,7 @@ ek-23092.xyz
 ek-23742.info
 ek-25830.xyz
 ek-26945.xyz
+ek-26991.xyz
 ek-29310.com
 ek-31753.xyz
 ek-37612.info
@@ -51298,6 +51321,7 @@ ek-64956.com
 ek-65184.xyz
 ek-65918.info
 ek-6724.info
+ek-72892.xyz
 ek-77482.xyz
 ek-7782.info
 ek-79402.xyz
@@ -52386,6 +52410,7 @@ ex-13353.xyz
 ex-14478.xyz
 ex-14837.xyz
 ex-15589.xyz
+ex-15677.xyz
 ex-20480.info
 ex-21768.xyz
 ex-21796.xyz
@@ -52399,6 +52424,7 @@ ex-31028.com
 ex-31315.com
 ex-31977.info
 ex-34342.com
+ex-38505.xyz
 ex-39236.info
 ex-40202.xyz
 ex-40302.xyz
@@ -56363,6 +56389,7 @@ fortunaplay-7.azurewebsites.net
 fortunaplay.azurewebsites.net
 fortunaslot.net
 fortunaslots.net
+fortunates.org
 fortunavulkan.com
 fortunavulkan1.com
 fortunavulkan2.com
@@ -63623,6 +63650,7 @@ holoheadsetsdeals.com
 holostiak-netv.ru
 holostiak.su
 holostyak-2020.site
+holostyak-news.ru
 holostyak-online-tnt.ru
 holostyak-online.ru
 holostyak-online.site
@@ -64230,6 +64258,7 @@ i.gidonline-2156.site
 i.info.betcityaccess.com
 i.inter-apteka.ru
 i.itorrents-igruha.org
+i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -66038,6 +66067,7 @@ inter-aptekade.com
 inter-farm-de.com
 inter-farmde.com
 inter-info.xyz
+inter-lines.org
 interactivepipe.com
 interbet01.club
 interbet02.club
@@ -76585,6 +76615,7 @@ leon-zerkalo-9hjk.ru
 leon-zerkalo-9wsf.ru
 leon-zerkalo-9xzh.ru
 leon-zerkalo-bet.ru
+leon-zerkalo-bets.ru
 leon-zerkalo-my.ru
 leon-zerkalo-online.ru
 leon-zerkalo-qop.online
@@ -76734,6 +76765,7 @@ leonaccesss32.net
 leonapa.com
 leonarda-shop.ru
 leonbbet.vip
+leonbet-zerkalo-bk.ru
 leonbet-zerkalo-vhod.ru
 leonbet-zerkalo1.ru
 leonbet.club
@@ -83341,6 +83373,25 @@ mbbdmilk.xyz
 mbbdname.xyz
 mbbdnest.xyz
 mbbdnews.xyz
+mbbdnorth.xyz
+mbbdnovel.xyz
+mbbdnow.xyz
+mbbdoffer.xyz
+mbbdoil.xyz
+mbbdorder.xyz
+mbbdoven.xyz
+mbbdowl.xyz
+mbbdpaper.xyz
+mbbdpart.xyz
+mbbdparty.xyz
+mbbdpaste.xyz
+mbbdpie.xyz
+mbbdpin.xyz
+mbbdplace.xyz
+mbbdplant.xyz
+mbbdplate.xyz
+mbbdpoint.xyz
+mbbdpower.xyz
 mbdou-14.ru
 mbdou-32.ru
 mbebtterm.com
@@ -98513,6 +98564,7 @@ nvservice.fun
 nvuba.online
 nvuti-ac.ru
 nvuti-cash.ru
+nvuti-ceo.tel
 nvuti-live.ru
 nvuti-moe.fun
 nvuti-one.biz
@@ -98708,6 +98760,7 @@ ob-05792.xyz
 ob-06157.xyz
 ob-0660.info
 ob-07689.info
+ob-11839.xyz
 ob-13578.info
 ob-15488.xyz
 ob-16998.info
@@ -98715,6 +98768,7 @@ ob-17047.xyz
 ob-21057.xyz
 ob-22063.com
 ob-23241.xyz
+ob-28713.xyz
 ob-33707.xyz
 ob-37068.xyz
 ob-40229.xyz
@@ -98743,6 +98797,7 @@ ob-86788.com
 ob-88361.xyz
 ob-89910.xyz
 ob-95157.xyz
+ob-95389.xyz
 ob-97529.xyz
 ob-99010.xyz
 ob.texdk.org
@@ -98949,6 +99004,7 @@ of-19717.xyz
 of-21313.xyz
 of-21791.com
 of-24223.com
+of-32810.xyz
 of-34274.xyz
 of-3600.info
 of-42782.info
@@ -100572,6 +100628,7 @@ onlayn-kazino-podarok-na-den-rozhdeniya.premar.biz.pl
 onlayn-kazino-pointloto.gamezaine.ru
 onlayn-kazino-reyting-qs.vk-bug.ru
 onlayn-kazino-reyting-shpiller-men.city-sushi74.ru
+onlayn-kazino-riobet-mobilnaya-versiya-zerkalo.arenda-elit-auto.ru
 onlayn-kazino-roks-igrat-bez-registracii.777bonusy18god.info
 onlayn-kazino-roks-ofitsialnyy-sayt.kaluga-dubrava.ru
 onlayn-kazino-s-realnym-bonusom.alkozavr.ru
@@ -111488,6 +111545,7 @@ q.hdrezka-340.site
 q.hdrezka-760.site
 q.itorrents-igruha.org
 q.kinogo-hd.icu
+q.loordfilm.lu
 q.lordfillms.net
 q.lordfilm.cfd
 q.lordfilms-film.online
@@ -134305,7 +134363,6 @@ tv.bobfilm1.ru
 tv.bxfilm.org
 tv.divan-tv.win
 tv.docro.ru
-tv.domatv.net
 tv.filmedia-hd.net
 tv.filmive-hd.net
 tv.filmive-hd.pw
@@ -141242,6 +141299,7 @@ vulkan-stars.detsad418.ru
 vulkan-stars.fisheye-video.ru
 vulkan-stars.lesstrana.ru
 vulkan-stars.pulseneon.ru
+vulkan-stars.ru
 vulkan-stars.tech
 vulkan-stars.vip
 vulkan-stars777.azurewebsites.net
