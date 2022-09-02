@@ -9253,6 +9253,7 @@
 1xnlpi.host
 1xnlxl.host
 1xnmfk.host
+1xnmq.world
 1xnrb.xyz
 1xnto.world
 1xnve.world
@@ -18373,6 +18374,7 @@ ARRAY(0x83465ab28)
 ARRAY(0x834992dc8)
 ARRAY(0x8356be990)
 ARRAY(0x836045a98)
+ARRAY(0x836185a20)
 ARRAY(0x836a325a0)
 ARRAY(0x836ccbab0)
 ARRAY(0x83773c7f8)
@@ -18384,11 +18386,12 @@ ARRAY(0x83bd71e70)
 ARRAY(0x83bf065a0)
 ARRAY(0x83c137468)
 ARRAY(0x83cd74f90)
-ARRAY(0x83d1e0f90)
 ARRAY(0x83f673060)
+ARRAY(0x841641858)
 ARRAY(0x8ad611450)
 ARRAY(0x8ae4c6c60)
-ARRAY(0x8af102948)
+ARRAY(0x8aeaf4450)
+ARRAY(0x8aed9f498)
 ARRAY(0x8afb7c1e0)
 ARRAY(0x8b066c3c0)
 ARRAY(0x8b229cee8)
@@ -18396,16 +18399,14 @@ ARRAY(0x8b2bee4b0)
 ARRAY(0x8b2ee93d8)
 ARRAY(0x8b36debe8)
 ARRAY(0x8b4655420)
-ARRAY(0x8b4702090)
 ARRAY(0x8b4c13198)
-ARRAY(0x8b6823450)
-ARRAY(0x8b6b17c78)
 ARRAY(0x8b72d3018)
-ARRAY(0x8b9f0fbb8)
+ARRAY(0x8b9e87978)
 ARRAY(0x8ba190348)
 ARRAY(0x8ba930228)
 ARRAY(0x8bae1d438)
 ARRAY(0x8bb24eeb8)
+ARRAY(0x8bcca3ee8)
 ARRAY(0x8bcda5d50)
 ARRAY(0x8bd507168)
 ARRAY(0x8bd6f9948)
@@ -20721,6 +20722,7 @@ agentaxsghybxxryn.azureedge.net
 agentbjxuhldezjnv.azureedge.net
 agentcfkwoouyjwob.azureedge.net
 agentcnmddslcwwcz.azureedge.net
+agentcwrbrcjhqgzt.azureedge.net
 agentcxaxefbmttgn.azureedge.net
 agentcygvydycmuym.azureedge.net
 agentdhoscldknmxf.azureedge.net
@@ -25053,6 +25055,7 @@ azatlqrpxmbqaxpyf.azureedge.net
 azatlrswryiqidcjd.azureedge.net
 azatlscmbaxwjeoag.azureedge.net
 azatlsfhejxkvppob.azureedge.net
+azatlsqkewwgetdty.azureedge.net
 azatlsxsficjjvwea.azureedge.net
 azatltjtrszegetvg.azureedge.net
 azatltkwchnrwxkcz.azureedge.net
@@ -31102,6 +31105,7 @@ bbcovzpgxkeurxk.azureedge.net
 bbcrhhxdupdsybq.azureedge.net
 bbcrrgqtrnjrimw.azureedge.net
 bbcryckzzqnhfut.azureedge.net
+bbcsufqotkuqimr.azureedge.net
 bbctifrkkwggffx.azureedge.net
 bbctmmminypnmai.azureedge.net
 bbcuekafmazxsbj.azureedge.net
@@ -44854,6 +44858,7 @@ casinopro100.com
 casinoptimus.info
 casinoptimus.net
 casinopub.ru
+casinora.su
 casinora.website
 casinora24.com
 casinorank.club
@@ -48225,6 +48230,7 @@ currehgoutopzmfcj.azureedge.net
 currehjrrpzrcagwu.azureedge.net
 currehtgezevizgor.azureedge.net
 currejaaaewjtwweh.azureedge.net
+currejkyoqoyfxwwv.azureedge.net
 currejzexxwalltml.azureedge.net
 currekamqlxfbdzir.azureedge.net
 currekflmopkkoljl.azureedge.net
@@ -49593,6 +49599,7 @@ diplomyrussianus.com
 diplomys-24.com
 diplomys-best.com
 diplomys-grz.com
+diplomys-ntg.com
 diplomysattestati.com
 diplomysattestaty.com
 diplomyschelyabinsk.com
@@ -50477,6 +50484,7 @@ dwowd.net
 dwqr63llmst.com
 dwrlgytdsupiaw.azureedge.net
 dwxvo-azino777.icu
+dwyznqqriejroe.azureedge.net
 dwzqm10.icu
 dx435bqcq5554ivqmjz.website
 dxdhd-azino777.icu
@@ -51445,6 +51453,7 @@ ekhokvbtbcfdjpyrd.azureedge.net
 ekhokvjtsxawdudgr.azureedge.net
 ekhokvnhwllslzzke.azureedge.net
 ekhokvvapykqvanla.azureedge.net
+ekhokwdpnjyscsouz.azureedge.net
 ekhokwukroxjwoybs.azureedge.net
 ekhokwzrabvaxtehv.azureedge.net
 ekhokxeadhwnvhtgg.azureedge.net
@@ -52994,6 +53003,7 @@ factotcahajmbxysn.azureedge.net
 factotmthkuklnjsz.azureedge.net
 factotnelxzsblwle.azureedge.net
 factouiihfrskjmyr.azureedge.net
+factovohcvzshlwyn.azureedge.net
 factowhtdcgvezpyu.azureedge.net
 factowjleoidbqyho.azureedge.net
 factowpmenfgnghcq.azureedge.net
@@ -60601,6 +60611,7 @@ golosshama.com
 golossmjlwbvbyfcy.azureedge.net
 golossqdhskaumpwr.azureedge.net
 golossqgtlerenwdx.azureedge.net
+golostftkoynfrvcz.azureedge.net
 golostjpklwlilo.azureedge.net
 golostlwtmyjfukls.azureedge.net
 golostzotquuhizuh.azureedge.net
@@ -62359,6 +62370,7 @@ hd.online-filmes.top
 hd.online720.site
 hd.oqno.top
 hd.oqno5.top
+hd.prostofilm.top
 hd.prostofilm.xyz
 hd.rufllm.fun
 hd.seasonvar.onl
@@ -64571,6 +64583,7 @@ idelrkroaxccodcte.azureedge.net
 idelrldwcgawrosqk.azureedge.net
 idelrljdqtvlpegne.azureedge.net
 idelrlwyoydfvnkoj.azureedge.net
+idelrmpxsvutlsqgu.azureedge.net
 idelrmtoksiqyoxuh.azureedge.net
 idelrnagutikltgct.azureedge.net
 idelrnbaqwmbfcymb.azureedge.net
@@ -66785,6 +66798,7 @@ izhik.info
 izhparket.ru
 izi.tryserialking.online
 izi.tryserialklng.online
+izi.wkinoizi.fun
 iziloto.ru
 izm5wy4ymb.com
 izmailov.bar
@@ -70491,6 +70505,7 @@ kavkapmpsnxffbzbf.azureedge.net
 kavkaqcekyluvvmrw.azureedge.net
 kavkaqksfjafwktkj.azureedge.net
 kavkaqmdptuxyjlwu.azureedge.net
+kavkarrrioyqkhucg.azureedge.net
 kavkarwvuakhtafwq.azureedge.net
 kavkasbzfzvpdvuun.azureedge.net
 kavkascikqzidkllb.azureedge.net
@@ -73406,6 +73421,7 @@ kinoillusion.com
 kinoimpulse.ru
 kinoio.ru
 kinoit.vago.xyz
+kinoizi.wkinoizi.fun
 kinojet.ru
 kinojin.club
 kinojj.ru
@@ -75486,6 +75502,7 @@ krymrubmcmopgsoty.azureedge.net
 krymruljtkffapact.azureedge.net
 krymruwyjwarfvoia.azureedge.net
 krymrvateqokyfuwc.azureedge.net
+krymrvbdftebeuvan.azureedge.net
 krymrvsydlqumulnc.azureedge.net
 krymrwfhlojdgtzyj.azureedge.net
 krymrwrbkfocimjwe.azureedge.net
@@ -97969,6 +97986,7 @@ nolamers.fun
 nolga.ru
 nomer-org.cc
 nomer-org.one
+nomer-org.space
 nomer-telefona-kazino-vulkan.premar.biz.pl
 nomer.company
 nomerorg.biz
@@ -112335,6 +112353,7 @@ radio84.ru
 radioacljoofmhrfj.azureedge.net
 radioapsnclmdthlz.azureedge.net
 radiobwxxxzasgcln.azureedge.net
+radiocacxppzmosqo.azureedge.net
 radiocgwpgkunqppk.azureedge.net
 radiocokeqmlmzhvv.azureedge.net
 radiocxcexhqwbzys.azureedge.net
@@ -124023,6 +124042,7 @@ severbabxktuywyfg.azureedge.net
 severbkekabedfzjr.azureedge.net
 severbngyincycjty.azureedge.net
 severbtgdjzgzeimw.azureedge.net
+severbyggdkhbazxb.azureedge.net
 severclrrolpsjnvp.azureedge.net
 severcmjedlegqrrk.azureedge.net
 severcnrxlxodcngp.azureedge.net
@@ -126091,6 +126111,7 @@ sibreaxiudgpcygef.azureedge.net
 sibrebbwfzngbzblj.azureedge.net
 sibrebdhoycwtveyh.azureedge.net
 sibrebfflicvycukr.azureedge.net
+sibreblxoecnurdio.azureedge.net
 sibrebnhipqfmtvbv.azureedge.net
 sibrebxakpshmluzd.azureedge.net
 sibrechbsqrpdephs.azureedge.net
@@ -131085,6 +131106,7 @@ svobocwsjftpfpkuw.azureedge.net
 svoboda.azureedge.net
 svobodbitqbwtlvsv.azureedge.net
 svobodfijphrauhzn.azureedge.net
+svobodoszgxkxlnty.azureedge.net
 svobodsnwsxrhfauz.azureedge.net
 svobodtftdezqgnqu.azureedge.net
 svobodzesncoqafwg.azureedge.net
@@ -150230,6 +150252,7 @@ www.king-book.ru
 www.king-torrent.ru
 www.kingbetsatoshi.com
 www.kingcasino.tv
+www.kingstream.online
 www.kingvulcan-official.com
 www.kingvulcan.fun
 www.kinino.ru
