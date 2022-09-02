@@ -3763,6 +3763,7 @@
 1s7txkx.icu
 1samara.ru
 1seasonvar.ru
+1sep.rezkahd.ru
 1serial.info
 1serial.online
 1serial.tv
@@ -18368,18 +18369,20 @@
 9zm5omo.icu
 ARRAY(0x83401cfc0)
 ARRAY(0x8343629a8)
-ARRAY(0x8343c4ea0)
 ARRAY(0x8344acd50)
 ARRAY(0x83465ab28)
 ARRAY(0x834992dc8)
+ARRAY(0x834aac480)
 ARRAY(0x8356be990)
 ARRAY(0x836045a98)
 ARRAY(0x836185a20)
+ARRAY(0x8364dfc90)
 ARRAY(0x836a325a0)
 ARRAY(0x836ccbab0)
 ARRAY(0x8387eecd8)
 ARRAY(0x838bc2780)
 ARRAY(0x8395747f8)
+ARRAY(0x83ae3cbd0)
 ARRAY(0x83b48a870)
 ARRAY(0x83bd71e70)
 ARRAY(0x83bf065a0)
@@ -18393,7 +18396,6 @@ ARRAY(0x8ae4c6c60)
 ARRAY(0x8aeaf4450)
 ARRAY(0x8aed9f498)
 ARRAY(0x8afb7c1e0)
-ARRAY(0x8b066c3c0)
 ARRAY(0x8b29e6528)
 ARRAY(0x8b2bee4b0)
 ARRAY(0x8b2ee93d8)
@@ -18409,7 +18411,6 @@ ARRAY(0x8bb24eeb8)
 ARRAY(0x8bcca3ee8)
 ARRAY(0x8bcda5d50)
 ARRAY(0x8bd507168)
-ARRAY(0x8bd6f9948)
 ARRAY(0x8bd9204f8)
 a-bets63.top
 a-bt56.top
@@ -104582,6 +104583,7 @@ pin-up-kazino-pinup.site
 pin-up-kazino-site.site
 pin-up-kazino-top.site
 pin-up-kazino-vkhod.sunpalace-hotel.info
+pin-up-kazino.net.ru
 pin-up-kazino.org.ru
 pin-up-kazino01.site
 pin-up-learning.site
@@ -112465,6 +112467,7 @@ ralqb7bgmst.com
 ramaj-azino777.host
 ramenki-uprava.ru
 ramenki5.ru
+ramki78.ru
 ramky-perevertush.ru
 rammsteinplaymp3.ru
 ramsatcom.ru
@@ -142781,6 +142784,7 @@ w.azino777-reg-1.xyz
 w.azino777-reg-2.xyz
 w.azino777-reg-3.xyz
 w.casino-mars-1.xyz
+w.casinonadengi.org
 w.evro-lek.ru
 w.fantasy-worlds.org
 w.fast-torrent-720.top
