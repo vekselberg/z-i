@@ -18377,9 +18377,8 @@ ARRAY(0x836045a98)
 ARRAY(0x836185a20)
 ARRAY(0x836a325a0)
 ARRAY(0x836ccbab0)
-ARRAY(0x83773c7f8)
-ARRAY(0x83877ce88)
 ARRAY(0x8387eecd8)
+ARRAY(0x838bc2780)
 ARRAY(0x8395747f8)
 ARRAY(0x83b48a870)
 ARRAY(0x83bd71e70)
@@ -18387,6 +18386,7 @@ ARRAY(0x83bf065a0)
 ARRAY(0x83c137468)
 ARRAY(0x83cd74f90)
 ARRAY(0x83f673060)
+ARRAY(0x8403b9498)
 ARRAY(0x841641858)
 ARRAY(0x8ad611450)
 ARRAY(0x8ae4c6c60)
@@ -18394,7 +18394,7 @@ ARRAY(0x8aeaf4450)
 ARRAY(0x8aed9f498)
 ARRAY(0x8afb7c1e0)
 ARRAY(0x8b066c3c0)
-ARRAY(0x8b229cee8)
+ARRAY(0x8b29e6528)
 ARRAY(0x8b2bee4b0)
 ARRAY(0x8b2ee93d8)
 ARRAY(0x8b36debe8)
@@ -18480,6 +18480,7 @@ a.e-pokeronline.ru
 a.ekaterinburg-nb.info
 a.erotika.cc
 a.errorsseedsspb.com
+a.euroseeds.nl
 a.fantasy-worlds.org
 a.fast-torrent1.top
 a.film-mix1.online
@@ -18537,6 +18538,7 @@ a.lordfilms-smotret.online
 a.lordfilmy.one
 a.lordhdfilm.ru
 a.lordsfilms-720.top
+a.mbx.su
 a.mensgen.click
 a.mir-konopli.top
 a.mirkino.best
@@ -29441,6 +29443,7 @@ b.bobfilm1.ru
 b.boroda.tv
 b.cinema-24.net
 b.eurofarmacia.website
+b.euroseeds.nl
 b.fantasy-worlds.org
 b.film-mix1.online
 b.film-smotret.net
@@ -40366,6 +40369,7 @@ c.bobfilm-hd.ru
 c.cinema-24.net
 c.ekaxxx.net
 c.errorsseedsspb.com
+c.euroseeds.nl
 c.fantasy-worlds.org
 c.film-v.ru
 c.genotech.site
@@ -49561,6 +49565,7 @@ diplomusattestati.com
 diplomusattestats.com
 diplomuskir.com
 diplomusnsk.com
+diplomusntg.com
 diplomusspb.com
 diplomuu.com
 diplomux.com
@@ -49599,6 +49604,7 @@ diplomyrussianus.com
 diplomys-24.com
 diplomys-best.com
 diplomys-grz.com
+diplomys-krg.com
 diplomys-ntg.com
 diplomysattestati.com
 diplomysattestaty.com
@@ -64011,6 +64017,7 @@ hydra2web.support
 hydra2webb.com
 hydra2webc.com
 hydra2webe.com
+hydra3rudf3j4amf.com
 hydra3rudf3j4hww.a-onion.com
 hydra3rudf3j4hww.b-onion.com
 hydra3rudf3j4hww.c-onion.com
@@ -81229,6 +81236,7 @@ m.smotret-hd-filmy.online
 m.smotretfilmi.ru
 m.smotrisport.video
 m.spbabai.ru
+m.spirt-mag-cd.site
 m.sportingbullru152.com
 m.superslots-casino.net
 m.tbccwpq.space
@@ -110436,6 +110444,7 @@ prorutorg.ru
 proscribe.website
 prosex63.com
 proshnurki.ru
+prosmotr.live
 prosportline.online
 prosportt.ru
 prostavkinasport.net
@@ -138428,7 +138437,6 @@ vkluchitv55.net
 vkluchitv557.com
 vkluchitv577.com
 vkluchitv578.com
-vkmp3.ru
 vkmp3n.ru
 vkmp3s.pro
 vkmusic24.ru
@@ -150273,6 +150281,7 @@ www.kino-v-dome.net
 www.kino-youtube.ru
 www.kino-zona.info
 www.kino.go.kg
+www.kino.hdbomba.ru
 www.kino.promo
 www.kino24-7.ru
 www.kino2go.net
@@ -153194,7 +153203,6 @@ www.vk-sound.ru
 www.vkbets.com
 www.vkdiz.ru
 www.vkino-tv.ru
-www.vkmp3.ru
 www.vkovk.ru
 www.vlilkuz.com
 www.vlk-russ.ru
