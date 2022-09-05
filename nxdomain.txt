@@ -3408,6 +3408,7 @@
 1grandwulcan.club
 1grandwulkan.club
 1grandwulkan.online
+1grat.ru-cas1nos.com
 1greatbkmbet.win
 1greatmbet.win
 1grndcasino.club
@@ -18483,13 +18484,15 @@ ARRAY(0x8357ab600)
 ARRAY(0x835ff4e58)
 ARRAY(0x836053360)
 ARRAY(0x836c34288)
+ARRAY(0x8374b1af8)
 ARRAY(0x8378cfee8)
+ARRAY(0x839787fd8)
 ARRAY(0x839886678)
 ARRAY(0x839a25450)
 ARRAY(0x83cd3b7f8)
 ARRAY(0x83cfd7d80)
+ARRAY(0x83d645318)
 ARRAY(0x83dbbefc0)
-ARRAY(0x83e32abb8)
 ARRAY(0x83ea9a660)
 ARRAY(0x83eb41a20)
 ARRAY(0x83f2cee10)
@@ -18510,7 +18513,6 @@ ARRAY(0x8b40b3450)
 ARRAY(0x8b4528240)
 ARRAY(0x8b48fcac8)
 ARRAY(0x8b5c28300)
-ARRAY(0x8b603bc48)
 ARRAY(0x8b889f978)
 ARRAY(0x8b8dcd348)
 ARRAY(0x8b939c4f8)
@@ -18518,7 +18520,6 @@ ARRAY(0x8b981d0c0)
 ARRAY(0x8bb185a38)
 ARRAY(0x8bb4b2120)
 ARRAY(0x8bd4c3318)
-ARRAY(0x8bd8d4510)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -22076,6 +22077,7 @@ akcept-invest.site
 akciicasinoz.info
 akfrs963dyzrw.com
 akhbarshaam.info
+akhbartop.com
 akkredit-78.com
 akksai1b27.com
 aknais.ru
@@ -128097,6 +128099,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
