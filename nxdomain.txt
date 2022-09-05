@@ -10215,7 +10215,6 @@
 1xslots-sb.xyz
 1xslots-slot.online
 1xslots-sn.xyz
-1xslots-vhod.online
 1xslots-zerkalo.openskys.ru
 1xslots.blog
 1xslots.cc
@@ -18432,10 +18431,10 @@ ARRAY(0x836c34288)
 ARRAY(0x8378cfee8)
 ARRAY(0x839a25450)
 ARRAY(0x83bd8f390)
-ARRAY(0x83bf674e0)
 ARRAY(0x83cd3b7f8)
 ARRAY(0x83cfd7d80)
 ARRAY(0x83e32abb8)
+ARRAY(0x83ea9a660)
 ARRAY(0x83eb41a20)
 ARRAY(0x8409982d0)
 ARRAY(0x840e55cc0)
@@ -18444,6 +18443,7 @@ ARRAY(0x8ae40e048)
 ARRAY(0x8aea2dc00)
 ARRAY(0x8aeba0900)
 ARRAY(0x8aebcf420)
+ARRAY(0x8afb05828)
 ARRAY(0x8b01747f8)
 ARRAY(0x8b09dd8a0)
 ARRAY(0x8b0c2c8a0)
@@ -18454,9 +18454,7 @@ ARRAY(0x8b1b8df78)
 ARRAY(0x8b3fab7b0)
 ARRAY(0x8b4528240)
 ARRAY(0x8b4b602b8)
-ARRAY(0x8b5d110c0)
 ARRAY(0x8b603bc48)
-ARRAY(0x8b62d96f0)
 ARRAY(0x8b65fec78)
 ARRAY(0x8b7df7390)
 ARRAY(0x8b7e3d228)
@@ -18464,6 +18462,7 @@ ARRAY(0x8b8dcd348)
 ARRAY(0x8b981d0c0)
 ARRAY(0x8badd6f78)
 ARRAY(0x8bb02e5d0)
+ARRAY(0x8bb185a38)
 ARRAY(0x8bb4b2120)
 ARRAY(0x8bbfef150)
 ARRAY(0x8bd8d4510)
@@ -33530,7 +33529,6 @@ betmel.xyz
 betmem.xyz
 betmfans.ru
 betmig.xyz
-betminer.fun
 betmir.azurewebsites.net
 betmir.biz
 betmir.info
@@ -40401,7 +40399,6 @@ buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy1.qrcode-covid.com
-buy24.viarussia.org
 buyallweedonline.com
 buyersdiplomi.com
 buyhelpspb.ru
@@ -46494,7 +46491,6 @@ cfd.themortgageinvestment.com
 cfd25d.olimpcaf3.top
 cfd6f7.olimp0115.top
 cfdcontract.com
-cfdmining.site
 cfebxris.olimptk63.xyz
 cffltd.com
 cfmelnqbdo.top
@@ -83401,6 +83397,7 @@ masterskayaplatya.ru
 masterstpu.ru
 mastertor.ru
 masvet.online
+maswin.com
 maszyny-hazardowe-a.szczesliwestopki.pl
 maszyny-kasynowe.neobistrokwestiaczasu.pl
 mat4tv.online
@@ -95677,6 +95674,7 @@ my.tntx.ru
 my.topserials-hd.fun
 my.torrentino.org
 my.ultradox.life
+my.ultradox.moscow
 my.usa-broker.com
 my.vim-alliance.ru
 my.zayki-ekb.com
@@ -124232,6 +124230,7 @@ serialhd.mob
 serialhd.org
 serialhit.tv
 serialhype.online
+seriali-online.su
 serialis.club
 serialitut.club
 serialitut.online
@@ -127457,6 +127456,7 @@ slot-v.me
 slot-v.namobile.fun
 slot-v.net
 slot-v.nlofact.com
+slot-v.org
 slot-v.pro
 slot-v.sport-people.club
 slot-v.store
@@ -128024,6 +128024,7 @@ slotsup-en.com
 slotsv-x.com
 slotsv.org
 slotsv.pro
+slotsv.top
 slotsv.win
 slotsvolcano-free.com
 slotsvolcano.org
@@ -128193,6 +128194,7 @@ slotv.foot-bol.com
 slotv.great-stories.club
 slotv.mobi
 slotv.namobile.fun
+slotv.ninja
 slotv.nlofact.com
 slotv.pw
 slotv.sport-people.club
@@ -132158,7 +132160,6 @@ test.lordfilmy.fun
 test.mig-dostavka.ru
 test.trudvam.com
 test.use.startmail.com
-test.web.hdreactor.net
 test.xn--26-2mcaa2c.hdreactor.net
 test1.plusminus.by
 test2.bestwaycoop.com
@@ -135556,6 +135557,7 @@ ultra-film.info
 ultra-promokod.ru
 ultra.tfile.vip
 ultradox.life
+ultradox.moscow
 ultradox.name
 ultradox.online
 ultradox.ru
@@ -151631,6 +151633,7 @@ www.marvel-game.fun
 www.masscoin.ltd
 www.masterklavisha.ru
 www.masterputan.club
+www.maswin.com
 www.mat4tv.online
 www.mat4tv.ru
 www.match-bets.ru
@@ -153061,6 +153064,7 @@ www.russianvulkan.net
 www.russianvulkan.org
 www.russianvulkan.su
 www.russianwebcasino.com
+www.russiapokernews.com
 www.russiavulcan.net
 www.russiavulcan.ru
 www.russkie-filmi.ru
@@ -153381,7 +153385,6 @@ www.sportsbookmarathonbet.win
 www.sprav-ca.co
 www.spravka-mos.net
 www.spravka-v-gibdd.com
-www.spravka-v-samare.ru
 www.spravkap-legko.com
 www.spravkazachas.online
 www.spravki-vam.ru
