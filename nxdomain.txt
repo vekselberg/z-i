@@ -18420,7 +18420,6 @@
 9zm5omo.icu
 ARRAY(0x83436e378)
 ARRAY(0x834929e10)
-ARRAY(0x835274390)
 ARRAY(0x8354d6060)
 ARRAY(0x83565e2d0)
 ARRAY(0x8357ab600)
@@ -18429,14 +18428,15 @@ ARRAY(0x835ff4e58)
 ARRAY(0x836053360)
 ARRAY(0x836c34288)
 ARRAY(0x8378cfee8)
+ARRAY(0x839886678)
 ARRAY(0x839a25450)
-ARRAY(0x83bd8f390)
 ARRAY(0x83cd3b7f8)
 ARRAY(0x83cfd7d80)
 ARRAY(0x83e32abb8)
 ARRAY(0x83ea9a660)
 ARRAY(0x83eb41a20)
 ARRAY(0x8409982d0)
+ARRAY(0x8409d7b58)
 ARRAY(0x840e55cc0)
 ARRAY(0x8adb8dfd8)
 ARRAY(0x8ae40e048)
@@ -18444,7 +18444,6 @@ ARRAY(0x8aea2dc00)
 ARRAY(0x8aeba0900)
 ARRAY(0x8aebcf420)
 ARRAY(0x8afb05828)
-ARRAY(0x8b09dd8a0)
 ARRAY(0x8b0c2c8a0)
 ARRAY(0x8b14f6ac8)
 ARRAY(0x8b1569450)
@@ -18455,16 +18454,14 @@ ARRAY(0x8b48fcac8)
 ARRAY(0x8b4b602b8)
 ARRAY(0x8b603bc48)
 ARRAY(0x8b65fec78)
-ARRAY(0x8b7e3d228)
 ARRAY(0x8b889f978)
 ARRAY(0x8b8dcd348)
 ARRAY(0x8b939c4f8)
 ARRAY(0x8b981d0c0)
-ARRAY(0x8badd6f78)
-ARRAY(0x8bb02e5d0)
 ARRAY(0x8bb185a38)
 ARRAY(0x8bb4b2120)
 ARRAY(0x8bbfef150)
+ARRAY(0x8bd4c3318)
 ARRAY(0x8bd8d4510)
 a-bets63.top
 a-bt56.top
@@ -40399,6 +40396,7 @@ buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy1.qrcode-covid.com
+buy24.viarussia.org
 buyallweedonline.com
 buyersdiplomi.com
 buyhelpspb.ru
@@ -45328,6 +45326,7 @@ casinoudacha.online
 casinoudacha.ru
 casinoukraine.info
 casinoum.ru
+casinout.net
 casinov.guru
 casinov.info
 casinov.org
@@ -107069,6 +107068,7 @@ playfortuna-pro.ru
 playfortuna-pro.xyz
 playfortuna-qg.xyz
 playfortuna-qh.xyz
+playfortuna-qi.xyz
 playfortuna-qo.xyz
 playfortuna-qy.xyz
 playfortuna-rabocheye-zerkalo.artemnow.ru
@@ -107112,7 +107112,9 @@ playfortuna-xu.xyz
 playfortuna-xxx.azurewebsites.net
 playfortuna-xxxx.azurewebsites.net
 playfortuna-yc.xyz
+playfortuna-yh.xyz
 playfortuna-z.azurewebsites.net
+playfortuna-zd.xyz
 playfortuna-ze.xyz
 playfortuna-zerkalo-casino.com
 playfortuna-zf.xyz
@@ -145691,6 +145693,7 @@ webtrader.capitalonemarkets.com
 webtrader.celox.live
 webtrader.concordinvest.cc
 webtrader.crystal-inv.online
+webtrader.dakkengroup.cc
 webtrader.datum-finance-limited.com
 webtrader.fctrading.cc
 webtrader.fenixsgroup.com
