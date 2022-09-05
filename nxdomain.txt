@@ -18444,21 +18444,21 @@ ARRAY(0x8aea2dc00)
 ARRAY(0x8aeba0900)
 ARRAY(0x8aebcf420)
 ARRAY(0x8afb05828)
-ARRAY(0x8b01747f8)
 ARRAY(0x8b09dd8a0)
 ARRAY(0x8b0c2c8a0)
 ARRAY(0x8b14f6ac8)
 ARRAY(0x8b1569450)
 ARRAY(0x8b18afe70)
 ARRAY(0x8b1b8df78)
-ARRAY(0x8b3fab7b0)
 ARRAY(0x8b4528240)
+ARRAY(0x8b48fcac8)
 ARRAY(0x8b4b602b8)
 ARRAY(0x8b603bc48)
 ARRAY(0x8b65fec78)
-ARRAY(0x8b7df7390)
 ARRAY(0x8b7e3d228)
+ARRAY(0x8b889f978)
 ARRAY(0x8b8dcd348)
+ARRAY(0x8b939c4f8)
 ARRAY(0x8b981d0c0)
 ARRAY(0x8badd6f78)
 ARRAY(0x8bb02e5d0)
@@ -31229,6 +31229,7 @@ bbekmf.top
 bbetplay.xyz
 bbfilms.org
 bbfour.ru
+bbitbucket.io
 bbitxnol.olimppj20.xyz
 bbk.sdnmoviess.biz
 bbl-company.ru
@@ -38819,7 +38820,6 @@ blog.d.freehd.com.ua
 blog.dashboard.freehd.com.ua
 blog.dc0pq4mfj53liwm.freehd.com.ua
 blog.dev.6l6hicfquflzhbt.freehd.com.ua
-blog.dev.forum.hdreactor.net
 blog.eml.freehd.com.ua
 blog.eu2.hdreactor.net
 blog.extranet.freehd.com.ua
@@ -48863,6 +48863,7 @@ darknet.capital
 darknet.center
 darknet.cx
 darknet.group
+darknet.rutor.nl
 darknet.works
 darknetnews.top
 darkruss-shop.xyz
@@ -49355,6 +49356,7 @@ dev.3grxmirgrip7s5o.freehd.com.ua
 dev.5p9jjzbew2cq7fo.freehd.com.ua
 dev.7qqvwuah1st9uku.freehd.com.ua
 dev.www.vpn.freehd.com.ua
+dev.xn--q1a4d.hdreactor.net
 deva.2dosug.com
 deva.dosug74.info
 developmediaplay.win
@@ -58110,6 +58112,7 @@ ftp.online-bigcinema.net
 ftp.sledyss63.com
 ftp.vabankclub.email
 ftp0.ru
+ftp5.netco.uz
 ftpuotbs.space
 ftpvuuff.fun
 fu.kinogood.me
@@ -63874,7 +63877,6 @@ holoheadsetsdeals.com
 holostiak-netv.ru
 holostiak.su
 holostyak-2020.site
-holostyak-news.ru
 holostyak-online-tnt.ru
 holostyak-online.ru
 holostyak-online.site
@@ -64494,6 +64496,7 @@ i.fantasy-worlds.org
 i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
+i.inter-apteka.ru
 i.itorrents-igruha.org
 i.jenery.ru
 i.lordfilm-smotret.one
@@ -67272,6 +67275,7 @@ jbmlinks.net
 jbn3hjdhb.com
 jbssmsthhbd.com
 jbuv4dmpa.icu
+jbvip.top
 jbvj6-azinomobile.icu
 jbwrdtdg.olimpbzm3.xyz
 jbxzg.top
@@ -82759,6 +82763,7 @@ marathonforwin.win
 marathonfreebet.win
 marathongame.win
 marathongobet.win
+marathongocoolbet.win
 marathongood.win
 marathongraphics.win
 marathongreat.win
@@ -94607,6 +94612,7 @@ msk19.euro-doktor24.com
 msk19.euro-lekarstva.com
 msk2.devchonki.vip
 msk2.individualki-pro.com
+msk2.suksilep-24.com
 msk20.euro-doktor24.com
 msk20.euro-lekarstva.com
 msk21.euro-doktor24.com
@@ -96225,6 +96231,7 @@ nakurse.net
 nalave.azurewebsites.net
 nalave1.com
 nalave10.com
+nalave11.com
 nalave17.com
 nalave18.com
 nalave19.com
@@ -122622,6 +122629,7 @@ rutor.mytorr.club
 rutor.mytorr.info
 rutor.name
 rutor.net.ru
+rutor.nl
 rutor.nxshock.me
 rutor.online
 rutor.org.pl
@@ -123687,7 +123695,6 @@ sb43nepe78ea5ce.com
 sba22.ru
 sbcasino.net
 sbchernov.ru
-sbd788.hdreactor.net
 sbelbet.xyz
 sbepbet.xyz
 sber-logistika.ru
@@ -127225,7 +127232,29 @@ slot-g-3.xyz
 slot-g-4.xyz
 slot-g-5.xyz
 slot-g.azurewebsites.net
+slot-g.bbitbucket.io
+slot-g1.bbitbucket.io
 slot-g1.ru
+slot-g10.bbitbucket.io
+slot-g11.bbitbucket.io
+slot-g12.bbitbucket.io
+slot-g13.bbitbucket.io
+slot-g14.bbitbucket.io
+slot-g15.bbitbucket.io
+slot-g16.bbitbucket.io
+slot-g17.bbitbucket.io
+slot-g18.bbitbucket.io
+slot-g19.bbitbucket.io
+slot-g2.bbitbucket.io
+slot-g20.bbitbucket.io
+slot-g21.bbitbucket.io
+slot-g3.bbitbucket.io
+slot-g4.bbitbucket.io
+slot-g5.bbitbucket.io
+slot-g6.bbitbucket.io
+slot-g7.bbitbucket.io
+slot-g8.bbitbucket.io
+slot-g9.bbitbucket.io
 slot-game-interwin.sidewinders.info
 slot-game-y8.ccleaner-ru.info
 slot-games-777-online.giroworld.ru
@@ -132160,7 +132189,6 @@ test.lordfilmy.fun
 test.mig-dostavka.ru
 test.trudvam.com
 test.use.startmail.com
-test.xn--26-2mcaa2c.hdreactor.net
 test1.plusminus.by
 test2.bestwaycoop.com
 testgame.fun
@@ -151562,6 +151590,7 @@ www.marathonforbet.win
 www.marathonforwin.com
 www.marathonfreebet.win
 www.marathongobet.win
+www.marathongocoolbet.win
 www.marathongood.win
 www.marathonia.win
 www.marathonlike.win
