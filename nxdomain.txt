@@ -18422,6 +18422,7 @@
 ARRAY(0x83436e378)
 ARRAY(0x834929e10)
 ARRAY(0x835274390)
+ARRAY(0x8354d6060)
 ARRAY(0x83565e2d0)
 ARRAY(0x8357ab600)
 ARRAY(0x835fcf420)
@@ -18432,9 +18433,10 @@ ARRAY(0x8378cfee8)
 ARRAY(0x839a25450)
 ARRAY(0x83bd8f390)
 ARRAY(0x83bf674e0)
+ARRAY(0x83cd3b7f8)
 ARRAY(0x83cfd7d80)
 ARRAY(0x83e32abb8)
-ARRAY(0x8405bb258)
+ARRAY(0x83eb41a20)
 ARRAY(0x8409982d0)
 ARRAY(0x840e55cc0)
 ARRAY(0x8adb8dfd8)
@@ -18442,7 +18444,6 @@ ARRAY(0x8ae40e048)
 ARRAY(0x8aea2dc00)
 ARRAY(0x8aeba0900)
 ARRAY(0x8aebcf420)
-ARRAY(0x8b00d2870)
 ARRAY(0x8b01747f8)
 ARRAY(0x8b09dd8a0)
 ARRAY(0x8b0c2c8a0)
@@ -18466,7 +18467,6 @@ ARRAY(0x8bb02e5d0)
 ARRAY(0x8bb4b2120)
 ARRAY(0x8bbfef150)
 ARRAY(0x8bd8d4510)
-ARRAY(0x8bdbaca98)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -18528,6 +18528,7 @@ a.body-pharm1.top
 a.bonbon.fun
 a.cash-voucher.info
 a.casino-mask-2.xyz
+a.casino-x.com
 a.chelyabinska-xdosug.ru
 a.doc-day.com
 a.dosug-izhevsk.com
@@ -18568,6 +18569,7 @@ a.intfilm.online
 a.irkutsk-nb.info
 a.ivanovo-nb.info
 a.izhevsk-nb.info
+a.joycasino.com
 a.kazanbabes.com
 a.kino-craft.net
 a.kino-onlinego.website
@@ -29554,6 +29556,7 @@ b.girlskrasnoyarsk.com
 b.girlsvoronezh.com
 b.hdfilmz720.online
 b.indi27.com
+b.joycasino.com
 b.kazanbabes.com
 b.kino-craft.net
 b.kinogo.wtf
@@ -64495,7 +64498,6 @@ i.fantasy-worlds.org
 i.filmy-2020.online
 i.gidonline-2156.site
 i.info.betcityaccess.com
-i.inter-apteka.ru
 i.itorrents-igruha.org
 i.jenery.ru
 i.lordfilm-smotret.one
@@ -107126,6 +107128,7 @@ playfortuna.kz
 playfortuna.media
 playfortuna.net.ru
 playfortuna.news
+playfortuna.org.ru
 playfortuna.pink
 playfortuna.plus
 playfortuna.press
@@ -123686,7 +123689,6 @@ sb43nepe78ea5ce.com
 sba22.ru
 sbcasino.net
 sbchernov.ru
-sbd483.hdreactor.net
 sbd788.hdreactor.net
 sbelbet.xyz
 sbepbet.xyz
@@ -128758,7 +128760,6 @@ soft-i-provaydery-kazino-playfortuna.ccleaner-ru.info
 soft-like.ru
 soft.onlinekinomix.ru
 softa-mnogo.ru
-softall.ru
 softkachaem.ru
 softorr.ru
 sofvel.ml
@@ -130926,7 +130927,6 @@ startmbetbest.top
 startpark.ru
 startplayit.com
 startup-invest.net
-staryeprostitutkivoronezha.men
 staryye-igrovyye-apparaty-novomatik.pochemu-otchego.info
 staryye-igrovyye-avtomaty-spisok.prezident-an.ru
 stat.bkfonbet.com
@@ -151827,6 +151827,7 @@ www.moksha-kuban.ru
 www.monalisa-tour.ru
 www.moneyazart.net
 www.moneymd.club
+www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
@@ -155066,6 +155067,7 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
