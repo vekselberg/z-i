@@ -10681,6 +10681,7 @@
 2021falsh.xyz
 2021hd.online
 2021kino.ru
+2021xbet.xyz
 2022-joycasino.xyz
 2023-joycasino.xyz
 2024-joycasino.xyz
@@ -18504,6 +18505,7 @@ ARRAY(0x8358f7b70)
 ARRAY(0x8359a8d80)
 ARRAY(0x8366ef558)
 ARRAY(0x8374b1af8)
+ARRAY(0x837f37240)
 ARRAY(0x838951510)
 ARRAY(0x838da54c8)
 ARRAY(0x839787fd8)
@@ -18514,6 +18516,7 @@ ARRAY(0x83a3370c0)
 ARRAY(0x83a862bb8)
 ARRAY(0x83c0d4708)
 ARRAY(0x83c3eff90)
+ARRAY(0x83d589240)
 ARRAY(0x83d645318)
 ARRAY(0x83dbbefc0)
 ARRAY(0x83e116c90)
@@ -18524,19 +18527,17 @@ ARRAY(0x8409d7b58)
 ARRAY(0x8ae27fd38)
 ARRAY(0x8aef28f30)
 ARRAY(0x8afbeaa80)
+ARRAY(0x8b0550c30)
 ARRAY(0x8b12db360)
 ARRAY(0x8b1e2c108)
 ARRAY(0x8b2d689f0)
 ARRAY(0x8b40b3450)
 ARRAY(0x8b46d2108)
-ARRAY(0x8b48fcac8)
 ARRAY(0x8b497afc0)
 ARRAY(0x8b5281858)
 ARRAY(0x8b5c28300)
 ARRAY(0x8b5cdfe40)
 ARRAY(0x8b6248d20)
-ARRAY(0x8b889f978)
-ARRAY(0x8b939c4f8)
 ARRAY(0x8b9d7bb40)
 ARRAY(0x8bb121cd8)
 ARRAY(0x8bbf496c0)
@@ -41238,7 +41239,6 @@ casino-3x-1.xyz
 casino-3x-2.xyz
 casino-3x-5.xyz
 casino-3x-6.xyz
-casino-452.ru
 casino-4k.svetlana-tur.ru
 casino-555.ru
 casino-5555.ru
@@ -45602,6 +45602,7 @@ casinovlcn.online
 casinovlcn1.club
 casinovlkneon.com
 casinovonline.xyz
+casinovostok.io
 casinovs.ru
 casinovulcan-24.top
 casinovulcan-2psh4.ondigitalocean.app
@@ -53181,6 +53182,7 @@ f1.lordfilmx-online.net
 f1.s1.hdpuls.net
 f1.spon.live
 f10.dropmp3.net
+f10.kinogo.live
 f10.kinomodus.xyz
 f10.s1.hdpuls.net
 f1080.info
@@ -53233,6 +53235,7 @@ f2.1080hd7.online
 f2.blacklord.online
 f2.dropmp3.net
 f2.hd1080.bar
+f2.kinogo.live
 f2.kinogood.me
 f2.kinoxa.biz
 f2.lordfilm.name
@@ -53263,6 +53266,7 @@ f2f255.olimp1897.top
 f3.2021-filmaaa.net
 f3.blacklord.online
 f3.hd1080.bar
+f3.kinogo.live
 f3.kinogood.me
 f3.kinoxa.biz
 f3.lordfilm.rest
@@ -53364,6 +53368,7 @@ f7trac56ds1.xyz
 f7zjtrac9bi.site
 f8.blackfilm1.tv
 f8.dropmp3.net
+f8.kinogo.live
 f8.s1.hdpuls.net
 f8.spon.live
 f83c1c.olimp95fc.top
@@ -54368,6 +54373,7 @@ film.kinoblik.online
 film.kinobomba.online
 film.kinobro.online
 film.kinodudka.xyz
+film.kinogo.live
 film.kinolenta.club
 film.kinorubka.online
 film.kinorupka.online
@@ -62040,6 +62046,7 @@ gryazi.doc-avto.life
 gs.lordfilma.online
 gsekvzqy.olimpfi2a.xyz
 gsen42.ru
+gsfbroker.pro
 gsgame.club
 gsjuwoaojead.site
 gslot.org
@@ -64822,9 +64829,7 @@ i.filmy-2020.online
 i.gidonline-2156.site
 i.hdreactor.net
 i.info.betcityaccess.com
-i.inter-apteka.ru
 i.itorrents-igruha.org
-i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -71099,6 +71104,7 @@ katalog-kino.top
 katcrs.win
 kateringspb24.online
 kateringspb24.ru
+katertent.ru
 katev.kz
 katran-games.com
 katushka1.top
@@ -80731,6 +80737,7 @@ lr54tc3game7.com
 lr7w6-azino777.icu
 lrd.lordfilm.tk
 lrdfilm1.xyz
+lrdi.lordfilm3.site
 lrdz1.lordfilm.zone
 lregbukmekersx404.top
 lrflzwcf.site
@@ -101897,6 +101904,7 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
+online.frank-casino.info
 online.game-casinox.net
 online.gidonline-1176.site
 online.gidonline-1228.site
@@ -107759,6 +107767,7 @@ playgames.igry-flash.com
 playgames.kilo-game.net
 playgames.sport-people.club
 playgameser.space
+playgamez.info
 playgrand.info
 playhigh.ru
 playimarkets.space
@@ -132393,6 +132402,7 @@ svyat.cc
 sw.films-2022.top
 sw.kino-onlinego.com
 sw.kino-onlinego.top
+sw3.kinogo.live
 sw66n-azinomobile.icu
 sw6am0jm2pmb.com
 swadbasalon-nk.ru
