@@ -18497,7 +18497,6 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x834199f60)
-ARRAY(0x8354d6060)
 ARRAY(0x8358583c0)
 ARRAY(0x8359a8d80)
 ARRAY(0x8366ef558)
@@ -18511,12 +18510,11 @@ ARRAY(0x83a1f41e0)
 ARRAY(0x83a3370c0)
 ARRAY(0x83a862bb8)
 ARRAY(0x83c0d4708)
-ARRAY(0x83cd3b7f8)
+ARRAY(0x83c3eff90)
 ARRAY(0x83d645318)
 ARRAY(0x83dbbefc0)
 ARRAY(0x83e116c90)
 ARRAY(0x83ea9a660)
-ARRAY(0x83eb41a20)
 ARRAY(0x83f2cee10)
 ARRAY(0x8407eb120)
 ARRAY(0x8409d7b58)
@@ -18526,6 +18524,7 @@ ARRAY(0x8afb05828)
 ARRAY(0x8afbeaa80)
 ARRAY(0x8b12db360)
 ARRAY(0x8b1e2c108)
+ARRAY(0x8b2d689f0)
 ARRAY(0x8b40b3450)
 ARRAY(0x8b46d2108)
 ARRAY(0x8b48fcac8)
@@ -18540,6 +18539,7 @@ ARRAY(0x8b9d7bb40)
 ARRAY(0x8bb121cd8)
 ARRAY(0x8bb185a38)
 ARRAY(0x8bbf496c0)
+ARRAY(0x8bd22f078)
 ARRAY(0x8bd4c3318)
 a-bets63.top
 a-bt56.top
@@ -51168,6 +51168,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e105.fisher-1.ru
 e108.fisher-1.ru
 e109.fisher-1.ru
 e1152ad.icu
@@ -53143,6 +53144,7 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
+f002.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -62850,6 +62852,7 @@ hd.lorafilm.mobi
 hd.lord-film.com
 hd.lord-film.tech
 hd.lord-filmse.ru
+hd.lord.guru
 hd.lord1film3.club
 hd.lordffilm.site
 hd.lordfiilms.bid
@@ -79981,6 +79984,7 @@ lordfilms.lord-film.live
 lordfilms.lordfilm.uk
 lordfilms.lordfilm.wine
 lordfilms.pp.ru
+lordfilms.sbs
 lordfilms.shop
 lordfilms.su
 lordfilms.tax
@@ -80111,10 +80115,12 @@ lordsfilms.fun
 lordsfilms.gold
 lordsfilms.name
 lordsfilms.net
+lordsfilms.one
 lordsfilms.pro
 lordsfilms.pw
 lordsfilms.su
 lordsfilms.vip
+lordsfilms.work
 lordsfilms.xyz
 lordsfilms1.xyz
 lordsfilms3.club
@@ -107524,7 +107530,6 @@ playfortuna.kz
 playfortuna.media
 playfortuna.net.ru
 playfortuna.news
-playfortuna.org.ru
 playfortuna.pink
 playfortuna.plus
 playfortuna.press
@@ -122182,6 +122187,7 @@ ru13.djeneriki.biz
 ru14.djeneriki.biz
 ru15.djeneriki.biz
 ru16.djeneriki.biz
+ru17.djeneriki.biz
 ru1anxdcdo.top
 ru1music.com
 ru1x-24x7.com
@@ -123465,6 +123471,7 @@ s1.serialy.vip
 s1.sharewood.bz
 s1.sharewood.xyz
 s1.skladchik.bet
+s1.slivmk.com
 s1.slivup.ch
 s1.slivup.me
 s1.smokgames.pw
@@ -134728,6 +134735,7 @@ tradersroom.ginvestco.org
 tradersroom.investmentbay.com
 tradersroom.metastocks.in
 tradersroom.monobroker.net
+tradersroom.nano-trade.biz
 tradersroom.prenux.com
 tradersroom.tradingapp.cc
 tradersroom.tradingapp.pro
@@ -146390,6 +146398,7 @@ webtrader.leuminvest.com
 webtrader.marketbull.co.uk
 webtrader.metastocks.org
 webtrader.my24-coin.com
+webtrader.nano-trade.biz
 webtrader.orbitrade.cc
 webtrader.prenux.com
 webtrader.royalstat.net
@@ -149325,7 +149334,6 @@ www.astecunderground.ru
 www.astrokod.ru
 www.astros3.xyz
 www.asu-spb.ru
-www.asuss.gob.bo
 www.ataxi.com.ua
 www.audio-lib.ru
 www.audiokniga.in
@@ -152567,7 +152575,6 @@ www.moksha-kuban.ru
 www.monalisa-tour.ru
 www.moneyazart.net
 www.moneymd.club
-www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
@@ -156163,6 +156170,7 @@ x93gxh1mst.com
 x9bnrh7.icu
 x9xj30s.icu
 x9ytowg.icu
+xa.lordfilms.sbs
 xa.lordfilmsbs.com
 xa0tk-azinomobile.icu
 xabarovsk.metanruss.com
@@ -156200,6 +156208,7 @@ xazinox-777.azurewebsites.net
 xazinox777.azurewebsites.net
 xazinox777.online
 xb.filmhd1080.net
+xb.lordfilms.sbs
 xb.lordfilmsbs.com
 xb40mo5.icu
 xb64q-azino777.icu
