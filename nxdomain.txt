@@ -15690,6 +15690,7 @@
 702joycasino.com
 703acc.olimpd7c0.top
 703joycasino.com
+7046.info
 704joycasino.com
 705f85.olimp6753.top
 705joycasino.com
@@ -18508,6 +18509,7 @@ ARRAY(0x8359a8d80)
 ARRAY(0x8366ef558)
 ARRAY(0x837423ae0)
 ARRAY(0x8374b1af8)
+ARRAY(0x837b91d50)
 ARRAY(0x837f37240)
 ARRAY(0x838951510)
 ARRAY(0x838da54c8)
@@ -18522,11 +18524,9 @@ ARRAY(0x83c34e7f8)
 ARRAY(0x83c3eff90)
 ARRAY(0x83d589240)
 ARRAY(0x83d645318)
-ARRAY(0x83dbbefc0)
 ARRAY(0x83e116c90)
 ARRAY(0x83e4c3f90)
 ARRAY(0x84030f7f8)
-ARRAY(0x8407eb120)
 ARRAY(0x8ae27fd38)
 ARRAY(0x8aef28f30)
 ARRAY(0x8afbeaa80)
@@ -18535,15 +18535,16 @@ ARRAY(0x8b12db360)
 ARRAY(0x8b157e570)
 ARRAY(0x8b1e2c108)
 ARRAY(0x8b2d689f0)
-ARRAY(0x8b40b3450)
 ARRAY(0x8b46d2108)
 ARRAY(0x8b497afc0)
 ARRAY(0x8b5281858)
 ARRAY(0x8b5cdfe40)
 ARRAY(0x8b6248d20)
+ARRAY(0x8b71c2600)
 ARRAY(0x8b9d7bb40)
 ARRAY(0x8bb121cd8)
 ARRAY(0x8bbf496c0)
+ARRAY(0x8bc015d08)
 ARRAY(0x8bd22f078)
 a-bets63.top
 a-bt56.top
@@ -36202,6 +36203,7 @@ bezdepbonus2021.azurewebsites.net
 bezdepbonusabsolut777.com
 bezdepbonuses.com
 bezdepbonusrussia.com
+bezdepcasino.azurewebsites.net
 bezdepcasino.fun
 bezdepcasino.info
 bezdepcasino.name
@@ -39554,6 +39556,7 @@ bonustavkazlno.com
 bonustawkazina.com
 bonustawkazino.com
 bonustawkazino.ru
+bonustop.azurewebsites.net
 bonustop.site
 bonustop.space
 bonustopcasino.site
@@ -40270,6 +40273,7 @@ bt34.top
 bt569.top
 btbkmarathon.win
 btc-gn.com
+btc-gn.net
 btc100.club
 btct-zerkalo11eth.ru
 btct-zerkalo1eds3.ru
@@ -44649,6 +44653,7 @@ casinobonus7.ru
 casinobonus777.pw
 casinobonus777.space
 casinobonuses.azurewebsites.net
+casinobonusi.azurewebsites.net
 casinobonusi.me
 casinobonusi.pro
 casinobonuska.com
@@ -111754,6 +111759,7 @@ prostitutkiomskafine.info
 prostitutkiomskafine.org
 prostitutkiomskago.net
 prostitutkiomskagood.info
+prostitutkiomskahappy.org
 prostitutkiomskaher.info
 prostitutkiomskahot.net
 prostitutkiomskalet.info
@@ -112989,6 +112995,7 @@ r-casiino.me
 r-casiino.site
 r-casinio.me
 r-casino-5g6ml.ondigitalocean.app
+r-casino.azurewebsites.net
 r-casino.info
 r-casino.org
 r-casino.pro
@@ -130997,6 +131004,7 @@ spravka-1.online
 spravka-bassein1.ru
 spravka-blank.online
 spravka-center.ru
+spravka-clinica.ru
 spravka-dlja-gibdd.com
 spravka-dlya-gibdd.com
 spravka-doctor.net
@@ -132202,6 +132210,7 @@ superslotsonline.net
 superslotsonline.ru
 superslotstv.sotterra.ru
 superspin-casino.shop
+superspin.azurewebsites.net
 supersslots-casino.ru
 supersslots.ru
 supersslots.xyz
@@ -132773,6 +132782,7 @@ teacupcake.ru
 tealbckmst.com
 teambetmarathon.win
 teambrave.ru
+teapetece.net
 teaplay.ru
 teapoys.online
 teatr-turandot.ru
@@ -151392,6 +151402,7 @@ www.hd720.tv
 www.hdkinohit.com
 www.hdkinopolosa.ru
 www.hdkinoset.info
+www.hdkinoset.org
 www.hdkinosite.ru
 www.hdkinozor.ru
 www.hdmob.ru
@@ -158221,6 +158232,7 @@ zanoscasino.com
 zanosfm.com
 zanosfm.ru
 zanosg.awlift.com
+zanosi-v-slotax.azurewebsites.net
 zanosi-v-slotax.site
 zanosi.net
 zanosi.su
