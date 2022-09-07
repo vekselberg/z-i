@@ -18580,9 +18580,10 @@
 ARRAY(0x8337aba20)
 ARRAY(0x8338daf60)
 ARRAY(0x833dda6c0)
+ARRAY(0x834430eb8)
+ARRAY(0x834815e58)
 ARRAY(0x8349a13d8)
 ARRAY(0x834fbf108)
-ARRAY(0x837b91d50)
 ARRAY(0x83834a990)
 ARRAY(0x838d1b138)
 ARRAY(0x8399f7c90)
@@ -18610,7 +18611,6 @@ ARRAY(0x8b5b9a480)
 ARRAY(0x8b5f29840)
 ARRAY(0x8b6120648)
 ARRAY(0x8b6437ac8)
-ARRAY(0x8b71c2600)
 ARRAY(0x8b77a1138)
 ARRAY(0x8b88700a8)
 ARRAY(0x8b8a80c30)
@@ -18618,9 +18618,9 @@ ARRAY(0x8b9b0e030)
 ARRAY(0x8ba4fb0d8)
 ARRAY(0x8bad063c0)
 ARRAY(0x8bad12de0)
-ARRAY(0x8bc015d08)
 ARRAY(0x8bd4b8138)
 ARRAY(0x8bd7cfa98)
+ARRAY(0x8bd956af8)
 ARRAY(0x8bdc16e58)
 a-bets63.top
 a-bt56.top
@@ -61450,6 +61450,7 @@ gor1lla.com
 gorafilmov.online
 gorafilmov.su
 gorc.biz
+gorchiza.com
 gore.tube
 gorila.tryserialmik.online
 gorizont-hm.ru
@@ -63940,6 +63941,7 @@ hdrezka.strashnye-skazki.com
 hdrezka.stream
 hdrezka.surf
 hdrezka.sverhestestvenoe-lost.com
+hdrezka.tk
 hdrezka.top
 hdrezka.ubivaja-evu.com
 hdrezka.vserialsoul.online
@@ -64973,6 +64975,7 @@ i.hdreactor.net
 i.info.betcityaccess.com
 i.inter-apteka.ru
 i.itorrents-igruha.org
+i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -110589,6 +110592,7 @@ pokerdom-official-site1.win
 pokerdom-official-site2.win
 pokerdom-official.azurewebsites.net
 pokerdom-official.casino
+pokerdom-official.pro
 pokerdom-official.pw
 pokerdom-official.tech
 pokerdom-official1.azurewebsites.net
@@ -142362,6 +142366,7 @@ vulkan-igrovoyclub.com
 vulkan-igrovye-apparaty.info
 vulkan-igrovye-avtomaty-besplatno4.online
 vulkan-igrovye-avtomaty-besplatno5.online
+vulkan-igrovye-avtomaty-besplatno6.online
 vulkan-igrovye-avtomaty-na-realnye-dengi.upcasinor-tmmvulkan.info
 vulkan-igrovye-avtomaty.azurewebsites.net
 vulkan-igrovye-avtomaty.itdist.ru
