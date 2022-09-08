@@ -5177,7 +5177,6 @@
 1wszj.top
 1wtbzl.xyz
 1wtdp.top
-1wtei.top
 1wtgc.me
 1wtgr.top
 1wtgt.me
@@ -6227,13 +6226,11 @@
 1xbet-2020-go.website
 1xbet-2021.top
 1xbet-2021.xyz
-1xbet-2022.top
 1xbet-2022.xyz
 1xbet-20s.site
 1xbet-21.xyz
 1xbet-21e.xyz
 1xbet-21w.site
-1xbet-228015.top
 1xbet-22e.xyz
 1xbet-240589.top
 1xbet-245646.top
@@ -6341,8 +6338,6 @@
 1xbet-6q.xyz
 1xbet-6w.xyz
 1xbet-6y.xyz
-1xbet-743818.top
-1xbet-771240.top
 1xbet-7a.xyz
 1xbet-7b.top
 1xbet-7b.xyz
@@ -6367,7 +6362,6 @@
 1xbet-7y.xyz
 1xbet-7z.xyz
 1xbet-800177.top
-1xbet-827094.top
 1xbet-88.xyz
 1xbet-8b.top
 1xbet-8m.xyz
@@ -18397,8 +18391,8 @@ ARRAY(0x834bd72a0)
 ARRAY(0x835b92a08)
 ARRAY(0x8367a99d8)
 ARRAY(0x83709c678)
+ARRAY(0x8377b0510)
 ARRAY(0x837f02f60)
-ARRAY(0x8399f7c90)
 ARRAY(0x839d99a08)
 ARRAY(0x83a6c8df8)
 ARRAY(0x83b922528)
@@ -18409,6 +18403,7 @@ ARRAY(0x83e73b900)
 ARRAY(0x83f274dc8)
 ARRAY(0x83f2ddf60)
 ARRAY(0x84005e480)
+ARRAY(0x84075bcf0)
 ARRAY(0x840a7c720)
 ARRAY(0x8416aa420)
 ARRAY(0x841a18408)
@@ -18417,15 +18412,14 @@ ARRAY(0x8b02d1eb8)
 ARRAY(0x8b165cd98)
 ARRAY(0x8b173cbd0)
 ARRAY(0x8b273c6f0)
-ARRAY(0x8b2f82c00)
 ARRAY(0x8b328ee40)
 ARRAY(0x8b38d9a20)
 ARRAY(0x8b476ccc0)
 ARRAY(0x8b50a22e8)
-ARRAY(0x8b6120648)
 ARRAY(0x8b6122b40)
 ARRAY(0x8b6374f48)
 ARRAY(0x8b7fe4048)
+ARRAY(0x8b83e0978)
 ARRAY(0x8bb57fa20)
 ARRAY(0x8bd7cfa98)
 ARRAY(0x8bd956af8)
@@ -49791,7 +49785,6 @@ diplomakupi.com
 diplomakus24.com
 diploman-services.com
 diplomanof.com
-diplomany-russia24.com
 diplomany-russian24.com
 diplomap-v-tule.com
 diplomas-best.com
@@ -52943,7 +52936,6 @@ exmelvlado.top
 expandmediaplay.win
 expandmywealth.online
 expandmywealth.site
-expert-2ndfl.xyz
 expert-casino1.online
 expert2ndfl.xyz
 expertelektrik.online
@@ -62040,7 +62032,6 @@ gumisiebochnia.pl
 gunaps.com
 gunmark.site
 gunniepm.com
-guns-sell.ru
 gunsbet-casino.su
 gunsbets.xyz
 gunza-sell.ru
@@ -67029,7 +67020,6 @@ istreamer.ru
 isves.ru
 isvui-azinomobile.icu
 isznv-azinomobile.icu
-it-click.net
 it-stop.ru
 it.elektroschetchiki.com
 italiabet.ru
@@ -74547,6 +74537,7 @@ kinooscar.pro
 kinooxa.ru
 kinopack-online.ru
 kinopad.net
+kinopad.org
 kinopad.ru
 kinopalma.me
 kinopanel.ru
@@ -84986,7 +84977,6 @@ mediik-centr.com
 medik2.ru
 medik61.ru
 medikals-centry-online.com
-medikals-profil-centr.com
 medikals-profily-centr.com
 medikals-profily-centrum.com
 medikdoktor.online
@@ -90079,7 +90069,6 @@ mos.diplomshops24.com
 mos.kupit-magnity.ru
 mos.luxdiplomi.com
 mos.n-magniti.ru
-mos.top-diplomz.com
 mos1stoopsssbet63.xyz
 mos2tbatlt.xyz
 mos3stoopsssbet111.xyz
@@ -98126,7 +98115,6 @@ newpoker365.ru
 newpoker4.ru
 newpokerpro.ru
 newq.lortfilm.cc
-newrush.top
 newrutor.net.pl
 newrutor.org.pl
 newrutor.tech
@@ -106977,6 +106965,8 @@ play.club-casino-vulkan.info
 play.club-casino-vulkan.org
 play.club-vulcan-777.ru
 play.club-vulkan-casino.online
+play.columbuscasinobest.net
+play.columbuscasinogo.net
 play.crazy-monkey.in
 play.drift-casinotop.com
 play.driftcasino-info.com
@@ -126702,7 +126692,6 @@ sex3.prostitutkiomska365.bid
 sex3.prostitutkiomskaintim.org
 sex3.prostitutkiorla2021.net
 sex3.prostitutkiorlaget.net
-sex3.prostitutkiorlaintim.net
 sex3.prostitutkipenzycase.info
 sex3.prostitutkipenzyget.info
 sex3.prostitutkipenzyher.com
@@ -130088,6 +130077,7 @@ spb-diplomuz-178.com
 spb-diplomyz-178.com
 spb-diplomz.com
 spb-diplus.com
+spb-dpl.com
 spb-kupit-snus.site
 spb-magazin-dzhenerik.xyz
 spb-mfc.site
@@ -132540,6 +132530,7 @@ taganrog.texdk.org
 taho43.ru
 tahub49pzgd.com
 tailhic.com
+taiz.kinotazz.online
 tajczy.ru
 tajtheog.space
 takeawin.net
@@ -133982,7 +133973,6 @@ topratingcasino.tk
 topratingcasino1.info
 toprekord.xyz
 toprkncasino.ru
-toprupornovideo.cc
 toprutor.ru
 toprutorg.ru
 tops-casino-2021.azurewebsites.net
@@ -135804,7 +135794,6 @@ tyulgan.fit-activplus.ru
 tyulpanovskoe-sp.ru
 tyumen-farm.ru
 tyumen-kupit-snus.fun
-tyumen-kupit-snus.xyz
 tyumen-medic.ru
 tyumen.annabolrus.com
 tyumen.auto-doki.life
@@ -138708,7 +138697,6 @@ vd24.biz
 vd6q2xysn5bemb.com
 vd9wd-azino777.host
 vdaclub.site
-vdagestan.info
 vdagestan.net
 vdamotta.org
 vdb.awmzone.pro
