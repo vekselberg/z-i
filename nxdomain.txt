@@ -8675,6 +8675,7 @@
 1xgames-online.site
 1xgames-ru.ru
 1xgames.one
+1xgames.site
 1xgames.wiki
 1xgames1.top
 1xgames10.top
@@ -18378,19 +18379,20 @@ ARRAY(0x835296888)
 ARRAY(0x835c92018)
 ARRAY(0x8365548d0)
 ARRAY(0x837d1a108)
+ARRAY(0x8381ca330)
 ARRAY(0x838620720)
 ARRAY(0x838cb5450)
 ARRAY(0x8392a1810)
 ARRAY(0x83a0bf990)
+ARRAY(0x83a45ddc8)
 ARRAY(0x83aa9d3f0)
 ARRAY(0x83b177ae0)
 ARRAY(0x83b7b70f0)
 ARRAY(0x83ba558e8)
 ARRAY(0x83df3cfd8)
-ARRAY(0x83e28cb88)
 ARRAY(0x83e3be7f8)
 ARRAY(0x83eeb2e70)
-ARRAY(0x8403563d8)
+ARRAY(0x841503048)
 ARRAY(0x841961cf0)
 ARRAY(0x8b021ffd8)
 ARRAY(0x8b05e79c0)
@@ -18403,7 +18405,6 @@ ARRAY(0x8b2ccf540)
 ARRAY(0x8b2f63c90)
 ARRAY(0x8b3bb38a0)
 ARRAY(0x8b4f42f48)
-ARRAY(0x8b6961c48)
 ARRAY(0x8b6e18888)
 ARRAY(0x8b76a7588)
 ARRAY(0x8b81f30a8)
@@ -22510,6 +22511,7 @@ alkonapitkoff112.xyz
 alkonapitkoff113.xyz
 alkonapitkoff115.xyz
 alkonapitkoff116.xyz
+alkonapitkoff119.xyz
 alkonapitkoff124.xyz
 alkonice0111.online
 alkonice0111.ru
@@ -36097,7 +36099,6 @@ bezdepbonus2021.azurewebsites.net
 bezdepbonusabsolut777.com
 bezdepbonuses.com
 bezdepbonusrussia.com
-bezdepcasino.azurewebsites.net
 bezdepcasino.fun
 bezdepcasino.info
 bezdepcasino.name
@@ -39440,7 +39441,6 @@ bonustavkazlno.com
 bonustawkazina.com
 bonustawkazino.com
 bonustawkazino.ru
-bonustop.azurewebsites.net
 bonustop.site
 bonustop.space
 bonustopcasino.site
@@ -40504,6 +40504,7 @@ buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy1.qrcode-covid.com
+buy24.viarussia.org
 buyallweedonline.com
 buyersdiplomi.com
 buyhelpspb.ru
@@ -44537,7 +44538,6 @@ casinobonus7.ru
 casinobonus777.pw
 casinobonus777.space
 casinobonuses.azurewebsites.net
-casinobonusi.azurewebsites.net
 casinobonusi.me
 casinobonusi.pro
 casinobonuska.com
@@ -64622,7 +64622,6 @@ i.gidonline-2156.site
 i.hdreactor.net
 i.info.betcityaccess.com
 i.itorrents-igruha.org
-i.jenery.ru
 i.lordfilm-smotret.one
 i.lordfilmix.me
 i.lordfilmix.xyz
@@ -68426,6 +68425,7 @@ joycasino-gk.xyz
 joycasino-gl1.xyz
 joycasino-gld.xyz
 joycasino-gmr.xyz
+joycasino-go.fun
 joycasino-go.ru
 joycasino-go.win
 joycasino-go.xyz
@@ -68622,6 +68622,7 @@ joycasino-offcial-site3.azurewebsites.net
 joycasino-offcial-site4.azurewebsites.net
 joycasino-offcial-site5.azurewebsites.net
 joycasino-official-888.win
+joycasino-official-casino.fun
 joycasino-official-casino.win
 joycasino-official-casino1.win
 joycasino-official-casino10.win
@@ -68696,6 +68697,7 @@ joycasino-official.win
 joycasino-official.work
 joycasino-official1.fun
 joycasino-official1.ru
+joycasino-official10.site
 joycasino-official105.win
 joycasino-official105.xyz
 joycasino-official106.com
@@ -68946,6 +68948,7 @@ joycasino-slot.top
 joycasino-slot.xyz
 joycasino-slot1.site
 joycasino-slot1.win
+joycasino-slot10.fun
 joycasino-slot10.xyz
 joycasino-slot105.win
 joycasino-slot11.xyz
@@ -69119,6 +69122,7 @@ joycasino-will.xyz
 joycasino-win.azurewebsites.net
 joycasino-win.site
 joycasino-win.website
+joycasino-win.xyz
 joycasino-win105.xyz
 joycasino-winner.site
 joycasino-winner.website
@@ -73999,6 +74003,7 @@ kinokoff.fun
 kinokoffe.fun
 kinokog.ru
 kinokok.ru
+kinokolada.online
 kinokolada.site
 kinokom.club
 kinokong.biz.ua
@@ -85075,6 +85080,7 @@ megogofilm3.online
 megogofilm4.online
 megogofilm5.online
 megogofilm6.online
+megokino.net
 megokino.online
 mehanics.team
 mehi.website
@@ -95544,6 +95550,7 @@ musispace.ru
 mustcash.win
 mutantcasinoss.mcdir.ru
 mutki.shop
+mutkl72.biz
 muum7-azino777.icu
 muveog.best
 muvmed.com
@@ -112477,7 +112484,6 @@ r-casiino.me
 r-casiino.site
 r-casinio.me
 r-casino-5g6ml.ondigitalocean.app
-r-casino.azurewebsites.net
 r-casino.info
 r-casino.org
 r-casino.pro
@@ -118327,6 +118333,7 @@ ru-solcasino.club
 ru-steroid.best
 ru-steroid.online
 ru-steroid.shop
+ru-steroid.store
 ru-steroid.xyz
 ru-tor.biz
 ru-tor.co
@@ -123312,6 +123319,7 @@ salavat.prostitutki-13.com
 sale-attestaty.com
 sale.8l2.mobi
 sale.anti-co.xyz
+sale.diplomis-svs.com
 sale.medfirma.org
 sale.vipklad.xyz
 saleglass.ru
@@ -131114,6 +131122,7 @@ streamtop.online
 streamtrans.online
 streamyou.online
 streetputana.club
+streetputany.club
 strelna-sanatoriy.ru
 stringtheories.space
 stritreys-pley-fortuna-kf-04.francevisacentre.ru
@@ -149777,6 +149786,7 @@ www.dailymarijuana.co
 www.dak57.com
 www.damnserial.ru
 www.danabol.fit
+www.danabol.fun
 www.danabol.in
 www.danabol.press
 www.danabol.space
@@ -150655,6 +150665,7 @@ www.ilovebettingmarathon.win
 www.ilovemarathonbet.win
 www.imeb.ru
 www.imperator-777.net
+www.imperator-777.online
 www.imperator-777.org
 www.imperator-cazino.com
 www.imperator777.site
@@ -155827,6 +155838,7 @@ xn----7sbah4b0abgci8f.xn--p1ai
 xn----7sbahi2bca3a4agfgn2p.xn--p1ai
 xn----7sbatcsal4aige8ag6d.xn--p1ai
 xn----7sbavvjphun7c6c.xn--p1ai
+xn----7sbb0afibmqbdgb.xn--p1acf
 xn----7sbb0bidjde2b5c.xn--p1acf
 xn----7sbbaajbrvkt3bn.xn--p1ai
 xn----7sbbagddp2eta3apd0k.com
@@ -157346,7 +157358,6 @@ zanoscasino.com
 zanosfm.com
 zanosfm.ru
 zanosg.awlift.com
-zanosi-v-slotax.azurewebsites.net
 zanosi-v-slotax.site
 zanosi.net
 zanosi.su
