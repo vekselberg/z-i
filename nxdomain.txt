@@ -18382,21 +18382,24 @@ ARRAY(0x83f2f6060)
 ARRAY(0x84026d030)
 ARRAY(0x840e62558)
 ARRAY(0x841503048)
-ARRAY(0x841961cf0)
+ARRAY(0x8ad48b378)
 ARRAY(0x8ade7b6d8)
+ARRAY(0x8ae979498)
 ARRAY(0x8aea8f7c8)
 ARRAY(0x8af547408)
 ARRAY(0x8b04b5528)
 ARRAY(0x8b0e4f600)
+ARRAY(0x8b281b7c8)
 ARRAY(0x8b396e990)
 ARRAY(0x8b56d0768)
-ARRAY(0x8b6e18888)
+ARRAY(0x8b6b6f468)
 ARRAY(0x8b73345e8)
-ARRAY(0x8b76a7588)
 ARRAY(0x8b8634ee8)
 ARRAY(0x8b957d1e0)
 ARRAY(0x8ba123d20)
 ARRAY(0x8ba294bd0)
+ARRAY(0x8bc149f60)
+ARRAY(0x8bca2fe28)
 ARRAY(0x8bd5ec498)
 a-bets63.top
 a-bt56.top
@@ -61769,6 +61772,7 @@ habarovsk.diplomp-kurerom.com
 habarovsk.diplomr-rf.com
 habarovsk.diplomr-v-ruki.com
 habarovsk.diploms4yours.com
+habarovsk.diploms4yoursa.com
 habarovsk.diplomus-24.com
 habarovsk.diplomysattestaty.com
 habarovsk.doc-avto.info
@@ -64030,6 +64034,7 @@ hydraclubbioknikokex7njhw.ooniono.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.ooniono.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.org
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchid.ru
+hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchidb.ru
 hydraclubbioknikokex7njw.onnnion.com
 hydraclubbioknikokex8.com
 hydraclubnew23sduqw3gjsgdygsdjahs3bajdjsgayyqdkap.onlon.net
@@ -67320,6 +67325,7 @@ joy-casino.fun
 joy-casino.host
 joy-casino.kz
 joy-casino.network
+joy-casino.red
 joy-casino1.azurewebsites.net
 joy-casino1.life
 joy-casino10.xyz
@@ -67854,6 +67860,7 @@ joycasino-ce0.xyz
 joycasino-ce2.xyz
 joycasino-cf2.xyz
 joycasino-cfl.xyz
+joycasino-ch.xyz
 joycasino-cia.xyz
 joycasino-cie.xyz
 joycasino-ck.xyz
@@ -68040,6 +68047,7 @@ joycasino-hp.xyz
 joycasino-hqy.xyz
 joycasino-hs2.xyz
 joycasino-hsy.xyz
+joycasino-hx.xyz
 joycasino-ia.xyz
 joycasino-ib.xyz
 joycasino-ide.xyz
@@ -68094,6 +68102,7 @@ joycasino-know.xyz
 joycasino-kr7.xyz
 joycasino-kw.xyz
 joycasino-kwe.xyz
+joycasino-ky.xyz
 joycasino-kz.xyz
 joycasino-la.xyz
 joycasino-la0.xyz
@@ -68321,6 +68330,7 @@ joycasino-online70.win
 joycasino-oot.xyz
 joycasino-op2t.xyz
 joycasino-op9.xyz
+joycasino-oq.xyz
 joycasino-or.xyz
 joycasino-ore.xyz
 joycasino-org.xyz
@@ -68383,6 +68393,7 @@ joycasino-pro6.win
 joycasino-ps.xyz
 joycasino-pt.xyz
 joycasino-pt3.xyz
+joycasino-pu.xyz
 joycasino-pu2.xyz
 joycasino-pus.xyz
 joycasino-py.xyz
@@ -68398,6 +68409,8 @@ joycasino-qkp.xyz
 joycasino-qkz.xyz
 joycasino-ql.xyz
 joycasino-qln.xyz
+joycasino-qm.xyz
+joycasino-qn.xyz
 joycasino-qr.xyz
 joycasino-qx.xyz
 joycasino-qz.xyz
@@ -68432,6 +68445,7 @@ joycasino-rid.xyz
 joycasino-rim.xyz
 joycasino-rk.xyz
 joycasino-rl.xyz
+joycasino-rn.xyz
 joycasino-rn3.xyz
 joycasino-rob.xyz
 joycasino-rou.xyz
@@ -68567,12 +68581,14 @@ joycasino-ssd.xyz
 joycasino-ssi.xyz
 joycasino-ssl.xyz
 joycasino-sss.xyz
+joycasino-st.xyz
 joycasino-st2.xyz
 joycasino-st9.xyz
 joycasino-sta.xyz
 joycasino-ste.xyz
 joycasino-su.xyz
 joycasino-successful.site
+joycasino-sv.xyz
 joycasino-sw.xyz
 joycasino-sx.xyz
 joycasino-syo.xyz
@@ -68624,6 +68640,7 @@ joycasino-uc.xyz
 joycasino-uf.xyz
 joycasino-ufo.xyz
 joycasino-uin.xyz
+joycasino-uk.xyz
 joycasino-ul.xyz
 joycasino-ums.xyz
 joycasino-ut.xyz
@@ -68823,6 +68840,7 @@ joycasino-zpl.xyz
 joycasino-zqz.xyz
 joycasino-zr.xyz
 joycasino-zr7.xyz
+joycasino-zu.xyz
 joycasino-zv.xyz
 joycasino-zvd.xyz
 joycasino-zxp.xyz
@@ -96075,6 +96093,7 @@ neftekamsk.diplombbrend.com
 neftekamsk.diplombrandt.com
 neftekamsk.diplombrend.com
 neftekamsk.diplomgsos.com
+neftekamsk.diploms4yoursa.com
 neftekamsk.diplomvrukizz.com
 neftekamsk.diplomxlike.com
 neftekamsk.diplomzsos.com
@@ -106441,6 +106460,7 @@ playfortuna-aktualnoye-zerkalo.transformery-igrushki.ru
 playfortuna-ap.xyz
 playfortuna-aq.xyz
 playfortuna-bc.xyz
+playfortuna-bk.xyz
 playfortuna-bx.xyz
 playfortuna-bz.xyz
 playfortuna-casino-com.ru
@@ -106485,6 +106505,7 @@ playfortuna-club.com
 playfortuna-code.xyz
 playfortuna-com.com
 playfortuna-coms.online
+playfortuna-cs.xyz
 playfortuna-cusino.ru
 playfortuna-cy.xyz
 playfortuna-deluxe.ru
@@ -106543,6 +106564,7 @@ playfortuna-ne.xyz
 playfortuna-never.xyz
 playfortuna-new.com
 playfortuna-ng.xyz
+playfortuna-nh.xyz
 playfortuna-nl.xyz
 playfortuna-nm.xyz
 playfortuna-nn.xyz
@@ -106552,6 +106574,7 @@ playfortuna-of.azurewebsites.net
 playfortuna-official-site.biz
 playfortuna-official-site.com
 playfortuna-official.azurewebsites.net
+playfortuna-official.info
 playfortuna-official.site
 playfortuna-official.top
 playfortuna-online.online
@@ -106571,6 +106594,7 @@ playfortuna-qh.xyz
 playfortuna-qi.xyz
 playfortuna-qo.xyz
 playfortuna-qy.xyz
+playfortuna-qz.xyz
 playfortuna-rabocheye-zerkalo.artemnow.ru
 playfortuna-rabocheye-zerkalo.myclay.ru
 playfortuna-rl.xyz
@@ -106633,6 +106657,7 @@ playfortuna.date
 playfortuna.directory
 playfortuna.expert
 playfortuna.gold
+playfortuna.house
 playfortuna.kz
 playfortuna.media
 playfortuna.net.ru
@@ -118777,6 +118802,7 @@ ru.caslnoglobal.info
 ru.cassino-x.info
 ru.cazino-r.vip
 ru.cbvkhjn2181.com
+ru.charterdot.com
 ru.chri84las.com
 ru.chri88post7l.com
 ru.cinemahouse.online
@@ -118894,7 +118920,6 @@ ru.fortunacasino2.club
 ru.fortunacasino3.club
 ru.fqib23bvs.com
 ru.fr33gami55leo7.com
-ru.freeslot.ru
 ru.g773leo11ytr.com
 ru.gafsui4561.com
 ru.gam72leo86k.com
@@ -121015,7 +121040,6 @@ ru1.capitals-kz3.xyz
 ru1.casino-my-1.xyz
 ru1.casino-yo.com
 ru1.djeneriki.biz
-ru1.freeslot.ru
 ru1.gamepobeda.com
 ru1.icelotto.com
 ru1.igrovyeavtomatynadengi.online
@@ -121063,7 +121087,6 @@ ru2.alphakino.cam
 ru2.casinorox-official.club
 ru2.casinorox2-online.club
 ru2.djeneriki.biz
-ru2.freeslot.ru
 ru2.hdkinoset.online
 ru2.hdkinoteater.net
 ru2.igrovyeavtomatynadengi.online
@@ -121094,7 +121117,6 @@ ru3.casinorox-official.club
 ru3.cinemahouse.online
 ru3.djeneriki.biz
 ru3.filmixhd.one.jpg
-ru3.freeslot.ru
 ru3.hdkinoset.online
 ru3.hdkinoteater.net
 ru3.igrovyeavtomatynadengi.online
@@ -122205,6 +122227,7 @@ s.uspehisporta.moscow
 s.zhena064.com
 s003.s019.s020.s018.kinokrab.com
 s017.s008.s02.s018.kinokrab.com
+s018.s018.s019.s018.kinokrab.com
 s020.s52.s018.s018.kinokrab.com
 s07.blackrutor.site
 s08.blackrutor.site
@@ -127762,6 +127785,7 @@ smotri-football.com
 smotri-football.live
 smotri-football.ru
 smotri-kino-onlain-club.ru
+smotri-kino.club
 smotri-kino.net
 smotri-kinofilmy.ru
 smotri-melodramy-online.ru
@@ -131385,6 +131409,7 @@ texosmotrdv.ru
 texosmotronline-500.ru
 texosmotronline-auto.ru
 texosmotronline-rf.online
+texosmotrrronline.ru
 tezisbank.com
 tf-immuno.ru
 tfhrs47ys1mst.com
