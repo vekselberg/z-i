@@ -739,6 +739,7 @@
 0a8dz-azino777.icu
 0ab21f.olimp3043.top
 0ae8d7.olimpe24a.top
+0archive.trln.hk
 0b039dc.com
 0b15719.icu
 0b38f1.olimp38fc.top
@@ -18366,6 +18367,7 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x8337e3cf0)
+ARRAY(0x83386df90)
 ARRAY(0x83387ce40)
 ARRAY(0x8339a2cd8)
 ARRAY(0x834dc0528)
@@ -18383,14 +18385,15 @@ ARRAY(0x83b187f78)
 ARRAY(0x83bbde0a8)
 ARRAY(0x83be602b8)
 ARRAY(0x83c5defc0)
+ARRAY(0x83d233060)
 ARRAY(0x840576060)
 ARRAY(0x840a49630)
-ARRAY(0x8ad48b378)
 ARRAY(0x8ae45a8b8)
 ARRAY(0x8ae4e1150)
 ARRAY(0x8af558540)
 ARRAY(0x8b0151318)
 ARRAY(0x8b0f1f660)
+ARRAY(0x8b0f98b70)
 ARRAY(0x8b15b3528)
 ARRAY(0x8b1d9c2a0)
 ARRAY(0x8b1dc35b8)
@@ -18400,7 +18403,6 @@ ARRAY(0x8b59a5930)
 ARRAY(0x8b676c288)
 ARRAY(0x8b68b06d8)
 ARRAY(0x8b6b3b570)
-ARRAY(0x8b6b6f468)
 ARRAY(0x8b7bd9948)
 ARRAY(0x8b7c6b018)
 ARRAY(0x8ba8d7750)
@@ -18408,7 +18410,6 @@ ARRAY(0x8bad0a1c8)
 ARRAY(0x8bad6bba0)
 ARRAY(0x8bb9d34c8)
 ARRAY(0x8bbab2fc0)
-ARRAY(0x8bca2fe28)
 ARRAY(0x8bd948528)
 a-bets63.top
 a-bt56.top
@@ -41785,7 +41786,6 @@ casino-pin-up-official.win
 casino-pin-up-oficial-site.online
 casino-pin-up-online.com
 casino-pin-up-play.com
-casino-pin-up-start.ru
 casino-pin-up-win.customshouse.biz
 casino-pin-up.azurewebsites.net
 casino-pin-up.club
