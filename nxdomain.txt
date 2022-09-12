@@ -18367,12 +18367,11 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x83386df90)
-ARRAY(0x8339a2cd8)
 ARRAY(0x8340b81c8)
+ARRAY(0x834883bd0)
 ARRAY(0x83489e9d8)
 ARRAY(0x834bb8030)
 ARRAY(0x834d8ed50)
-ARRAY(0x834fdddb0)
 ARRAY(0x835b27120)
 ARRAY(0x83679bab0)
 ARRAY(0x8367d9f30)
@@ -18381,7 +18380,6 @@ ARRAY(0x839c17ca8)
 ARRAY(0x83c224ac8)
 ARRAY(0x83d233060)
 ARRAY(0x83e16b9a8)
-ARRAY(0x840576060)
 ARRAY(0x88cbb2fa8)
 ARRAY(0x8ad0615e8)
 ARRAY(0x8adaf3fd8)
@@ -18389,7 +18387,9 @@ ARRAY(0x8ae45a8b8)
 ARRAY(0x8b0151318)
 ARRAY(0x8b0f98b70)
 ARRAY(0x8b27c4138)
+ARRAY(0x8b38a72b8)
 ARRAY(0x8b3953078)
+ARRAY(0x8b3d74210)
 ARRAY(0x8b41f8f48)
 ARRAY(0x8b59a22e8)
 ARRAY(0x8b5be55b8)
@@ -18527,6 +18527,7 @@ a.lordfilms-filmy.online
 a.lordfilmy.one
 a.lordhdfilm.ru
 a.lordsfilms-720.top
+a.mbx.su
 a.mir-konopli.top
 a.mirkino.best
 a.moskva-intim.city
@@ -60906,6 +60907,7 @@ gorafilmov.online
 gorafilmov.su
 gorc.biz
 gorchiza.com
+gorchizza.org
 gore.tube
 gorila.tryserialmik.online
 gorizont-hm.ru
@@ -64317,6 +64319,7 @@ i-columbus.club
 i-columbus.host
 i-columbus.online
 i-columbus.site
+i-diplomans.com
 i-kinogo.net
 i-ld.art
 i-ld.biz
@@ -83116,6 +83119,7 @@ market.freehd.com.ua
 market.growerz.icu
 market.legalklad.xyz
 market.pivo.website
+market.rabotaem.xyz
 market.seenrben.com
 market.vipklad.xyz
 market.xacku.cc
@@ -98848,6 +98852,7 @@ o.lordfilmix.xyz
 o.lordfilms-film.online
 o.lordfilmtv.xyz
 o.lordssfilm.life
+o.mbx.su
 o.medicinskie-spravki.pro
 o.medspravki77.club
 o.medspravki77.info
@@ -119202,6 +119207,7 @@ ru.f8674pp9yu.com
 ru.fade1d4n2.com
 ru.failovik.net
 ru.fasm87jfd3.com
+ru.favortrades.com
 ru.fcbea0b.com
 ru.fdjhf43by.com
 ru.fdkjg32jkrn.com
@@ -130014,6 +130020,7 @@ spravki-shop.pro
 spravki-today.online
 spravki-tut.com
 spravki-vuz.online
+spravki.rabotaem.xyz
 spravki.website
 spravki1.online
 spravki24.pw
@@ -132571,6 +132578,7 @@ top.mrbitcasinoonline.xyz
 top.myvimir.fun
 top.privat-dealer.xyz
 top.private24.xyz
+top.rabotaem.xyz
 top.redirect-me.xyz
 top.ruflims.store
 top.rufllm.fun
@@ -138289,6 +138297,7 @@ vip.mirkino.best
 vip.muzlayk.ru
 vip.privat-market.xyz
 vip.private24.xyz
+vip.rabotaem.xyz
 vip.vavadaq.ru
 vip0106azino777.icu
 vip0115-777azino.icu
@@ -139572,7 +139581,6 @@ vsswz.xyz
 vstaka.name
 vstavka.name
 vstv.ga
-vstv.gq
 vt2e55qrmxmb.com
 vtb-cashback.site
 vtb-online-kabinet.ru
@@ -145137,6 +145145,7 @@ web.mtxpro.net
 web.myvimir.fun
 web.p-t.online
 web.pipitor.site
+web.rabotaem.xyz
 web.rusbetcity.com
 web.vulcan-casino-official10.com
 web.vulcan-casino-official11.com
@@ -151305,7 +151314,6 @@ www.mobpinup.com
 www.moksha-kuban.ru
 www.monetnik.com.ua
 www.moneyazart.net
-www.monova.org
 www.moonradio.ru
 www.moova.ru
 www.moreearning.net
