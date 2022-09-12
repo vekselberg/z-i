@@ -3966,6 +3966,7 @@
 1wayf.top
 1wayh.xyz
 1wayi.top
+1waypz.top
 1wayr.top
 1wazm.top
 1wazn.top
@@ -17834,6 +17835,7 @@
 8s4bpcz.icu
 8s6kxo3aqcmst.com
 8sc6rzoymst.com
+8sep.lordfilm.cc
 8slotozlo.site
 8sx53h72lb.com
 8topwin.com
@@ -18366,20 +18368,21 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x8332b3d98)
 ARRAY(0x83386df90)
 ARRAY(0x8340b81c8)
+ARRAY(0x8344fbcd8)
 ARRAY(0x834883bd0)
 ARRAY(0x83489e9d8)
 ARRAY(0x834bb8030)
 ARRAY(0x834d8ed50)
 ARRAY(0x835b27120)
-ARRAY(0x83679bab0)
 ARRAY(0x8367d9f30)
 ARRAY(0x837904588)
-ARRAY(0x839c17ca8)
 ARRAY(0x83c224ac8)
 ARRAY(0x83d233060)
 ARRAY(0x83e16b9a8)
+ARRAY(0x840a2ab10)
 ARRAY(0x88cbb2fa8)
 ARRAY(0x8ad0615e8)
 ARRAY(0x8adaf3fd8)
@@ -18399,7 +18402,6 @@ ARRAY(0x8b8cc1f48)
 ARRAY(0x8b9e1c4c8)
 ARRAY(0x8ba79cae0)
 ARRAY(0x8ba8e5828)
-ARRAY(0x8bad0a1c8)
 ARRAY(0x8bad6bba0)
 ARRAY(0x8bbed3168)
 ARRAY(0x8bd1c3af8)
@@ -51221,6 +51223,7 @@ edu-diplomy.com
 edu-map.ru
 edu.real-dip.top
 educatetense.site
+educatins.xyz
 edudlplom.com
 edudolinsk.ru
 edusait.ru
@@ -61604,6 +61607,7 @@ grtav-azinomobile.icu
 grtrafmosts.com
 gruppirovka.casino
 gruppovoe-porevo.com
+gruppovoe-porno.com
 gruzilka.torrent-filmy.ru
 gruzoperevozki-v-krymu.ru
 gruzoperevozki-vo-vladimire.ru
@@ -62742,6 +62746,7 @@ hd1o80.hd-puls.ru
 hd1o80p.hd-puls.ru
 hd1o8o.hd-puls.ru
 hd1o8op.hd-puls.ru
+hd2.1-lordserials.xyz
 hd2.baskino-hd.top
 hd2.baskino-hd1080.online
 hd2.baskinohd.top
@@ -62904,6 +62909,7 @@ hd48.1-lordserials.xyz
 hd49.1-lordserials.xyz
 hd4me.xyz
 hd5-film.lordfilm1.zone
+hd5.1-lordserials.xyz
 hd5.batlen.site
 hd5.filmlord2.net
 hd5.kino-go.best
@@ -69009,6 +69015,7 @@ joycasino1.top
 joycasino10.com
 joycasino10.fun
 joycasino10.su
+joycasino10.win
 joycasino1002.com
 joycasino1003.com
 joycasino1004.com
@@ -139581,6 +139588,7 @@ vsswz.xyz
 vstaka.name
 vstavka.name
 vstv.ga
+vstv.gq
 vt2e55qrmxmb.com
 vtb-cashback.site
 vtb-online-kabinet.ru
