@@ -11237,6 +11237,7 @@
 24sportcom.ru
 24sportgo.ru
 24sportgol.ru
+24sportkup.ru
 24sportmax.ru
 24sportmix.ru
 24sportnew.ru
@@ -16072,7 +16073,6 @@
 76topwin.com
 76wintop.com
 77-azinomobile.fun
-77.gde-check.com
 77.hdreactor.net
 77.igrovoy-zal.com
 77.rostor.fun
@@ -18379,8 +18379,10 @@ ARRAY(0x8359abb10)
 ARRAY(0x835b27120)
 ARRAY(0x83679bab0)
 ARRAY(0x8367d9f30)
+ARRAY(0x837904588)
 ARRAY(0x838fcf858)
 ARRAY(0x839c17ca8)
+ARRAY(0x83c224ac8)
 ARRAY(0x83c5defc0)
 ARRAY(0x83d233060)
 ARRAY(0x83e16b9a8)
@@ -18394,18 +18396,16 @@ ARRAY(0x8b0f98b70)
 ARRAY(0x8b15b3528)
 ARRAY(0x8b1d9c2a0)
 ARRAY(0x8b27c4138)
-ARRAY(0x8b2eb9450)
 ARRAY(0x8b3953078)
 ARRAY(0x8b41f8f48)
+ARRAY(0x8b59a22e8)
 ARRAY(0x8b5be55b8)
 ARRAY(0x8b676c288)
-ARRAY(0x8b68b06d8)
 ARRAY(0x8b6b3b570)
 ARRAY(0x8b8cc1f48)
 ARRAY(0x8b9e1c4c8)
 ARRAY(0x8bad0a1c8)
 ARRAY(0x8bad6bba0)
-ARRAY(0x8bb9d34c8)
 ARRAY(0x8bbed3168)
 ARRAY(0x8bd1c3af8)
 ARRAY(0x8bd1c4078)
@@ -27471,6 +27471,7 @@ azino777.pravda-o-tovare.site
 azino777.pw
 azino777.rub.casino
 azino777.space
+azino777.twin-cities.ru
 azino777.uk
 azino7770.com
 azino777127.ru
@@ -36169,6 +36170,7 @@ big.dostfilms.biz
 big.drug-market.xyz
 big.fasst-torrent.site
 big.filmyx.online
+big.kino-line.club
 big.legal-market.xyz
 big.legalklad.xyz
 big.legalshop24.xyz
@@ -39557,6 +39559,7 @@ booicasinoplay.org
 booicasinos.azurewebsites.net
 booicasinoslot.ru
 booicasinozerkalo.com
+booicassino.club
 booicassino.info
 booicassino.online
 booicazino.azurewebsites.net
@@ -41611,6 +41614,7 @@ casino-max.net
 casino-maxbet.fun
 casino-maxbet1.win
 casino-maxbet2.win
+casino-maxbet3.win
 casino-maximum.club
 casino-med-sms-voucher.hotelowa7.pl
 casino-mega-4.xyz
@@ -47662,6 +47666,9 @@ co.invfx.eu
 co.kinogarazh.online
 co.locofilm.club
 co.lordfilm.cx
+co.lordfilm.so
+co.lordfilmq.net
+co.lordfilmx.biz
 co.uwww.dev.login.hdreactor.net
 co1403.ru
 co4wx7oxyrmst.com
@@ -50234,6 +50241,7 @@ dosug.sibgirl.com
 dosugcz.info
 dosugnadom.ru
 dosugorsk.ru
+dot.kino-line.club
 dota-2-igrat-na-dengi-777.prokat-nsk.ru
 dota-2-selektor.francevisacentre.ru
 dota-drop.site
@@ -60174,7 +60182,10 @@ go.kinovhod.xyz
 go.korrschool-motigino.ru
 go.koshara.top
 go.lordfilm.cx
+go.lordfilm.so
+go.lordfilmq.net
 go.lordfilmtv.vip
+go.lordfilmx.biz
 go.lortfilm.cc
 go.lostfilm.rocks
 go.luckymillion-online.com
@@ -62434,6 +62445,7 @@ hd.lordfilm.cx
 hd.lordfilm.es
 hd.lordfilm.ink
 hd.lordfilm.kim
+hd.lordfilm.so
 hd.lordfilm.tax
 hd.lordfilm.team
 hd.lordfilm.tw
@@ -62442,15 +62454,18 @@ hd.lordfilm1.bar
 hd.lordfilm2021.site
 hd.lordfilm4.online
 hd.lordfilmix.me
+hd.lordfilmq.net
 hd.lordfilmq.ru
 hd.lordfilms-web.site
 hd.lordfilms.pp.ru
 hd.lordfilms.red
+hd.lordfilms.so
 hd.lordfilms.su
 hd.lordfilms5.xyz
 hd.lordfilmstv.online
 hd.lordfilmtv.vip
 hd.lordfilmu.ru
+hd.lordfilmx.biz
 hd.lordfilmz.site
 hd.lordhdfilm.me
 hd.lordix.cc
@@ -62765,6 +62780,7 @@ hd2.lordfilm.bet
 hd2.lordfilms.pp.ru
 hd2.lordfilms.su
 hd2.lordfilms5.xyz
+hd2.lordfilmstv.online
 hd2.lordfilmtv1.xyz
 hd2.lordix.cc
 hd2.lords.one
@@ -63549,6 +63565,8 @@ herbalzenit.site
 here.izmailov.bar
 herher.ru
 hermesbirkin.ru
+hero.lordfilm.so
+hero.lordfilmx.biz
 herutor.site
 heshh-azino777.icu
 hetord.space
@@ -67904,6 +67922,7 @@ joycasino-casino-games105.win
 joycasino-casino-games106.win
 joycasino-casino-games107.win
 joycasino-casino-games108.win
+joycasino-casino-games777.win
 joycasino-casino-official10.win
 joycasino-casino-official12.win
 joycasino-casino-official13.win
@@ -69938,6 +69957,7 @@ justanexample.loan
 justbettraf.com
 justbettrafd.com
 justcase.gg
+justcase.top
 justloto.icu
 justmarathonbet.win
 justmbetplayluck.top
@@ -83308,7 +83328,10 @@ max.hdthrone.cc
 max.kinospace.me
 max.lordfillms.ru
 max.lordfilm.cx
+max.lordfilm.so
+max.lordfilmq.net
 max.lordfilms.one
+max.lordfilmx.biz
 maxa-butik.ru
 maxadmiral.com
 maxbet-casino-online.online
@@ -89637,7 +89660,6 @@ moscow-pharaon242.ru
 moscow-sofosbuvir.cf
 moscow-vernisage.ru
 moscow.diplom-obrazovanie.com
-moscow.gde-check.com
 moscow.luxdiplomi.com
 moscow.medspravochka-msk.com
 moscow.mister-tvister.com
@@ -95464,9 +95486,15 @@ my.lordfilm.app
 my.lordfilm.cx
 my.lordfilm.dog
 my.lordfilm.fo
+my.lordfilm.so
 my.lordfilm.surf
 my.lordfilm.to
+my.lordfilmq.biz
+my.lordfilmq.net
+my.lordfilms.so
 my.lordfilms.to
+my.lordfilmx.biz
+my.lordfilmz.biz
 my.lostfilmtv.vip
 my.maskbet.ru
 my.my-cabinet.com
@@ -95673,6 +95701,7 @@ mys.myslotik.net
 myseldon.info
 myselfva.top
 myser.info
+myseria.live
 myserial.club
 mysibnic.ru
 myslotikk.com
@@ -99872,7 +99901,10 @@ ok.kinofilmtop.online
 ok.kinogarazh.online
 ok.kinotrast.ru
 ok.lordfilm.cx
+ok.lordfilm.so
 ok.lordfilmhd.vip
+ok.lordfilmq.net
+ok.lordfilmx.biz
 ok.mnogokino.xyz
 ok.myslotik.net
 ok.sexanketa-samara3.com
@@ -110200,6 +110232,9 @@ pour-info.xyz
 poursinfo.xyz
 povaranet.ru
 pow.lordfilm.cx
+pow.lordfilm.so
+pow.lordfilmq.net
+pow.lordfilmx.biz
 power-coins.xyz
 power-moneys.xyz
 power-pm-casino.xyz
@@ -110498,6 +110533,8 @@ pro-torrents.ru
 pro-trader.world
 pro.kino-go.guru
 pro.kinofilmtop.online
+pro.lordfilm.so
+pro.lordfilmx.biz
 pro.thebestcasino.su
 pro100azart.pw
 pro100azart1.pw
@@ -111899,6 +111936,7 @@ qd122tf.host
 qdbweysc.olimpo2m2.xyz
 qdfrm.site
 qdjq00mst.com
+qe.lordfilmx.biz
 qeerwrgh.olimpro99.xyz
 qeeus-azino777.host
 qeiio.top
@@ -111921,6 +111959,7 @@ qhduz.top
 qhklv-azino777.host
 qhp7l6bomst.com
 qhuvlp.best
+qi.lordfilmx.biz
 qigongjournal.ru
 qitwi-azino777.icu
 qiwi-piastrix.webpodpiska.ru
@@ -111965,6 +112004,7 @@ qnnalldd.olimpok4q.xyz
 qnv9p14kgxmst.com
 qnwvxh65oifbx.website
 qnwwe.mosnes.info
+qo.lordfilmx.biz
 qolden-game.com
 qoldqame.com
 qomxhm45332mnjf.xyz
@@ -111973,6 +112013,7 @@ qorwcygm.olimpl30r.xyz
 qotyymelhx.top
 qoudp.site
 qoxwkdgk.olimpd29l.xyz
+qp.lordfilmx.biz
 qp55w5hf.xyz
 qpf38bf2mstru.com
 qpin-up39.com
@@ -111987,6 +112028,7 @@ qqpskn.best
 qquwzwhi.olimpa888.xyz
 qqwoz8rml.icu
 qqzko-azino777.icu
+qr.lordfilmx.biz
 qr2020.ru
 qrbs1hg.icu
 qrcode-covid.com
@@ -112012,12 +112054,14 @@ qsports.ru
 qsw.deepspacelockup.com
 qsxudhvds.gwehukifqaspog.info
 qsyamxac.olimpo8wu.xyz
+qt.lordfilmx.biz
 qt15rkk6.club
 qtchrtdd.olimpedjd.xyz
 qtkph12.icu
 qtlttoza.olimpwxr8.xyz
 qtracgdyel.xyz
 qtxcjw3.icu
+qu.lordfilmx.biz
 qu12c-azinomobile.icu
 qu5j7-azinomobile.icu
 quad.lkpmcdr.eu
@@ -112052,6 +112096,7 @@ qvfmswwe.olimpj5fe.xyz
 qviogrhaeo.fun
 qvpmfy.best
 qw.filmshd.fun
+qw.lordfilmx.biz
 qw1.hdrip.biz
 qw34-lordfilm.lordfilm7.tk
 qw86sn.xyz
@@ -112108,6 +112153,7 @@ qxfilm.ru
 qxibe02y.club
 qxpurr4g0hmb-setka.com
 qxs31-azino777.icu
+qy.lordfilmx.biz
 qy30l-azino777.icu
 qy348fb6yzj3-setka.com
 qyc3uoc.icu
@@ -117922,6 +117968,7 @@ ru-casino1.win
 ru-casino2.win
 ru-casino3.win
 ru-casino4.win
+ru-casino5.win
 ru-casinos.club
 ru-casinox.club
 ru-cassino.ru
@@ -127094,6 +127141,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -130953,7 +131001,6 @@ supermara.win
 supermarathon.win
 supermarket.flash.city
 supermatik-kazino.art-of-sun.ru
-supernatural.su
 superomatic-casino.grib.com.ua
 superomatic-poddelka.hair-antenna.info
 superomatik-igrovaya-sistema-dlya-onlayn-kluba.maminobooks.com.ua
@@ -132536,8 +132583,11 @@ top.legal-market.xyz
 top.legal24.xyz
 top.legalklad.xyz
 top.lordfilm.cx
+top.lordfilm.so
 top.lordfilmix.xyz
+top.lordfilmq.net
 top.lordfilms.su
+top.lordfilmx.biz
 top.melbet-official-site.com
 top.mrbitcasinoonline.xyz
 top.myvimir.fun
@@ -134469,10 +134519,12 @@ tv.lord-film.tech
 tv.lordfillm.net
 tv.lordfilm.cx
 tv.lordfilm.pl
+tv.lordfilm.so
 tv.lordfilm.tax
 tv.lordfilmaaa-online.net
 tv.lordfilmhd.net
 tv.lordfilmhd.vip
+tv.lordfilmq.net
 tv.lordfilmx-online.net
 tv.lordfilmyy.net
 tv.lordkino.net
@@ -152202,6 +152254,7 @@ www.poptube.ru
 www.popularcasino4u.com
 www.porkabab.mobi
 www.porno-porno.me
+www.pornorolikixxx.net
 www.pornplay.org
 www.pornswank.com
 www.port-caton.ru
@@ -154485,6 +154538,7 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
@@ -156393,7 +156447,6 @@ ykt.documentu-avto.info
 yl0glhe.icu
 yl4by-azino777.icu
 yla.documentu-avto.info
-ylewmdv.site
 ylfbg-azinomobile.icu
 ylja72pk.com
 ylmelufiqdo.top
