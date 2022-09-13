@@ -1307,7 +1307,6 @@
 1080-hd.zagonka-2822.site
 1080-hd.zagonka-492.site
 1080-hd.zagonka-952.site
-1080-hd.zagonka-964.site
 1080-hd.zfilm-7-online.site
 1080-hd.zfilm-hd-1660.online
 1080-hd.zfilm-hd.buzz
@@ -3416,7 +3415,6 @@
 1hdrezka.net
 1hslot.nerudoliver.ru
 1hya4dwda.icu
-1hydra-onion.com
 1ibetrate.host
 1ibetrate.ru
 1igrovie-avtomaty.ru
@@ -18388,14 +18386,16 @@ ARRAY(0x8332b3d98)
 ARRAY(0x833672960)
 ARRAY(0x833c262d0)
 ARRAY(0x8344fbcd8)
-ARRAY(0x834883bd0)
 ARRAY(0x83706a960)
 ARRAY(0x8376cc948)
+ARRAY(0x837751f00)
 ARRAY(0x83775c690)
+ARRAY(0x837c20ba0)
 ARRAY(0x837d86ae0)
 ARRAY(0x838ce2c30)
 ARRAY(0x8397fc840)
 ARRAY(0x8399de6f0)
+ARRAY(0x83a339e70)
 ARRAY(0x83ad7a7b0)
 ARRAY(0x83b4fef00)
 ARRAY(0x83b620360)
@@ -18404,7 +18404,6 @@ ARRAY(0x83f4bd468)
 ARRAY(0x8405c34b0)
 ARRAY(0x840a2ab10)
 ARRAY(0x840eaf438)
-ARRAY(0x8ad0615e8)
 ARRAY(0x8af1328d0)
 ARRAY(0x8b0efa7e0)
 ARRAY(0x8b14a86a8)
@@ -18420,8 +18419,6 @@ ARRAY(0x8b873a018)
 ARRAY(0x8b937ba08)
 ARRAY(0x8b9f54618)
 ARRAY(0x8ba40fc48)
-ARRAY(0x8ba79cae0)
-ARRAY(0x8ba8e5828)
 ARRAY(0x8bda4b198)
 a-bets63.top
 a-bt56.top
@@ -18665,7 +18662,6 @@ a1.kinospin.club
 a1.kinotik.site
 a1.kinotik.su
 a1.kinotraf.club
-a1.koshara.top
 a1.kradkino.ru
 a1.lordfilm.hd-1080p.online
 a1.lordfilmx-online.net
@@ -32285,7 +32281,6 @@ best.clonus.top
 best.dosug71.net
 best.frank-casino-official.net
 best.gomuz.eu
-best.growerz.uno
 best.igrovye-avtomaty-na-dengi.cf
 best.intim-39.ru
 best.kino-zk.online
@@ -32439,7 +32434,6 @@ bestseeds7.online
 bestseeds8.live
 bestseller.pp.ru
 bestserial.cc
-bestserial.online
 bestserialas.online
 bestseriali.online
 bestserials-b.bestserials.online
@@ -39055,6 +39049,7 @@ bolnichnyjp-list.com
 bolnichnyjp-lyst.com
 bolnicnye-listy.com
 bolnuchnjj-vcem.com
+bolshie-siski.net
 bolshiebabki.com
 bolshoe-kino.ru
 bolshoj-kamen.doc-avto.info
@@ -40424,7 +40419,6 @@ buy.covid-certificate.shop
 buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy1.qrcode-covid.com
-buy24.viarussia.org
 buyallweedonline.com
 buyersdiplomi.com
 buyhelpspb.ru
@@ -58333,7 +58327,6 @@ fun-serials.pw
 fun-serialshd.fun
 fun.buff-movie-horrors.ru
 fun.fns-movies.ru
-fun.koshara.top
 fun.lostfilm.rocks
 fun.movies-top.ru
 fun.myvimir.fun
@@ -61676,7 +61669,6 @@ growerz.men
 growerz.monster
 growerz.pet
 growerz.store
-growerz.uno
 growerz.win
 growerz.world
 growseeds-shop.com
@@ -62354,6 +62346,7 @@ hd.bobfilm-hd.ru
 hd.bobfilm1.ru
 hd.boxfilm.me
 hd.btorr.ru
+hd.ceaconvor.cc
 hd.cinema-720p.fun
 hd.ekranka.life
 hd.eternal-cinema.ru
@@ -62417,7 +62410,6 @@ hd.kino-go.guru
 hd.kino-go.life
 hd.kino-go.run
 hd.kino-go.uno
-hd.kino-go.website
 hd.kino-go.wtf
 hd.kino-mig.online
 hd.kino-onlinego.website
@@ -62559,6 +62551,7 @@ hd.lordofilm.website
 hd.lordofilm.xyz
 hd.lords.one
 hd.lordserial10.xyz
+hd.lordserials.live
 hd.lordsfilms-720.top
 hd.lordsfilms-hd.top
 hd.lordsfilms.fun
@@ -64184,7 +64177,6 @@ hydra-legal.com
 hydra-list.com
 hydra-local.com
 hydra-loot.online
-hydra-onion-hydraonion.in
 hydra-onion.co
 hydra-ponika.club
 hydra-ru.com
@@ -65973,6 +65965,7 @@ imovane.xyz
 imp3.su
 impa.vip
 impastata.it
+imperator-777.bet
 imperator-777.com
 imperator-777.info
 imperator-777.ltd
@@ -70421,7 +70414,6 @@ kaluzhskaya-oblast.doc-avto.info
 kalyancenter.pro
 kalynova.ru
 kamazino777.com
-kamchatka-dosug.com
 kamchatka-xdosug.com
 kamelgino.ru
 kamensk-uralskij.diplom4yours.com
@@ -72318,7 +72310,6 @@ kino-go.su
 kino-go.tech
 kino-go.top
 kino-go.uno
-kino-go.website
 kino-go.win
 kino-go.world
 kino-go.wtf
@@ -73123,7 +73114,6 @@ kinogarazh.com
 kinogas.online
 kinogate.me
 kinogavana.club
-kinogay.club
 kinogay.pro
 kinogay.xyz
 kinogaz.net
@@ -73762,7 +73752,6 @@ kinohru.ru
 kinohu.ru
 kinohub.fun
 kinohugo.net
-kinohulk-hd.site
 kinohulk.fun
 kinohulk.info
 kinohulk.online
@@ -73786,7 +73775,6 @@ kinoigo.ru
 kinoillusion.com
 kinoimpulse.ru
 kinoio.ru
-kinoit.vago.xyz
 kinoizi.wkinoizi.fun
 kinojet.ru
 kinojin.club
@@ -78598,7 +78586,6 @@ lite-1x07725.com
 lite-1x0879343.top
 lite-1x10283.com
 lite-1x10530.com
-lite-1x10841.top
 lite-1x1169304.top
 lite-1x11749.com
 lite-1x123648.com
@@ -78615,23 +78602,16 @@ lite-1x2435832.top
 lite-1x24873.com
 lite-1x25945.com
 lite-1x2595442.top
-lite-1x26475.top
-lite-1x2709605.top
 lite-1x2819180.top
 lite-1x28503.top
 lite-1x2945509.top
 lite-1x2974705.top
-lite-1x29890.top
-lite-1x2998901.top
 lite-1x3042331.top
-lite-1x3125781.top
 lite-1x3305709.top
-lite-1x3433176.top
 lite-1x3513728.top
 lite-1x3569628.top
 lite-1x3636522.top
 lite-1x3642143.top
-lite-1x37265.top
 lite-1x3789719.top
 lite-1x3805470.top
 lite-1x38425.com
@@ -78666,11 +78646,9 @@ lite-1x5726387.top
 lite-1x575135.com
 lite-1x58058.top
 lite-1x58521.top
-lite-1x59674.top
 lite-1x60838.top
 lite-1x61712.com
 lite-1x61776.top
-lite-1x6250434.top
 lite-1x6275975.top
 lite-1x6419322.top
 lite-1x64199.com
@@ -78701,10 +78679,8 @@ lite-1x81386.com
 lite-1x833996.com
 lite-1x8357181.top
 lite-1x8360394.top
-lite-1x8371418.top
 lite-1x83992.com
 lite-1x8414968.top
-lite-1x84154.top
 lite-1x842265.com
 lite-1x8550373.top
 lite-1x85870.top
@@ -78723,7 +78699,6 @@ lite-1x9334510.top
 lite-1x93546.top
 lite-1x94922.com
 lite-1x9644277.top
-lite-1x9647498.top
 lite-1x9730855.top
 lite-1x97914.com
 lite-1x985126.com
@@ -79179,7 +79154,6 @@ lord-f-film.lordfilm.wales
 lord-film-hd2.lordfilm1.zone
 lord-film-hd4.lordfilm1.zone
 lord-film.bar
-lord-film.biz
 lord-film.cash
 lord-film.life
 lord-film.link
@@ -79645,7 +79619,6 @@ lordfilms.one
 lordfilms.pp.ru
 lordfilms.sbs
 lordfilms.shop
-lordfilms.su
 lordfilms.tax
 lordfilms.uno
 lordfilms.wiki
@@ -80683,7 +80656,6 @@ ludim.online
 ludogambler.com
 ludogambler.online
 ludogambler24.ru
-ludojob-bonus.com
 ludojop-stream.com
 ludojop.info
 ludojop.su
@@ -82486,7 +82458,6 @@ marathon-02.website
 marathon-bet-casino.site
 marathon-bet.azurewebsites.net
 marathon-bet.cash
-marathon-bet.info
 marathon-bet.me
 marathon-bet.top
 marathon-bet.xyz
@@ -85748,6 +85719,7 @@ melbet.pazls.ru
 melbet.plitkamiru.ru
 melbet.prowebmaster.ru
 melbet.red
+melbet.win-world.ru
 melbet.worldmobil.ru
 melbet003841.com
 melbet02157.com
@@ -110932,7 +110904,6 @@ prostitutkianapybuzz.info
 prostitutkianapydear.info
 prostitutkianapygid.info
 prostitutkianapytop.net
-prostitutkiarhangelska2021.info
 prostitutkiarhangelskabest.info
 prostitutkiarhangelskaboom.net
 prostitutkiarhangelskaerotic.org
@@ -111177,7 +111148,6 @@ prostitutkimoskvy.name
 prostitutkimoskvydear.com
 prostitutkimoskvygid.org
 prostitutkimoskvyinfo.com
-prostitutkimoskvylike.info
 prostitutkimoskvyonline.info
 prostitutkimoskvysexy.com
 prostitutkimoskvyslip.info
@@ -111191,7 +111161,6 @@ prostitutkinahodkidosug.info
 prostitutkinazranidosug.info
 prostitutkinefteuganskadosug.info
 prostitutkinizhnegonovgorodacool.net
-prostitutkinizhnegonovgorodadear.info
 prostitutkinizhnegonovgorodadear.net
 prostitutkinizhnegonovgorodafun.com
 prostitutkinizhnegonovgorodago.info
@@ -111343,7 +111312,6 @@ prostitutkisamary.me
 prostitutkisamaryclub.com
 prostitutkisamaryintim.com
 prostitutkisamaryonline.com
-prostitutkisamaryonline.info
 prostitutkisamarysex.net
 prostitutkisarapuladosug.info
 prostitutkisaratova2021.net
@@ -111429,7 +111397,6 @@ prostitutkiufyxxx.info
 prostitutkiulanudeboom.com
 prostitutkiulanudeclub.info
 prostitutkiulanudecool.info
-prostitutkiulanudefine.com
 prostitutkiulanudefun.com
 prostitutkiulanudehappy.info
 prostitutkiulanudehelp.info
@@ -111848,7 +111815,6 @@ q.zagonka-1359.site
 q.zagonka-1857.site
 q.zagonka-2531.site
 q.zagonka-952.site
-q.zagonka-964.site
 q.zfilm-1080.club
 q.zfilm-hd-1034.online
 q.zfilm-hd-1048.online
@@ -111988,7 +111954,6 @@ q0a5s48.icu
 q0g7yuq.icu
 q0r2jt4pjgmb.com
 q0z1g-azinomobile.icu
-q1.koshara.top
 q1.liveball8.ml
 q1.lordfilm.ltd
 q1.lostserials.me
@@ -120946,6 +120911,7 @@ ru.onlinecasinos4.ru
 ru.onlinecasinos5.ru
 ru.onlinecasinosnadengi.info
 ru.onporn.tube
+ru.opteck.biz
 ru.oscarkino.online
 ru.oserialimni.online
 ru.ou77leo2ga5t.com
@@ -123826,7 +123792,6 @@ seedbaza.cc
 seedbaza.club
 seedbaza.in
 seedbaza.info
-seedbaza.pw
 seedbaza.top
 seedbaza.xyz
 seedbit.cf
@@ -123917,7 +123882,6 @@ selectorcazino.ru
 selectorgg.site
 selektor-casino.me
 selektor.best
-selektor.club
 selektor.vip
 selektorcasino.me
 seliboba-casino.ru
@@ -127387,6 +127351,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -127548,7 +127513,6 @@ slotmillion.azurewebsites.net
 slotmillione.com
 slotmobilc.com
 slotmoney.express-live-site.com
-slotmoney.info
 sloto-boom.com
 sloto-king.net
 sloto-kings.com
@@ -129335,7 +129299,6 @@ spacefx.pro
 spacerv-4114.ru
 spainsilver.ru
 spalili-vk.ru
-spanish-food.club
 sparamonova.ru
 spark.serial-720hd.com
 spark.zfilm-hd1.icu
@@ -132905,7 +132868,6 @@ top10-online-casino3.xyz
 top10-online-casino4.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
-top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -134692,6 +134654,7 @@ tut-mp3.com
 tut-mp3.net
 tut-mp3.ru
 tut-serialy.fun
+tut-spravki.ru
 tut-zerkalo.ru
 tut.aparratov.net
 tut.dealer-market.xyz
@@ -138563,7 +138526,6 @@ vip.filmy-torrent.ru
 vip.goldsong.fun
 vip.izomusic.ru
 vip.kino-go.guru
-vip.kino-go.website
 vip.legal-market.xyz
 vip.legalklad.xyz
 vip.lordfillm.site
@@ -138648,7 +138610,6 @@ vipsert.skahcat-filmy.ru
 vipsintimbooking.ru
 vipslotss.net
 vipturnir.xyz
-vipvideo.site
 vipvlk.com
 vipvulkan.vip
 vipzal.me
@@ -141025,7 +140986,6 @@ vulkan-casino1.games
 vulkan-casino10.com
 vulkan-casino2.com
 vulkan-casino2.games
-vulkan-casino24.com
 vulkan-casino3.games
 vulkan-casino4.games
 vulkan-casino8.com
@@ -141605,7 +141565,6 @@ vulkan-site-official-casino.com
 vulkan-site-official.azurewebsites.net
 vulkan-site-olimp.azurewebsites.net
 vulkan-site.azurewebsites.net
-vulkan-site.club
 vulkan-site.online
 vulkan-skachat-besplatno-na-ayfon.webpodpiska.ru
 vulkan-skachat.com
@@ -149087,7 +149046,6 @@ www.biamara.ru
 www.bibliofile.su
 www.big-anime.ru
 www.bigcinema.kz
-www.bigtorrent.org
 www.bigzone.tv
 www.bitcoinbettinghouse.com
 www.bitcoincasino.com
