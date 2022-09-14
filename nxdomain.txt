@@ -18443,6 +18443,7 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x832e21090)
 ARRAY(0x833c0f6f0)
 ARRAY(0x834046438)
 ARRAY(0x8342a8900)
@@ -18450,11 +18451,11 @@ ARRAY(0x834c55d08)
 ARRAY(0x835eb8498)
 ARRAY(0x8362b4cd8)
 ARRAY(0x8367cac00)
+ARRAY(0x836f0d048)
 ARRAY(0x837751f00)
 ARRAY(0x837c20ba0)
 ARRAY(0x838374600)
 ARRAY(0x83844ae40)
-ARRAY(0x838ce2c30)
 ARRAY(0x838e1c240)
 ARRAY(0x839dff828)
 ARRAY(0x83a339e70)
@@ -18475,10 +18476,9 @@ ARRAY(0x8af2b15e8)
 ARRAY(0x8afc15be8)
 ARRAY(0x8b0d56ee8)
 ARRAY(0x8b10148b8)
-ARRAY(0x8b1e622a0)
 ARRAY(0x8b2974810)
+ARRAY(0x8b352d7c8)
 ARRAY(0x8b635d198)
-ARRAY(0x8b74c0828)
 ARRAY(0x8b8f9b558)
 ARRAY(0x8ba9be540)
 ARRAY(0x8bc09ad80)
@@ -18528,8 +18528,10 @@ a.baskino1.icu
 a.baza-knig.info
 a.belgorodnb.info
 a.bestseeds1.live
+a.bestseeds10.life
 a.bestseeds10.live
 a.bestseeds2.live
+a.bestseeds3.life
 a.bestseeds3.live
 a.bestseeds8.live
 a.blackrutor.site
@@ -23274,6 +23276,7 @@ aplay-casinoo.su
 aplay-casinos.club
 aplay-casinos.ru
 aplay-casinose.club
+aplay-cosinomobi.club
 aplay-kazino-888.velpaknn.ru
 aplay-kazino.5000rubley.com
 aplay-kazino.foot-bol.com
@@ -32509,11 +32512,13 @@ bestseeds1.online
 bestseeds10.live
 bestseeds2.live
 bestseeds2.online
+bestseeds3.life
 bestseeds3.live
 bestseeds3.online
 bestseeds5.live
 bestseeds5.online
 bestseeds7.online
+bestseeds8.life
 bestseeds8.live
 bestseller.pp.ru
 bestserial.cc
@@ -46695,6 +46700,7 @@ champion-casinoru.com
 champion-casinos.azurewebsites.net
 champion-casinos666.club
 champion-casinos888.club
+champion-casinos999.club
 champion-casinoz.club
 champion-cazino-official.tech
 champion-cazino-offlcial.tech
@@ -50405,6 +50411,7 @@ dota-2-selektor.francevisacentre.ru
 dota-drop.site
 dota-eclipse.com
 dota-loot.com
+dota.house
 dota.sale
 dota2.plus
 dota2drop.net
@@ -50904,6 +50911,7 @@ e.1ordfilm.art
 e.1ordfilm.pw
 e.3zfilm-hd.site
 e.7zfilme-hd.top
+e.alphatech.pw
 e.azino777-reg-4.xyz
 e.babes39.com
 e.fantasy-worlds.org
@@ -53597,6 +53605,7 @@ farm96.ru
 farma-sport.org
 farma-sport.top
 farma.farmlandpro.ru
+farmadron.net
 farmalandpro.ru
 farmamix.store
 farmann.ru
@@ -79527,6 +79536,7 @@ lordfilm-2021.online
 lordfilm-2021.ru
 lordfilm-638.site
 lordfilm-d1.lordfilmu.ru
+lordfilm-darck.club
 lordfilm-dogi.club
 lordfilm-film.ru
 lordfilm-hd.lordfilm-x.online
@@ -111987,6 +111997,7 @@ q.baskino-838.site
 q.fantasy-worlds.org
 q.filmive-hd.net
 q.ganjaseeds.pw
+q.genotech.site
 q.gidonline-1176.site
 q.gidonline-1326.site
 q.gidonline-144.site
@@ -112583,6 +112594,7 @@ r-tracker.ru
 r.1ordfilm.art
 r.3zfilm-hd.site
 r.adleon470551dop.com
+r.alphatech.pw
 r.angelov.su
 r.azino777-reg-5.xyz
 r.casino-mask-1.xyz
@@ -127445,6 +127457,7 @@ slot-v-casino.space
 slot-v-casino.su
 slot-v-casino.tech
 slot-v-casino.top
+slot-v-casino01.club
 slot-v-casino1.com
 slot-v-casino1.top
 slot-v-casino2.ru
@@ -127469,6 +127482,7 @@ slot-v-casinos.org
 slot-v-casinos.ru
 slot-v-casinos.win
 slot-v-casinos666.club
+slot-v-casinos777.club
 slot-v-casinoss.info
 slot-v-casinov.club
 slot-v-casinoz.club
@@ -127830,6 +127844,7 @@ slotozal-casino.com
 slotozal-igrovyye-avtomaty-besplatno.gk-maks.ru
 slotozal-igrovyye-avtomaty-besplatno.one-mi.ru
 slotozal-info.ru
+slotozal-mobi.club
 slotozal-online.club
 slotozal-zerkalo-mobilnaya-versiya.simkaa.ru
 slotozal.casino
@@ -128112,6 +128127,7 @@ slotswin.su
 slotsystem.net
 slott-v.ru
 slottery.red
+slottica-01.club
 slottica-777.club
 slottica-cazino.club
 slottica-club.zipprofi.ru
@@ -133071,6 +133087,7 @@ top1.hdkinoup.online
 top1.online-zor.me
 top10-bitcoin-casino1.xyz
 top10-bookmakeres.club
+top10-bookmaks.club
 top10-casino-online.azurewebsites.net
 top10-casino-online.club
 top10-casino-online.fun
@@ -143363,6 +143380,7 @@ w.6zfilm-hd.xyz
 w.6zfilme-hd.xyz
 w.7zfilm-hd.top
 w.7zfilme-hd.top
+w.alphatech.pw
 w.azino777-reg-1.xyz
 w.azino777-reg-2.xyz
 w.azino777-reg-3.xyz
@@ -147300,6 +147318,7 @@ wpv78ephnzmb.com
 wpx902k.icu
 wq10.gerthshopn1.biz
 wq16.gerthshopn1.biz
+wq17.gerthshopn1.biz
 wq3t2hf4mst.com
 wq6s4-azino777.icu
 wq8f7j4z.space
@@ -150059,6 +150078,7 @@ www.faraon-play.com
 www.faraon-play7o.com
 www.faraon-slots.net
 www.faraon1.com
+www.farmadron.net
 www.fart-game.space
 www.fart-game.website
 www.fartden.ru
@@ -155020,7 +155040,6 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
-x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
@@ -155901,6 +155920,7 @@ xn----7sbhbvcccdavqng0yc.xn--p1ai
 xn----7sbigfoaclqskf0bp7co.xn--p1ai
 xn----7sblrjvgldjaa.xn--p1ai
 xn----7sbmwdxhf3h.xn--p1ai
+xn----7sbpritdidjl1j.xn--p1ai
 xn----7sbqorgwdh9c2b7b.xn--p1ai
 xn----7sbvebhfvj7a.xn--p1acf
 xn----7sbvehvh1d.com
