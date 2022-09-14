@@ -18443,9 +18443,8 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x833672960)
 ARRAY(0x833c0f6f0)
-ARRAY(0x833c262d0)
+ARRAY(0x834046438)
 ARRAY(0x8342a8900)
 ARRAY(0x834c55d08)
 ARRAY(0x835eb8498)
@@ -18464,6 +18463,7 @@ ARRAY(0x83cf21ee8)
 ARRAY(0x83f288f30)
 ARRAY(0x83f56a750)
 ARRAY(0x83f772be8)
+ARRAY(0x83f992468)
 ARRAY(0x84062a198)
 ARRAY(0x840767630)
 ARRAY(0x8409812b8)
@@ -18474,12 +18474,12 @@ ARRAY(0x8aeff76c0)
 ARRAY(0x8af2b15e8)
 ARRAY(0x8afc15be8)
 ARRAY(0x8b0d56ee8)
+ARRAY(0x8b10148b8)
 ARRAY(0x8b1e622a0)
 ARRAY(0x8b2974810)
 ARRAY(0x8b635d198)
 ARRAY(0x8b74c0828)
 ARRAY(0x8b8f9b558)
-ARRAY(0x8b937ba08)
 ARRAY(0x8ba9be540)
 ARRAY(0x8bc09ad80)
 ARRAY(0x8bc4baf90)
@@ -44323,6 +44323,7 @@ casino.vulkandeluxe-club.com
 casino.vulkandeluxe.win
 casino.vulkanum-club.com
 casino.vullkanru.com
+casino.wulcan.top
 casino.wulkan-official.online
 casino.wulkan.pw
 casino.wulkan24-official.com
@@ -46156,6 +46157,7 @@ cazino.pobedawins.com
 cazino.vhods.ru
 cazino.vulkan-platin-slot.online
 cazino.vulkanbro.site
+cazino.wulcan.top
 cazino.wulkan.pw
 cazino.wullcan.online
 cazino.wullcan.top
@@ -50963,7 +50965,6 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
-e105.fisher-1.ru
 e108.fisher-1.ru
 e109.fisher-1.ru
 e1152ad.icu
@@ -53144,7 +53145,6 @@ f68547.olimpb7cd.top
 f694fa1.com
 f6adef.olimp9249.top
 f6afa3e.icu
-f6b859.olimpef97.site
 f6de00.olimpb7cd.top
 f6e20b567de6552531245.hdreactor.net
 f6e3f9.olimpa7d2.top
@@ -64506,6 +64506,7 @@ hydraskzxpnew4af.com
 hydratruzxpnew4af.oniont.com
 hydrauzxpnew4af-clubonion.com
 hydrauzxpnew4af.oniont.com
+hydrav3.com
 hydraxmarket.org
 hydraxruzxpnew4af.oniont.com
 hyenp.bkin.top
@@ -71837,6 +71838,7 @@ kazino.link
 kazino.lucky-life.online
 kazino.maxbet-slots.net
 kazino.vv24.online
+kazino.wulcan.top
 kazino.wullcan.top
 kazino01.site
 kazino2015.ru
@@ -99933,6 +99935,7 @@ official.site-azino777.org
 official.vulkan-first.com
 official.vulkan-first.top
 official.vulkan-platinum.xyz
+official.wulcan.top
 official1.l-pharm.ru
 official1.lid-pharm.ru
 official1xbet.site
@@ -106938,6 +106941,7 @@ play.webcasino.live
 play.win-admiral.club
 play.win-admiral.online
 play.worldbeyond.club
+play.wulcan.top
 play.www1.betsbc.pw
 play1.aplaycasinogood.info
 play1.aplaycasinoplaynew.info
@@ -131919,6 +131923,7 @@ t92-13786.mn.gdekino.site
 t92-13903.mm.gdekino.site
 t92-14485.mm.gdekino.site
 t92-5876.usr-vrl2zio6kbs.ruhosting.org
+t92-6059.usr-vrl2zio6kbs.ruhosting.org
 t97rd-azino777.icu
 t99-lordfilm.lordfilm.wine
 t9a4i5ph75mb.com
@@ -134944,6 +134949,7 @@ tv-sports.online
 tv-torrents.ru
 tv-tracker.ru
 tv-umnik.ru
+tv-vs.ml
 tv.1hd1080.info
 tv.2021-filmaaa.net
 tv.all-kino.online
@@ -139796,6 +139802,7 @@ vrutor.eu
 vs-cash.pro
 vs-cash.ru
 vs-cash.top
+vs-tv.ga
 vs.lordfilm.frl
 vs69v-azinomobile.icu
 vsbpvwgr.olimp6ih0.xyz
@@ -147417,6 +147424,7 @@ wulcan.casino
 wulcan.fun
 wulcan.link
 wulcan.tech
+wulcan.top
 wulcan.zone
 wulcan24.azurewebsites.net
 wulcan24club.club
@@ -153799,6 +153807,7 @@ www.votvete.info
 www.vpsmarathon.win
 www.vrach-online24.ru
 www.vrutor.eu
+www.vs-tv.ga
 www.vse-torrent.net
 www.vsem-spravki-tyt.com
 www.vseserial.net
@@ -154435,6 +154444,7 @@ www.xrutor.net.pl
 www.xrutor.org.pl
 www.xvideos.org.ua
 www.xxx-slot.com
+www.xylonbikes.com
 www.yaccztoukh.ga
 www.yarborough.shop
 www.yarik-sat.com
@@ -156486,6 +156496,7 @@ xxxzerkalo.ru
 xxxzerkalo7.ru
 xy6hr-azino777.icu
 xy722-azino777.icu
+xylonbikes.com
 xymelinedo.top
 xyqnadrdp.top
 xysp.skahcat-filmy.ru
