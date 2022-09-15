@@ -5651,6 +5651,7 @@
 1x-bet-top-1x.site
 1x-bet-zerkalo.site
 1x-bet.click
+1x-bet.in
 1x-bet.mobi
 1x-bet.net.ru
 1x-bet.top
@@ -18454,14 +18455,16 @@ ARRAY(0x833658240)
 ARRAY(0x8349a3de0)
 ARRAY(0x834fca108)
 ARRAY(0x83574e918)
+ARRAY(0x835c5a630)
 ARRAY(0x8362d6540)
 ARRAY(0x8369e8090)
 ARRAY(0x8392ddb70)
-ARRAY(0x839c93b88)
 ARRAY(0x83b250258)
 ARRAY(0x83b750858)
+ARRAY(0x83c9355e8)
 ARRAY(0x83e137bd0)
 ARRAY(0x83e59eee8)
+ARRAY(0x83e9ac378)
 ARRAY(0x8ad8311f8)
 ARRAY(0x8adce6900)
 ARRAY(0x8ae2d79f0)
@@ -18473,7 +18476,6 @@ ARRAY(0x8b02439c0)
 ARRAY(0x8b05a3c00)
 ARRAY(0x8b05e2138)
 ARRAY(0x8b069ec48)
-ARRAY(0x8b0ebff60)
 ARRAY(0x8b1e824f8)
 ARRAY(0x8b3b41690)
 ARRAY(0x8b4274150)
@@ -18488,7 +18490,6 @@ ARRAY(0x8b8ea7c60)
 ARRAY(0x8b9baabd0)
 ARRAY(0x8ba016c90)
 ARRAY(0x8ba175558)
-ARRAY(0x8ba9d4b40)
 ARRAY(0x8bd170c00)
 ARRAY(0x8bd717390)
 ARRAY(0x8bdef9e88)
@@ -18644,6 +18645,7 @@ a.nbtyumen.org
 a.novokuznetsk-nb.com
 a.orenburgnb.info
 a.p52q.net
+a.pravarff.com
 a.prostitutki-v-pitere.space
 a.prutor.site
 a.rasta-rasha.live
@@ -51038,7 +51040,6 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
-e105.fisher-1.ru
 e108.fisher-1.ru
 e109.fisher-1.ru
 e1152ad.icu
@@ -62560,6 +62561,7 @@ hd-zfilm.2021-film.site
 hd-zfilm.mnb-zfilm.sitel
 hd-zfilm.serial-720hd.com
 hd-zfilmhd.zagonka-l.site
+hd.1-lordserials.xyz
 hd.1zfilm-hd.site
 hd.1zfilm-hd.xyz
 hd.2021-filmaaa.net
@@ -62908,6 +62910,7 @@ hd.zfilme1-hd.space
 hd.zfim.xyz
 hd0.futbolonlajn.ru
 hd1-lordfilm.lordfilm1.zone
+hd1.1-lordserials.xyz
 hd1.2lordserials.xyz
 hd1.720-hd.icu
 hd1.baskino-2018.online
@@ -63111,6 +63114,7 @@ hd2.x-film2.com
 hd2.xn--c1ajfnfb.xn--p1acf
 hd2.xn--h1agd3a1be.su
 hd2.zfim.xyz
+hd20.1-lordserials.xyz
 hd20.2lordserials.xyz
 hd20.kino-go.best
 hd2020.online
@@ -63246,6 +63250,7 @@ hd5.smotri1080.online
 hd5.tvfilms.club
 hd5.x-film.live
 hd50.1-lordserials.xyz
+hd51.1-lordserials.xyz
 hd52.1-lordserials.xyz
 hd55.1-lordserials.xyz
 hd56.1-lordserials.xyz
@@ -72558,7 +72563,6 @@ kino-drive.ru
 kino-dron.ru
 kino-enot.ru
 kino-enta.ru
-kino-epta.tv
 kino-era.ru
 kino-es.ru
 kino-fat.ru
@@ -78026,6 +78030,7 @@ letnewmosted.com
 letnewtraf.com
 letnewtraff.com
 letnewtraffd.com
+leto.kinofilmpro.live
 leto.sexanketa-krym.com
 letoille.ru
 letoltesingyen.hu
@@ -82390,6 +82395,7 @@ magvi.ru
 mahachkala-kupit-snus2.xyz
 mahachkala.auto-doki.life
 mahachkala.diplomr-kurerom.com
+mahachkala.diplomw-kurerom.com
 mahachkala.diplomysattestati.com
 mahachkala.doc-avto.info
 mahachkala.kupuh-prava.com
@@ -87569,6 +87575,7 @@ mir-spravok.online
 mir-tesen1.ru
 mir.cryptoworlds.club
 mir.jethide.xyz
+mir.kinofilmpro.live
 mir.kinokingo.online
 mir1.cryptoworlds.club
 mir10.cryptoworlds.club
@@ -105496,6 +105503,7 @@ pin-up6h2.com
 pin-up6k6.com
 pin-up70.azurewebsites.net
 pin-up70.fun
+pin-up70.win
 pin-up701.com
 pin-up703.com
 pin-up71.com
@@ -107656,6 +107664,7 @@ playfortunaak98.com
 playfortunab20e.com
 playfortunab2b.com
 playfortunab6.com
+playfortunab9.com
 playfortunabest.ru
 playfortunabonus.com
 playfortunac2.com
@@ -124108,6 +124117,7 @@ scasredirect.com
 scattermediaplay.win
 scervise.ru
 sch.documentu-avto.info
+schdiplomys.com
 schetchik-pribor.bar
 schetchiki_s_pultom.vendeo.ru
 schetchiknastolbe.ru
@@ -126081,7 +126091,6 @@ sex1.prostitutkitaganroganew.info
 sex1.prostitutkitaganrogasexy.info
 sex1.prostitutkitambovaarea.info
 sex1.prostitutkitambovacase.com
-sex1.prostitutkitambovachange.net
 sex1.prostitutkitambovacool.info
 sex1.prostitutkitambovafun.com
 sex1.prostitutkitambovalucky.com
@@ -127824,6 +127833,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -131620,6 +131630,7 @@ suktyvkar.diplomvzruki.com
 sumcmm.ru
 sumitomoheatshrink.com
 summer-cash.net
+summer.kinofilmpro.live
 summer.kinosonik.net
 summex.ru
 sumnefcb.olimpc9xz.xyz
@@ -133398,7 +133409,6 @@ top10-online-casino3.xyz
 top10-online-casino4.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
-top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -150754,7 +150764,6 @@ www.free33.ru
 www.freebiecasino.expert
 www.freecasino-game.net
 www.freecasino-online.xyz
-www.freeflashonlinegames.com
 www.freehomeslots.com
 www.freekaraoke.ru
 www.freekurses.online
@@ -153113,6 +153122,7 @@ www.prs24.biz
 www.psnone.ru
 www.psnplati.club
 www.pstr-okno.ru
+www.psyoffice.ru
 www.ptster.com
 www.pukapuka.tv
 www.pulsethemovie.ru
@@ -155333,6 +155343,7 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
