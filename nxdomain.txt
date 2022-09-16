@@ -18469,10 +18469,10 @@ ARRAY(0x8362d6540)
 ARRAY(0x8372ceb58)
 ARRAY(0x838622330)
 ARRAY(0x838e41810)
-ARRAY(0x8392ddb70)
 ARRAY(0x83a4fd7b0)
 ARRAY(0x83b2a87e0)
 ARRAY(0x83c9355e8)
+ARRAY(0x83d8ffdb0)
 ARRAY(0x83e9ac378)
 ARRAY(0x89f550558)
 ARRAY(0x8adce6900)
@@ -18482,7 +18482,7 @@ ARRAY(0x8aee0ec78)
 ARRAY(0x8affd5870)
 ARRAY(0x8b05e2138)
 ARRAY(0x8b38f5720)
-ARRAY(0x8b4274150)
+ARRAY(0x8b40f5498)
 ARRAY(0x8b4cce630)
 ARRAY(0x8b58e4870)
 ARRAY(0x8b68c3ba0)
@@ -18491,12 +18491,12 @@ ARRAY(0x8b722fcf0)
 ARRAY(0x8b747f078)
 ARRAY(0x8b7730f30)
 ARRAY(0x8b7cbd498)
+ARRAY(0x8b7fd57f8)
 ARRAY(0x8b91ffd68)
 ARRAY(0x8b9a2ea68)
 ARRAY(0x8b9baabd0)
 ARRAY(0x8ba155e40)
 ARRAY(0x8bb12bcc0)
-ARRAY(0x8bd170c00)
 ARRAY(0x8bd5fc2d0)
 ARRAY(0x8bd620240)
 ARRAY(0x8bdb8cf78)
@@ -30900,6 +30900,7 @@ bank.fondfpr.icu
 bankamega.com
 bankarial.com
 bankbiz362.ru
+bankdocumentov-sb.ru
 bankdocumentov-sw.ru
 bankebk.com
 banki-2ndflspravka.xyz
@@ -41759,6 +41760,7 @@ casino-info24.ru
 casino-internet-igra.ru
 casino-ivi.ru
 casino-ix.com
+casino-ix.wamnet.ru
 casino-jackpot.org
 casino-jet.ru
 casino-joser-aktualnyy-vkhod.istorioskop.ru
@@ -44269,6 +44271,7 @@ casino-x999.com
 casino-xs1.ru
 casino-xslot.com
 casino-xx.azurewebsites.net
+casino-xx.wamnet.ru
 casino-xx100.ru
 casino-xxx.com
 casino-xxx.org
@@ -53061,6 +53064,7 @@ f.lordfilmix.xyz
 f.lordfilms-film.online
 f.lordfilms-filmy.online
 f.lordssfilm.life
+f.moonfilmc.club
 f.scatz.fun
 f.smotretfilmi.ru
 f.uspehisporta.moscow
@@ -60013,6 +60017,7 @@ gidonlinehd.ru
 gidonlines.pro
 gidonlines.ru
 gidonllinego.ru
+gidra-link24.com
 gidra-market.club
 gidra-online.site
 gidra-sait-zerkalo.site
@@ -60589,6 +60594,7 @@ go1-mob-azino.site
 go1-mobazino.site
 go1.azmpp.com
 go1.goazino.com
+go1.hyrdaruzxpnew4af1onion.com
 go1.melbet24-oficial.com
 go1.vhod-azino.com
 go1azino-mob.site
@@ -64543,6 +64549,7 @@ hydraclub.ru
 hydraclubb.com
 hydraclubbiokni.com
 hydraclubbioknikokex7n.com
+hydraclubbioknikokex7nj.com
 hydraclubbioknikokex7nj.darknet-onion.shop
 hydraclubbioknikokex7njchwhua2l67lfiz7z36md2jvopda7nchid.online
 hydraclubbioknikokex7njhw.ooniono.com
@@ -67523,6 +67530,7 @@ jba6kzk.host
 jbbmru.top
 jbcbrother.xyz
 jbf6a-azino777.icu
+jbforum.top
 jbmlinks.net
 jbn3hjdhb.com
 jbssmsthhbd.com
@@ -76381,6 +76389,7 @@ kupitt-lipetsk-medspravkiii.ru
 kupitt-novosibirskk-medspravkiii.ru
 kupitt-samaraa-medspravkiii.ru
 kupitt-spravka-kurskk.ru
+kupitt.rf-pasport.com
 kupittt-novosibirskk-medspravkiii.ru
 kupityad.ru
 kupivesnu.ru
@@ -79423,6 +79432,7 @@ load-kino.net
 load-knigi.feej.ru
 load-music.ru
 load.failovik.net
+load.hyrdaruzxpnew4af1onion.com
 loadbookfb2.online
 loadbooks.ru
 loading1080.ru
@@ -101342,6 +101352,7 @@ one.myvimir.fun
 one.official-casino-x.com
 one.official-casino-x.net
 one.rox-info.website
+one.sexanketa-kirov.com
 one.sexanketa-nsk.com
 one.sexanketa-perm.net
 one.sexanketa13.com
@@ -139325,6 +139336,7 @@ vip-vulkanplay.com
 vip-vulkanrussia.com
 vip-vulkanslot.com
 vip-vylkan.com
+vip.bordelya.net
 vip.casino-vulkan37.com
 vip.club-market.xyz
 vip.darknet24.xyz
@@ -141512,6 +141524,7 @@ vulcanrossiagaming.com
 vulcanrossiya-gaming.com
 vulcanrossiya.azurewebsites.net
 vulcanrossiyagaming.com
+vulcanrossya-gaming.com
 vulcanroyal-official.com
 vulcanroyal-onlines.com
 vulcanroyal.su
@@ -142434,6 +142447,7 @@ vulkan-star.ru.site-stat.ru
 vulkan-stars-888.glumilino.ru
 vulkan-stars-besplatno.spravka-070.ru
 vulkan-stars-casino.azurewebsites.net
+vulkan-stars-casino.win
 vulkan-stars-casino1.win
 vulkan-stars-casino2.win
 vulkan-stars-casino3.win
@@ -142877,6 +142891,7 @@ vulkanextra.com
 vulkanf.com
 vulkanfortuna1.com
 vulkanfortuna2.com
+vulkanfortuna3.com
 vulkanfortuna4.com
 vulkanfortuna6.com
 vulkangame.org
@@ -148664,6 +148679,7 @@ www.28-azino777.win
 www.28-azmpp.win
 www.28102018azino777.ru
 www.281joycasino.ru
+www.28365365.tw
 www.283656365.com
 www.287azino777.win
 www.287joycasino.ru
@@ -156798,6 +156814,7 @@ xn--e1awdqc.xn--p1ai
 xn--f1aedybk9d9b.xn--p1acf
 xn--g1acfg9azc.xn--e1apq.xn--p1ai
 xn--g1ajebcdtl.xn--p1ai
+xn--h1aaeemc4cj.xn--p1ai
 xn--h1aaegfdh2cydi.xn--80asehdb
 xn--h1aaejegq.com
 xn--h1aafgbicfmhn.xn--p1ai
