@@ -18489,10 +18489,11 @@
 ARRAY(0x833f1ad38)
 ARRAY(0x834049768)
 ARRAY(0x834113cc0)
-ARRAY(0x8352b7198)
+ARRAY(0x8343f32e8)
+ARRAY(0x835432e10)
 ARRAY(0x83585f798)
 ARRAY(0x837e63ac8)
-ARRAY(0x838bc5ab0)
+ARRAY(0x8388eb6a8)
 ARRAY(0x838fd6150)
 ARRAY(0x839838570)
 ARRAY(0x839fefa80)
@@ -18520,7 +18521,6 @@ ARRAY(0x8b5658de0)
 ARRAY(0x8b577abb8)
 ARRAY(0x8b6fb0ae0)
 ARRAY(0x8b7a497c8)
-ARRAY(0x8b84ac210)
 ARRAY(0x8b8e104c8)
 ARRAY(0x8b95c2258)
 ARRAY(0x8b97a6d68)
@@ -20094,6 +20094,7 @@ admiral-x-gambler.online
 admiral-x-game.online
 admiral-x-kasino.org.ru
 admiral-x-kazino.com
+admiral-x-kazino.org.ru
 admiral-x-official-ru.club
 admiral-x-official-ru.site
 admiral-x-official.azurewebsites.net
@@ -23451,6 +23452,7 @@ apng7-azino777.icu
 apokerdom.com
 apollina.ru
 app-1win.store
+app-casino.ru
 app-pin-up.store
 app-spot.site
 app-vulkan.ru
@@ -27572,6 +27574,7 @@ azino777-win.win
 azino777-win24-365.site
 azino777-win24.site
 azino777-winbx3.ru
+azino777-winbx5.ru
 azino777-winner-2020.site
 azino777-winner.site
 azino777-winy9.icu
@@ -39128,6 +39131,7 @@ bn12-lord4k.lordfilm.town
 bn2tf-azino777.host
 bn68.online
 bn68.ru
+bnb1.lordfilm.uno
 bnets.space
 bnetterm.com
 bnjckapeyp.top
@@ -40637,6 +40641,7 @@ buyersdiplomi.com
 buyhelpspb.ru
 buyhgh.best
 buyhgh.casa
+buyhgh.cc
 buyhgh.club
 buyhgh.fitness
 buyhgh.fun
@@ -45301,6 +45306,7 @@ casinorank.club
 casinoranking.vip
 casinorating-online.ru
 casinorating.live
+casinorating.one
 casinorating.vip
 casinorating2020.com
 casinoratingonlineru.ru
@@ -48564,6 +48570,7 @@ crusecelebrations.com
 crush-bet.com
 crym-farm.ru
 crypt-future.com
+crypto-currency.bar
 crypto-fusion.com
 crypto-grantltd.com
 cryptoarby.trade
@@ -50574,12 +50581,14 @@ dostypsbks.ru
 dosug-almetevsk.ru
 dosug-alushta.ru
 dosug-artyom.ru
+dosug-berdsk.ru
 dosug-elektrostal.ru
 dosug-izhevsk.com
 dosug-lipetsk.com
 dosug-nsk.net
 dosug-omskaaa.ru
 dosug-pervouralska.ru
+dosug-pushkino.ru
 dosug-samara1.com
 dosug-tagil.com
 dosug-tumeni.ru
@@ -51165,6 +51174,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e105.fisher-1.ru
 e108.fisher-1.ru
 e109.fisher-1.ru
 e1152ad.icu
@@ -54407,6 +54417,7 @@ film.kinorupka.online
 film.kinoseego.online
 film.kinospace.club
 film.koshara.top
+film.lordfilm.uno
 film.lordsfilmz.online
 film.myvimir.fun
 film.n-v.online
@@ -67310,6 +67321,7 @@ ivi.zfilm-hd777.monster
 ivic.tvfilms.club
 ivicasino-com.ru
 ivicasino.cc
+ivicasino.one
 ivicasino.top
 ivicasino2.ru
 ivicasinos.ru
@@ -77411,6 +77423,7 @@ leon-bett-pro.ru
 leon-betting-online.win
 leon-betting-online1.win
 leon-bk-com.ru
+leon-bk-official.ru
 leon-bk.site
 leon-bk81.ru
 leon-bk89.ru
@@ -79787,6 +79800,7 @@ lord-filmm19.lordfilm1.link
 lord-filmn3z.lordfilm1.zone
 lord-filmnn8.lordfilm1.zone
 lord-filmnz1.lordfilm1.zone
+lord-films.lordfilm.uno
 lord-films.ru
 lord-films.tech
 lord-films10.lordfilm1.zone
@@ -86411,6 +86425,7 @@ melbet299074.com
 melbet3.club
 melbet3.ru
 melbet309347.com
+melbet31.com
 melbet31145.com
 melbet31271.com
 melbet31677.com
@@ -105706,6 +105721,7 @@ pin-up-official-site.net
 pin-up-official-site.org
 pin-up-official.azurewebsites.net
 pin-up-official.cc
+pin-up-official.ru
 pin-up-official.site
 pin-up-official.win
 pin-up-official10.fun
@@ -106219,6 +106235,7 @@ pinup-cazino.azurewebsites.net
 pinup-cazino.mobi
 pinup-cazino.net
 pinup-cazino.net.ru
+pinup-cazino.one
 pinup-cazino.org.ru
 pinup-cazino.win
 pinup-cazino1.net
@@ -106600,6 +106617,7 @@ pinupps2.com
 pinupps3.com
 pinups-bet.fun
 pinups-bet.xyz
+pinups-kazino.ru
 pinups.azurewebsites.net
 pinups.xyz
 pinupskazino.ru
@@ -106977,6 +106995,7 @@ play-fortuna-oficial.site
 play-fortuna-ofitsialnyy-sayt.spravka-sorevnovaniya.ru
 play-fortuna-online-casino.anmanchicory.ru
 play-fortuna-online.fun
+play-fortuna-online.net.ru
 play-fortuna-online.ru
 play-fortuna-online.site
 play-fortuna-online1.club
@@ -107075,6 +107094,7 @@ play-fortuna.guru
 play-fortuna.media
 play-fortuna.net.ru
 play-fortuna.news
+play-fortuna.one
 play-fortuna.org.ru
 play-fortuna.party
 play-fortuna.plus
@@ -116123,6 +116143,7 @@ riobetcasinoz03.ru
 riobetcassino.club
 riobetcassino.com
 riobetcassino.info
+riobetcazino-win.ru
 riobetcazino.ru
 riobetcazino.su
 riobetcosino.ru
@@ -123041,6 +123062,7 @@ russiawulcan.azurewebsites.net
 russiawulcan.net.ru
 russiawulcan.org.ru
 russiawulkan.azurewebsites.net
+russiawulkan.org.ru
 russist.ru
 russkie-filmi.ru
 russkie-seriali.net
@@ -124247,6 +124269,7 @@ saratovskaya-oblast.auto-doki.life
 saratovskaya-oblast.doc-avto.life
 sarmat24.biz.24klad.store
 sarmat24.biz.shop-rc.com
+sarov-hc.ru
 sarov.online
 sarqq-azino777.host
 sary-tsindry.ru
@@ -134739,6 +134762,7 @@ tracnbmevd.site
 tradarr.net
 trade-invest-bank.pw
 trade.achdeal.com
+trade.annvl.com
 trade.boxinvest.pro
 trade.cocap.pro
 trade.eastscotinvest.org
@@ -141047,6 +141071,7 @@ vulcan-kasino.ru
 vulcan-kasino.xyz
 vulcan-kasinos.com
 vulcan-kazino-link.ru
+vulcan-kazino-official.net.ru
 vulcan-kazino.edinros-ugra.ru
 vulcan-kazino.net
 vulcan-kazinos777.com
@@ -141257,6 +141282,7 @@ vulcan-vegas.pl
 vulcan-vegas.site
 vulcan-vegass1.com
 vulcan-vip.life-passion.ru
+vulcan-vulkan.ru
 vulcan-win.com
 vulcan-zal.ru
 vulcan.casinogames.su
@@ -148185,6 +148211,7 @@ wulcan-prestige.azurewebsites.net
 wulcan-real-money.azurewebsites.net
 wulcan-real.azurewebsites.net
 wulcan-registration.azurewebsites.net
+wulcan-registration.net.ru
 wulcan-rossia.xyz
 wulcan-royal.azurewebsites.net
 wulcan-russia.club
@@ -152126,7 +152153,6 @@ www.listock.info
 www.literaworld.ru
 www.lithub.ru
 www.litru.ru
-www.litsa.com.ua
 www.livbook.ru
 www.live-mirrors.org
 www.live104.online
@@ -155689,6 +155715,7 @@ x-1xbet-91847.world
 x-1xbet-94956.world
 x-1xbet-97899.world
 x-admiral.azurewebsites.net
+x-admiral.net.ru
 x-admiralcasinos.com
 x-bet-zerkalo-official-site.online
 x-bet.mobi
@@ -155825,6 +155852,7 @@ x.goldsong.fun
 x.hdreactor.net
 x.itorrents-igruha.org
 x.kingfilmi.online
+x.kinoportal.vip
 x.lordfilm-smotret.one
 x.lordfilm.ninja
 x.lordfilm2021.website
@@ -160866,6 +160894,7 @@ zisper.skahcat-filmy.ru
 zitor.site
 zitrruszx6eiof.uno
 ziwewvrh.olimpu0ld.xyz
+zizavr.ru
 zj8go-azino777.icu
 zjdhygkg.olimp3su8.xyz
 zji8agsimb.com
