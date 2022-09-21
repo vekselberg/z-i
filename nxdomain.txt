@@ -18424,12 +18424,14 @@
 ARRAY(0x83465a018)
 ARRAY(0x834706ba0)
 ARRAY(0x8349d5bd0)
+ARRAY(0x834a52228)
 ARRAY(0x835307048)
 ARRAY(0x8356bc420)
 ARRAY(0x83755e060)
 ARRAY(0x837b1a420)
 ARRAY(0x837c2c030)
 ARRAY(0x839bdb090)
+ARRAY(0x83ac1cb58)
 ARRAY(0x83b448db0)
 ARRAY(0x83baeb408)
 ARRAY(0x83def7420)
@@ -18456,6 +18458,7 @@ ARRAY(0x8baf7df18)
 ARRAY(0x8bd3d18b8)
 ARRAY(0x8bdbc8978)
 ARRAY(0x8bdc40858)
+ARRAY(0x8be4d8fa8)
 ARRAY(0x8bede3eb8)
 a-bets63.top
 a-bt56.top
@@ -23540,6 +23543,7 @@ apteka-gepatit.ru
 apteka-ifk.ru
 apteka-onlinede.com
 apteka-viagra.ru
+apteka.hk
 apteka.kupi-cialis.com
 apteka.mister-tvister.biz
 apteka.space
@@ -115942,6 +115946,7 @@ ringtonclub.ru
 ringtones-rington.com
 ringtonj.net
 ringtoons.ru
+ringtop.club
 rinstroy-volgograd.online
 rinstroy-volgograd.ru
 rintintin.website
