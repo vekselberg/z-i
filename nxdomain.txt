@@ -18421,6 +18421,7 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x83465a018)
 ARRAY(0x834706ba0)
 ARRAY(0x8349d5bd0)
 ARRAY(0x835307048)
@@ -18428,20 +18429,19 @@ ARRAY(0x8356bc420)
 ARRAY(0x83755e060)
 ARRAY(0x837b1a420)
 ARRAY(0x837c2c030)
-ARRAY(0x8393f0c00)
 ARRAY(0x839bdb090)
 ARRAY(0x83b448db0)
 ARRAY(0x83baeb408)
 ARRAY(0x83def7420)
 ARRAY(0x83fba0360)
 ARRAY(0x83fedf3c0)
+ARRAY(0x840c5d4c8)
 ARRAY(0x8412cfd08)
 ARRAY(0x8ae7bb438)
 ARRAY(0x8af59dd38)
 ARRAY(0x8b02f92e8)
 ARRAY(0x8b0d77180)
 ARRAY(0x8b121a588)
-ARRAY(0x8b1535e88)
 ARRAY(0x8b198a510)
 ARRAY(0x8b268e660)
 ARRAY(0x8b27010d8)
@@ -18449,10 +18449,10 @@ ARRAY(0x8b2c3cd50)
 ARRAY(0x8b5790708)
 ARRAY(0x8b6068b28)
 ARRAY(0x8b76b8c90)
+ARRAY(0x8b961b240)
 ARRAY(0x8b9edae70)
 ARRAY(0x8ba11e3d8)
 ARRAY(0x8baf7df18)
-ARRAY(0x8bb90da50)
 ARRAY(0x8bd3d18b8)
 ARRAY(0x8bdbc8978)
 ARRAY(0x8bdc40858)
@@ -19901,6 +19901,7 @@ admiral-cazinoz.azurewebsites.net
 admiral-club-casino.net
 admiral-club.foot-bol.com
 admiral-club.nlofact.com
+admiral-club.win-here.club
 admiral-clubcasino.com
 admiral-elmtq.ondigitalocean.app
 admiral-game.azurewebsites.net
@@ -22994,6 +22995,7 @@ antimigalki.info
 antimigalki.top
 antimonkeys.com
 antimonkeyss.com
+antiprivivochnik.xyz
 antiqsilver.ru
 antistudios.ru
 antivulkan-new.com
@@ -23288,6 +23290,7 @@ aplay-casino.nlofact.com
 aplay-casino.org
 aplay-casino.space
 aplay-casino.su
+aplay-casino.win-here.club
 aplay-casino1.com
 aplay-casino1.ru
 aplay-casino3.ru
@@ -23310,6 +23313,7 @@ aplay-kazino2.ru
 aplay-kazino3.ru
 aplay-online.5000rubley.com
 aplay-online.casino
+aplay-online.win-here.club
 aplay-win.5000rubley.com
 aplay.5000rubley.com
 aplay.azurewebsites.net
@@ -23320,6 +23324,7 @@ aplay.group
 aplay.nlofact.com
 aplay.rocks
 aplay.sport-people.club
+aplay.win-here.club
 aplay07ms.club
 aplay1.ru
 aplay2.ru
@@ -23339,6 +23344,7 @@ aplaycasino.site
 aplaycasino.today
 aplaycasino.top
 aplaycasino.win
+aplaycasino.win-here.club
 aplaycasino1.com
 aplaycasino12.ru
 aplaycasino2.com
@@ -23365,6 +23371,7 @@ aplayonline.5000rubley.com
 aplayonline.casino
 aplayonline.luckyru.club
 aplayonline.nlofact.com
+aplayonline.win-here.club
 aplays-cazino.ru
 aplikacja-kasyno-na-prawdziwe-pienidze-ios.cowrozumie.eu
 apluslife.ru
@@ -24663,6 +24670,7 @@ azart-play.online
 azart-play.org
 azart-play.site
 azart-play.sport-people.club
+azart-play.win-here.club
 azart-plays.azurewebsites.net
 azart-plays.mobi
 azart-playzona.com
@@ -24862,6 +24870,7 @@ azartplay-casino.net
 azartplay-casino.site
 azartplay-casino.su
 azartplay-casino.tech
+azartplay-casino.win-here.club
 azartplay-casino24.su
 azartplay-cazino-official.tech
 azartplay-cazino-offlcial.tech
@@ -24929,6 +24938,7 @@ azartplay.space
 azartplay.sport-people.club
 azartplay.tv
 azartplay.win
+azartplay.win-here.club
 azartplay.zone
 azartplay1.su
 azartplay10.name
@@ -29913,6 +29923,7 @@ balashiha.study-docum.com
 balashiha.vodp-prava.com
 balashikha.diplomglike.com
 balej.doc-avto.life
+ball1n.info
 ballofduty.art
 ballpin22.website
 ballroombabies.com
@@ -41478,6 +41489,7 @@ casino-coin.ru
 casino-coliseum.com
 casino-columb.com
 casino-columb.ru
+casino-columb.win-here.club
 casino-columb1.ru
 casino-columb2.ru
 casino-columbs.azurewebsites.net
@@ -47711,6 +47723,7 @@ club-777.crazy-monkey.in
 club-admiral-casino.ru
 club-admiral-casino.space
 club-admiral.foot-bol.com
+club-admiral.win-here.club
 club-android.ru
 club-azino777-com.ru
 club-azino777.ru
@@ -48169,6 +48182,7 @@ columbus.foot-bol.com
 columbus.luckyru.club
 columbus.nlofact.com
 columbus.sport-people.club
+columbus.win-here.club
 columbuscapitan.site
 columbuscasino-7777.com
 columbuscasino-new.ru
@@ -64610,6 +64624,7 @@ hydra-slon.org
 hydra-ssylka-hydra.com
 hydra-ssylka.sbtbauto.com
 hydra-token.cloud
+hydra-v3.com
 hydra-vip.org
 hydra-zerkalo-2021.com
 hydra-zxp.com
@@ -68049,6 +68064,7 @@ joy-casino.host
 joy-casino.kz
 joy-casino.net.ru
 joy-casino.network
+joy-casino.promo
 joy-casino.red
 joy-casino.vegas
 joy-casino1.azurewebsites.net
@@ -87824,6 +87840,7 @@ mirror1.mirrorolimp1.xyz
 mirror1.mirrorolimp2.online
 mirror1.olimp24x7.online
 mirror1.ru
+mirror1.thegreek.com
 mirror100.ru
 mirror1000.ru
 mirror101.ru
@@ -106790,6 +106807,7 @@ play-columb.sport-people.club
 play-columbus.foot-bol.com
 play-columbus.luckyru.club
 play-columbus.sport-people.club
+play-columbus.win-here.club
 play-doom-kazino-zerkalo.shamora-cinema.ru
 play-enjoy.azurewebsites.net
 play-faraon.com
@@ -128182,6 +128200,7 @@ slot-v.store
 slot-v.today
 slot-v.vip
 slot-v.website
+slot-v.win-here.club
 slot-v1.5000.games
 slot-vcasino.info
 slot-vcasino.su
@@ -128926,6 +128945,7 @@ slotv.pw
 slotv.sport-people.club
 slotv.su
 slotv.today
+slotv.win-here.club
 slotv06rea.com
 slotvcas.azurewebsites.net
 slotvcas1.azurewebsites.net
@@ -129438,7 +129458,6 @@ sochi.pravap-4you.com
 sochi.pto24.org
 sochi.real-diplom.com
 sochi.realdeplom.com
-sochi.spravki-v-gai.ru
 sochi.study-docum.com
 sochi.study-document.com
 sochi.vipp-steroid.com
@@ -133817,6 +133836,7 @@ top10-online-casino4.xyz
 top10-online-casino5.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
+top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
