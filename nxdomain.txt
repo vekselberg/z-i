@@ -397,6 +397,7 @@
 052001.okah.top
 052009.serialhit.club
 05282c0.icu
+0537.videocdn.pw
 0538a9b.icu
 0560.fun
 0560.info
@@ -1096,6 +1097,7 @@
 1.thro.bz
 1.topkinofilm.net
 1.tv.ezfilm.net
+1.videocdn.pw
 1.videomin.online
 1.volcanocasino.xyz
 1.volcanocasino1.xyz
@@ -10443,6 +10445,7 @@
 20-azmpp.win
 20-super-hot-igra-dzhekpot.sidewinders.info
 20.300kbit.pw
+200.videocdn.pw
 2001.vsepropoker04.top
 200119azino777.com
 200119azino777.ru
@@ -10494,6 +10497,7 @@
 20092019azino777.com
 20092019azino777.ru
 200joycasino.com
+201.videocdn.pw
 201018azino777.com
 201018azino777.ru
 20102018azino777.com
@@ -12842,6 +12846,7 @@
 34x7db1.icu
 35-azino777.ru
 35-azmpp.win
+35.videocdn.pw
 350-azino777.icu
 3503-777azino.com
 3504azm.host
@@ -13550,6 +13555,7 @@
 425joycasino.com
 4264-azino777.icu
 42644-azino777.icu
+4268.videocdn.pw
 426joycasino.com
 4270-777azino.com
 427joycasino.com
@@ -13678,6 +13684,7 @@
 453joycasino.com
 4543azm.host
 454joycasino.com
+4567.videocdn.pw
 456joycasino.com
 4576d8.olimp06e8.top
 457a80.olimp1958.top
@@ -14182,6 +14189,7 @@
 5054.live
 505joycasino.com
 5060azm.host
+5067.videocdn.pw
 506joycasino.com
 507283-svadby-i-razvody.xn--c1ajfnfb.xn--p1acf
 5075-azino777.icu
@@ -14227,6 +14235,7 @@
 5168.fun
 516joycasino.com
 5171cb.olimpa7d2.top
+5173.videocdn.pw
 517508.olimp0fe0.top
 517joycasino.com
 518093.i.kinomka.ru
@@ -14336,6 +14345,7 @@
 540v7.wvq9xuk31.icu
 541c6e7.icu
 541joycasino.com
+5422.videocdn.pw
 542702.info
 542c86.olimp9b5b.top
 542joycasino.com
@@ -14346,6 +14356,7 @@
 544bf4.olimp88ff.top
 544joycasino.com
 545joycasino.com
+5467.videocdn.pw
 546azinoazino.icu
 546joycasino.com
 547joycasino.com
@@ -14467,6 +14478,7 @@
 568-azino777.icu
 5681d8.olimpdcb8.top
 568joycasino.com
+5690.videocdn.pw
 569joycasino.com
 56acff.olimpcaf3.top
 56cc5acbd0958986f0.c2ef25.781562c135255c8a5b.xyz
@@ -15079,6 +15091,7 @@
 6458.info
 64590p209.xyz
 645joycasino.com
+646.videocdn.pw
 6465azm.host
 646joycasino.com
 647azinoazino.icu
@@ -15108,6 +15121,7 @@
 650joycasino.com
 651joycasino.com
 652joycasino.com
+6533.videocdn.pw
 6539.info
 653joycasino.com
 654cnzqkeyebmsm.site
@@ -15957,8 +15971,10 @@
 7354.fun
 7354.videocdn.pw
 735joycasino.com
+7368.videocdn.pw
 736c4f.olimp656f.top
 736joycasino.com
+7375.videocdn.pw
 7377a7.olimpb4cc.top
 737c2f.olimp2ad7.top
 737c38.olimp78a8.top
@@ -16026,6 +16042,7 @@
 752joycasino.com
 752yn-azinomobile.icu
 753102.info
+7533.videocdn.pw
 753azm.icu
 753joycasino.com
 754e07.olimp0fe0.top
@@ -16844,6 +16861,7 @@
 783c52.olimp58e7.top
 783joycasino.com
 784joycasino.com
+7854.videocdn.pw
 785aae.olimp0115.top
 785joycasino.com
 7862.fun
@@ -17506,6 +17524,7 @@
 8670-azino777.icu
 8670e9.olimp3ed3.top
 86723432418.xyz
+8678.videocdn.pw
 867joycasino.com
 8682.info
 8683.live
@@ -18076,6 +18095,7 @@
 950ae9.olimp9b5b.top
 952e61.olimpe297.top
 95300-azinomobile.icu
+9531.videocdn.pw
 954-azino777.icu
 9542143421.xyz
 954azinoazino.icu
@@ -18153,6 +18173,7 @@
 97wintop.com
 98-vulcan.com
 98-vulkan.com
+98.videocdn.pw
 9804azm.host
 9809861.ru
 981c55.olimp3043.top
@@ -18410,10 +18431,10 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x833921e40)
 ARRAY(0x83465a018)
 ARRAY(0x834a52228)
 ARRAY(0x8350e9018)
-ARRAY(0x8356bc420)
 ARRAY(0x836232678)
 ARRAY(0x83631db88)
 ARRAY(0x83696a5e8)
@@ -18421,6 +18442,8 @@ ARRAY(0x836eb82a0)
 ARRAY(0x837301138)
 ARRAY(0x837cce4c8)
 ARRAY(0x83804c600)
+ARRAY(0x838432d80)
+ARRAY(0x8391bcb28)
 ARRAY(0x839a7d198)
 ARRAY(0x839a9c708)
 ARRAY(0x83a915c60)
@@ -18439,10 +18462,8 @@ ARRAY(0x8af310df8)
 ARRAY(0x8b13202d0)
 ARRAY(0x8b19475e8)
 ARRAY(0x8b25d4b10)
-ARRAY(0x8b2c3cd50)
 ARRAY(0x8b52bea80)
 ARRAY(0x8b541b3a8)
-ARRAY(0x8b6068b28)
 ARRAY(0x8b8fd4570)
 ARRAY(0x8b961b240)
 ARRAY(0x8b9b21288)
@@ -50264,6 +50285,7 @@ dkqfanab.olimpfx4p.xyz
 dkspproldksjwhr.ru
 dkvlkjyn.olimp8a6o.xyz
 dl147.nonamefiles-10sd.info
+dl2.fullmatch.us
 dl2dwxt3mst.com
 dlhnso.ru
 dliphep.org
@@ -52754,6 +52776,7 @@ equerryhorseservices.com
 er.filmshd.fun
 er1anxeddo.top
 er28hqx9mb.com
+era-vhs.videocdn.pw
 erafilmov.one
 erapokera.ru
 erapokera1.ru
@@ -58961,6 +58984,7 @@ g60os9.hdreactor.net
 g624.gorafilm.ru
 g71.gorafilm.ru
 g724.videocdn.pw
+g74.videocdn.pw
 g75z6.gxho7symp.icu
 g76pnssjevmb.com
 g773leo11ytr.com
@@ -68476,6 +68500,7 @@ joycasino-api.xyz
 joycasino-aplg.xyz
 joycasino-aplp.xyz
 joycasino-apz.xyz
+joycasino-aq.xyz
 joycasino-aqe.xyz
 joycasino-ar7.xyz
 joycasino-arc.xyz
@@ -68965,6 +68990,7 @@ joycasino-lu0.xyz
 joycasino-lu1.xyz
 joycasino-lv.xyz
 joycasino-lv5.xyz
+joycasino-lw.xyz
 joycasino-lwl.xyz
 joycasino-lwo.xyz
 joycasino-lws.xyz
@@ -69014,6 +69040,7 @@ joycasino-ni7.xyz
 joycasino-nic.xyz
 joycasino-nl.xyz
 joycasino-nm.xyz
+joycasino-nn.xyz
 joycasino-nna.xyz
 joycasino-np2.xyz
 joycasino-np3.xyz
@@ -69251,6 +69278,7 @@ joycasino-qm.xyz
 joycasino-qn.xyz
 joycasino-qp.xyz
 joycasino-qr.xyz
+joycasino-qs.xyz
 joycasino-qx.xyz
 joycasino-qz.xyz
 joycasino-ra3.xyz
@@ -69470,6 +69498,7 @@ joycasino-top.tech
 joycasino-top1.xyz
 joycasino-toy.xyz
 joycasino-tq.xyz
+joycasino-tr.xyz
 joycasino-tra.xyz
 joycasino-tri.xyz
 joycasino-try.xyz
@@ -102193,6 +102222,7 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
+online.frank-casino.info
 online.game-casinox.net
 online.gidonline-1176.site
 online.gidonline-1228.site
@@ -105980,6 +106010,7 @@ pinnacle-com1.su
 pinnacle-com116.ru
 pinnacle-com117.ru
 pinnacle-com118.ru
+pinnacle-com119.ru
 pinnacle-com15.ru
 pinnacle-com16.ru
 pinnacle-com161.ru
@@ -112112,6 +112143,7 @@ prostitutkiomskahappy.org
 prostitutkiomskaher.info
 prostitutkiomskahot.net
 prostitutkiomskalet.info
+prostitutkiomskalike.info
 prostitutkiomskalike.net
 prostitutkiomskalucky.com
 prostitutkiomskanew.com
@@ -114283,6 +114315,7 @@ refpaabjuw.site
 refpaaccnw.top
 refpaadrbxof.top
 refpaadwik.space
+refpaaesxtqy.top
 refpaagngp.top
 refpaagqycfe.top
 refpaahdbt.top
@@ -114390,6 +114423,7 @@ refpacdq.top
 refpacfsmtxy.top
 refpacfzw.top
 refpacgfxs.top
+refpacgncjwq.top
 refpachf.xyz
 refpachi.host
 refpacik.top
@@ -114417,6 +114451,7 @@ refpacoxcnew.top
 refpacpb.host
 refpacppii.top
 refpacpsgnho.top
+refpacqcahpm.top
 refpacqpqpy.space
 refpacqqwdto.top
 refpacrada.space
@@ -114511,6 +114546,7 @@ refpaececb.top
 refpaecmvr.top
 refpaecn.host
 refpaedlug.space
+refpaeeyydeh.top
 refpaefauhyg.top
 refpaeftyg.top
 refpaegimx.top
@@ -114526,6 +114562,7 @@ refpaejtmgv.space
 refpaekshy.site
 refpaekxul.site
 refpaeleridu.top
+refpaelqxxwu.top
 refpaemiyx.top
 refpaemvck.site
 refpaendoi.top
@@ -114576,6 +114613,7 @@ refpafkgug.top
 refpaflztr.top
 refpafmtcoyr.top
 refpafnelc.top
+refpafnhgiui.top
 refpafobid.top
 refpaforzaxp.top
 refpafoy.top
@@ -114586,6 +114624,7 @@ refpafqo.top
 refpafqyws.top
 refpafrlycfl.top
 refpafsqs.top
+refpafudided.top
 refpafuduf.top
 refpafuh.xyz
 refpafuvjt.top
@@ -114617,6 +114656,7 @@ refpaghugo.top
 refpagidmh.top
 refpagkcxa.top
 refpaglcqf.space
+refpaglczlrq.top
 refpaglvdq.space
 refpaglvx.top
 refpagmirodt.top
@@ -114655,6 +114695,7 @@ refpagzqnw.top
 refpahabz.top
 refpahacsr.top
 refpahah.xyz
+refpahbyhqcg.top
 refpahcn.top
 refpahcqpqhq.top
 refpahdaek.top
@@ -114744,9 +114785,11 @@ refpaiwfic.top
 refpaixhdqz.space
 refpaixprd.top
 refpajahiwrs.top
+refpajbfkdgb.top
 refpajbkznif.top
 refpajbncd.space
 refpajbvug.top
+refpajcocggj.top
 refpajctc.top
 refpajcubf.space
 refpajdsdsy.space
@@ -114925,6 +114968,7 @@ refpakxkwogp.best
 refpakxmsa.top
 refpakxqtave.best
 refpakxwzukn.top
+refpakyeijrx.top
 refpakyqqh.top
 refpakytvdox.top
 refpakzaxbvf.top
@@ -114977,6 +115021,7 @@ refpalulxk.top
 refpalvpae.top
 refpalwiiyoq.top
 refpalwprwgu.top
+refpalxgcewx.top
 refpalynwx.top
 refpalypla.top
 refpalyqok.top
@@ -115025,6 +115070,7 @@ refpamymoyxu.top
 refpamzitcjd.top
 refpamzpfigj.top
 refpamzvfpt.space
+refpanahwged.top
 refpanaln.top
 refpanblqstf.top
 refpancktxgh.top
@@ -115037,6 +115083,7 @@ refpanepgiqk.top
 refpanespy.top
 refpanex.top
 refpangujlpb.top
+refpanhcacsu.top
 refpanhidh.top
 refpanilzpri.top
 refpaniox.top
@@ -115059,6 +115106,7 @@ refpanpvisyo.top
 refpanpxagch.top
 refpanqql.top
 refpanrkjplf.top
+refpanrvteaj.top
 refpansf.top
 refpanta.host
 refpanthjq.top
@@ -115122,6 +115170,7 @@ refpapdgsxcr.top
 refpapdgwg.top
 refpapdttt.space
 refpapdva.top
+refpapdxmrwg.top
 refpapekzm.top
 refpapewna.top
 refpapeyro.top
@@ -115149,6 +115198,7 @@ refpaptvzj.top
 refpaputme.top
 refpapvlucxn.top
 refpapvn.top
+refpapvxmgop.top
 refpapwmmm.top
 refpapwyhg.top
 refpapxags.top
@@ -115170,8 +115220,10 @@ refpaqeowzhp.top
 refpaqfriv.top
 refpaqgdzttl.top
 refpaqgp.top
+refpaqgsliyf.top
 refpaqhdtf.top
 refpaqhsuwqn.top
+refpaqihqrpb.top
 refpaqikpdca.top
 refpaqionbh.space
 refpaqiqkm.top
@@ -115204,6 +115256,7 @@ refparcbkajd.top
 refparcbzy.top
 refparcimh.top
 refpardbscgw.top
+refpareutoqf.top
 refparewpoes.top
 refparfpxhjc.top
 refparfwgi.top
@@ -115383,6 +115436,7 @@ refpauvdzf.top
 refpauwqtn.top
 refpauxflao.space
 refpauypn.top
+refpauytnojl.top
 refpauzbrdcr.top
 refpauzwun.top
 refpavaa.top
@@ -115394,10 +115448,12 @@ refpavcfda.top
 refpavcokhyw.top
 refpavcpgi.space
 refpavddgo.top
+refpavdgfbvn.top
 refpavdnkau.space
 refpavdveg.space
 refpavecgr.top
 refpavejhaz.space
+refpavemrzaj.top
 refpavezxg.top
 refpavfdlc.space
 refpavfgeeze.top
@@ -115422,6 +115478,7 @@ refpavmjayhb.top
 refpavmtbn.top
 refpavncgrl.space
 refpavnnxw.top
+refpavnrhhfa.top
 refpavnuytv.space
 refpavnw.top
 refpavnzpg.top
@@ -115439,6 +115496,7 @@ refpavrcfm.space
 refpavsc.top
 refpavswzn.top
 refpavszds.top
+refpavteszir.top
 refpavtngw.top
 refpavtrbxkl.top
 refpavvihh.site
@@ -115467,6 +115525,7 @@ refpawibue.site
 refpawii.top
 refpawixz.top
 refpawjquhqi.top
+refpawkrqxrj.top
 refpawkvgav.space
 refpawkzdb.top
 refpawlkneih.top
@@ -115544,6 +115603,7 @@ refpaydfqjp.space
 refpayehvb.top
 refpayem.xyz
 refpayevpw.top
+refpayeykeum.top
 refpayfeagvi.top
 refpayfqzbdr.top
 refpayftojjs.top
@@ -131308,7 +131368,6 @@ spravkaz-s-dostavkoi.com
 spravkazachas.online
 spravker1.ru
 spravki-1.online
-spravki-365.ru
 spravki-blank.online
 spravki-house.online
 spravki-kupit.ru
@@ -151696,6 +151755,7 @@ www.hdrezka3.net
 www.hdrezkka.ru
 www.hdseason.ru
 www.hdserialy.ru
+www.hdstream39.ml
 www.hdsunduk.ru
 www.hdvideo.site
 www.headshotbets.com
@@ -157083,6 +157143,7 @@ xn--3-7sbagbdpv5bpes5ad1ki.xn--80asehdb
 xn--3-wtbj.pw
 xn--34-6kcdura7ap4abm.xn--p1ai
 xn--39-6kca9beglp4b.xn--p1ai
+xn--4--6kccog1ae2ecn.com
 xn--4-7sbagbdpv5bpes5ad1ki.xn--80asehdb
 xn--43-mlcmthgg3e.xn--p1ai
 xn--5-7sbagbdpv5bpes5ad1ki.xn--80asehdb
