@@ -18473,6 +18473,7 @@ ARRAY(0x83bb27378)
 ARRAY(0x83be8ec00)
 ARRAY(0x83bf67fc0)
 ARRAY(0x83de2a8d0)
+ARRAY(0x83e0833a8)
 ARRAY(0x83ec0f648)
 ARRAY(0x83fc5b6a8)
 ARRAY(0x84000e510)
@@ -18493,11 +18494,13 @@ ARRAY(0x8b5678c78)
 ARRAY(0x8b5691b88)
 ARRAY(0x8b5df6138)
 ARRAY(0x8b5fd6ed0)
+ARRAY(0x8b8a85e88)
 ARRAY(0x8b95db348)
 ARRAY(0x8ba61d4f8)
 ARRAY(0x8bac46828)
 ARRAY(0x8bc881db0)
 ARRAY(0x8be2ccd98)
+ARRAY(0x8bea94150)
 ARRAY(0x8bf120630)
 a-bets63.top
 a-bt56.top
@@ -25182,6 +25185,7 @@ azatljfziosaachat.azureedge.net
 azatljokcnucnwmve.azureedge.net
 azatljxgaosihprjt.azureedge.net
 azatlkgbjmyqulebl.azureedge.net
+azatlkmcwewpziqum.azureedge.net
 azatllgaqzdcplqdn.azureedge.net
 azatlljjdiayhqoiu.azureedge.net
 azatlllcvqoxybwhk.azureedge.net
@@ -48965,6 +48969,7 @@ currejaaaewjtwweh.azureedge.net
 currejkyoqoyfxwwv.azureedge.net
 currejzexxwalltml.azureedge.net
 currekamqlxfbdzir.azureedge.net
+currekbrlczhitgvh.azureedge.net
 currekflmopkkoljl.azureedge.net
 currekusiaobyejgj.azureedge.net
 currelanszxmgqtod.azureedge.net
@@ -52198,6 +52203,7 @@ ekhokljjzzqjskkda.azureedge.net
 ekhoklncgyfpqbpnu.azureedge.net
 ekhoklqbwgxbrmepk.azureedge.net
 ekhokmfjrwdgwudcv.azureedge.net
+ekhokmjyrcoikztmc.azureedge.net
 ekhoknnavxjsxetep.azureedge.net
 ekhoknrimitupjzul.azureedge.net
 ekhokofrvxtunrhof.azureedge.net
@@ -53787,6 +53793,7 @@ factoeovukechljod.azureedge.net
 factoepypbatlcruh.azureedge.net
 factoesuytrnswyfq.azureedge.net
 factofanfcmihorhb.azureedge.net
+factofdndjyffdgfz.azureedge.net
 factoffvcleaikwfd.azureedge.net
 factofgpmtrkfgayg.azureedge.net
 factogbdfpemxmtlo.azureedge.net
@@ -61491,6 +61498,7 @@ goloshdilvzpivlte.azureedge.net
 goloshldwkttytomn.azureedge.net
 goloshzxkufchzuia.azureedge.net
 golosihcojzpxcllr.azureedge.net
+golosiijdnlusnsrn.azureedge.net
 golosijgodqzqcavf.azureedge.net
 golosisbhsfbxzwrd.azureedge.net
 golosivaxzaomwmcx.azureedge.net
@@ -65598,6 +65606,7 @@ idelrvblrhklzdjfz.azureedge.net
 idelrvdgyuqekaiw.azureedge.net
 idelrvmbqvelyjagp.azureedge.net
 idelrvyzlusdwlrkg.azureedge.net
+idelrvzpuaqwqnlrz.azureedge.net
 idelrwatwjkorqnrq.azureedge.net
 idelrwhplthpcvjbc.azureedge.net
 idelrwqapowlllqpq.azureedge.net
@@ -66286,6 +66295,7 @@ igrovyeautomaty.website
 igrovyeavtomati-777.com
 igrovyeavtomati.ru
 igrovyeavtomati.top
+igrovyeavtomati.xyz
 igrovyeavtomati777.com
 igrovyeavtomatinadengi.tk
 igrovyeavtomativulcan.org
@@ -76951,6 +76961,7 @@ krymrtdymedikhgun.azureedge.net
 krymrtyfexcoxhhqh.azureedge.net
 krymrubmcmopgsoty.azureedge.net
 krymruljtkffapact.azureedge.net
+krymrupbxnasmluta.azureedge.net
 krymruwyjwarfvoia.azureedge.net
 krymrvateqokyfuwc.azureedge.net
 krymrvbdftebeuvan.azureedge.net
@@ -114271,6 +114282,7 @@ radiopwmembyifgal.azureedge.net
 radioqbzfbalmoiuu.azureedge.net
 radioqcwcwrwlyvys.azureedge.net
 radioqyaificxijad.azureedge.net
+radiorcqqadhqotbs.azureedge.net
 radiormhabfydzhtf.azureedge.net
 radiosqynkmpyglxe.azureedge.net
 radiostkjxqmcvtcy.azureedge.net
@@ -126256,6 +126268,7 @@ severqwupvfpznztu.azureedge.net
 severrkhrkvyenhlu.azureedge.net
 severrmavnwgvwrae.azureedge.net
 severrttzevnkkjcm.azureedge.net
+severrvpclcqznmyl.azureedge.net
 severrwfxmpbmfodu.azureedge.net
 seversk.damdiplomses.com
 seversk.diplom4yours.com
@@ -128238,6 +128251,7 @@ sibrecmnmziutnule.azureedge.net
 sibrecmwmaftzaptg.azureedge.net
 sibrecnkvvxyynoco.azureedge.net
 sibredtirjiojknfx.azureedge.net
+sibreduvodlnarsxh.azureedge.net
 sibreepbmvibrtvef.azureedge.net
 sibreewmfvyxgbqck.azureedge.net
 sibrefevvmalukcnp.azureedge.net
@@ -132896,6 +132910,7 @@ streamyou.online
 streetputana.club
 streetputany.club
 strelna-sanatoriy.ru
+stresslavorocorrelato.info
 stringtheories.space
 stritreys-pley-fortuna-kf-04.francevisacentre.ru
 stroiudo-arhangelsk.ru
