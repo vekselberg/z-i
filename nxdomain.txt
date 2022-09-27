@@ -6387,6 +6387,7 @@
 1xbet-ab.site
 1xbet-acc.xyz
 1xbet-acu.xyz
+1xbet-acu7.xyz
 1xbet-ad.xyz
 1xbet-add.xyz
 1xbet-adr.xyz
@@ -6396,6 +6397,7 @@
 1xbet-ah.xyz
 1xbet-ain.xyz
 1xbet-air.site
+1xbet-aj.xyz
 1xbet-ak.xyz
 1xbet-al.xyz
 1xbet-al8.xyz
@@ -6430,8 +6432,10 @@
 1xbet-asr.xyz
 1xbet-at.site
 1xbet-at.xyz
+1xbet-at7.xyz
 1xbet-atc.xyz
 1xbet-atom.xyz
+1xbet-au7.xyz
 1xbet-aus.xyz
 1xbet-av1.xyz
 1xbet-aw.xyz
@@ -6529,6 +6533,7 @@
 1xbet-bg.xyz
 1xbet-bh.xyz
 1xbet-bi.xyz
+1xbet-bi7.xyz
 1xbet-big.site
 1xbet-big.xyz
 1xbet-bj.xyz
@@ -6542,6 +6547,7 @@
 1xbet-bm4.xyz
 1xbet-bm5.xyz
 1xbet-bm9.xyz
+1xbet-bn.xyz
 1xbet-bo.xyz
 1xbet-bok.xyz
 1xbet-bomb.site
@@ -6605,9 +6611,11 @@
 1xbet-cia.xyz
 1xbet-cj.xyz
 1xbet-ck.xyz
+1xbet-cl.xyz
 1xbet-club.live
 1xbet-club.xyz
 1xbet-cm1.xyz
+1xbet-cm7.xyz
 1xbet-cn.xyz
 1xbet-com.site
 1xbet-com.top
@@ -6754,6 +6762,7 @@
 1xbet-fp.xyz
 1xbet-fq.site
 1xbet-fq.xyz
+1xbet-fr7.xyz
 1xbet-free.online
 1xbet-from.site
 1xbet-fs.xyz
@@ -6819,6 +6828,7 @@
 1xbet-hjr.xyz
 1xbet-hl.xyz
 1xbet-hn.xyz
+1xbet-ho.xyz
 1xbet-hop.xyz
 1xbet-hot.best
 1xbet-hot.info
@@ -7072,6 +7082,7 @@
 1xbet-msd.xyz
 1xbet-msi.xyz
 1xbet-mt.xyz
+1xbet-mt1.xyz
 1xbet-mu.xyz
 1xbet-mw.xyz
 1xbet-mx.xyz
@@ -7098,6 +7109,7 @@
 1xbet-note.online
 1xbet-now.ooo
 1xbet-np.xyz
+1xbet-np7.xyz
 1xbet-nr.xyz
 1xbet-ns.site
 1xbet-ns.xyz
@@ -7180,6 +7192,7 @@
 1xbet-p1.xyz
 1xbet-p8.xyz
 1xbet-pa.xyz
+1xbet-pa7.xyz
 1xbet-pak.xyz
 1xbet-pat.xyz
 1xbet-paw.xyz
@@ -7358,6 +7371,7 @@
 1xbet-rf1.top
 1xbet-rf2.site
 1xbet-rf3.site
+1xbet-rf7.xyz
 1xbet-rg.xyz
 1xbet-ri.xyz
 1xbet-rib.xyz
@@ -7588,6 +7602,7 @@
 1xbet-tj.top
 1xbet-tk.xyz
 1xbet-tl.xyz
+1xbet-tl7.xyz
 1xbet-tne.xyz
 1xbet-today.xyz
 1xbet-tog.xyz
@@ -7619,6 +7634,7 @@
 1xbet-tor.site
 1xbet-tor.top
 1xbet-tour.site
+1xbet-tp.xyz
 1xbet-tq.top
 1xbet-tq.xyz
 1xbet-tr.site
@@ -7657,6 +7673,7 @@
 1xbet-ufc1.site
 1xbet-ufc2.site
 1xbet-uh.xyz
+1xbet-ui.xyz
 1xbet-uin.xyz
 1xbet-ul.xyz
 1xbet-um.xyz
@@ -7719,6 +7736,7 @@
 1xbet-wb.xyz
 1xbet-wc.xyz
 1xbet-wd.xyz
+1xbet-we.xyz
 1xbet-web.xyz
 1xbet-wei.xyz
 1xbet-wet.xyz
@@ -18494,14 +18512,17 @@ ARRAY(0x83f54ab88)
 ARRAY(0x83f681af8)
 ARRAY(0x83fa17558)
 ARRAY(0x83fa9bdf8)
+ARRAY(0x8af9bbd50)
 ARRAY(0x8b12d6048)
 ARRAY(0x8b2c0f3a8)
+ARRAY(0x8b2c47450)
 ARRAY(0x8b55f0f90)
 ARRAY(0x8b64b5978)
 ARRAY(0x8b7c13120)
 ARRAY(0x8b7f56798)
 ARRAY(0x8b8adc858)
 ARRAY(0x8b8df8828)
+ARRAY(0x8b9428018)
 ARRAY(0x8b9751480)
 ARRAY(0x8b98d6db0)
 ARRAY(0x8b9b35420)
@@ -55275,6 +55296,7 @@ findmbet.win
 findmbetplaywin.top
 finelib.ru
 finestofreelsgx.muswavee.com
+finfix.world
 finfoods.ru
 finishmbetbest.top
 finlands-jackpot.azurewebsites.net
@@ -60653,6 +60675,7 @@ glacialofficial.online
 glad2trade.cc
 glad2trade.io
 gladproof.com
+glamdolls.org
 glamor-dolls.org
 glass.ny3blpuku.cc
 glasscapes.space
@@ -64752,6 +64775,7 @@ holmsk.doc-avto.info
 holmsk.docvuss.org
 holmsk.pomosh-voditelu.com
 holnatv.ru
+holo-trade.com
 holocost.ru
 holod.click
 holoheadsetsdeals.com
@@ -69001,6 +69025,7 @@ joycasino-avtomaty2.azurewebsites.net
 joycasino-avtomaty3.azurewebsites.net
 joycasino-aw.xyz
 joycasino-awm.xyz
+joycasino-ax.xyz
 joycasino-axd.xyz
 joycasino-az.xyz
 joycasino-azx.xyz
@@ -69209,6 +69234,7 @@ joycasino-ddon.xyz
 joycasino-deluxe.ccleaner-ru.info
 joycasino-den.xyz
 joycasino-dkc.xyz
+joycasino-dl.xyz
 joycasino-dl9.xyz
 joycasino-dll.xyz
 joycasino-dln2.xyz
@@ -69412,6 +69438,7 @@ joycasino-jk.xyz
 joycasino-jny.xyz
 joycasino-jo.xyz
 joycasino-joy.online
+joycasino-jt.xyz
 joycasino-jv.xyz
 joycasino-jw.xyz
 joycasino-jwp.xyz
@@ -69479,6 +69506,7 @@ joycasino-lx.xyz
 joycasino-lxf.xyz
 joycasino-m.net
 joycasino-m1l.xyz
+joycasino-ma.xyz
 joycasino-mai.xyz
 joycasino-man.xyz
 joycasino-mc7.xyz
@@ -69817,6 +69845,7 @@ joycasino-rl.xyz
 joycasino-rn.xyz
 joycasino-rn3.xyz
 joycasino-rn8.xyz
+joycasino-ro.xyz
 joycasino-rob.xyz
 joycasino-rou.xyz
 joycasino-rrjyd.ondigitalocean.app
@@ -69855,6 +69884,7 @@ joycasino-russia-official.xyz
 joycasino-russia.win
 joycasino-ruz.xyz
 joycasino-rv.xyz
+joycasino-rw.xyz
 joycasino-s1e.xyz
 joycasino-sb0.xyz
 joycasino-sc7.xyz
@@ -70052,6 +70082,7 @@ joycasino-ut.xyz
 joycasino-ut2.xyz
 joycasino-ut9.xyz
 joycasino-utn.xyz
+joycasino-uu.xyz
 joycasino-uu9.xyz
 joycasino-uur.xyz
 joycasino-uv.xyz
@@ -70090,6 +70121,7 @@ joycasino-vsh.xyz
 joycasino-vt.xyz
 joycasino-vtx.xyz
 joycasino-vue.xyz
+joycasino-vv.xyz
 joycasino-vvd.xyz
 joycasino-vxod1.win
 joycasino-vxod10.win
@@ -70264,6 +70296,7 @@ joycasino-zr7.xyz
 joycasino-zu.xyz
 joycasino-zv.xyz
 joycasino-zvd.xyz
+joycasino-zw.xyz
 joycasino-zxp.xyz
 joycasino.azurewebsites.net
 joycasino.blue
@@ -98149,6 +98182,7 @@ netprivivok.xyz
 netsekretov.info
 netslotchik.ru
 netslots.ru
+nettikasinot24.org
 nettv-film.net
 netvki.online
 netvulcan24club.com
@@ -108099,6 +108133,7 @@ play-fortuna.site
 play-fortuna.su
 play-fortuna.town
 play-fortuna.uno
+play-fortuna.vegas
 play-fortuna.vin
 play-fortuna.vtonuce.ru
 play-fortuna.wiki
@@ -108730,10 +108765,13 @@ playfortuna-77777.azurewebsites.net
 playfortuna-a.azurewebsites.net
 playfortuna-ab.xyz
 playfortuna-active.club
+playfortuna-ag.xyz
 playfortuna-aktualnoye-zerkalo.transformery-igrushki.ru
 playfortuna-al.xyz
+playfortuna-am.xyz
 playfortuna-ap.xyz
 playfortuna-aq.xyz
+playfortuna-az.xyz
 playfortuna-bc.xyz
 playfortuna-bk.xyz
 playfortuna-bx.xyz
@@ -108812,11 +108850,13 @@ playfortuna-hs.xyz
 playfortuna-hupg3.ondigitalocean.app
 playfortuna-hy.xyz
 playfortuna-igrovye-avtomaty.com
+playfortuna-ii.xyz
 playfortuna-ij.xyz
 playfortuna-ik.xyz
 playfortuna-in.ru
 playfortuna-is.xyz
 playfortuna-je.xyz
+playfortuna-jn.xyz
 playfortuna-jp.xyz
 playfortuna-jq.xyz
 playfortuna-jr.xyz
@@ -108937,6 +108977,7 @@ playfortuna-zerkalo-casino.com
 playfortuna-zf.xyz
 playfortuna-zk.xyz
 playfortuna-zo.xyz
+playfortuna-zq.xyz
 playfortuna.bar
 playfortuna.best
 playfortuna.biz
@@ -112906,6 +112947,7 @@ prostitutkiegorevskadosug.com
 prostitutkiekaterinburga2020.info
 prostitutkiekaterinburgaafter.info
 prostitutkiekaterinburgaafter.net
+prostitutkiekaterinburgafun.info
 prostitutkiekaterinburgagoal.info
 prostitutkiekaterinburgakiss.info
 prostitutkiekaterinburgameet.com
@@ -112915,6 +112957,7 @@ prostitutkiekaterinburgarelax.net
 prostitutkiekaterinburgasexy.com
 prostitutkiekaterinburgasoft.info
 prostitutkiekaterinburgastay.info
+prostitutkiekaterinburgasweet.info
 prostitutkiekaterinburgawithin.com
 prostitutkiekaterinburgawomen.com
 prostitutkiekaterinburgaxx.com
@@ -113013,6 +113056,7 @@ prostitutkikirovaafter.net
 prostitutkikirovadate.info
 prostitutkikirovaerotic.com
 prostitutkikirovagid.info
+prostitutkikirovalist.info
 prostitutkikirovasee.com
 prostitutkikirovatask.info
 prostitutkikorolevadosug.com
@@ -135637,6 +135681,7 @@ toptoptoptraff.xyz
 toptorrent.info
 toptorrent.pw
 toptorrent.uz
+toptracker.pro
 toptranfers.ru
 toptsik.site
 toptsim.site
@@ -148121,6 +148166,7 @@ webtrader.datum-finance-limited.com
 webtrader.eninvest.pro
 webtrader.fctrading.cc
 webtrader.fenixsgroup.com
+webtrader.finfix.trade
 webtrader.goldenhawkgroup.com
 webtrader.invest-flow.top
 webtrader.investboost.cc
@@ -156122,6 +156168,7 @@ www.topcasinoz.site
 www.topgdz.ru
 www.toplivematch.com
 www.toptorrent.pw
+www.toptracker.pro
 www.toptranfers.ru
 www.tor3.info
 www.torbrowser-hydra.ru
