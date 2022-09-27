@@ -18483,6 +18483,7 @@ ARRAY(0x8355fed08)
 ARRAY(0x835975888)
 ARRAY(0x836d97f60)
 ARRAY(0x836d991f8)
+ARRAY(0x836e2b420)
 ARRAY(0x836e7e948)
 ARRAY(0x838972948)
 ARRAY(0x83ac6d648)
@@ -18500,7 +18501,9 @@ ARRAY(0x8b64b5978)
 ARRAY(0x8b7c13120)
 ARRAY(0x8b7f56798)
 ARRAY(0x8b8adc858)
+ARRAY(0x8b8df8828)
 ARRAY(0x8b9751480)
+ARRAY(0x8b98d6db0)
 ARRAY(0x8b9b35420)
 ARRAY(0x8baf803a8)
 ARRAY(0x8bc0b8660)
@@ -18709,6 +18712,7 @@ a.spbsprav.top
 a.spravka-master.xyz
 a.spravkainfo.org
 a.spravkey.one
+a.spravkid.com
 a.spravstar.com
 a.strong-pharm.net
 a.tomsknb.com
@@ -29757,6 +29761,7 @@ b.shlyuhikurgana.ru
 b.smotretfilmi.ru
 b.spravka-fast.co
 b.spravkainfo.org
+b.spravkid.com
 b.strong-pharm.net
 b.tutfilmov.org
 b.ufasluts.com
@@ -59831,6 +59836,7 @@ gaminator-slots-casino.hair-antenna.info
 gaminator-slots-club.com
 gaminator-slots-online.com
 gaminator-slots.biz
+gaminator-slots.xyz
 gaminator-slots777.com
 gaminator.ajman-saray-a-luxury-collection-resort.ru
 gaminator.azurewebsites.net
@@ -73228,6 +73234,7 @@ kf3bmajilis9ps.xyz
 kf8wr-azinomobile.icu
 kf9wzy07mst.com
 kfbtj-azino777.icu
+kfc24.biz
 kfkbet.ru
 kflbet.ru
 kfm-azinomobile.icu
@@ -76827,6 +76834,7 @@ kostroma.diplombrrand.com
 kostroma.diplomgsos.com
 kostroma.diplomgvruki.com
 kostroma.diplomhvruki.com
+kostroma.diplomk-4you.com
 kostroma.diploms4yours.com
 kostroma.diploms4yoursa.com
 kostroma.diplomv-4you.com
@@ -83330,6 +83338,7 @@ mail.mobi-live.ru
 mail.moneydaplay2.com
 mail.monsterkino.ru
 mail.pasport-rf.com
+mail.passport-rf.com
 mail.torrent.by
 mail.vipvideoclub.ru
 mail.vkmp3.org
@@ -97403,6 +97412,7 @@ n0dp7r5m.online
 n1.2019kino.top
 n1.alphakino.cam
 n1.blarutor.site
+n1.deltakino.cam
 n1.filmy24.info
 n1.hdkinoset.online
 n1.hdkinoteater.net
@@ -97469,6 +97479,7 @@ n2.2019kino.info
 n2.2019kino.top
 n2.alphakino.cam
 n2.blarutor.site
+n2.deltakino.cam
 n2.filmy24.info
 n2.hdkinoset.online
 n2.hdkinoteater.net
@@ -97500,6 +97511,7 @@ n3.2019kino.info
 n3.2019kino.top
 n3.alphakino.cam
 n3.blarutor.site
+n3.deltakino.cam
 n3.hdkinoset.online
 n3.hdkinoteater.net
 n3.kinogo.link
@@ -97521,6 +97533,7 @@ n3memajilisbt.site
 n3ru0o844b.ru
 n4.2019kino.info
 n4.alphakino.cam
+n4.deltakino.cam
 n4.hdkinoset.online
 n4.hdkinoteater.net
 n4.kinogo.link
@@ -97542,6 +97555,7 @@ n49ms-azino777.icu
 n4kd20v9xbqzmb.com
 n4wva-azinomobile.icu
 n5.2019kino.info
+n5.deltakino.cam
 n5.hdkinoset.online
 n5.hdkinoteater.net
 n5.kinogo.link
@@ -100386,6 +100400,7 @@ ntuko.xyz
 nu.2019kino.top
 nu.alphakino.cam
 nu.alphakino.club
+nu.deltakino.cam
 nu.hdkinoteater.net
 nu.kinogo.link
 nu.kinogo.network
@@ -121409,6 +121424,7 @@ ru.dbfpekpo6k.com
 ru.dcajan1n11.com
 ru.dd73ks9op12mgr.com
 ru.dekh2jnd48.com
+ru.deltakino.cam
 ru.depcasino.com
 ru.dfb992a.com
 ru.dfbgn4un2j.com
@@ -123620,6 +123636,7 @@ ru1.azino7777.win
 ru1.capitals-kz3.xyz
 ru1.casino-my-1.xyz
 ru1.casino-yo.com
+ru1.deltakino.cam
 ru1.djeneriki.biz
 ru1.freeslot.ru
 ru1.gamepobeda.com
@@ -123666,6 +123683,7 @@ ru1xbets.xyz
 ru2.alphakino.cam
 ru2.casinorox-official.club
 ru2.casinorox2-online.club
+ru2.deltakino.cam
 ru2.djeneriki.biz
 ru2.freeslot.ru
 ru2.hdkinoset.online
@@ -123699,6 +123717,7 @@ ru3.capitals-kz3.xyz
 ru3.casinobra.me
 ru3.casinorox-official.club
 ru3.cinemahouse.online
+ru3.deltakino.cam
 ru3.djeneriki.biz
 ru3.filmixhd.one.jpg
 ru3.freeslot.ru
@@ -123723,6 +123742,7 @@ ru4.alphakino.cam
 ru4.capitals-kz3.xyz
 ru4.casinorox-official.club
 ru4.cinemahouse.online
+ru4.deltakino.cam
 ru4.hdkinoset.online
 ru4.hdkinoteater.net
 ru4.igrovyeavtomatynadengi.online
@@ -135249,6 +135269,7 @@ top10-online-casino4.xyz
 top10-online-casino5.xyz
 top10-onlinecasino.ru
 top10.casinoru.fun
+top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -160107,6 +160128,7 @@ zayti-v-kazino-vavada.npplus.ru
 zaz-azinomobile.icu
 zaz.lordstrit.net
 zazerkven.ru
+zazi.kinotazz.online
 zazor.best
 zb.bessporno.lol
 zbbiunwg.olimpvaww.xyz
