@@ -18494,6 +18494,7 @@ ARRAY(0x83357fc90)
 ARRAY(0x83393ee88)
 ARRAY(0x833e61b40)
 ARRAY(0x834337ed0)
+ARRAY(0x834746360)
 ARRAY(0x834857eb8)
 ARRAY(0x834acf480)
 ARRAY(0x8355fed08)
@@ -18506,14 +18507,13 @@ ARRAY(0x839b0e9f0)
 ARRAY(0x83ac6d648)
 ARRAY(0x83b2ec180)
 ARRAY(0x83ce61d08)
-ARRAY(0x83d9fd780)
 ARRAY(0x83dfbf408)
 ARRAY(0x83ee44ee8)
 ARRAY(0x83f54ab88)
+ARRAY(0x83f65f8e8)
 ARRAY(0x83f681af8)
 ARRAY(0x83f76b5a0)
 ARRAY(0x83fa17558)
-ARRAY(0x83fa9bdf8)
 ARRAY(0x8af9bbd50)
 ARRAY(0x8b12d6048)
 ARRAY(0x8b2c0f3a8)
@@ -18521,6 +18521,7 @@ ARRAY(0x8b2c47450)
 ARRAY(0x8b55f0f90)
 ARRAY(0x8b64b5978)
 ARRAY(0x8b7f56798)
+ARRAY(0x8b7f5fa80)
 ARRAY(0x8b8adc858)
 ARRAY(0x8b8df8828)
 ARRAY(0x8b8e85738)
@@ -18528,7 +18529,6 @@ ARRAY(0x8b9428018)
 ARRAY(0x8b9751480)
 ARRAY(0x8b98d6db0)
 ARRAY(0x8b9b35420)
-ARRAY(0x8baf803a8)
 ARRAY(0x8bc0b8660)
 ARRAY(0x8bdc9ae58)
 ARRAY(0x8bf88c510)
@@ -40906,7 +40906,6 @@ buy.mygeneric24.ru
 buy.qrcode-covid.com
 buy.xn----gtbdadoapyaqmh0j.xn--p1ai
 buy1.qrcode-covid.com
-buy24.viarussia.org
 buyersdiplomi.com
 buyhdrezka.com
 buyhelpspb.ru
@@ -49202,6 +49201,7 @@ cymelcgtdo.top
 cyo17pd.icu
 cypoin.space
 cytias.space
+cyxapu.ny3blpuku.cc
 cyxapuku.ny3blpuku.cc
 cz.sportingbull174.com
 cz1.hdreactor.net
@@ -51570,6 +51570,7 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e105.fisher-1.ru
+e108.fisher-1.ru
 e109.fisher-1.ru
 e110.fisher-1.ru
 e1152ad.icu
@@ -77051,7 +77052,6 @@ krasnoyarsk.gozznakdiplomas.com
 krasnoyarsk.kupuh-prava.com
 krasnoyarsk.life-diplomp.com
 krasnoyarsk.life-diplomr.com
-krasnoyarsk.life-diplomt.com
 krasnoyarsk.mass-diplomiks24.com
 krasnoyarsk.mydiplomatstores.com
 krasnoyarsk.nyjni-prava.online
@@ -96855,6 +96855,7 @@ murmansk.damdiplomses.com
 murmansk.diplombbrend.com
 murmansk.diplombrandd.com
 murmansk.diplombrend.com
+murmansk.diplomk-4you.com
 murmansk.diplomknazm.com
 murmansk.diploms4yoursa.com
 murmansk.diplomvrukib.com
@@ -112351,6 +112352,7 @@ pornomorda.net
 pornopati.net
 pornopersik.net
 pornopodborki.net
+pornoroliki.pro
 pornotigr.com
 pornotigr.tv
 pornotut.name
@@ -134967,6 +134969,7 @@ toc.tvfilms.club
 toc1.tvfilms.club
 toc3.ru
 tochka-loqin.com
+tochkamarket.ru
 tocsuszuqqzis.site
 todaye.online
 todaypost.in.ua
@@ -157756,6 +157759,7 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.420bulk.online
@@ -162499,6 +162503,7 @@ zerkalo-vulkandeluxe.adwokat-prawo-karne.info
 zerkalo-vulkangrand.com
 zerkalo-vxod.space
 zerkalo-xbet.com
+zerkalo-xbet.ru
 zerkalo-xxx.ru
 zerkalo-zayti.website
 zerkalo-zerkalo.io.ua
