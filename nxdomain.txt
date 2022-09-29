@@ -18567,7 +18567,9 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x8333acdb0)
 ARRAY(0x834060510)
+ARRAY(0x83427d600)
 ARRAY(0x8345dd3f0)
 ARRAY(0x834a3e6c0)
 ARRAY(0x83569eac8)
@@ -18591,9 +18593,9 @@ ARRAY(0x8afe5cfd8)
 ARRAY(0x8b0b2f4c8)
 ARRAY(0x8b193f030)
 ARRAY(0x8b1aa8168)
-ARRAY(0x8b376e0f0)
 ARRAY(0x8b3ac2408)
 ARRAY(0x8b3b3ede0)
+ARRAY(0x8b3d5ed80)
 ARRAY(0x8b40202e8)
 ARRAY(0x8b4504588)
 ARRAY(0x8b57a2e70)
@@ -18601,9 +18603,7 @@ ARRAY(0x8b5b33510)
 ARRAY(0x8b60f8eb8)
 ARRAY(0x8b6138300)
 ARRAY(0x8b65181b0)
-ARRAY(0x8b65ce900)
 ARRAY(0x8b65dad38)
-ARRAY(0x8b77077b0)
 ARRAY(0x8b83d5210)
 ARRAY(0x8b89dc4e0)
 ARRAY(0x8b9812720)
@@ -18883,6 +18883,7 @@ a1.koshara.top
 a1.kradkino.ru
 a1.lastrutor.site
 a1.lordfilm.hd-1080p.online
+a1.lordfilmx-onlain.net
 a1.lordfilmx-online.net
 a1.lordfilmyy.net
 a1.lordsfilms1080.ru
@@ -51694,7 +51695,6 @@ e1.spon.live
 e105.fisher-1.ru
 e108.fisher-1.ru
 e109.fisher-1.ru
-e110.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -55424,6 +55424,7 @@ filmzor.com
 filmzz.club
 filmzz.ru
 filsm.torrent-fast.fun
+fiml.lordfilm3.site
 fimlru.ru
 fimzmwdh.olimpjhi9.xyz
 fin-case.net
@@ -64962,7 +64963,6 @@ holtv6.ru
 holtv7.ru
 holtv8.ru
 holytrue.ru
-holzoris.ru
 home-video24.ru
 home.3dbuilding.consulting
 home.coinhubwallet.com
@@ -66428,7 +66428,6 @@ igrovoy-avtomat-3d-model.giroworld.ru
 igrovoy-avtomat-777.ssicentral.biz
 igrovoy-avtomat-amazons-diamonds.opytnympytem.ru
 igrovoy-avtomat-banana-splash.adjvu.ru
-igrovoy-avtomat-book-of-ra-igrat.kiddymag.ru
 igrovoy-avtomat-book-of-ra-igrat.premar.biz.pl
 igrovoy-avtomat-book-of-ra.headdresses.ru
 igrovoy-avtomat-bratva-igrat-na-dengi.topbonusswach8.info
@@ -67913,7 +67912,6 @@ itkursevi.online
 itnknd.xyz
 itop-gear.kinogo-hd.icu
 itop-gear.lostfilm-hd-3534.online
-itopmuz.ru
 itor.vip
 itpfnnsb645fx.xyz
 itpfund.org
@@ -68222,6 +68220,7 @@ j11.lordfilmx-online.net
 j12.filmx-2021.net
 j12.lordfilmx-online.net
 j13.filmx-2021.net
+j13.lordfilmx-online.net
 j14.filmx-2021.net
 j14.jack-pot-csn.com
 j15.jack-pot-csn.com
@@ -68230,6 +68229,7 @@ j1xbet.site
 j2.filmx-2021.net
 j2.jack-pot-csn.com
 j2.lordfilmx-online.net
+j2.lordfilmyy.net
 j27-lord.lordfilm4.tk
 j2e3t-azino777.icu
 j2khasdkl.com
@@ -68250,6 +68250,7 @@ j4ecuxjdd.srca.connect.netcdn.bcdl.rocks
 j4mepivmst.com
 j5.filmx-2021.net
 j5.jack-pot-csn.com
+j5.lordfilm-2022.net
 j5.lordfilmx-online.net
 j52tp-azino777.icu
 j56kd93hmb.com
@@ -72656,7 +72657,6 @@ kazino-laytkoin.service-cupe.ru
 kazino-leon-bet.lamifaren24.ru
 kazino-leon-igrovyye-avtomaty.domservisvsk.ru
 kazino-leon-ofitsialnyy-sayt.mavericksteamofficial.info
-kazino-leon-zerkalo-rabocheye.kiddymag.ru
 kazino-leon-zerkalo.tegelen.info
 kazino-lev.xyz
 kazino-licenzionnoe.barstan.ru
@@ -76974,6 +76974,7 @@ kontrol-ss.ru
 kontrolchestnosti.azurewebsites.net
 kontrstroj.ru
 konustv.ru
+konz.kinotazz.online
 kop.documentu-avto.info
 kope.pro
 kopejsk.damdiplomses.com
@@ -77538,7 +77539,6 @@ kurs-activ.ru
 kursk-kupit-snus.fun
 kursk-kupit1-snus.xyz
 kursk-nb.com
-kursk.attestatuta.com.
 kursk.auto-doki.life
 kursk.diplomgozznak.com
 kursk.diplomp-kurerom.com
@@ -78176,6 +78176,7 @@ legalne-casino-online.neobistrokwestiaczasu.pl
 legalnoecasino.ru
 legalonlinecasino.ru
 legalrc.biz
+legalrc.nl
 legalrc24.ru
 legy.g.line-apps.com
 lehh7v3n.website
@@ -81427,6 +81428,7 @@ lostfilm.3zfilm-hd.site
 lostfilm.7zfilm-hd.top
 lostfilm.7zfilme-hd.top
 lostfilm.by
+lostfilm.cool
 lostfilm.eddg.ru
 lostfilm.gidonline-742.site
 lostfilm.gold
@@ -97284,6 +97286,7 @@ my-vulcan-vip.com
 my-vulkan-vegas.bet
 my-zaycev.net
 my.1hd1080.info
+my.alleng.org
 my.axentrade.com
 my.belosnegki.xyz
 my.bezdepozita.online
@@ -102968,6 +102971,7 @@ online-casino-real-money-florida.spravka-sorevnovaniya.ru
 online-casino-real-money-poker.spravka-sorevnovaniya.ru
 online-casino-reiting.site
 online-casino-rox.club
+online-casino-sites-get-a-1000-bonus.lucianofolpini.eu
 online-casino-slot-v.kaluga-dubrava.ru
 online-casino-sol.ru
 online-casino-spel.com
