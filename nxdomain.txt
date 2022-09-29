@@ -3411,6 +3411,7 @@
 1grandwulcan.club
 1grandwulkan.club
 1grandwulkan.online
+1grat.ru-cas1nos.com
 1greatbkmbet.win
 1greatmbet.win
 1grndcasino.club
@@ -18566,6 +18567,7 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x834060510)
 ARRAY(0x8345dd3f0)
 ARRAY(0x834a3e6c0)
 ARRAY(0x83569eac8)
@@ -18576,6 +18578,7 @@ ARRAY(0x838ca0d20)
 ARRAY(0x8393ad1c8)
 ARRAY(0x839b838b8)
 ARRAY(0x839e782b8)
+ARRAY(0x83a4de888)
 ARRAY(0x83a8fc8b8)
 ARRAY(0x83abcd8a0)
 ARRAY(0x83ae90a68)
@@ -18588,10 +18591,10 @@ ARRAY(0x8afe5cfd8)
 ARRAY(0x8b0b2f4c8)
 ARRAY(0x8b193f030)
 ARRAY(0x8b1aa8168)
-ARRAY(0x8b20d3108)
 ARRAY(0x8b376e0f0)
 ARRAY(0x8b3ac2408)
 ARRAY(0x8b3b3ede0)
+ARRAY(0x8b40202e8)
 ARRAY(0x8b4504588)
 ARRAY(0x8b57a2e70)
 ARRAY(0x8b5b33510)
@@ -18604,9 +18607,7 @@ ARRAY(0x8b77077b0)
 ARRAY(0x8b83d5210)
 ARRAY(0x8b89dc4e0)
 ARRAY(0x8b9812720)
-ARRAY(0x8ba7ca5e8)
 ARRAY(0x8bce9a3a8)
-ARRAY(0x8bdd461e0)
 ARRAY(0x8bfc1f4b0)
 a-bets63.top
 a-bt56.top
@@ -48144,6 +48145,7 @@ client.fmarketx.com
 client.fortexo.co
 client.invccgroup.co.uk
 client.invest-xo.com
+client.investmarket.trade
 client.leuminvest.com
 client.marketbull.co.uk
 client.my24-coin.com
@@ -60876,6 +60878,7 @@ globalm-s.com
 globals-cryptoinvestment.com
 globalslots-avtomaty.okcenter-tomsk.ru
 globalsmedias.com
+globalsync.tech
 globaltranz.cc
 globo.agency
 globustv.xyz
@@ -63049,7 +63052,6 @@ habarovsk24top.site
 habarovsk5.sex-rach.com
 habarovskij-kraj.auto-doki.life
 haciendado.live
-hack-mail.ru
 hackflix.ru
 hackstore.ru
 haecki.space
@@ -63143,7 +63145,6 @@ hcv.gepstore.shop
 hcv.gepstore.store
 hcv.sofostore.club
 hcv.sofostore.shop
-hcv.sofostore.store
 hcvl.ru
 hd-1.lordfilm-s.me
 hd-1.lordfilms.help
@@ -69355,7 +69356,6 @@ joycasino-cat.xyz
 joycasino-cc.xyz
 joycasino-ccda.xyz
 joycasino-ccdu.xyz
-joycasino-cd.xyz
 joycasino-cd0.xyz
 joycasino-cd1.xyz
 joycasino-ce.xyz
@@ -69367,7 +69367,6 @@ joycasino-cfl.xyz
 joycasino-ch.xyz
 joycasino-cia.xyz
 joycasino-cie.xyz
-joycasino-ck.xyz
 joycasino-cl.xyz
 joycasino-click105.xyz
 joycasino-click70.win
@@ -69396,7 +69395,6 @@ joycasino-ct.xyz
 joycasino-cz.xyz
 joycasino-darklace-ltd.art-of-sun.ru
 joycasino-day.xyz
-joycasino-db.xyz
 joycasino-db3.xyz
 joycasino-db8.xyz
 joycasino-dcg.xyz
@@ -69434,7 +69432,6 @@ joycasino-emb.xyz
 joycasino-emo.xyz
 joycasino-emq.xyz
 joycasino-ent.xyz
-joycasino-eo.xyz
 joycasino-epq.xyz
 joycasino-eq.xyz
 joycasino-er2.xyz
@@ -69533,7 +69530,6 @@ joycasino-gold.xyz
 joycasino-gon.xyz
 joycasino-good.site
 joycasino-good.website
-joycasino-gq.xyz
 joycasino-gre.xyz
 joycasino-great.website
 joycasino-gri.xyz
@@ -69561,7 +69557,6 @@ joycasino-hl.xyz
 joycasino-ho0.xyz
 joycasino-ho1.xyz
 joycasino-hot.xyz
-joycasino-hp.xyz
 joycasino-hqy.xyz
 joycasino-hs.xyz
 joycasino-hs2.xyz
@@ -69645,7 +69640,6 @@ joycasino-lj.xyz
 joycasino-lk.xyz
 joycasino-ll.xyz
 joycasino-lm.xyz
-joycasino-lo.xyz
 joycasino-lot.xyz
 joycasino-low.xyz
 joycasino-lr3.xyz
@@ -69699,8 +69693,6 @@ joycasino-mvd.xyz
 joycasino-mw.xyz
 joycasino-nc.xyz
 joycasino-nd0.xyz
-joycasino-ne.xyz
-joycasino-ng.xyz
 joycasino-nh7.xyz
 joycasino-nh9.xyz
 joycasino-ni.xyz
@@ -70105,6 +70097,7 @@ joycasino-slot777.club
 joycasino-slot777.win
 joycasino-slot8.xyz
 joycasino-slot9.xyz
+joycasino-slots-play.win
 joycasino-slots-russia.win
 joycasino-slots.azurewebsites.net
 joycasino-slots.club
@@ -70403,7 +70396,6 @@ joycasino-you.xyz
 joycasino-your.xyz
 joycasino-yp.xyz
 joycasino-yq.xyz
-joycasino-yr.xyz
 joycasino-ys.xyz
 joycasino-yu.xyz
 joycasino-yx.xyz
@@ -79862,7 +79854,6 @@ ling.ohmanila.com
 lini12.lord-film.space
 lini13.lord-film.space
 lini14.lord-film.space
-linin1.kinomax-pro.ru
 link.hydraruzxpnew4af.ru
 link.official-mostbet.ru
 link.seedskannabis.uno
@@ -92587,7 +92578,6 @@ mostbet-vu.xyz
 mostbet-w2s.xyz
 mostbet-we.xyz
 mostbet-winner.website
-mostbet-wp.xyz
 mostbet-ww.xyz
 mostbet-x.site
 mostbet-x1.site
@@ -100871,7 +100861,6 @@ oa1axktdo.top
 oacnadrzm.top
 oadnadraw.top
 oao-pgk.ru
-oaomgs.ru
 oar64-azino777.icu
 oarnq-azinomobile.icu
 oasfjh1jhh1.com
@@ -112677,7 +112666,6 @@ pregbukmekersx202.top
 pregistrationbk505.top
 preklamer.ru
 premialnye-diplomi.com
-premium-diplom365.com
 premium-diploma365.com
 premium-diploms365.com
 premium-diplomy.info
@@ -134394,14 +134382,17 @@ t0x0gb09.online
 t1-lord.lordfilm4.tk
 t1.hd1080.2021-kino.online
 t1.kinowek.fun
+t1.torrentino.ru
 t13qbidr.club
 t149qezimst.com
 t1ax4fgc9rmst.com
 t1i2n7d60m.com
 t2.kinowek.fun
+t2.torrentino.ru
 t27-lord.lordfilm4.tk
 t2fiy524.club
 t3.kinowek.fun
+t3.torrentino.ru
 t3fu2pj.icu
 t3xm486no6.com
 t4.kinowek.fun
@@ -136379,6 +136370,7 @@ torrentinka.org
 torrentino.com
 torrentino.in
 torrentino.info
+torrentino.ru
 torrentino.su
 torrentinos.info
 torrentins.ru
@@ -152875,7 +152867,6 @@ www.dreamlandcasino.net
 www.drutor.eu
 www.drutor.org.pl
 www.dublikatprav.top
-www.dubsstreamz.com
 www.duralenta.ru
 www.dvd-land.ru
 www.dvorboyar.ru
@@ -160586,6 +160577,7 @@ zejogil.ru
 zelenodolsk.doc-avto.life
 zelenograd.doc-avto.info
 zelenograd.vipp-steroid.com
+zelenyimir.click
 zelenykh.ru
 zelero.ru
 zelfilms.online
