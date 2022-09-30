@@ -18595,9 +18595,8 @@ ARRAY(0x8373bf708)
 ARRAY(0x839329c48)
 ARRAY(0x83ada0ba0)
 ARRAY(0x83b3534c8)
-ARRAY(0x83bd4a528)
+ARRAY(0x83b590810)
 ARRAY(0x83c3d47e0)
-ARRAY(0x83c52e060)
 ARRAY(0x83c69d9a8)
 ARRAY(0x83daf3978)
 ARRAY(0x83e325540)
@@ -18614,9 +18613,10 @@ ARRAY(0x8b4969048)
 ARRAY(0x8b4e79318)
 ARRAY(0x8b57c24b0)
 ARRAY(0x8b5a38a98)
-ARRAY(0x8b8c3dd98)
 ARRAY(0x8b8ea4978)
+ARRAY(0x8b9b5ceb8)
 ARRAY(0x8ba0b8360)
+ARRAY(0x8ba218360)
 ARRAY(0x8bc0f9768)
 ARRAY(0x8bc3ac3c0)
 ARRAY(0x8bc7e5780)
@@ -24859,6 +24859,7 @@ ay30vav6dd.sran.connect.netcdn.bcdl.rocks
 ay3kgu345cfjsm.xyz
 aya.prava-pro.org
 ayashi-cat.ru
+aybet.ru
 ayhti.top
 aykony3d.club
 aykydmelif.top
@@ -44864,6 +44865,7 @@ casino.fruityvegas.com
 casino.gamblingtop.info
 casino.gamesguru.net
 casino.gaminatorsslot.com
+casino.gdemoney.com
 casino.gmslots4.com
 casino.golden-casino.xyz
 casino.golden-cazino.xyz
@@ -51703,7 +51705,6 @@ e1.spon.live
 e105.fisher-1.ru
 e108.fisher-1.ru
 e109.fisher-1.ru
-e110.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -77193,7 +77194,6 @@ krasnoyarskij-kraj.prava-pro.org
 krasnoyarsknb.com
 krasych.ru
 krayclimat.ru
-kraydobra.ru
 krazymonkey.ru
 krc.documentu-avto.info
 krch71leo56d.com
@@ -80587,6 +80587,7 @@ lord-film-hd4.lordfilm1.zone
 lord-film.bar
 lord-film.cash
 lord-film.club
+lord-film.fun
 lord-film.life
 lord-film.link
 lord-film.lord-film.live
@@ -80929,6 +80930,7 @@ lordfilm.sbs
 lordfilm.shop
 lordfilm.skin
 lordfilm.sktop.me
+lordfilm.studio
 lordfilm.style
 lordfilm.surf
 lordfilm.tax
@@ -81111,6 +81113,7 @@ lordfilms.pp.ru
 lordfilms.sbs
 lordfilms.shop
 lordfilms.tax
+lordfilms.today
 lordfilms.uno
 lordfilms.wiki
 lordfilms1.online
@@ -92266,6 +92269,7 @@ mostbest20.site
 mostbest21.site
 mostbest22.site
 mostbest23.site
+mostbest25.site
 mostbest3.site
 mostbest4.site
 mostbest5.site
@@ -103240,7 +103244,6 @@ online.dostavka.date
 online.drug-market.xyz
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.net
 online.gidonline-1176.site
 online.gidonline-1228.site
@@ -112490,6 +112493,7 @@ potrebcreditu.ru
 poupenyvsr.website
 pour-info.xyz
 poursinfo.xyz
+pov.lord-film.fun
 povaranet.ru
 pow.lordfilm.cx
 pow.lordfilm.so
@@ -113227,6 +113231,7 @@ prostitutkikemerovotop.info
 prostitutkikerchihappy.info
 prostitutkikirova24.org
 prostitutkikirovaafter.net
+prostitutkikirovaclub.net
 prostitutkikirovadate.info
 prostitutkikirovaerotic.com
 prostitutkikirovagid.info
@@ -117042,6 +117047,7 @@ regsazino-777.com
 regsazino777.club
 regsazino777.com
 regsazino777s.club
+regsbet.ru
 regschool.casinox.casino
 regschool.xcasino1.com
 regsnow.x-cazin0.com
@@ -135498,6 +135504,7 @@ top.filmshd.vip
 top.free-files.ru
 top.games-film.ru
 top.generikmsk.ru
+top.girls23.club
 top.gomuz.eu
 top.hd-1080tv.site
 top.hd.films1080.club
@@ -136812,6 +136819,7 @@ tri-topora.online
 tri-vosmerki.com
 tri.krasopetki.org
 tri.nalevo-perm.com
+tri.sexanketa-omsk.net
 tri.sexanketa74.net
 tri.sexohota.pro
 tri.tatarsex.com
