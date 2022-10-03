@@ -3414,7 +3414,6 @@
 1grandwulcan.club
 1grandwulkan.club
 1grandwulkan.online
-1grat.ru-cas1nos.com
 1greatbkmbet.win
 1greatmbet.win
 1grndcasino.club
@@ -18617,10 +18616,11 @@ ARRAY(0x833732d98)
 ARRAY(0x833aa6db0)
 ARRAY(0x833c60b10)
 ARRAY(0x836fe17e0)
+ARRAY(0x83866c2e8)
 ARRAY(0x83989b318)
 ARRAY(0x83c4ba150)
 ARRAY(0x83d780510)
-ARRAY(0x83e5a4450)
+ARRAY(0x83fb334f8)
 ARRAY(0x8403e9f48)
 ARRAY(0x8419efa50)
 ARRAY(0x841dd7d20)
@@ -18639,7 +18639,6 @@ ARRAY(0x8b5514888)
 ARRAY(0x8b5938318)
 ARRAY(0x8b5c5a690)
 ARRAY(0x8b6fecf30)
-ARRAY(0x8b7e27228)
 ARRAY(0x8b841fe28)
 ARRAY(0x8b8c6f150)
 ARRAY(0x8b8f02e70)
@@ -18647,8 +18646,8 @@ ARRAY(0x8b8f798a0)
 ARRAY(0x8b9869828)
 ARRAY(0x8b9da2618)
 ARRAY(0x8ba861138)
-ARRAY(0x8bb245ca8)
 ARRAY(0x8bbad2990)
+ARRAY(0x8bbd99300)
 ARRAY(0x8bcf7cdf8)
 ARRAY(0x8bd8f6e88)
 ARRAY(0x8bdbfae40)
@@ -53824,7 +53823,6 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
-f004.fisher-r.ru
 f006.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
@@ -76727,6 +76725,7 @@ kinozal.film-v.ru
 kinozal.gidonline-2869.site
 kinozal.hdrezka-1918.site
 kinozal.kinogo-hd.icu
+kinozal.site
 kinozall.net
 kinozam.com
 kinozam.net
@@ -103174,6 +103173,7 @@ online-casino-fresh.net.ru
 online-casino-game-myanmar.sidewinders.info
 online-casino-game-win.autoinsula.ru
 online-casino-gold.com
+online-casino-hchster-bonus.babaassteakhouse.se
 online-casino-how-it-works.chaletnordic.info
 online-casino-igri-bezplatno.top-devs.ru
 online-casino-it.com
@@ -113090,6 +113090,7 @@ pro100azart1.pw
 pro1xbet.site
 proazart777.ru
 probiv.club
+probiv.uno
 procases.su
 procasino-onlain.ru
 procasino-x.ru
@@ -154618,6 +154619,7 @@ www.kinotuz.net
 www.kinovit.net
 www.kinovit.xyz
 www.kinoxa-x.ru
+www.kinozal.site
 www.kinozall.net
 www.kinozila.com
 www.kinozila.online
@@ -161134,6 +161136,7 @@ z7988nys3u.com
 z798ydba.bid
 z7t0b-azino777.icu
 z7tnn14ynmmb.com
+z7z7z.ne
 z8.kinoxa.biz
 z8.liveball8.ml
 z8.smotrets.live
@@ -163803,6 +163806,7 @@ zertow.ru
 zerx.club
 zerx.su
 zerxfilm.ru
+zet-casino-bonus-bez-depozytu.babaassteakhouse.se
 zet-film.com
 zet-film.net
 zet-live.club
