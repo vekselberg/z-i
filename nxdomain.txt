@@ -10537,7 +10537,6 @@
 2.kinozoro.tv
 2.lordfilm.rip
 2.lordfilms-film.online
-2.lordsfilm.net
 2.mp3you.club
 2.mrbitcasino3.ru
 2.one-premier.xyz
@@ -18617,10 +18616,11 @@ ARRAY(0x8344f6c00)
 ARRAY(0x8355f2f48)
 ARRAY(0x8358d24e0)
 ARRAY(0x83594c030)
+ARRAY(0x83a48a6d8)
+ARRAY(0x83aeb00a8)
 ARRAY(0x83bf26e70)
 ARRAY(0x83c959540)
 ARRAY(0x83e6be6c0)
-ARRAY(0x83eb762a0)
 ARRAY(0x83f64fb10)
 ARRAY(0x83faa2348)
 ARRAY(0x840290c00)
@@ -18634,11 +18634,10 @@ ARRAY(0x8afd1fa20)
 ARRAY(0x8b0090ca8)
 ARRAY(0x8b096f570)
 ARRAY(0x8b1307cd8)
-ARRAY(0x8b1a44090)
 ARRAY(0x8b2e19e40)
 ARRAY(0x8b3f8ea80)
 ARRAY(0x8b4158810)
-ARRAY(0x8b59ff738)
+ARRAY(0x8b6383090)
 ARRAY(0x8b66cfc30)
 ARRAY(0x8b78a6f90)
 ARRAY(0x8b9b92d68)
@@ -24319,7 +24318,6 @@ astrahanskaya-oblast.pomosh-voditelu.com
 astrahanskaya-oblast.prava.monster
 astrakhan-escort.ru
 astrakhan.prava.monster
-astrakhannb.org
 astraxan.vipp-steroid.com
 astro-tv.me
 astrocapitalmarkets.com
@@ -48178,6 +48176,7 @@ client.invest-xo.com
 client.investmarket.trade
 client.leuminvest.com
 client.marketbull.co.uk
+client.marketbull.live
 client.my24-coin.com
 client.nbnbroker.com
 client.redrock500.com
@@ -48425,6 +48424,7 @@ clubrp.ru
 clubrutorg.ru
 clubs-leo.net
 clubs-levs.xyz
+clubs-vulkan.one
 clubs.vulkanbet.info
 clubser.info
 clubstorm.ru
@@ -53652,6 +53652,8 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
+f004.fisher-r.ru
+f006.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -58977,6 +58979,7 @@ fstorrent.ru
 fsx7ng53etmst.com
 fszvm-azino777.icu
 ft7a8-azinomobile.host
+fta.ipadlock.org
 ftech-info.com
 ftglb76kix.space
 ftjsglkz.iphun411.com
@@ -75950,6 +75953,7 @@ kinosimka.org
 kinosimka.org.ru
 kinosimka.su
 kinosimka.top
+kinosimka1.org
 kinosix.online
 kinosix.ru
 kinoska.online
@@ -98056,6 +98060,7 @@ ndpchoev.olimp7277.xyz
 ndr6t4wdmst.com
 nds-partner.shop
 nds-qos.kompe-siruem.online
+ndstop.ru
 ndwzdlii.olimpsmjf.xyz
 ne-casino.ru
 ne-kontora-3.com
@@ -103197,6 +103202,7 @@ online.top-10-casino.net
 online.vulcan-24casino.com
 online.vulcan-kasino.site
 online.vulcanpobeda-kasino.com
+online.vulkan-demo.one
 online.vulkancasino.net.ru
 online.vulkancazino.xyz
 online.vulkanoriginal777.com
@@ -117392,6 +117398,7 @@ riobet48.ru
 riobet501.ru
 riobet644.ru
 riobet777.club
+riobet780.ru
 riobetcash.azurewebsites.net
 riobetcasino-24.com
 riobetcasino-ai.xyz
@@ -131718,6 +131725,7 @@ spoke.mastertor.ru
 sponge-bob.scooby-doo.me
 spor-ttv.online
 spor-ttv.ru
+sporligtv39.live
 sporspp.xyz
 sport-1x-bet.com
 sport-1x.ru
@@ -132420,7 +132428,6 @@ spravki-market.online
 spravki-neva.online
 spravki-online-24.com
 spravki-online.com
-spravki-online.ml
 spravki-onlinevspb.com
 spravki-plus.online
 spravki-rf.org
@@ -137162,6 +137169,7 @@ tvkultura.gidonline-1753.site
 tvkultura.gidonline-289.site
 tvmid.ru
 tvmod.ru
+tvmor.ru
 tvnet.one
 tvnewfilms.com
 tvnik.ru
@@ -143692,6 +143700,7 @@ vulkan-delyuks-vyvod-deneg.axela-mazda.ru
 vulkan-demo.azurewebsites.net
 vulkan-demo.club
 vulkan-demo.com
+vulkan-demo.one
 vulkan-demo.site
 vulkan-demo.uno
 vulkan-demo.xyz
@@ -145587,6 +145596,7 @@ vv1kkan.com
 vv1lccano.com
 vv1lkans.com
 vv1lkkan.com
+vv24.one
 vv24.online
 vv24.top
 vv24.vulkan-kazino-onlines.net
@@ -145960,7 +145970,6 @@ w.lordfilms-film.online
 w.lordfilms-filmy.online
 w.lordfilms.pp.ru
 w.lordkino.net
-w.lordsfilm.net
 w.lordsfilm3.xyz
 w.lordsfilms-720.top
 w.lostfilm-hd-720.com
@@ -147029,7 +147038,6 @@ w5.kinozoz.net
 w5.liveball8.ml
 w5.lordfilm-2.band
 w5.lordfilms.mobi
-w5.lordsfilm.net
 w5.mdc.promo
 w5.online-life.online
 w5.rumuzfan.ru
@@ -148237,6 +148245,7 @@ webtrader.investmentbay.com
 webtrader.leuminvest.com
 webtrader.lyndonfinancelimited.com
 webtrader.marketbull.co.uk
+webtrader.marketbull.live
 webtrader.metastocks.org
 webtrader.my24-coin.com
 webtrader.nano-trade.biz
@@ -149841,6 +149850,7 @@ worshipsolutions.org
 wosarqzc.olimppdn9.xyz
 wosjdyrt.fun
 woss.kinogo.wtf
+wotanjugend.info
 wothotrod.ru
 wott.kinogo.wtf
 wottss.kinogo.wtf
@@ -150063,6 +150073,7 @@ wulkan-casino-russia.win
 wulkan-casino.site
 wulkan-casino.space
 wulkan-casinos.azurewebsites.net
+wulkan-casinos.one
 wulkan-cazino.azurewebsites.net
 wulkan-cazino.online
 wulkan-cazinos.azurewebsites.net
@@ -151354,6 +151365,7 @@ www.babushky.net
 www.babydj.ru
 www.bahabet.com
 www.baikal-x778i.com
+www.baikalsb.ru
 www.baku.video
 www.balt2018.com
 www.baltbet2017.club
@@ -157102,6 +157114,7 @@ www.worldbet8.com
 www.worldcasino24.com
 www.worldfootballblog.ru
 www.worldstream.pw
+www.wotanjugend.info
 www.wowmagic.me
 www.wowmagics.xyz
 www.ww.xrutor.org
@@ -159585,7 +159598,6 @@ yarkercher.online
 yarkercher.ru
 yarosh.lviv.ua
 yaroslavl-kupit-snus.fun
-yaroslavl-nb.com
 yaroslavl-online-snus2.fun
 yaroslavl.attestattutv.com
 yaroslavl.auto-doki.life
@@ -163149,6 +163161,7 @@ zigzagmediaplay.win
 zikbol.ru
 zikserial.club
 zikserialz.club
+zikuka.ru
 zilarena.ru
 zimbara.ru
 zimelzdrdo.top
