@@ -6619,6 +6619,7 @@
 1xbet-bk1.xyz
 1xbet-bk2.xyz
 1xbet-bm1.link
+1xbet-bm10.xyz
 1xbet-bm2.xyz
 1xbet-bm3.xyz
 1xbet-bm4.xyz
@@ -6923,6 +6924,7 @@
 1xbet-hz15.xyz
 1xbet-hz16.xyz
 1xbet-hz17.xyz
+1xbet-hz18.xyz
 1xbet-hz2.xyz
 1xbet-hz3.xyz
 1xbet-hz4.xyz
@@ -8090,6 +8092,7 @@
 1xbet25bet.xyz
 1xbet26bet.xyz
 1xbet27bet.xyz
+1xbet28bet.xyz
 1xbet2bet.site
 1xbet2bkma.site
 1xbet2bkmb.site
@@ -10680,6 +10683,7 @@
 2021-dok.xyz
 2021-falsh.xyz
 2021-film.net
+2021-films.net
 2021-filmy.net
 2021-filmy.online
 2021-filmy.xyz
@@ -18630,6 +18634,7 @@
 ARRAY(0x832e84198)
 ARRAY(0x83331f708)
 ARRAY(0x8337a55e8)
+ARRAY(0x834b6a648)
 ARRAY(0x834cb0798)
 ARRAY(0x835f8daf8)
 ARRAY(0x837466f90)
@@ -18637,8 +18642,6 @@ ARRAY(0x83881a8a0)
 ARRAY(0x838828db0)
 ARRAY(0x838972810)
 ARRAY(0x83a355768)
-ARRAY(0x83a48a6d8)
-ARRAY(0x83aeb00a8)
 ARRAY(0x83b99d360)
 ARRAY(0x83c872930)
 ARRAY(0x83ca987f8)
@@ -18647,14 +18650,15 @@ ARRAY(0x83d5abee8)
 ARRAY(0x83d763a50)
 ARRAY(0x8407096d8)
 ARRAY(0x840f6ca68)
+ARRAY(0x8afb110a8)
 ARRAY(0x8afdb1090)
 ARRAY(0x8b23c6048)
 ARRAY(0x8b33146a8)
 ARRAY(0x8b4bad570)
+ARRAY(0x8b4f87ee8)
 ARRAY(0x8b50fc1b0)
 ARRAY(0x8b528f900)
 ARRAY(0x8b59d7570)
-ARRAY(0x8b6383090)
 ARRAY(0x8b7465948)
 ARRAY(0x8b80b7948)
 ARRAY(0x8b82e1168)
@@ -40255,6 +40259,7 @@ booi-ru.azurewebsites.net
 booi-ru2.azurewebsites.net
 booi-ru3.azurewebsites.net
 booi-ru4.azurewebsites.net
+booi-russia.com
 booi-site-casino.azurewebsites.net
 booi-skachat.marjani-mechet.ru
 booi-slot.com
@@ -52131,6 +52136,7 @@ ec25e7.olimp78a8.top
 ec53180.icu
 ec6f68.olimp78a8.top
 ec71db.olimpa88c.site
+ecaape.com
 ecafc8e.icu
 ecasino-x.com
 ecaterinburg.doc-avto.info
@@ -53834,8 +53840,6 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
-f004.fisher-r.ru
-f006.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -67422,6 +67426,7 @@ indigo-consult.ru
 indigo-info.eu
 indisamara.com
 individialka-78.com
+individualki-moskvy.name
 individualki-orla.ru
 individualki-prostitutki.com
 individualki-volgograd.ru
@@ -71668,6 +71673,7 @@ justmostpartd.com
 justmosttraf.com
 justmosttraff.com
 justmosttrafs.com
+justout.com
 justprofit.trade
 justvoxe.beget.tech
 justvulcan.com
@@ -98322,7 +98328,6 @@ ndr6t4wdmst.com
 ndrev63.ru
 nds-partner.shop
 nds-qos.kompe-siruem.online
-ndstop.ru
 ndwzdlii.olimpsmjf.xyz
 ne-casino.ru
 ne-kontora-3.com
@@ -108054,6 +108059,7 @@ pkloco.click
 pkloco.in
 pkm6e7r.com
 pkmelqznldo.top
+pkr1hand.com
 pkr1hand.ru
 pkz8a-azinomobile.icu
 pl-financeltd.com
@@ -112819,6 +112825,7 @@ pregistrationbk505.top
 preklamer.ru
 premialnye-diplomi.com
 premiera22.ru
+premierinvestbank.com
 premium-diploma365.com
 premium-diploms365.com
 premium-diplomy365.com
@@ -133849,6 +133856,7 @@ superslots-site.ru
 superslots-tv2.com
 superslots-xwin1.ru
 superslots-zerkalo.club
+superslots-zerkalo.com
 superslots.club
 superslots.vin
 superslots.vip
@@ -147471,6 +147479,7 @@ w7.hdrezka.cam
 w7.kinocool.ru
 w7.kinocool.su
 w7.liveball8.ml
+w7.lordfilm-2.band
 w7.lordfilms.mobi
 w7.rumuzfan.ru
 w7.seasonvar.kim
@@ -149742,9 +149751,12 @@ winlinestar11.com
 winlinestar12.com
 winlinestar13.com
 winlinestar14.com
+winlinestar15.com
 winlinestar16.com
+winlinestar17.com
 winlinestar19.com
 winlinestar2.com
+winlinestar20.com
 winlinestar21.com
 winlinestar22.com
 winlinestar23.com
@@ -149756,11 +149768,13 @@ winlinestar29.com
 winlinestar3.com
 winlinestar30.com
 winlinestar31.com
+winlinestar32.com
 winlinestar33.com
 winlinestar34.com
 winlinestar35.com
 winlinestar36.com
 winlinestar37.com
+winlinestar38.com
 winlinestar39.com
 winlinestar4.com
 winlinestar5.com
