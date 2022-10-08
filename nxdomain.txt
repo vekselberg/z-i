@@ -18662,13 +18662,14 @@
 ARRAY(0x8332b28b8)
 ARRAY(0x8346eed98)
 ARRAY(0x834993ba0)
-ARRAY(0x834b6a648)
 ARRAY(0x8353364c8)
 ARRAY(0x8361e4228)
 ARRAY(0x83655c360)
 ARRAY(0x83774c8a0)
 ARRAY(0x837aaba08)
 ARRAY(0x838014a08)
+ARRAY(0x839b1bf78)
+ARRAY(0x83b1328e8)
 ARRAY(0x83b905ea0)
 ARRAY(0x83bbe9a68)
 ARRAY(0x83ca96120)
@@ -18676,9 +18677,9 @@ ARRAY(0x83d64d798)
 ARRAY(0x83eee1a50)
 ARRAY(0x83fac4360)
 ARRAY(0x841050738)
+ARRAY(0x841518888)
 ARRAY(0x841b1c540)
 ARRAY(0x841f99f90)
-ARRAY(0x8afb110a8)
 ARRAY(0x8afb55a20)
 ARRAY(0x8b067a780)
 ARRAY(0x8b0d45630)
@@ -18687,7 +18688,6 @@ ARRAY(0x8b1e7f288)
 ARRAY(0x8b2331fc0)
 ARRAY(0x8b49f4e70)
 ARRAY(0x8b4ebb2e8)
-ARRAY(0x8b4f87ee8)
 ARRAY(0x8b521a1f8)
 ARRAY(0x8b66b8b70)
 ARRAY(0x8b7bf0060)
@@ -22967,6 +22967,7 @@ all-sto.ru
 all-tr-account.com
 all-tr-platform.com
 all-video.xn--c1ajfnfb.xn--p1acf
+all.alleng.org
 all.alljackpot.net
 all.freshfit-vrn.com
 all.myslotik.net
@@ -25557,6 +25558,7 @@ azatlyiuqxvdjdjaj.azureedge.net
 azatlyxpxlmbtodta.azureedge.net
 azatlzqbxgcqgvfal.azureedge.net
 azatlzyzmtrldksbd.azureedge.net
+azatrus.top5casino.club
 azattdcqrnnbsiaim.azureedge.net
 azattqvsmxuiqmjf.azureedge.net
 azattstbjrkbowqyz.azureedge.net
@@ -50806,6 +50808,7 @@ diplomy-v-ekb.ru.
 diplomylands.com
 diplomyrussianus.com
 diplomys-24.com
+diplomys-irk.com
 diplomys-krg.com
 diplomys-ntg.com
 diplomys-ru.com
@@ -104400,6 +104403,7 @@ osago-help.ru
 osago-online.tech
 osago1990.net
 osagoblank.in
+osagoblank2017.net
 osagoblank2019.com
 oscar-films.club
 oscarkino.info
@@ -112980,7 +112984,6 @@ preklamer.ru
 premialnye-diplomi.com
 premiera22.ru
 premierinvestbank.com
-premium-diploma365.com
 premium-diploms365.com
 premium-diplomy365.com
 premium-hentai.site
@@ -113048,6 +113051,7 @@ prime.kinolenta.club
 primebet.online
 primecash.su
 primeinvestmentlmt.com
+primewave.capital
 primobolan-moskva.club
 primorskij-kraj.doc-avto.info
 primorskij-kraj.doc-avto.life
@@ -127138,6 +127142,7 @@ setorrent.ru
 setwalls.club
 sev-diplomsa.com
 sev-diplomss.com
+sev.maturkai.org
 sev.prostitutki-21.me
 sevastime.ru
 sevastopol-snus1-kupit.xyz
@@ -130580,6 +130585,7 @@ slottica-club.zipprofi.ru
 slottica-kazino-ya888ya.shamora-cinema.ru
 slottica-top.com
 slottica.casino
+slottica10.club
 slottica11.com
 slottica13.com
 slottica21.com
@@ -130588,6 +130594,7 @@ slottica25.com
 slottica34.com
 slottica5.com
 slottica7.online
+slottica9.online
 slottica9805.ru
 slotticacasinowin.ru
 slotticajackpot.com
@@ -135778,6 +135785,7 @@ top5-bookmaks.club
 top5-casinos.club
 top5-kasinos.com
 top5-melbet.club
+top5casino.club
 top5kasino.club
 top5kasinos.club
 top5kazino.club
@@ -136158,6 +136166,7 @@ tor.dostfilms.biz
 tor.gotorrent.ru
 tor.hd-serial.ru
 tor.hidra.top
+tor.hydraclubsiteonion.com
 tor.hydradarknet.cc
 tor.hyrdaruzpxnew4af.nl
 tor.hyrdaruzxpnew4af1onion.com
@@ -136715,7 +136724,6 @@ trade.mediumfx.company
 trade.mediumfx.net
 trade.mjs-fx.com
 trade.pearlfx.net
-trade.perfct-group.com
 trade.provinvest.org
 trade.rlti-group.com
 trade.rockcapital.io
@@ -136971,6 +136979,7 @@ tri-topora.online
 tri-vosmerki.com
 tri.krasopetki.org
 tri.nalevo-perm.com
+tri.putanamama.me
 tri.sexanketa-omsk.net
 tri.sexanketa74.net
 tri.sexohota.pro
@@ -160500,6 +160509,7 @@ york.rockymountainquads.com
 yoshkar-ola.diplomv-4you.com
 yoshkar-ola.docvuss.org
 yoshkar-ola.prava.monster
+yotubix.com
 you-bonus.ru
 you-w.in
 you-watch.hdfilmz720.online
@@ -164094,6 +164104,7 @@ zov-rb.ru
 zov.ereksi.co
 zox54aeu.online
 zoyoyo.fun
+zoz.kinotazz.online
 zp6j4i3nmst.com
 zpchlkzdfk.com
 zpjtn.xyz
