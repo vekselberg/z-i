@@ -6967,6 +6967,7 @@
 1xbet-ic.xyz
 1xbet-ie.xyz
 1xbet-ig.xyz
+1xbet-igrovye-avtomaty.com
 1xbet-igrovye-avtomaty.online
 1xbet-ih.xyz
 1xbet-ii.xyz
@@ -18712,6 +18713,7 @@ ARRAY(0x83da8b018)
 ARRAY(0x83dd8c2b8)
 ARRAY(0x840ac2120)
 ARRAY(0x840bfe900)
+ARRAY(0x8af6c9948)
 ARRAY(0x8afe77c18)
 ARRAY(0x8aff53e58)
 ARRAY(0x8b0395d38)
@@ -18720,7 +18722,9 @@ ARRAY(0x8b1479fd8)
 ARRAY(0x8b156ffc0)
 ARRAY(0x8b1db8fd8)
 ARRAY(0x8b2eb0fa8)
+ARRAY(0x8b331d3a8)
 ARRAY(0x8b4dcf870)
+ARRAY(0x8b6ccc0a8)
 ARRAY(0x8b6f37648)
 ARRAY(0x8b8ad7930)
 ARRAY(0x8b96e14c8)
@@ -46670,6 +46674,7 @@ casinox-hb.xyz
 casinox-ho.xyz
 casinox-in.xyz
 casinox-la.xyz
+casinox-lu.xyz
 casinox-mobile.ru
 casinox-nd.xyz
 casinox-nn.xyz
@@ -46741,6 +46746,7 @@ casinox-xx.net
 casinox.azurewebsites.net
 casinox.bar
 casinox.best
+casinox.buzz
 casinox.casa
 casinox.co
 casinox.game-casinox.net
@@ -49276,7 +49282,6 @@ coronavirus-monitorin.ru
 coronline24.host
 corp.hdreactor.net
 corporategames.online
-corporategames.ru
 corsair-empire.ru
 cosino-x.net
 cosinosrang.space
@@ -52071,6 +52076,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e108.fisher-1.ru
 e109.fisher-1.ru
 e110.fisher-1.ru
 e1152ad.icu
@@ -54757,6 +54763,7 @@ faraonplay7.com
 faraonplay8.com
 faraonwin.net
 fararc24.biz
+farasan.org
 faraslot8.com
 farfaraon-money.ru
 fargowin.com
@@ -69167,6 +69174,9 @@ johnnybet-ru4.com
 joi-kasino.com
 joi-kasinoo.com
 joi-online-games.site
+joicasino-ly.top
+joicasino-ns.top
+joicasino-sy.top
 joicasino.azurewebsites.net
 joicasinoo.com
 joikasino.azurewebsites.net
@@ -80785,6 +80795,7 @@ live-rutor.tech
 live-rutor.tk
 live-rutorok.tk
 live-slots-m5.com
+live-sports-betting.net
 live-vision.site
 live-you.morgan-film.ru
 live.betinsports.pro
@@ -109897,6 +109908,7 @@ playfortuna-site.com
 playfortuna-sloti.com
 playfortuna-sloty.com
 playfortuna-spins.net
+playfortuna-sv.top
 playfortuna-ta.xyz
 playfortuna-td.xyz
 playfortuna-top-casino.ru
@@ -126018,6 +126030,7 @@ s1.serialy.vip
 s1.sharewood.bz
 s1.sharewood.xyz
 s1.skladchik.bet
+s1.slivach.cc
 s1.slivup.ch
 s1.slivup.me
 s1.smokgames.pw
@@ -134625,6 +134638,7 @@ supertadarise.ru
 supertreker-rf.site
 superums.com
 superw.ru
+superwinday.com
 superz-bezdeps.club
 superzanosy.com
 superzbesdeps.club
