@@ -18694,7 +18694,6 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x83336b678)
 ARRAY(0x833431498)
 ARRAY(0x833bb7780)
 ARRAY(0x833fa3030)
@@ -18702,7 +18701,6 @@ ARRAY(0x834b2e330)
 ARRAY(0x834cbf9c0)
 ARRAY(0x8352de738)
 ARRAY(0x835b72378)
-ARRAY(0x8362491f8)
 ARRAY(0x8375a25b8)
 ARRAY(0x837850960)
 ARRAY(0x838bb2ab0)
@@ -18711,6 +18709,7 @@ ARRAY(0x839ac2e88)
 ARRAY(0x83a236240)
 ARRAY(0x83a3b72d0)
 ARRAY(0x83a75d480)
+ARRAY(0x83b566930)
 ARRAY(0x83b8283a8)
 ARRAY(0x83c921330)
 ARRAY(0x83dca87e0)
@@ -18724,11 +18723,12 @@ ARRAY(0x8b2583618)
 ARRAY(0x8b2935c18)
 ARRAY(0x8b4e3e4f8)
 ARRAY(0x8b5d54078)
-ARRAY(0x8b7ee9540)
 ARRAY(0x8b89340c0)
 ARRAY(0x8b8c81288)
 ARRAY(0x8b929c828)
+ARRAY(0x8b9d0c4e0)
 ARRAY(0x8b9f1ea68)
+ARRAY(0x8bc10a4b0)
 ARRAY(0x8bc7c1900)
 ARRAY(0x8bcaf2ac8)
 ARRAY(0x8bd23f930)
@@ -46811,6 +46811,7 @@ casinox.name
 casinox.ofitcial.com
 casinox.support
 casinox.team
+casinox.zone
 casinox1.azurewebsites.net
 casinox2.azurewebsites.net
 casinox2020.club
@@ -61355,6 +61356,7 @@ gliding616.art
 glisboa.com
 gljadi-kinchishko.ru
 global-1-news.ru
+global-interaktivnoye-kazino.kreditvbanke24.ru
 global-j-c.online
 global-tor.in
 global-tor.ru
@@ -61680,7 +61682,6 @@ go.9618azinogo.icu
 go.9660azinogo.icu
 go.aazino777.online
 go.admiral-slots.top
-go.alleng.org
 go.azartzona-play.com
 go.azino-24-azino.icu
 go.azino-azino24.site
@@ -70001,6 +70002,7 @@ joycasino-de.xyz
 joycasino-deluxe.ccleaner-ru.info
 joycasino-den.xyz
 joycasino-df.top
+joycasino-dg.top
 joycasino-dkc.xyz
 joycasino-dl.xyz
 joycasino-dl9.xyz
@@ -79369,6 +79371,7 @@ leonaccesss.me
 leonaccesss32.net
 leonapa.com
 leonarda-shop.ru
+leonardo.futbol
 leonbbet.vip
 leonbet-zerkalo-vhod.ru
 leonbet-zerkalo4.ru
@@ -82052,6 +82055,7 @@ lostfilm-720.pickfilm.top
 lostfilm-720.store
 lostfilm-720.website
 lostfilm-720.zetflix-biz.site
+lostfilm-720com.ogon-voda.ru
 lostfilm-720hd.tv
 lostfilm-besplatno.one
 lostfilm-besplatno.online
@@ -86878,7 +86882,6 @@ mboetterm.com
 mbqetterm.com
 mbr919033.com
 mbretterm.com
-mbs99.com
 mbsya7a05kmb.com
 mbtetterm.com
 mbtrxlfa.top
@@ -97109,7 +97112,6 @@ msk28.euro-doktor24.com
 msk29.euro-doktor24.com
 msk31.euro-lekarstva.com
 msk34.euro-lekarstva.com
-msk4.euro-doktor24.com
 msk5.euro-doktor24.com
 msk7.24-mizoprostol.com
 msk8.24-mizoprostol.com
@@ -103384,6 +103386,7 @@ one.sexanketa13.com
 one.sexanketa24.com
 one.sexanketa34.org
 one.slot-mag-3.xyz
+one.vip45.org
 one.vulkan2020.xyz
 one1.cinema4k.ru
 one12.cinema4k.ru
@@ -109927,6 +109930,7 @@ playfortuna-dev.xyz
 playfortuna-df.xyz
 playfortuna-di.xyz
 playfortuna-dt.top
+playfortuna-dw.top
 playfortuna-ek.xyz
 playfortuna-ey.xyz
 playfortuna-fd.top
@@ -109939,6 +109943,7 @@ playfortuna-games.net
 playfortuna-games.pro
 playfortuna-games.ru
 playfortuna-good.xyz
+playfortuna-hc.top
 playfortuna-he.xyz
 playfortuna-ho.xyz
 playfortuna-how.xyz
@@ -110014,6 +110019,7 @@ playfortuna-onllne.club
 playfortuna-only.xyz
 playfortuna-pay.ru
 playfortuna-pays.ru
+playfortuna-pi.top
 playfortuna-platinum.ru
 playfortuna-poisk-zerkala.axela-mazda.ru
 playfortuna-pro.com
@@ -127715,7 +127721,6 @@ sev-diplomsa.com
 sev-diplomss.com
 sev.maturkai.org
 sev.prostitutki-21.me
-sevastime.ru
 sevastopol-snus1-kupit.xyz
 sevastopol.auto-doki.life
 sevastopol.diploms4yours.com
@@ -132829,6 +132834,7 @@ spincityonline.com
 spincityonline1.net
 spincityonline777.com
 spinclubcity.com
+spincoin.net
 spincoin.ru
 spinezenit.top
 spiniacasino.su
@@ -133488,7 +133494,6 @@ sports-match.org
 sports-obzor.ru
 sports-online.ru
 sports-site.ru
-sports-tv.pro
 sports-tv1.pro
 sports-tv10.website
 sports-tv12.pro
@@ -141599,6 +141604,7 @@ vegas-avtomati.org
 vegas-avtomati.site
 vegas-avtomati.su
 vegas-avtomati.top
+vegas-avtomati.vip
 vegas-avtomati10.babyparking.ru
 vegas-avtomati11.com
 vegas-avtomati12.com
@@ -159847,7 +159853,6 @@ xgame-android734.ru
 xgame-casinox.com
 xgame-rox896.ru
 xgame-vavada684.ru
-xgame-vavada707.ru
 xgame-vavada932.ru
 xgamevlks.com
 xgamevlkz.com
