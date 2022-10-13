@@ -18725,9 +18725,9 @@ ARRAY(0x83aa472a0)
 ARRAY(0x83b4a7db0)
 ARRAY(0x83b566930)
 ARRAY(0x83c68c2b8)
-ARRAY(0x8415037c8)
+ARRAY(0x83ed36bb8)
+ARRAY(0x840657b28)
 ARRAY(0x8afd564c8)
-ARRAY(0x8b05995a0)
 ARRAY(0x8b1a0f630)
 ARRAY(0x8b330d480)
 ARRAY(0x8b3bdf660)
@@ -18739,6 +18739,7 @@ ARRAY(0x8b89340c0)
 ARRAY(0x8b8abf540)
 ARRAY(0x8b9b31210)
 ARRAY(0x8b9d0c4e0)
+ARRAY(0x8ba65fee8)
 ARRAY(0x8bc10a4b0)
 ARRAY(0x8bd839db0)
 ARRAY(0x8bd95bac8)
@@ -18748,7 +18749,6 @@ ARRAY(0x8bf510f48)
 ARRAY(0x8c02f72a0)
 ARRAY(0x8c036be10)
 ARRAY(0x8c0be0738)
-ARRAY(0x8c0d5b540)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -33565,6 +33565,7 @@ bet-slivbk.club
 bet-sports24.ru
 bet-style.ru
 bet-winline.ru
+bet-winner1.com
 bet-winner11.com
 bet-winner15.com
 bet-winner16.com
@@ -62644,6 +62645,7 @@ goyetterestoration.com
 goz-diplomys.com
 goz-dlplomsa.com
 goznak-diplomm.club
+goznak-diplomm.one
 goznakdiplomsa.com
 gozznakdiplomas.com
 gp-com.com
@@ -68860,6 +68862,7 @@ j8.lordfilmx-online.net
 j8riwbqy.club
 j9.filmx-2021.net
 j9.jack-pot-csn.com
+j9.lordfilmx-online.net
 j911i-azino777.icu
 jabberon.ru
 jabra-shop.com
@@ -76461,7 +76464,6 @@ kinomover.xyz
 kinomovi.xyz
 kinomovie.net
 kinomozg.online
-kinomr.ru
 kinomuha.ru
 kinomur.xyz
 kinomusor.ru
@@ -102631,6 +102633,7 @@ oj3p1-azinomobile.host
 oj5zaw.site
 ojbn6a8xbw.com
 ojdaqjikbgfrl.site
+ojdocuments.org
 ojdyamdx.olimpk6iz.xyz
 ojgpu.site
 ojmu99931.com
@@ -105075,6 +105078,7 @@ otoir.top
 otopleniemontazh.ru
 otorrent.ru
 otpuskcheshskaya.ru
+otpuskfilms.ru
 otr2xat0mst.com
 otradnoemsk.ru
 otrok1.ru
@@ -118920,6 +118924,7 @@ root.startmail.com
 ropslot.win
 roq8him.icu
 rorkuhhu.relationshipbuildinginstitute.com
+roro.lordfilm3.site
 ros-fin-bank.pw
 ros-serial.com
 ros-serials.net
@@ -121512,7 +121517,6 @@ ru-bk104.ru
 ru-bk12.ru
 ru-bk130.ru
 ru-bk14.ru
-ru-bk222.ru
 ru-bk50.ru
 ru-bk60.ru
 ru-bk7.ru
@@ -122829,6 +122833,7 @@ ru.ggle112oop.com
 ru.gh55gam3ell8.com
 ru.goldsong.fun
 ru.goznak-diplomm.club
+ru.goznak-diplomm.one
 ru.gr5lju31bb3c7a.com
 ru.gre78nmr5.com
 ru.gru47mm1lor4.com
@@ -125340,6 +125345,7 @@ rus.future-fx.org
 rus.gamerplay.site
 rus.goodmp3.ru
 rus.goznak-diplomm.club
+rus.goznak-diplomm.one
 rus.hochu.online
 rus.inapteka.com
 rus.izomusic.ru
@@ -132385,6 +132391,7 @@ sol705-download.ru
 sol8279.ru
 sol997.ru
 solandmost.com
+solaris-marketplace.com
 solarispaint.ru
 solbest.ru
 solbest1.ru
@@ -135281,6 +135288,7 @@ tabucasino.com
 tac.tvfilms.club
 tac1.tvfilms.club
 tac2.tvfilms.club
+tadalafil20mg.org
 tadalafilnn.ru
 tadses.space
 taganrog.damdiplomses.com
@@ -140678,7 +140686,6 @@ vavadaast.com
 vavadaat04.com
 vavadaava11.com
 vavadaavavada.com
-vavadaaz.com
 vavadaaz1.com
 vavadaazur.com
 vavadaazurewebsitesnet.com
@@ -142628,6 +142635,7 @@ vladivostok1.pomosh-voditelu.com
 vladivostok24top.site
 vlaelxw.host
 vlaga-records.ru
+vlassmaker.ru
 vlc-club-vip.com
 vlc-game.com
 vlc-grd.club
@@ -146302,6 +146310,7 @@ vulkanmega-club.com
 vulkanmega-ru.com
 vulkanmega.azurewebsites.net
 vulkanmega1.ru
+vulkanmega2.ru
 vulkanmega4.ru
 vulkanmega5.ru
 vulkanmegaa.ru
