@@ -10306,6 +10306,7 @@
 1xslots.website
 1xslots.zone
 1xslots3839.ru
+1xslots77706.xyz
 1xslots9781.ru
 1xslotscasino.ml
 1xslotscasino1.com
@@ -18717,11 +18718,10 @@ ARRAY(0x839c7ec90)
 ARRAY(0x83a214ac8)
 ARRAY(0x83a65e2b8)
 ARRAY(0x83bee3db0)
-ARRAY(0x83ed36bb8)
 ARRAY(0x83f08f948)
 ARRAY(0x83f0e2750)
 ARRAY(0x83fbec7c8)
-ARRAY(0x840657b28)
+ARRAY(0x88e2147b0)
 ARRAY(0x8b126af48)
 ARRAY(0x8b1a1e1b0)
 ARRAY(0x8b2df7ac8)
@@ -18729,10 +18729,11 @@ ARRAY(0x8b31d6378)
 ARRAY(0x8b40f78b8)
 ARRAY(0x8b4c20a98)
 ARRAY(0x8b5867450)
+ARRAY(0x8b653ba50)
 ARRAY(0x8b6f28438)
 ARRAY(0x8b70c1dc8)
 ARRAY(0x8ba349270)
-ARRAY(0x8ba65fee8)
+ARRAY(0x8baa80960)
 ARRAY(0x8baee5738)
 ARRAY(0x8bcbdde88)
 ARRAY(0x8bcc3fbb8)
@@ -47217,6 +47218,7 @@ cazino-maximum.club
 cazino-million.azurewebsites.net
 cazino-million.online
 cazino-million.ru
+cazino-million1.ru
 cazino-million2.ru
 cazino-mirror.net
 cazino-money.xyz
@@ -47239,6 +47241,7 @@ cazino-play.fortuna-63.ru
 cazino-playfortuna.azurewebsites.net
 cazino-playfortuna.ru
 cazino-pobeda.online
+cazino-pobeda.ru
 cazino-polet.xyz
 cazino-r.vip
 cazino-reviews.ru
@@ -48852,6 +48855,7 @@ club-vlcneon.com
 club-vlcpobeda.com
 club-volcano-vip.com
 club-volcano.xyz
+club-vulcan-deluxe.com
 club-vulcan-platinum.azurewebsites.net
 club-vulcan-platinum.ryagenka.ru
 club-vulcan-platinum.xyz
@@ -71605,6 +71609,7 @@ joycasino13.com
 joycasino13.win
 joycasino1330.xyz
 joycasino1335.xyz
+joycasino1336.xyz
 joycasino135.xyz
 joycasino136.xyz
 joycasino137.xyz
@@ -81672,6 +81677,7 @@ lord-filmzz2.lordfilm1.band
 lord-filmzz2.lordfilm2.skin
 lord-filmzz3.lordfilm1.band
 lord-filmzz3.lordfilm2.skin
+lord-filmzz4.lordfilm2.band
 lord-filmzz5.lordfilm2.band
 lord-filmzzz2.lordfilm2.skin
 lord-filmzzz3.lordfilm2.skin
@@ -98210,6 +98216,7 @@ muzlishko.ru
 muzlo.pro
 muzlogss.ru
 muzlohit.ru
+muzlome.net
 muzloo.com
 muzmp3.info
 muznam.com
@@ -130130,6 +130137,7 @@ silver-fin.ltd
 silverazino777-63.ru
 silverbrok.ltd
 silvercasino.ru
+silzakona.ru
 sim-karty-bez.ru
 sim-karty.com
 sim-optom-msk.ru
@@ -130329,6 +130337,7 @@ sivnvn.top
 siwm58t1mb.com
 siwp47i2s1mb.com
 sixpy.travis.in.net
+sizakona.ru
 sizling-khot-deluks.kaluga-dubrava.ru
 sizoshop.kz
 sizzling-hot-slot-machine-free-online.szczesliwestopki.pl
@@ -132647,7 +132656,6 @@ sol705-download.ru
 sol8279.ru
 sol997.ru
 solandmost.com
-solaris-marketplace.com
 solarispaint.ru
 solbest.ru
 solbest1.ru
@@ -159520,6 +159528,7 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
+x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.alc.name
