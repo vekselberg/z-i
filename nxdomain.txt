@@ -18346,6 +18346,7 @@
 922735.info
 9230-azinomobile.com
 9234azinogo.icu
+9253451.com
 9253888.net
 9253888.org
 9253888.site
@@ -18777,7 +18778,9 @@ ARRAY(0x835e3e480)
 ARRAY(0x8361a2780)
 ARRAY(0x836b13528)
 ARRAY(0x836bacb88)
+ARRAY(0x836c706c0)
 ARRAY(0x837c8c420)
+ARRAY(0x838146330)
 ARRAY(0x838b6c030)
 ARRAY(0x839784528)
 ARRAY(0x83a14cfd8)
@@ -18786,12 +18789,10 @@ ARRAY(0x83a5d3fd8)
 ARRAY(0x83b152798)
 ARRAY(0x83c0b79d8)
 ARRAY(0x83c8f9330)
-ARRAY(0x83e8803a8)
 ARRAY(0x83e9b6f48)
 ARRAY(0x83f1a0c18)
 ARRAY(0x83f8b66d8)
 ARRAY(0x8aff522b8)
-ARRAY(0x8b022c648)
 ARRAY(0x8b146ff90)
 ARRAY(0x8b19beeb8)
 ARRAY(0x8b2a266f0)
@@ -18802,6 +18803,7 @@ ARRAY(0x8b3b7dfc0)
 ARRAY(0x8b4081e88)
 ARRAY(0x8b44871c8)
 ARRAY(0x8b4b558a0)
+ARRAY(0x8b4f07e88)
 ARRAY(0x8b5511750)
 ARRAY(0x8b82e2978)
 ARRAY(0x8b887a438)
@@ -18810,7 +18812,6 @@ ARRAY(0x8b90ca8a0)
 ARRAY(0x8ba46aab0)
 ARRAY(0x8bad2eca8)
 ARRAY(0x8bbd45660)
-ARRAY(0x8bc02d450)
 ARRAY(0x8bd2a8228)
 ARRAY(0x8bd89b438)
 a-bets63.top
@@ -22582,6 +22583,7 @@ alcobar025.xyz
 alcobar03.xyz
 alcobar032.xyz
 alcobar037.xyz
+alcobar039.xyz
 alcobar05.xyz
 alcobar06.xyz
 alcobar07.xyz
@@ -22610,6 +22612,7 @@ alcocity025.xyz
 alcocity03.xyz
 alcocity032.xyz
 alcocity037.xyz
+alcocity039.xyz
 alcocity05.xyz
 alcocity06.xyz
 alcocity07.xyz
@@ -22636,6 +22639,7 @@ alcoexpress025.xyz
 alcoexpress03.xyz
 alcoexpress032.xyz
 alcoexpress037.xyz
+alcoexpress039.xyz
 alcoexpress05.xyz
 alcoexpress06.xyz
 alcoexpress07.xyz
@@ -22699,6 +22703,7 @@ alcolavca025.xyz
 alcolavca03.xyz
 alcolavca032.xyz
 alcolavca037.xyz
+alcolavca039.xyz
 alcolavca05.xyz
 alcolavca06.xyz
 alcolavca07.xyz
@@ -22730,6 +22735,7 @@ alconight025.xyz
 alconight03.xyz
 alconight032.xyz
 alconight037.xyz
+alconight039.xyz
 alconight05.xyz
 alconight06.xyz
 alconight07.xyz
@@ -22761,6 +22767,7 @@ alcostock025.xyz
 alcostock03.xyz
 alcostock032.xyz
 alcostock037.xyz
+alcostock039.xyz
 alcostock05.xyz
 alcostock06.xyz
 alcostock07.xyz
@@ -22795,6 +22802,7 @@ alcotime03.xyz
 alcotime032.xyz
 alcotime037.site
 alcotime037.xyz
+alcotime039.xyz
 alcotime04.xyz
 alcotime05.xyz
 alcotime06.xyz
@@ -23906,6 +23914,7 @@ apn.cdnbetcity.com
 apng7-azino777.icu
 apokerdom.com
 apollina.ru
+aporn.life
 apothekegerm.com
 app-1win.store
 app-booi4288.ru
@@ -46534,6 +46543,7 @@ casinos-vulcan.azurewebsites.net
 casinos-vulcandeluxe.com
 casinos-vulkan.azurewebsites.net
 casinos-vulkan.space
+casinos-vulkan.top
 casinos-wulcan.azurewebsites.net
 casinos-wulkan.azurewebsites.net
 casinos-x.azurewebsites.net
@@ -64665,6 +64675,7 @@ hd1080px.cc
 hd1080px.fan
 hd1080px.run
 hd1080px.top
+hd1088.lordfilms.onl
 hd108o.hd-puls.ru
 hd108op.hd-puls.ru
 hd11.1-lordserials.xyz
@@ -65625,6 +65636,7 @@ himarathon.win
 himarathonbet.win
 himarathonhi.win
 himbethi.win
+himka.click
 himkashop-krasnodar.ru
 himkashopkrasnodar.ru
 himkashopmoscow.ru
@@ -66272,6 +66284,7 @@ hydraruzxpnew4af.onion.moscow
 hydraruzxpnew4af.oniondd.com
 hydraruzxpnew4af.onionddd.com
 hydraruzxpnew4af.onione.fun
+hydraruzxpnew4af.onionez.com
 hydraruzxpnew4af.onionp.com
 hydraruzxpnew4af.oniont.com
 hydraruzxpnew4af.onioon.com
@@ -66281,6 +66294,7 @@ hydraruzxpnew4af.to
 hydraruzxpnew4af.xn--nion-kqa.com
 hydraruzxpnew4afa.onionp.com
 hydraruzxpnew4afa4s.com
+hydraruzxpnew4afe.onionez.com
 hydraruzxpnew4afer-onion.com
 hydraruzxpnew4aff.onion-shop.com
 hydraruzxpnew4aff.onionddd.com
@@ -75591,6 +75605,7 @@ kinofort.com
 kinofort.me
 kinoframe.2021-film-666.site
 kinoframe.fljesh.com
+kinofrank.club
 kinofrank.net
 kinofrank.online
 kinofrank.org
@@ -78517,6 +78532,7 @@ kupi-snusi-msk.fun
 kupi-spravku-sertificat.biz
 kupi-test.ru
 kupi-zakladku.top
+kupi.9253451.com
 kupi.9253888.site
 kupi.dzheneriki.online
 kupi888.ru
@@ -78556,6 +78572,7 @@ kupit-udostoverenie.top
 kupit-vladivostok-medspravkii.ru
 kupit-vladivostokk-medspravkii.ru
 kupit-voronezh-medspravki.ru
+kupit.9253451.com
 kupit.9253888.site
 kupit.dzheneriki.online
 kupit.stroiydoctoverenie.com
@@ -82198,6 +82215,7 @@ lordfilms.lord-film.live
 lordfilms.lordfilm.uk
 lordfilms.lordfilm.wine
 lordfilms.one
+lordfilms.onl
 lordfilms.pp.ru
 lordfilms.sbs
 lordfilms.shop
@@ -84618,6 +84636,7 @@ madou214.ru
 madrid-news.ru
 madtorrent.net
 maestro-bank.online
+mafedron.click
 mafia-bank.xyz
 mafia-boss-igrovoy-avtomat.academy-finance.ru
 mag.edgar-midas.com
@@ -87612,6 +87631,9 @@ meetfrntrw.online
 meetqbrt.xyz
 meetrdrct.xyz
 mefbdrvi.olimpm450.xyz
+mefedron-shop.click
+mefedron-shop.link
+mefedronshop.click
 mega-bit.top
 mega-brow.space
 mega-dzhek-yeshki.marina-meshcheryakova.ru
@@ -102879,6 +102901,7 @@ ofnsxmpjmst.com
 ofologo.filmlordmas.online
 oforolo.kingfilmsek.online
 ofr2qfuzmst.com
+ofroloso.serialtytik.online
 ofrulor0.filmlordec.online
 ofruloro.filmlordec.online
 oftinol0.oserial4iks.online
@@ -103878,6 +103901,7 @@ onion.moscow
 onion3hydra.com
 oniondd.com
 onionddd.com
+onionez.com
 onionp.com
 onionwd.com
 onjxkikj.olimp3n0a.xyz
@@ -110806,6 +110830,7 @@ playjoycasinocasino.club
 playjoycasinos.club
 playjoykazino.club
 playlogic.info
+playmafia.xyz
 playmafiagame.ru
 playmakers.azurewebsites.net
 playmaking.live
@@ -127036,6 +127061,7 @@ salavat.study-docums.com
 sale-attestaty.com
 sale.8l2.mobi
 sale.9203336.site
+sale.9253451.com
 sale.anti-co.xyz
 sale.diplomis-svs.com
 sale.medfirma.org
@@ -127046,6 +127072,7 @@ salehard.doc-avto.info
 salehard.docvuss.org
 salehard.pomosh-voditelu.com
 sales.9203336.site
+sales.9253451.com
 sales42.dapostore.net
 sales42b.dapostore.net
 salesvl.online
@@ -128059,6 +128086,7 @@ serialtyt4iksi.online
 serialtyt4ksi.online
 serialtyt4ksl.online
 serialtyt4lksi.online
+serialtytik.online
 serialu-2020.online
 serialu-2020.ru
 serialu.fun
@@ -129814,6 +129842,7 @@ sexkzn.link
 sexnsk.vip
 sexotdam-nv.club
 sexpilule.com
+sexrip.org
 sexrussia.online
 sexrussia.xyz
 sexsodrom.com
@@ -131158,6 +131187,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -131306,6 +131336,7 @@ slotibesplatno.com
 slotibezregistracii.com
 sloticasino.fun
 slotico.club
+slotico.top
 slotii.summer-cash.net
 slotik.onedeluxe.online
 slotiki.ru
@@ -133287,6 +133318,8 @@ spectator.io.ua
 speed-cash-igrovoy-avtomat.u-kostra.ru
 spfishka.ru
 spfrsedc.olimprw4s.xyz
+spice-shop.click
+spiceshop.click
 spichka.news
 spichka.press
 spiincity-7777.com
@@ -139426,6 +139459,7 @@ uhta.pomosh-voditelu.com
 uhta.prava-pro.org
 uhta.texdk.org
 uhtube.me
+uhty.online
 uhwn4-azino777.icu
 uhydqc8v.website
 ui8cj-azino777.icu
@@ -153106,6 +153140,7 @@ www.alcobar025.xyz
 www.alcobar03.xyz
 www.alcobar032.xyz
 www.alcobar037.xyz
+www.alcobar039.xyz
 www.alcobar05.xyz
 www.alcobar06.xyz
 www.alcobar07.xyz
@@ -153127,6 +153162,7 @@ www.alcoexpress025.xyz
 www.alcoexpress03.xyz
 www.alcoexpress032.xyz
 www.alcoexpress037.xyz
+www.alcoexpress039.xyz
 www.alcoexpress05.xyz
 www.alcoexpress06.xyz
 www.alcoexpress07.xyz
@@ -153148,6 +153184,7 @@ www.alcolavca025.xyz
 www.alcolavca03.xyz
 www.alcolavca032.xyz
 www.alcolavca037.xyz
+www.alcolavca039.xyz
 www.alcolavca05.xyz
 www.alcolavca06.xyz
 www.alcolavca07.xyz
@@ -153169,6 +153206,7 @@ www.alcostock025.xyz
 www.alcostock03.xyz
 www.alcostock032.xyz
 www.alcostock037.xyz
+www.alcostock039.xyz
 www.alcostock05.xyz
 www.alcostock06.xyz
 www.alcostock07.xyz
@@ -153188,6 +153226,7 @@ www.alcotime020.xyz
 www.alcotime022.xyz
 www.alcotime03.xyz
 www.alcotime032.xyz
+www.alcotime039.xyz
 www.alcotime05.xyz
 www.alcotime06.xyz
 www.alcotime08.xyz
@@ -154314,6 +154353,7 @@ www.bukvaved.org
 www.bukvaved.stream
 www.buycalifornialottoonline.com
 www.buyfloridalottoonline.com
+www.buylotterytickets.info
 www.buylottotickets.com.au
 www.buysuperenalottoonline.com
 www.buyuklottonline.com
@@ -162267,6 +162307,15 @@ zakisazotamsk24.online
 zakisazotamsk24.ru
 zakisazotavmoskve.ru
 zakiss.online
+zakladka.click
+zakladka.link
+zakladki-mefedron.click
+zakladki-online.click
+zakladki-shop.click
+zakladki-speed.click
+zakladki-zakaz.click
+zakladki.link
+zakladochka.click
 zakon.igryxa.ru
 zakonvopros.ru
 zakupi-pasporta.com
