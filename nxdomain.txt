@@ -18772,7 +18772,6 @@
 ARRAY(0x8336b9990)
 ARRAY(0x833d66468)
 ARRAY(0x8346f3690)
-ARRAY(0x834853150)
 ARRAY(0x8352cc6f0)
 ARRAY(0x8360a93a8)
 ARRAY(0x836142d08)
@@ -18780,16 +18779,17 @@ ARRAY(0x8361a2780)
 ARRAY(0x836b13528)
 ARRAY(0x836bacb88)
 ARRAY(0x836c706c0)
+ARRAY(0x837271180)
 ARRAY(0x83732fc00)
 ARRAY(0x837c8c420)
 ARRAY(0x838146330)
-ARRAY(0x838b6c030)
 ARRAY(0x83902afa8)
 ARRAY(0x839784528)
 ARRAY(0x83a561180)
 ARRAY(0x83a8cb810)
 ARRAY(0x83b152798)
 ARRAY(0x83c8f9330)
+ARRAY(0x83e6146d8)
 ARRAY(0x83f1a0c18)
 ARRAY(0x83f8b66d8)
 ARRAY(0x8aff522b8)
@@ -18799,7 +18799,6 @@ ARRAY(0x8b19beeb8)
 ARRAY(0x8b2a266f0)
 ARRAY(0x8b37a78e8)
 ARRAY(0x8b4081e88)
-ARRAY(0x8b44871c8)
 ARRAY(0x8b4b558a0)
 ARRAY(0x8b4f07e88)
 ARRAY(0x8b5429258)
@@ -18816,6 +18815,7 @@ ARRAY(0x8bbd45660)
 ARRAY(0x8bd2a8228)
 ARRAY(0x8bd89b438)
 ARRAY(0x8bdbf6e58)
+ARRAY(0x8bded57b0)
 ARRAY(0x8be37b4f8)
 a-bets63.top
 a-bt56.top
@@ -18966,6 +18966,7 @@ a.nbkemerovo.info
 a.nbtyumen.org
 a.nightlady.nu
 a.novokuznetsk-nb.com
+a.omsk-z.com
 a.onlinevkino.com
 a.onlinevkino.net
 a.onlinevkino1.com
@@ -20209,6 +20210,7 @@ admiral-24-kazino.shamora-cinema.ru
 admiral-513.ru
 admiral-514.ru
 admiral-777-cazino.club
+admiral-777-club.com
 admiral-777-kazino-onlayn.olmed.com.pl
 admiral-777-registraciya.ru
 admiral-777.azurewebsites.net
@@ -40191,6 +40193,7 @@ bolnichniy-24.pro
 bolnichnyji-list.com
 bolnichnyjp-list.com
 bolnichnyjp-lyst.com
+bolnichnyu-oficjalno.com
 bolnuchnjj-vcem.com
 bolnuchnjy-vcem.com
 bolshie-siski.net
@@ -45790,6 +45793,7 @@ casinobonus2020.ru
 casinobonus7.ru
 casinobonus777.pw
 casinobonus777.space
+casinobonus9115.com
 casinobonuses.azurewebsites.net
 casinobonusi.me
 casinobonusi.pro
@@ -46007,6 +46011,7 @@ casinofresh-hd.ru
 casinofresh-inter.ru
 casinofresh-mos.ru
 casinofresh-od.ru
+casinofresh-online.com
 casinofresh-peak.ru
 casinofresh-sc.ru
 casinofresh-sc2.ru
@@ -51237,6 +51242,7 @@ diplomt-rus.com
 diplomtatr.org
 diplomtopp.com
 diplomu-irkutsk.com
+diplomu-kursk.com
 diplomug.com
 diplomugid.com
 diplomuq.com
@@ -66069,6 +66075,7 @@ hugmediaplay.win
 humajilisg9meb.site
 humelfwmdo.top
 hundertelf.net
+hunt-expert.fitogreat.com
 hunt-for-gold-igrovoy-avtomat.dvv-spb.ru
 huntcash.best
 huntcash.ru
@@ -66152,6 +66159,7 @@ hydra2obhod.com
 hydra2support.com
 hydra2w3b.com
 hydra2we-b.com
+hydra2web-zerkalo-site.com
 hydra2web.biz
 hydra2web.bz
 hydra2webe.com
@@ -72258,6 +72266,7 @@ joyfilm.xyz
 joygu.top
 joyik.com
 joyipc.com
+joyjoycasino.com
 joyjoycazino.xyz
 joyjoycazino1.xyz
 joyjoycazino2.xyz
@@ -87655,6 +87664,7 @@ mefbdrvi.olimpm450.xyz
 mefedron-shop.click
 mefedron-shop.link
 mefedronshop.click
+mega-2021-january-millions-1-1.owk-affolterbach.de
 mega-bit.top
 mega-brow.space
 mega-dzhek-yeshki.marina-meshcheryakova.ru
@@ -104583,6 +104593,7 @@ online.joy-cazinos.com
 online.joycasino.space
 online.joycasinoplay.click
 online.kasinos-vulkan.fun
+online.kazino-x.com
 online.kazinos-wulkan.pp.ru
 online.kinodoza.tv
 online.kinofilmzzzz.ru
@@ -129868,6 +129879,7 @@ sexintimdoska69.online
 sexintimdosug.online
 sexkvartal.org
 sexkzn.link
+sexlife63.com
 sexnsk.vip
 sexotdam-nv.club
 sexpilule.com
@@ -140003,6 +140015,7 @@ usk.fort-pravan.com
 usk.sam-poehali.com
 uslugi-komp.online
 uslugi-komp.ru
+usonline707casino.com
 uspehisporta.pw
 uspehisporta.space
 uspehisporta.su
@@ -146151,6 +146164,7 @@ vulkan-rossiya-kazino-litsenzionnyy.rtasamara.ru
 vulkan-rossiya.buzz
 vulkan-royal.online
 vulkan-ru.babyparking.ru
+vulkan-ru.club
 vulkan-ru.com
 vulkan-ru.fisheye-video.ru
 vulkan-ru.itdist.ru
@@ -159862,7 +159876,6 @@ x-torrent.ru
 x-whore2.com
 x.100pezd.net
 x.100porno.one
-x.1xbet-x.com
 x.1xbetjr.site
 x.247porno.one
 x.alc.name
