@@ -18800,10 +18800,9 @@
 ARRAY(0x833426168)
 ARRAY(0x833c91f18)
 ARRAY(0x83479d1b0)
-ARRAY(0x83519a060)
-ARRAY(0x835898678)
 ARRAY(0x835df1690)
 ARRAY(0x836360b10)
+ARRAY(0x8373f59f0)
 ARRAY(0x8374df420)
 ARRAY(0x838251e70)
 ARRAY(0x838c59348)
@@ -18823,12 +18822,13 @@ ARRAY(0x8b281ab70)
 ARRAY(0x8b3aad078)
 ARRAY(0x8b4b484f8)
 ARRAY(0x8b5328f18)
+ARRAY(0x8b6260fa8)
 ARRAY(0x8b7264b88)
 ARRAY(0x8b8a7cf48)
 ARRAY(0x8b8eb6540)
 ARRAY(0x8b9bd3ca8)
-ARRAY(0x8bac2b420)
 ARRAY(0x8bb998270)
+ARRAY(0x8bc51ba08)
 ARRAY(0x8bc9d6678)
 ARRAY(0x8bd31e930)
 ARRAY(0x8bd638528)
@@ -25331,6 +25331,7 @@ azart.casino
 azart.cc
 azart.fan-vulcan.com
 azart.heater-vulkan.com
+azart.kazino-fishka.com
 azart.mobi
 azart.relaxzone.org
 azart.uno
@@ -31714,6 +31715,7 @@ banany-yedut-na-bagamy.adjvu.ru
 bananza-slots.xyz
 bandit-igra.vtonuce.ru
 bandybox.ru
+banfilm.ru
 bang-cash.ru
 bangcash.pro
 bangcash.pw
@@ -42408,6 +42410,7 @@ casino-admiralxxx.ru
 casino-agent.com
 casino-aladdin-managua.hotelenergetic.ru
 casino-allreels.ru
+casino-ambassador.ru
 casino-anonymous.com
 casino-aplay.club
 casino-aplay.nlofact.com
@@ -48301,6 +48304,7 @@ cheboksary1.doc-avto.life
 cheboksary1.prostitutki.store
 cheburashka.moscow
 chechenasso.ru
+checkyou.pro
 cheery.dostavka.date
 cheesenn.ru
 chef-foodshop.ru
@@ -52474,7 +52478,6 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
-e108.fisher-1.ru
 e109.fisher-1.ru
 e110.fisher-1.ru
 e1152ad.icu
@@ -53334,6 +53337,7 @@ ekvh12u3djk.com
 el-club.xyz
 el-hot.ru
 el-sol-casino-tucson-az.adjvu.ru
+el-up.ru
 el.fermalnk.ru
 el1l1.com
 ela4d3376x.com
@@ -64050,6 +64054,7 @@ hasavyurt.study-docum.com
 hasavyurt.study-docums.com
 hasavyurt.study-dokument24.com
 hashtrade.pro
+hasle.store
 hat.euromillions-lotto.ru
 haunklif.ru
 have.new-nntt.ru
@@ -104464,6 +104469,7 @@ online-casinob.fun
 online-casinoclub.ru
 online-casinol.fun
 online-casinos-play.org
+online-casinos-software.info
 online-casinos-top.net
 online-casinos-world.com
 online-casinos.center
@@ -105245,6 +105251,7 @@ openbroker.trade
 opencases.ru
 opendomensharing.com
 openfrntrw.xyz
+openinvestmnts.xyz
 openmusicstudio.ru
 openru.club
 openru.me
@@ -116662,6 +116669,7 @@ rcfeh2xbjdmb.com
 rcgames.top
 rchellamal.com
 rcinem.ru
+rcinew.ru
 rckzug-des-casino-knigreichs.prodomus-bau.de
 rcmodelplanet.com
 rcnj4mlz5c.site
@@ -138723,6 +138731,7 @@ tryserlal4iksi.online
 tryserlali.online
 tryserlalki.online
 tryserlalnis.online
+trytrades.xyz
 ts.film-fan.ru
 ts3.lordfilms.green
 ts7c3-azino777.icu
@@ -141856,6 +141865,7 @@ vavadajk12.com
 vavadajk22.com
 vavadajkl1.com
 vavadajm.com
+vavadajoy.com
 vavadajungle.com
 vavadak-casino33.xyz
 vavadak-casino777.fun
@@ -150407,6 +150417,7 @@ wawada-site-casino.com
 wawada-site-casino.store
 wawada.club
 wawada.fun
+wawada.kz
 wawada.site
 wawada.su
 wawada1zerkalo.com
@@ -159783,6 +159794,7 @@ www1.shara.me
 www1.tiviha.su
 www10.1xbetzerkalo.online
 www10.1xbetzerkalo.site
+www10.alpari-rus.com
 www10.zenitbet.su
 www11.1xbetzerkalo.online
 www11.1xbetzerkalo.site
@@ -159934,11 +159946,13 @@ www5.zenitbet.su
 www6.1xbetbk.online
 www6.1xbetzerkalo.online
 www6.1xbetzerkalo.site
+www6.alpari-rus.com
 www6.parimatch.kiev.ua
 www6.zenitbet.su
 www7.1xbetbk.online
 www7.1xbetzerkalo.online
 www7.1xbetzerkalo.site
+www7.alpari-rus.com
 www7.artmax.live
 www7.kinobuh.ru
 www7.parimatch.kiev.ua
@@ -159946,12 +159960,14 @@ www7.zenitbet.su
 www8.1xbetbk.online
 www8.1xbetzerkalo.online
 www8.1xbetzerkalo.site
+www8.alpari-rus.com
 www8.kinobuh.ru
 www8.parimatch.kiev.ua
 www8.zenitbet.su
 www9.1xbetbk.online
 www9.1xbetzerkalo.online
 www9.1xbetzerkalo.site
+www9.alpari-rus.com
 www9.parimatch.kiev.ua
 www9.zenitbet.su
 wwwazino777play.com
