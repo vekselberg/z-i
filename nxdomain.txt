@@ -18798,7 +18798,6 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x833426168)
-ARRAY(0x833c91f18)
 ARRAY(0x83479d1b0)
 ARRAY(0x835df1690)
 ARRAY(0x836360b10)
@@ -18808,10 +18807,11 @@ ARRAY(0x838251e70)
 ARRAY(0x838c59348)
 ARRAY(0x83906c960)
 ARRAY(0x839696150)
-ARRAY(0x839c39f48)
 ARRAY(0x839cc9630)
 ARRAY(0x839d98180)
 ARRAY(0x83a2285d0)
+ARRAY(0x83b353420)
+ARRAY(0x83bab2a08)
 ARRAY(0x83dad26f0)
 ARRAY(0x83dcba648)
 ARRAY(0x83f27f1f8)
@@ -18828,10 +18828,10 @@ ARRAY(0x8b8a7cf48)
 ARRAY(0x8b8eb6540)
 ARRAY(0x8b9bd3ca8)
 ARRAY(0x8bb998270)
+ARRAY(0x8bbbae570)
 ARRAY(0x8bc51ba08)
 ARRAY(0x8bc9d6678)
 ARRAY(0x8bd31e930)
-ARRAY(0x8bd638528)
 ARRAY(0x8bdbe7db0)
 ARRAY(0x8be079360)
 ARRAY(0x8be9569c0)
@@ -20042,6 +20042,7 @@ actives-pm-casinos.xyz
 actives-pm-casinoz.xyz
 actives-pm-cazino.xyz
 actives-pm-cazinos.xyz
+actives-pm.xyz
 activeslot.xyz
 activespm.xyz
 activity-sports.ru
@@ -42217,6 +42218,7 @@ cashcasi.com
 cashcazinoz.com
 cashdeal.ru
 casher.one
+cashier.nirotrade.com
 cashierwulkani.com
 cashingwlkansfun.com
 cashslotmachine.com
@@ -47989,6 +47991,7 @@ centr-medd-bryanskk.ru
 centr-otdelki.com
 centr-shugaringa.online
 centr-shugaringa.ru
+centrbet.ru
 centrconsult99.ru
 centrsolo.ru
 centrudost.com
@@ -49874,6 +49877,7 @@ cryptolir.com
 cryptonbroker.com
 cryptopaha.ru
 cryptorocket.trade
+crystal-casino.click
 crystal-casino.co
 crystal-casino.fun
 crystal-casino.host
@@ -56290,6 +56294,7 @@ finlandsjackpot.azurewebsites.net
 finlandsjackpots.azurewebsites.net
 finlay.capital
 finlay.world
+finmax-bo.com
 finmsk.com
 finnscon.com
 finocapital.pro
@@ -58432,6 +58437,7 @@ forum-ukraina.net
 forum.4bets.pro
 forum.bezdepa.biz
 forum.bitmmgp.ru
+forum.ganjalive.cc
 forum.gribo4ek.cz
 forum.kino-tor.org
 forum.ozpp.ru
@@ -61045,6 +61051,7 @@ ganja-seeds.xyz
 ganjaliv.online
 ganjaliv.tk
 ganjalive.app
+ganjalive.cc
 ganjalive.city
 ganjalive.cz
 ganjalive.me
@@ -65940,6 +65947,7 @@ holostyak.su
 holostyak2020.ru
 holshow-natv.ru
 holt.googla.pp.ua
+holtv.ru
 holtv1.ru
 holtv2.ru
 holtv3.ru
@@ -83383,6 +83391,7 @@ lucks-pm-casinoz.xyz
 lucks-pm-cazino.xyz
 lucks-pm-cazinos.xyz
 lucks-pm-cazinoz.xyz
+lucks-pm.xyz
 luckspm.xyz
 lucky-38-casino-las-vegas.premar.biz.pl
 lucky-43.fun
@@ -102730,6 +102739,7 @@ official-cazino-x.ru
 official-cazino-x.site
 official-cazino-x.space
 official-cazino-x.website
+official-cazino-x.xyz
 official-champion-casino.tech
 official-champion-cazino.tech
 official-champion-site.azurewebsites.net
@@ -110625,6 +110635,7 @@ playfortuna-casino77.ru
 playfortuna-casino777.ru
 playfortuna-casino8.site
 playfortuna-casino9.site
+playfortuna-casinorus.ru
 playfortuna-casinos.azurewebsites.net
 playfortuna-casinos1.azurewebsites.net
 playfortuna-casinos1.online
@@ -112555,6 +112566,7 @@ pm-a6e53536.com
 pm-aa353a73.com
 pm-acca3bbb.com
 pm-active.xyz
+pm-actives.xyz
 pm-b8680362.com
 pm-ba8f1a87.com
 pm-bac8845a.com
@@ -112674,6 +112686,7 @@ pm-casinozvictory.xyz
 pm-casinozwin.xyz
 pm-casinozwinning.xyz
 pm-casinozz.xyz
+pm-cassino.xyz
 pm-cazino-bet.xyz
 pm-cazino-enjoy.xyz
 pm-cazino-fart.xyz
@@ -113235,6 +113248,7 @@ pmcazinos-active.xyz
 pmcazinos-bet.xyz
 pmcazinos-bets.xyz
 pmcazinos-enjoy.xyz
+pmcazinos-fart.xyz
 pmcazinos-fly.xyz
 pmcazinos-gamble.xyz
 pmcazinos-gamer.xyz
@@ -113277,6 +113291,7 @@ pmcazinovictory.xyz
 pmcazinowin.xyz
 pmcazinowinning.xyz
 pmcazinoz-active.xyz
+pmcazinoz-bet.xyz
 pmcazinoz-enjoy.xyz
 pmcazinoz-fart.xyz
 pmcazinoz-fly.xyz
@@ -113289,10 +113304,13 @@ pmcazinoz-joy.xyz
 pmcazinoz-luck.xyz
 pmcazinoz-lucky.xyz
 pmcazinoz-play.xyz
+pmcazinoz-power.xyz
 pmcazinoz-slot.xyz
 pmcazinoz-sloter.xyz
 pmcazinoz-slots.xyz
 pmcazinoz-victory.xyz
+pmcazinoz-win.xyz
+pmcazinoz-winning.xyz
 pmcazinoz.xyz
 pmcazinozactive.xyz
 pmcazinozbet.xyz
@@ -114227,6 +114245,7 @@ powers-pm-casinos.xyz
 powers-pm-casinoz.xyz
 powers-pm-cazino.xyz
 powers-pm-cazinos.xyz
+powers-pm.xyz
 powerserial.net
 powerspm.xyz
 poyebushki.com
@@ -116110,6 +116129,7 @@ r-icasino.me
 r-liga.ru
 r-pokerdom.mobi
 r-sport2001.ru
+r-spravka.com
 r-tor.ru
 r-torrent.club
 r-torrent.ru
@@ -119256,6 +119276,7 @@ riobet.by
 riobet.cash
 riobet.click
 riobet.gadgetfreak.info
+riobet.org.ru
 riobet.otz.life
 riobet.promo
 riobet.website
@@ -126484,6 +126505,7 @@ rutor-is.ru
 rutor-is.uio.faith
 rutor-is.uioz.fun
 rutor-is.uioz.pw
+rutor-is.uioz.xyz
 rutor-is.xcvb.icu
 rutor-jiv.tk
 rutor-life.tk
@@ -138364,6 +138386,7 @@ trading.intl-tg.com
 trading.invest-sigma.biz
 trading.limited-trd.club
 trading.marketcfd.com
+trading.nirotrade.com
 trading.nordic-brokers.com
 trading.nordic-cloud-c.net
 trading.royal-trust-group.org
@@ -143319,6 +143342,7 @@ vipfrank.me
 vipgrand.club
 vipgrand1.club
 vipintimsdosug.club
+vipki.xyz
 viplist.pro
 vipmagnit1.com
 vipmagnit4.com
