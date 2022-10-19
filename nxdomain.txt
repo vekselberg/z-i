@@ -18833,9 +18833,10 @@ ARRAY(0x833be4ba0)
 ARRAY(0x834470c48)
 ARRAY(0x834569060)
 ARRAY(0x8357f57e0)
+ARRAY(0x835bf8d38)
 ARRAY(0x835eecf90)
 ARRAY(0x836e25570)
-ARRAY(0x836e4b870)
+ARRAY(0x837507ed0)
 ARRAY(0x837a37210)
 ARRAY(0x838a85ac8)
 ARRAY(0x838a976a8)
@@ -18856,12 +18857,11 @@ ARRAY(0x8b4828ea0)
 ARRAY(0x8b53db210)
 ARRAY(0x8b557b060)
 ARRAY(0x8b5d7fb28)
-ARRAY(0x8b63232d0)
+ARRAY(0x8b7082a68)
 ARRAY(0x8b838ad80)
 ARRAY(0x8b8795d68)
 ARRAY(0x8b96e5b10)
 ARRAY(0x8b9bfcc00)
-ARRAY(0x8ba0ac750)
 ARRAY(0x8bc1d8f90)
 ARRAY(0x8bced8b88)
 ARRAY(0x8c06b9a38)
@@ -63126,7 +63126,6 @@ grand-casino-24.online
 grand-casino-24.ru
 grand-casino-35.karel700.ru
 grand-casino-crystal.com
-grand-casino-debrecen.poludachi.ru
 grand-casino-firelake.raventest.ru
 grand-casino-forges-les-eaux.blogsembi.ru
 grand-casino-hinckley.rasmus2019.ru
@@ -71000,6 +70999,7 @@ joycasino-oz.top
 joycasino-oz.xyz
 joycasino-pa2.xyz
 joycasino-pa9.xyz
+joycasino-pb.top
 joycasino-pb3.xyz
 joycasino-pb8.xyz
 joycasino-pd0.xyz
@@ -71075,6 +71075,7 @@ joycasino-qm.xyz
 joycasino-qn.xyz
 joycasino-qo.xyz
 joycasino-qp.xyz
+joycasino-qq.top
 joycasino-qr.xyz
 joycasino-qs.xyz
 joycasino-qt.xyz
@@ -71524,6 +71525,7 @@ joycasino-xe2.xyz
 joycasino-xen.xyz
 joycasino-xex.xyz
 joycasino-xf.xyz
+joycasino-xl.top
 joycasino-xla.xyz
 joycasino-xlam.xyz
 joycasino-xll.xyz
@@ -88531,6 +88533,7 @@ melbet-official3.xyz
 melbet-official4.xyz
 melbet-officiale.com
 melbet-officially.buzz
+melbet-officially.club
 melbet-officially.com
 melbet-officially.icu
 melbet-officially.xyz
@@ -90311,6 +90314,7 @@ minru24-7.site
 minru24.store
 minsk-online.net
 minsvyaz.site
+minus-on.ru
 minus12.ru
 minusinsk.prava-pro.org
 minuskaraoke.ru
@@ -90375,6 +90379,7 @@ miraudiobook.ru
 miraxanet.com
 mirazarta.net
 mirazbet.xyz
+mirbalkona.ru
 mircasinoz.ru
 mirena03.ru
 mirena1.ru
@@ -115119,6 +115124,7 @@ prostitutkiulanudenew.com
 prostitutkiulanudereal.com
 prostitutkiulanuderelax.net
 prostitutkiulanudeslap.info
+prostitutkiulanudeslip.net
 prostitutkiulanudestop.com
 prostitutkiulanudestop.info
 prostitutkiulanudetask.net
@@ -152943,6 +152949,7 @@ www.1xbetgiris2.com
 www.1xbetofficially.icu
 www.1xbetofficially.xyz
 www.1xbetoficially.top
+www.1xbetoficially.xyz
 www.1xbetpartners.com
 www.1xbetrum.site
 www.1xbetworld.com
