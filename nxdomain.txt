@@ -1032,6 +1032,7 @@
 1.bi.kinotik.site
 1.casino-vulkan25.org
 1.cinema-hd.ru
+1.ekb-napitki.ru
 1.f4e1.xyz
 1.faraonkazinoonline.ru
 1.filmi-2020.online
@@ -11562,6 +11563,7 @@
 24sportmax.ru
 24sportmix.ru
 24sportnew.ru
+24sportnop.ru
 24sportnow.ru
 24sportpon.ru
 24sporttop.ru
@@ -18824,6 +18826,7 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x832f47b70)
+ARRAY(0x833251768)
 ARRAY(0x8335a3f60)
 ARRAY(0x8336f0360)
 ARRAY(0x833be4ba0)
@@ -18835,11 +18838,10 @@ ARRAY(0x835eecf90)
 ARRAY(0x836e4b870)
 ARRAY(0x837a37210)
 ARRAY(0x838a976a8)
-ARRAY(0x83b353420)
-ARRAY(0x83bab2a08)
 ARRAY(0x83baf4c78)
 ARRAY(0x83de2ff90)
 ARRAY(0x83e674900)
+ARRAY(0x83e9abe28)
 ARRAY(0x8401d8438)
 ARRAY(0x8b1584678)
 ARRAY(0x8b183f3d8)
@@ -18856,10 +18858,10 @@ ARRAY(0x8b557b060)
 ARRAY(0x8b5d7fb28)
 ARRAY(0x8b63232d0)
 ARRAY(0x8b838ad80)
+ARRAY(0x8b8795d68)
 ARRAY(0x8b96e5b10)
 ARRAY(0x8b9bfcc00)
 ARRAY(0x8ba0ac750)
-ARRAY(0x8bbbae570)
 ARRAY(0x8bbc145a0)
 ARRAY(0x8bc1d8f90)
 ARRAY(0x8bced8b88)
@@ -56202,6 +56204,7 @@ filmtu.ru
 filmu2014.ru
 filmvhd.me
 filmx.online
+filmx.uz
 filmxhd-lords.ru
 filmxhdlord.ru
 filmxhdlords.ru
@@ -64903,6 +64906,7 @@ hd2.lordix.cc
 hd2.lords.guru
 hd2.lords.ink
 hd2.lords.one
+hd2.lordserials.life
 hd2.lordz.me
 hd2.megogofilma.online
 hd2.mnogokino.me
@@ -81139,6 +81143,7 @@ lini32.lord-film.space
 lini37.lord-film.space
 lini39.lord-film.space
 lini40.lord-film.space
+linin1.kinomax-pro.ru
 link.hydraruzxpnew4af.ru
 link.official-mostbet.ru
 link.zerkalo-mostbet.ru
@@ -97660,8 +97665,11 @@ mrktrotate.win
 mrkuls.top
 mrmarathonbet.win
 mrmbetplayluck.top
+mrmoney-slotik.azurewebsites.net
 mrmoney-slotik.com
 mrmoney-slotik.net
+mrmoneyslotik.azurewebsites.net
+mrmoneyslotiks.azurewebsites.net
 mrotate.win
 mrotatelike.win
 mroy0-azino777.icu
@@ -98720,6 +98728,7 @@ my-admiral-play.com
 my-aptekas-24.ru
 my-aptekas.ru
 my-aptekas24.ru
+my-azart.azurewebsites.net
 my-azart.club
 my-azart.me
 my-azart.top
@@ -98762,8 +98771,11 @@ my-rv.online
 my-serials.com
 my-skladkino.ru
 my-slootik.com
+my-slotik.azurewebsites.net
 my-slotiki.net
+my-slotiks.azurewebsites.net
 my-slotiks.com
+my-slotikz.azurewebsites.net
 my-slotikz.com
 my-solcasino.club
 my-volcano.com
@@ -98966,9 +98978,15 @@ mylivedealer.com
 myloginportal.info
 mylotoru.xyz
 mylove-40.su
+myloveslot.azurewebsites.net
 myloveslot.net
+myloveslots.azurewebsites.net
 myloveslotus.com
 mylovesloty.com
+myloveslotz.azurewebsites.net
+mylovesslot.azurewebsites.net
+mylovesslotz.azurewebsites.net
+mylovezlotz.azurewebsites.net
 mymarachance.win
 mymarachoice.win
 mymararotate.win
@@ -109551,6 +109569,10 @@ play-amo-casino.ru
 play-amo.com
 play-amos.ru
 play-aplay.sport-people.club
+play-avtomatik.azurewebsites.net
+play-avtomatikk.azurewebsites.net
+play-avtomatiks.azurewebsites.net
+play-avtomatikz.azurewebsites.net
 play-avtomaty.net
 play-azart.azurewebsites.net
 play-azartplay.nlofact.com
@@ -110582,7 +110604,6 @@ playfortuna-casino77.ru
 playfortuna-casino777.ru
 playfortuna-casino8.site
 playfortuna-casino9.site
-playfortuna-casinorus.ru
 playfortuna-casinos.azurewebsites.net
 playfortuna-casinos1.azurewebsites.net
 playfortuna-casinos1.online
@@ -111106,6 +111127,10 @@ playpokeronline.su
 playpsn.club
 playrealclub.com
 playresident.com
+plays-avtomatik.azurewebsites.net
+plays-avtomatiks.azurewebsites.net
+plays-avtomatikz.azurewebsites.net
+plays-avtommatikk.azurewebsites.net
 plays-azart.azurewebsites.net
 plays-bet.net
 plays-fortuna-top.com
@@ -111146,6 +111171,14 @@ playspincities.com
 playspincity.club
 playspincityonline.com
 playsporthere.com
+playss-avtomatik.azurewebsites.net
+playss-avtomatiks.azurewebsites.net
+playss-avtomatikz.azurewebsites.net
+playss-avtomatikzz.azurewebsites.net
+playss-avtommatik.azurewebsites.net
+playss-avtommatikk.azurewebsites.net
+playss-avtommatikz.azurewebsites.net
+playss-avtommatikzz.azurewebsites.net
 playstyles.info
 playtopcasino.net
 playtopcasino.online
@@ -111197,7 +111230,11 @@ playxfortyna.info
 playxfortyna.pro
 playxwlcs.com
 playy7b.elmmss.com
+playz-avtomatikz.azurewebsites.net
+playz-avtomatikzz.azurewebsites.net
 playzfortuna.com
+playzz-avtomatikzz.azurewebsites.net
+playzz-avtommatikk.azurewebsites.net
 pledge.seenrben.com
 pleer5p.club
 pleerwq.club
@@ -114968,6 +115005,7 @@ prostitutkiorlareal.com
 prostitutkiorlareal.info
 prostitutkiorlareal.net
 prostitutkiorlarus.net
+prostitutkiorlasex.net
 prostitutkiorlashe.com
 prostitutkiorlasite.net
 prostitutkiorlasweet.net
@@ -123551,6 +123589,7 @@ ru.igrovyeavtomatynadengi.online
 ru.ijiuh3451as.com
 ru.ijujejazki.com
 ru.img59ole.com
+ru.in9adle73oon.com
 ru.inapteka1.com
 ru.indt45ol7.com
 ru.inf3i48leo.com
@@ -131415,7 +131454,6 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
-slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -131463,6 +131501,7 @@ slot4money.info
 slot4money.me
 slot4money.net
 slot4moneys.azurewebsites.net
+slot4moneyz.azurewebsites.net
 slot4moneyz.info
 slot4moneyz.net
 slot777.best
@@ -136281,6 +136320,7 @@ tennisireal.tj
 teplodostup.ru
 teploservis-2.ru
 teploset77.ru
+terektiroo.kz
 terminal.intl-tg.com
 terminal.monobroker.net
 terminal.nordic-brokers.com
@@ -143096,6 +143136,7 @@ vip-casino.vegas
 vip-club-vulkan.openskys.ru
 vip-club.su
 vip-crystalslot.com
+vip-dip.com
 vip-gambling.net
 vip-hunt-expert.special-sales.com
 vip-joy-casino.com
@@ -143796,6 +143837,7 @@ vlrbpzoi.olimp9gam.xyz
 vlslot.azurewebsites.net
 vlsloti.com
 vlsloti.info
+vlslots.azurewebsites.net
 vlslotzs.com
 vlslotzs.info
 vlslotzy.info
@@ -150641,6 +150683,7 @@ wgcazino.club
 wgcazino1.club
 wgdolegd.olimprmam.xyz
 wgepge.top
+wgirls.al
 wgkasino.club
 wgmnadrhm.top
 wgpnj-azino777.icu
@@ -165544,6 +165587,7 @@ zhql61y.icu
 zhukovskij.study-docum.com
 zhukovskij.study-docums.com
 zhukovskiy.prava.monster
+zhukovskiy.xn----btb8ajhbb5h.xn--p1ai
 zhvs.uhuhuh.ru
 zhydn2gf1.icu
 zhyteli.info
