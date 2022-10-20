@@ -18840,12 +18840,12 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x832f47b70)
 ARRAY(0x833251768)
 ARRAY(0x8336f0360)
 ARRAY(0x833a35090)
 ARRAY(0x8345117c8)
 ARRAY(0x834b7aae0)
+ARRAY(0x834f8c720)
 ARRAY(0x834ff8480)
 ARRAY(0x83527a438)
 ARRAY(0x835bf8d38)
@@ -18869,14 +18869,14 @@ ARRAY(0x8b1a2a0c0)
 ARRAY(0x8b2610db0)
 ARRAY(0x8b2e3aa20)
 ARRAY(0x8b3bcb4b0)
+ARRAY(0x8b3de4a38)
 ARRAY(0x8b410fca8)
-ARRAY(0x8b53db210)
-ARRAY(0x8b557b060)
 ARRAY(0x8b7082a68)
 ARRAY(0x8b8795d68)
 ARRAY(0x8b8bdef48)
 ARRAY(0x8b9636228)
 ARRAY(0x8bb3206d8)
+ARRAY(0x8bbeb7ee8)
 ARRAY(0x8bc66b390)
 ARRAY(0x8bc929f30)
 ARRAY(0x8bcff1738)
@@ -37739,6 +37739,7 @@ bithiophene.website
 bitkoin-igry-kazino.adwokat-prawo-karne.info
 bitmarathonbet.win
 bitmbetplayluck.top
+bitmoney.studio
 bitmp3s.ru
 bitmusic.ru
 bitofxtrade.com
@@ -40241,6 +40242,7 @@ bobi.monster
 bobkino.ru
 bobobzor.ru
 bobpittart.com
+bobr24.biz
 bobrik.prava-pro.org
 bobrol.ru
 bobs-casino-kennewick.art-zakaz.ru
@@ -42613,12 +42615,14 @@ casino-columbs.live
 casino-columbus-new.ru
 casino-columbus-official.azurewebsites.net
 casino-columbus-official.com
+casino-columbus-official.win
 casino-columbus-slot.ru
 casino-columbus-win.ru
 casino-columbus.best
 casino-columbus.club
 casino-columbus.fun
 casino-columbus.website
+casino-columbus.win
 casino-columbus1.fun
 casino-columbus2.fun
 casino-columbus3.fun
@@ -42717,7 +42721,6 @@ casino-engine.uno
 casino-engine1.azurewebsites.net
 casino-engine2.azurewebsites.net
 casino-engine3.ru
-casino-engine4.ru
 casino-euro-opinie.reprogram-horizon2020.eu
 casino-euro-verification.neobistrokwestiaczasu.pl
 casino-euro-verification.szczesliwestopki.pl
@@ -49443,6 +49446,7 @@ columbus-casino.org
 columbus-casino.pro
 columbus-casino.su
 columbus-casino.website
+columbus-casino.win
 columbus-casino777.club
 columbus-casinoplay.fun
 columbus-casinoplay.site
@@ -52236,7 +52240,6 @@ dt3mm59eg.icu
 dtbaw-azino777.icu
 dtglntkbs6uche.uno
 dto77gi.icu
-dtorr.ru
 dtorrent.ru
 dtovdcvrmst.com
 dtpbz-azinomobile.icu
@@ -52528,6 +52531,7 @@ e1.liveball8.ml
 e1.spon.live
 e108.fisher-1.ru
 e109.fisher-1.ru
+e110.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -55969,6 +55973,7 @@ filmhd.cyou
 filmhd.globmarket.ru
 filmhd.pro
 filmhd.su
+filmhd.to
 filmhd1.site
 filmhd1080.online
 filmhd1080.ru
@@ -59995,7 +60000,6 @@ ftech-info.com
 ftglb76kix.space
 ftjsglkz.iphun411.com
 ftor.fun
-ftorrent.ru
 ftp.1slot.org
 ftp.6xxx.ru
 ftp.fast-torrent.ru
@@ -62208,6 +62212,7 @@ go.ceaconvor.cc
 go.dostfilms.biz
 go.filelange.ru
 go.filmcaucasia.com
+go.filmhd.to
 go.filmshd.fun
 go.filmshd.gg
 go.filmshd.vip
@@ -64890,6 +64895,7 @@ hd12.1-lordserials.xyz
 hd12.2lordserials.xyz
 hd12.kino-go.best
 hd12.lordfillms.xyz
+hd12.lordfilms.red
 hd12.lordix.cc
 hd13.1-lordserials.xyz
 hd13.2lordserials.xyz
@@ -66417,6 +66423,7 @@ hydradarknet.cc
 hydradarknet.cn
 hydraluzxpnew4af.oniont.com
 hydramagazin.site
+hydranew.top
 hydraonion.org
 hydrapcnela.com
 hydrarruzxpnew4af.onion-shop.com
@@ -68474,7 +68481,6 @@ inplay-f0rtyna.pro
 inplay-fortuna.com
 inplay-fortuna.info
 inplay-fortuna.pro
-inpowerball.com
 inq31ly5.com
 inr409op4.com
 inrav.ru
@@ -69495,6 +69501,7 @@ jara-vip.ru
 jas212meni8.com
 jasino.net
 jason9199.startmail.com
+jasonsikes.com
 jaurqxot.olimpfx4p.xyz
 javfinder.de
 jawr1ar0mst.com
@@ -78504,6 +78511,7 @@ krasnoyarsk.fort-pravama.com
 krasnoyarsk.godiplomsas.com
 krasnoyarsk.godiplomsus.com
 krasnoyarsk.gosznakdiplomas.com
+krasnoyarsk.gozsnakdiplomas.com
 krasnoyarsk.gozznakdiplomas.com
 krasnoyarsk.kupuh-prava.com
 krasnoyarsk.life-diplomr.com
@@ -81754,6 +81762,7 @@ lo-rd-fi-lm.cc
 lo-rd-fi-lm.club
 lo-rd-fi-lm.me
 lo.lordfilm.frl
+lo17.lordfilmax.net
 lo8366ezk.top
 load-knigi.feej.ru
 load-music.ru
@@ -98602,7 +98611,6 @@ music-rus.su
 music-shanson.ru
 music-top.pro
 music-vk.net
-music.freshbeat.ru
 music.onlain-online.com
 music.wottut.ru
 music2018.org
@@ -98938,6 +98946,7 @@ my.torrentino.in
 my.torrentino.org
 my.ultradox.life
 my.ultradox.pl
+my.upcapital.cc
 my.usa-broker.com
 my.vim-alliance.ru
 my.zayki-ekb.com
@@ -105351,7 +105360,6 @@ opokerdom.com
 oppij-azino777.icu
 oprfs.xyz
 opros1000vtb.com
-opsylo.com
 opt-noski.ru
 opt21v.ru
 optedu.ru
@@ -114368,6 +114376,7 @@ prava-seychas.group
 prava-seychas.net
 prava.center-distak.com
 prava112-b.com
+prava112-s.com
 pravadsf.online
 pravamoscow.org
 pravamsk.group
@@ -140628,6 +140637,7 @@ v1.kinomutant.online
 v1.kinowek.fun
 v1.kinozorko.ru
 v1.lordfilms.stream
+v1.lordzfilm.online
 v1.lostfilm.rocks
 v1.lostfilmshd.ru
 v1.megogofilma.online
@@ -144642,6 +144652,7 @@ vstv.ga
 vstv.gq
 vsuhov.ru
 vt2e55qrmxmb.com
+vtb-bank.jasonsikes.com
 vtb-cashback.site
 vtb-invest.com
 vtb-online-kabinet.ru
@@ -156817,6 +156828,7 @@ www.max-casino.ru
 www.maxadmiral.com
 www.maxclub.info
 www.maxidancer.ru
+www.maxxxcasino.com
 www.mb828.com
 www.mbbkmeg.com
 www.mbestalive.win
