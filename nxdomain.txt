@@ -18868,6 +18868,7 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x833d62d50)
+ARRAY(0x8340e2de0)
 ARRAY(0x8340f4c30)
 ARRAY(0x834c218d0)
 ARRAY(0x834f8c720)
@@ -18880,13 +18881,12 @@ ARRAY(0x839a35108)
 ARRAY(0x839fa9420)
 ARRAY(0x83b0e8a38)
 ARRAY(0x83c11afd8)
+ARRAY(0x83cfa77c8)
 ARRAY(0x83d1bc930)
 ARRAY(0x83d5d7b70)
 ARRAY(0x83ef04018)
-ARRAY(0x840245fd8)
 ARRAY(0x840b05d80)
 ARRAY(0x8417caf00)
-ARRAY(0x8b0f565d0)
 ARRAY(0x8b0fefd68)
 ARRAY(0x8b32aa8b8)
 ARRAY(0x8b34f0fc0)
@@ -18895,12 +18895,12 @@ ARRAY(0x8b5193648)
 ARRAY(0x8b55eee58)
 ARRAY(0x8b5b006c0)
 ARRAY(0x8b5c9af78)
+ARRAY(0x8b60f1090)
 ARRAY(0x8b69b8df8)
 ARRAY(0x8b6a9aa38)
 ARRAY(0x8b6ba3558)
 ARRAY(0x8b7b9e978)
 ARRAY(0x8b7dae828)
-ARRAY(0x8b8bdef48)
 ARRAY(0x8b9d88318)
 ARRAY(0x8bbeb7ee8)
 ARRAY(0x8bdebb090)
@@ -19095,6 +19095,7 @@ a.semenarnia-semena-15.live
 a.semenarnia-semena-6.live
 a.semenarnia-semena-7.live
 a.semenarnia-semena-8.live
+a.semenarnia-shop.com
 a.semyanich-dostupen.online
 a.semyanich-forum.life
 a.semyanich-sale.online
@@ -52644,6 +52645,7 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e108.fisher-1.ru
+e109.fisher-1.ru
 e110.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -54596,6 +54598,7 @@ exit40.ru
 exkino.net
 exkinoray.site
 exmelvlado.top
+exnesslexbot.com
 expandmediaplay.win
 expandmywealth.online
 expandmywealth.site
@@ -54607,7 +54610,6 @@ expertelektrik.online
 expertelektrik.ru
 expertiza21.club
 expertiza21.ru
-expertiza33vld.ru
 explosino-casino.info
 explosino.best
 export37.ru
@@ -59405,6 +59407,7 @@ fresh-casino.digital
 fresh-casino.fun
 fresh-casino.net.ru
 fresh-casino.space
+fresh-casino24.ru
 fresh-casino77.ru
 fresh-casinocan.ru
 fresh-casinofin.ru
@@ -125338,7 +125341,6 @@ ru.leontrucks.com
 ru.leontyot.com
 ru.leonu9dtbjc0cl.com
 ru.leonvglass.com
-ru.leonvip.ru
 ru.leonvip123.com
 ru.leonvip777.com
 ru.leonvipleon.com
@@ -139850,7 +139852,6 @@ tvkultura.gidonline-1753.site
 tvkultura.gidonline-289.site
 tvmid.ru
 tvmod.ru
-tvmok.ru
 tvnet.one
 tvnewfilms.com
 tvnik.ru
@@ -163993,6 +163994,7 @@ zenit24092019.top
 zenit24092020.top
 zenit24092021.top
 zenit24102019.top
+zenit24102021.top
 zenit24112019.top
 zenit24112020.top
 zenit24112021.top
