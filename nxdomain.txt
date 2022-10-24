@@ -1117,6 +1117,7 @@
 1.sofosbuvir-vladimir.ru
 1.tabletka24.com
 1.topkinofilm.net
+1.topkinofilms.com
 1.tv.ezfilm.net
 1.via-cia.ru
 1.viagra-eburg.ru
@@ -1915,6 +1916,7 @@
 1232joycasino.com
 1233joycasino.com
 123457.megapeer.ru
+1234876.vip
 1234joycasino.com
 1235joycasino.com
 1236joycasino.com
@@ -16201,6 +16203,7 @@
 720.7zfilme-hd.top
 720.baskino-1368.site
 720.baskino-2290.site
+720.bestfilmy.top
 720.domkino-hd.com
 720.fast-torrent.buzz
 720.filmse-kino-online.ru
@@ -18900,6 +18903,7 @@ ARRAY(0x834f57438)
 ARRAY(0x8351f0fd8)
 ARRAY(0x8355ca198)
 ARRAY(0x8360c2348)
+ARRAY(0x8367ec960)
 ARRAY(0x83901a060)
 ARRAY(0x8395fc2a0)
 ARRAY(0x839843228)
@@ -18907,11 +18911,13 @@ ARRAY(0x83b828bd0)
 ARRAY(0x83c932ab0)
 ARRAY(0x83c9459c0)
 ARRAY(0x83e0f9a20)
+ARRAY(0x83e416018)
 ARRAY(0x84079f3d8)
 ARRAY(0x841d08ba0)
 ARRAY(0x88db1b300)
 ARRAY(0x8b085d9c0)
 ARRAY(0x8b0a7c558)
+ARRAY(0x8b0ad51f8)
 ARRAY(0x8b101a318)
 ARRAY(0x8b1c85540)
 ARRAY(0x8b23d9990)
@@ -18924,13 +18930,10 @@ ARRAY(0x8b6593b88)
 ARRAY(0x8b6f46b40)
 ARRAY(0x8b7113a38)
 ARRAY(0x8b72827b0)
-ARRAY(0x8b7f4b978)
 ARRAY(0x8b966a120)
-ARRAY(0x8ba347120)
 ARRAY(0x8ba638780)
 ARRAY(0x8bc444ed0)
 ARRAY(0x8bd0688b8)
-ARRAY(0x8bd6ac828)
 ARRAY(0x8be04eb70)
 ARRAY(0x8bf1df948)
 ARRAY(0x8bfb10db0)
@@ -30528,6 +30531,7 @@ b.bobfilm1.ru
 b.boroda.tv
 b.cinema-24.net
 b.dosug-uhta.com
+b.e-sspbg.com
 b.es-spbg.com
 b.fantasy-worlds.org
 b.farmavik.site
@@ -37796,6 +37800,7 @@ bigzone.tv
 bijf5ibmst.com
 bijsk.damdiplomses.com
 bijsk.diploms4yours.com
+bijsk.diploms4yoursas.com
 bijsk.doc-avto.life
 bijsk.dublikatprav.top
 bijsk.exdiplomsus.com
@@ -42064,6 +42069,7 @@ c.baza-knig.info
 c.bioseedss.top
 c.bobfilm-hd.ru
 c.cinema-24.net
+c.e-sspbg.com
 c.fantasy-worlds.org
 c.film-v.ru
 c.kino-craft.net
@@ -43561,6 +43567,7 @@ casino-playdom2.fun
 casino-playdom3.fun
 casino-playdom777.fun
 casino-playfortuna.azurewebsites.net
+casino-playfortuna.online
 casino-playfortuna.org.ru
 casino-playfortuna.webmister.net
 casino-playfortuna0ln8.com
@@ -52789,6 +52796,7 @@ e-petrov.ru
 e-playslots.com
 e-schelyabinsk.com
 e-sport.buzz
+e-sspbg.com
 e-techmining.org
 e-torrent.ru
 e-wallet.click
@@ -52864,6 +52872,7 @@ e1.liveball8.ml
 e1.spon.live
 e108.fisher-1.ru
 e109.fisher-1.ru
+e110.fisher-1.ru
 e111.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -65117,6 +65126,8 @@ hd.thelostfilm.ru
 hd.thestand.me
 hd.tipochek.xyz
 hd.topkinofilm.gb.net
+hd.topkinofilm.net
+hd.topkinofilms.com
 hd.torrent-hit.ru
 hd.tvfilms.club
 hd.tvserial.fun
@@ -93282,6 +93293,7 @@ money-slots-admiral.azurewebsites.net
 money-slots-admiral.xyz
 money-slots.azurewebsites.net
 money-slotz.net
+money-spin.com
 money-spin.info
 money-stuff.xyz
 money-tap.ru
@@ -101679,6 +101691,10 @@ new1.topkinofilm.gb.net
 new2.lordfilmix.site
 new2.topkinofilm.gb.net
 new2019.vulcans.info
+new3.topkinofilm.gb.net
+new4.topkinofilm.gb.net
+new5.topkinofilm.gb.net
+new6.topkinofilm.gb.net
 newazino777.com
 newazino777.ru
 newazxbet.com
@@ -102344,6 +102360,7 @@ nofase.biz
 noginsk.prava.monster
 nogtiuxod.ru
 noj68-azinomobile.host
+nokino.info
 nokino.org
 noklips.club
 nokomar.ru
@@ -110870,6 +110887,7 @@ play-fortuna2.club
 play-fortuna2019.info
 play-fortuna2020.club
 play-fortuna2020.com
+play-fortuna2020.online
 play-fortuna2021.host
 play-fortuna22.com
 play-fortuna24.net.ru
@@ -111565,6 +111583,7 @@ playfortuna-casino5.win
 playfortuna-casino6.site
 playfortuna-casino7.site
 playfortuna-casino77.ru
+playfortuna-casino777.online
 playfortuna-casino777.ru
 playfortuna-casino8.site
 playfortuna-casino9.site
@@ -111633,6 +111652,7 @@ playfortuna-ka.xyz
 playfortuna-kasino.azurewebsites.net
 playfortuna-kasinos.azurewebsites.net
 playfortuna-kasinos.top
+playfortuna-kazino.info
 playfortuna-kazino2.com
 playfortuna-kazino4.ru
 playfortuna-kazino5.ru
@@ -126601,6 +126621,7 @@ ru.tj3t2oxxid.com
 ru.tk783dbv6r.com
 ru.tmtyjbzg181.com
 ru.tnrcup7.com
+ru.tokensnote.com
 ru.tonybet2.com
 ru.tonybet3.com
 ru.top-10-casino.net
@@ -127615,6 +127636,7 @@ rutor.mytorr.info
 rutor.name
 rutor.net.ru
 rutor.nl
+rutor.nxshock.me
 rutor.online
 rutor.org.pl
 rutor.pp.ru
@@ -136655,6 +136677,7 @@ super-slots-3.pro
 super-slots-avtomaty.th73.ru
 super-slots-casino-igrat-besplatno.yakutia-movie.ru
 super-slots-casino-no-deposit-bonus.pochemu-otchego.info
+super-slots-casino.com
 super-slots-casino.pp.ru
 super-slots-casino1.fun
 super-slots-casino24.online
@@ -154330,6 +154353,7 @@ www.177azino777.ru
 www.18-azmpp.win
 www.18102018azino777.com
 www.188azino777.ru
+www.188games.com
 www.18azino777.win
 www.19-azino777.win
 www.19-azmpp.win
@@ -158323,6 +158347,7 @@ www.mobimuz.ru
 www.mobpinup.com
 www.moiseikin-boutique.ru
 www.moksha-kuban.ru
+www.money-spin.com
 www.moneyazart.net
 www.moonradio.ru
 www.moova.ru
@@ -159754,6 +159779,7 @@ www.slots-fortune.net
 www.slots-fortune.org
 www.slots-tips.net
 www.slotsinformation.net
+www.slotum13.com
 www.slotum14.com
 www.slotum15.com
 www.slotum18.com
@@ -167254,6 +167280,7 @@ znatok-casino.com
 znmms-azino777.icu
 znuuueqq.olimp1ke5.xyz
 znxcua.best
+zo.hdkinoclub.info
 zo6i365bcf.xyz
 zod-m.ru
 zodiakmedia.ru
