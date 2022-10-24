@@ -18906,11 +18906,11 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x83347e288)
 ARRAY(0x833fb5c00)
 ARRAY(0x834f57438)
 ARRAY(0x8351f0fd8)
 ARRAY(0x8355ca198)
+ARRAY(0x835cd82b8)
 ARRAY(0x8360c2348)
 ARRAY(0x836304fc0)
 ARRAY(0x8367ec960)
@@ -18921,10 +18921,8 @@ ARRAY(0x83c932ab0)
 ARRAY(0x83e0f9a20)
 ARRAY(0x83e416018)
 ARRAY(0x83ef9e8d0)
-ARRAY(0x84079f3d8)
 ARRAY(0x88db1b300)
 ARRAY(0x8b085d9c0)
-ARRAY(0x8b0a7c558)
 ARRAY(0x8b0ad51f8)
 ARRAY(0x8b0de9858)
 ARRAY(0x8b1c85540)
@@ -18937,9 +18935,11 @@ ARRAY(0x8b5b246d8)
 ARRAY(0x8b6593b88)
 ARRAY(0x8b6f46b40)
 ARRAY(0x8b7113a38)
+ARRAY(0x8b806dd68)
 ARRAY(0x8b82fccf0)
 ARRAY(0x8b966a120)
 ARRAY(0x8ba638780)
+ARRAY(0x8bb2418e8)
 ARRAY(0x8bc444ed0)
 ARRAY(0x8bd0688b8)
 ARRAY(0x8be04eb70)
@@ -54977,6 +54977,7 @@ f.smotretfilmi.ru
 f.uspehisporta.moscow
 f0.spon.live
 f00.kinomodus.xyz
+f004.fisher-r.ru
 f006.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
@@ -61655,6 +61656,7 @@ gdz-more.ru
 gdz-moree.ru
 gdz-mors.ru
 gdz-navalny.com
+gdz-okrmir.com
 gdz-okrmir.ru
 gdz-otlichnik.ru
 gdz-otputina.ru
@@ -132681,6 +132683,7 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
+slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gambleslot.ru
@@ -163609,7 +163612,6 @@ yandex51.uno
 yandib.skahcat-filmy.ru
 yanich.skahcat-filmy.ru
 yans.pro
-yansinvest.com
 yanzbarik.ru
 yapidar.info
 yaporn.blog
