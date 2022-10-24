@@ -3461,7 +3461,6 @@
 1grandwulcan.club
 1grandwulkan.club
 1grandwulkan.online
-1grat.ru-cas1nos.com
 1greatbkmbet.win
 1greatmbet.win
 1grndcasino.club
@@ -12619,6 +12618,7 @@
 2ndflbarnaul-sb.ru
 2ndflchelyaba-md.ru
 2ndflchelyaba-mf.ru
+2ndflchelyaba-sk.ru
 2ndflchelyaba-sm.ru
 2ndflcred.xyz
 2ndflcredit.xyz
@@ -12642,6 +12642,7 @@
 2ndflnovosib-sh.ru
 2ndflnovosib-sq.ru
 2ndflomsk-sh.ru
+2ndflomsk-sn.ru
 2ndflomsk-sp.ru
 2ndflorenburg-sh.ru
 2ndflorenburg-sq.ru
@@ -18891,7 +18892,9 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x83487ad68)
+ARRAY(0x83347e288)
+ARRAY(0x834c1d5a0)
+ARRAY(0x834f57438)
 ARRAY(0x83529dd38)
 ARRAY(0x836631300)
 ARRAY(0x836e68d38)
@@ -18900,42 +18903,40 @@ ARRAY(0x837eb1390)
 ARRAY(0x838250210)
 ARRAY(0x83841d6a8)
 ARRAY(0x8384c1210)
-ARRAY(0x838a59108)
+ARRAY(0x8395fc2a0)
 ARRAY(0x8397080a8)
-ARRAY(0x839be7a08)
-ARRAY(0x83aeda570)
 ARRAY(0x83b2f4408)
-ARRAY(0x83b691888)
-ARRAY(0x83c0c8318)
+ARRAY(0x83c9459c0)
 ARRAY(0x83cb46df8)
-ARRAY(0x83d2ec858)
 ARRAY(0x83e14db88)
 ARRAY(0x83f133be8)
-ARRAY(0x8403d7600)
+ARRAY(0x84079f3d8)
 ARRAY(0x840b92108)
-ARRAY(0x84150f858)
 ARRAY(0x8417d20f0)
+ARRAY(0x841d08ba0)
+ARRAY(0x8b0a7c558)
+ARRAY(0x8b101a318)
 ARRAY(0x8b133da38)
-ARRAY(0x8b15a75b8)
 ARRAY(0x8b1b525e8)
+ARRAY(0x8b294c660)
 ARRAY(0x8b2d21108)
-ARRAY(0x8b479d990)
 ARRAY(0x8b4813300)
 ARRAY(0x8b4fa5db0)
 ARRAY(0x8b5944468)
 ARRAY(0x8b5974540)
 ARRAY(0x8b69e5a50)
+ARRAY(0x8b72827b0)
 ARRAY(0x8b7aca078)
 ARRAY(0x8b7f4b978)
-ARRAY(0x8b94326c0)
+ARRAY(0x8b966a120)
 ARRAY(0x8b96e0f18)
-ARRAY(0x8ba16e738)
 ARRAY(0x8ba347120)
-ARRAY(0x8ba3eae40)
 ARRAY(0x8bd6ac828)
-ARRAY(0x8bf37c360)
+ARRAY(0x8be04eb70)
 ARRAY(0x8bf3999c0)
+ARRAY(0x8bfb10db0)
 ARRAY(0x8bfc1eea0)
+ARRAY(0x8c103ffd8)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -18994,6 +18995,7 @@ a.bobfilm1.ru
 a.bonbon.fun
 a.casino-mask-2.xyz
 a.casino-x.com
+a.cheki-russia.me
 a.dosug-almetevsk.ru
 a.dosug-izhevsk.com
 a.dosug-simferopol.ru
@@ -34033,6 +34035,7 @@ bet.casino-vulkan46.com
 bet.gunsbet.com
 bet.onlinefonbet.ru
 bet.pin-up.tech
+bet.reglas-poker.es
 bet.vn24.club
 bet.vulcan-casino-official11.com
 bet.vulcanstavkaclub.com
@@ -49002,6 +49005,7 @@ cin.bobfilm1.ru
 cin.film-v.ru
 cinctew.com
 cine4u.ru
+cinecinema.org
 cinema-24-net.biniki.online
 cinema-24.me
 cinema-720.club
@@ -52857,6 +52861,7 @@ e1.spon.live
 e108.fisher-1.ru
 e109.fisher-1.ru
 e110.fisher-1.ru
+e111.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -65129,7 +65134,6 @@ hd.xn--80abginb3ag8a.xn--p1acf
 hd.xn--c1ajfnfb.su
 hd.xn--c1ajfnfb.xn--p1acf
 hd.zavis.online
-hd.zerofilm.club
 hd.zetserials.cc
 hd.zfilm-0-hd.space
 hd.zfilm-1080.club
@@ -68705,6 +68709,7 @@ imperatorcasino.be
 imperatorcasino.bet
 imperatorcasino.biz
 imperatorcasino.cc
+imperatorcasino.company
 imperatorcasino.es
 imperatorcasino.games
 imperatorcasino.in
@@ -73026,6 +73031,7 @@ joykazino.cloud
 joykazino.net.ru
 joykazino.top
 joykazino.website
+joykazino.win
 joykazino7771.ru
 joykazinoplay.ru
 joykazinos-blue.azurewebsites.net
@@ -79358,6 +79364,7 @@ kupi.dzheneriki.online
 kupi888.ru
 kupiite.rus-pasport.com
 kupimedspravku.com
+kupisigarety.org
 kupit-cheki.ru
 kupit-cpravka-v-ivanovoo.ru
 kupit-cpravkaa-v-smolenske.ru
@@ -80388,7 +80395,6 @@ leon-registracija.pro
 leon-registration-qop.top
 leon-registration.xyz
 leon-rubk.host
-leon-skachat.ru
 leon-slot.webpodpiska.ru
 leon-sloty-na-dengi.ccleaner-ru.info
 leon-stavka-online.com
@@ -82167,6 +82173,7 @@ livestavki.website
 livetalk.online
 livetop.online
 livetv.essaygun.org
+livetv113.me
 livetv122.me
 livetv123.me
 livetv124.me
@@ -99126,7 +99133,6 @@ mugpkapuvm.top
 muiqctp.site
 mulebets.ru
 mult-porno.me
-mult-porno.wtf
 mult.kinogo.red
 mult42rc.biz.admbot.site
 multbratva.biz
@@ -106790,6 +106796,7 @@ ozgloss.com
 ozik.kinotazz.online
 ozldduaf.olimp7mlu.xyz
 ozmi26t.host
+ozo.kinotazz.net
 ozoldm.top
 ozory2o.applyavant.net
 ozpcusers.org
@@ -108399,7 +108406,6 @@ pashskoe.ru
 pasikgdekender.xyz
 pasport-legal.com
 pasport-rf.com
-pasport-ukr.com
 pasporton.com
 pasporton24.ru
 pass-covid19.ru
@@ -114612,6 +114618,7 @@ poker-online-real-money-ny.pochemu-otchego.info
 poker-online-real-money-slovakia.adjvu.ru
 poker-online-real-money-sweden.simkaa.ru
 poker-online-real-money-turkey.francevisacentre.ru
+poker-online-table-private.sitomusik.de
 poker-ratings.ru
 poker-stars.azurewebsites.net
 poker-win.ru
@@ -128935,6 +128942,7 @@ selector30.gg
 selector31.gg
 selector32.gg
 selector33.gg
+selector34.gg
 selector35.gg
 selector4.gg
 selector5.gg
@@ -129733,6 +129741,7 @@ sex-intimdoska.online
 sex-intimrussia.online
 sex-porno-russia.online
 sex-russia-dosug.online
+sex-russian.com
 sex-vk.design
 sex-vk.online
 sex-vk.site
@@ -131898,6 +131907,7 @@ sitetop.cc
 sitevavada.su
 sititime.ru
 sitmediaplay.win
+sitomusik.de
 sitop2008.ru
 situsjoker123.club
 sivnvn.top
@@ -137446,7 +137456,6 @@ techtipsnews.com
 techzerkalo.reclama-ttk.ru
 tedxparkkultury.ru
 teenfolder.xyz
-teenhole.fun
 teenloverz.al
 tefitvdy.olimpwwlz.xyz
 tefysnkjqcqbv.uno
@@ -138736,6 +138745,7 @@ topigr.space
 topigrovyeavtomaty.info
 topigrovyeavtomaty.net
 topiigr.online
+topkadr.online
 topkasino.azurewebsites.net
 topkaz-online.club
 topkaz.club
@@ -139539,6 +139549,7 @@ tradersroom.tradingapp.pro
 tradersroom.united-brokers.net
 tradersroom.ysb.ltd
 tradexxx.io
+trading-family.ltd
 trading-space.net
 trading.alphafx24.com
 trading.benefit-bc.com
@@ -141285,10 +141296,12 @@ up8q3.online
 up8x4.su
 up8x6.site
 up9e7.online
+up9g4.su
 up9j9.ru
 up9l7.online
 up9m8.club
 up9t0.online
+up9u0.su
 up9y6.xyz
 up9z8.su
 upandfly.ru
@@ -143260,6 +143273,7 @@ vavadaot.com
 vavadaout.com
 vavadaout1.com
 vavadaoyt.azurewebsites.net
+vavadap2.com
 vavadap20.com
 vavadap21.com
 vavadap4.com
@@ -144392,6 +144406,7 @@ vin.bkr37a.top
 vin.bkr38a.top
 vin.bkr39a.top
 vin.bkr40a.top
+vinews.info
 vinlayn-bonus-za-registratsiyu.squaredancefingerlakes.info
 vinlayn-igrovyye-avtomaty.gurme-gril.ru
 vinnadrcp.top
@@ -147424,7 +147439,6 @@ vulkan-info.com
 vulkan-info.net
 vulkan-jackpot.azurewebsites.net
 vulkan-k.com
-vulkan-kasino.ru
 vulkan-kasinos.com
 vulkan-kasyno.w2t.pl
 vulkan-kazino-android.hotelowa7.pl
@@ -147903,7 +147917,6 @@ vulkan-stars.detsad418.ru
 vulkan-stars.fisheye-video.ru
 vulkan-stars.lesstrana.ru
 vulkan-stars.pulseneon.ru
-vulkan-stars.ru
 vulkan-stars.tech
 vulkan-stars.vip
 vulkan-stars777.azurewebsites.net
@@ -160090,6 +160103,7 @@ www.topasnew.ru
 www.topcasino.kz
 www.topcasinoz.site
 www.topgdz.ru
+www.topkadr.online
 www.toplivematch.com
 www.toptorrent.pw
 www.toptracker.pro
@@ -162420,10 +162434,6 @@ xn--------4veeferoaahyqedba1a4cnagdlmdblwkducdwel5b2a9l1h.gfgdkaz.dayzparadox.ru
 xn------5cdbbbduhkvngtb4azkdgbjn7a7c6r.xn--p1ai
 xn------5cdbcbvmaeb4bbrbbcvk2aerbe4bhhdktsof0lzmya.xn--p1ai
 xn------6cdalef2bhlnthveebsej1bdm0jzdi0j.bjkss.bs-total.ru
-xn------6cdb0awaegcpfxfjck1bqfas1b3cwiza2h.xn--p1ai
-xn------6cdbabai6abiar8ammg6athh8aju2ag1rof.xn--p1ai
-xn------6cdbbqobg1abrq5ahi2bdthok1grl.xn--p1ai
-xn------7cdbb3azalccofzfkc8dwa5a9b2hwa.xn--p1ai
 xn------7cdbbbwibuinz5bbgikg0c4b.xboxxtreme.ru
 xn------7cdbcfheqd3a4aorvd9a8a4a6i6bg.bonus.saratov4anka.ru
 xn------8cdacfdcbfu6b9cvaeec3am8ad5d5h.bonus.benzoinstrument59.ru
@@ -162431,7 +162441,6 @@ xn-----6kcbba9asvohfcg6b.xn--p1ai
 xn-----6kcbbbsdifumdbv5chkh7advx2h0k.xn--p1acf
 xn-----6kcbbdqfidpmibq5crbs0advx2h0k.xn--p1acf
 xn-----6kcbbh2bibamccklwffnb6g9azc7hxa.xn--p1ai
-xn-----6kcbddyabcbs4bpb7afidyi9cwf.xn--p1ai
 xn-----6kcbgbjp2abpl2aioydrhmks7dzm.xn--p1ai
 xn-----6kcbqgpjee0c1brx.com
 xn-----6kcc6agbl4acine.xn--p1ai
@@ -162445,9 +162454,6 @@ xn-----7kcabhcccv4a7amkvdfiw0cdy6oj.su
 xn-----7kcajcakhh5ct2ahcrvsh1fzf.xn--p1ai
 xn-----7kcb1cecx3bb2dzc.xn--p1ai
 xn-----7kcb9abfnxhlbe.com
-xn-----7kcbbxbbdpoawhievnejbf8a7b8cvczk.xn--p1ai
-xn-----7kcbbxbzalcnhvhhe5djm5a9b2hwa.xn--p1ai
-xn-----7kcbftbean8ahgwohd2af7l.xn--p1ai
 xn-----7kcbvqhcmezgfibv8asp.xn--p1ai
 xn-----7kcnbmmaduq2ansolhpc.xn--p1ai
 xn-----8kcagdc3bl8apbft2bd.xn--p1ai
