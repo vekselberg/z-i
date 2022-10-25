@@ -18912,17 +18912,15 @@ ARRAY(0x834e46f78)
 ARRAY(0x835cd82b8)
 ARRAY(0x83602cde0)
 ARRAY(0x836304fc0)
-ARRAY(0x8367ec960)
 ARRAY(0x8389537b0)
 ARRAY(0x83adc61b0)
 ARRAY(0x83b9c6780)
 ARRAY(0x83c5e9870)
 ARRAY(0x83c6c3ab0)
-ARRAY(0x83e416018)
 ARRAY(0x83ef9e8d0)
 ARRAY(0x84097af30)
+ARRAY(0x841050e88)
 ARRAY(0x84194b6f0)
-ARRAY(0x8b0ad51f8)
 ARRAY(0x8b0de9858)
 ARRAY(0x8b2642af8)
 ARRAY(0x8b27f29d8)
@@ -18931,6 +18929,7 @@ ARRAY(0x8b442e048)
 ARRAY(0x8b4ea0cf0)
 ARRAY(0x8b51ccd50)
 ARRAY(0x8b575ae70)
+ARRAY(0x8b6882450)
 ARRAY(0x8b806dd68)
 ARRAY(0x8b82fccf0)
 ARRAY(0x8b9517750)
@@ -24850,6 +24849,7 @@ atop-rb.ru
 atopcasino.ru
 atorrent.icu
 atorrent.ru
+atorrent.site
 atorrents.net
 atribut72.ru
 atrium-plc.com
@@ -73782,6 +73782,7 @@ kamilavka.ru
 kamkep.ru
 kamnialtay.online
 kamnialtay.ru
+kamyshin.study-docum.com
 kamyshin.study-document.com
 kamyshin.xn----otbfohobeg7gza.xn--p1ai
 kanalukraina.kinogo-hd.icu
@@ -134929,6 +134930,7 @@ spb.real-diplomas.com
 spb.rusr-diplomy.com
 spb.spravkina.today
 spb.telki18.com
+spb.telki2.ru
 spb.vodn-prava.com
 spb.vodp-prava.com
 spb.xacku.cc
@@ -137710,6 +137712,7 @@ telgr.me
 telik.online
 telki-piter.com
 telki-piter.org
+telki2.ru
 telkipitera.net
 telku-putera.org
 telluriumgin.com
@@ -146329,6 +146332,7 @@ vulcan-grandklub.com
 vulcan-grandonliines.com
 vulcan-grandonline.com
 vulcan-grandonllines.com
+vulcan-heat.top
 vulcan-heat.xyz
 vulcan-igrom.com
 vulcan-igrovie-avtomati-online.com
@@ -153928,6 +153932,7 @@ wukan-cazino.azurewebsites.net
 wuke-films.ru
 wulcan-all-sites.azurewebsites.net
 wulcan-best.azurewebsites.net
+wulcan-best.top
 wulcan-casino-2021.top
 wulcan-casino-russia.win
 wulcan-casinos.top
