@@ -18941,17 +18941,17 @@ ARRAY(0x839e942d0)
 ARRAY(0x83aeebed0)
 ARRAY(0x83d48b2e8)
 ARRAY(0x83edbab58)
+ARRAY(0x83f182558)
 ARRAY(0x83fb10d20)
 ARRAY(0x840c335b8)
-ARRAY(0x841050e88)
 ARRAY(0x8b0b2a750)
 ARRAY(0x8b172f738)
 ARRAY(0x8b23da888)
 ARRAY(0x8b332c0c0)
 ARRAY(0x8b421f6f0)
+ARRAY(0x8b466ca80)
 ARRAY(0x8b49a0de0)
 ARRAY(0x8b63d3fd8)
-ARRAY(0x8b6882450)
 ARRAY(0x8b93def60)
 ARRAY(0x8b9589ba0)
 ARRAY(0x8bbc65bb8)
@@ -53093,7 +53093,6 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
-e110.fisher-1.ru
 e111.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -61735,6 +61734,7 @@ gamingspm.xyz
 gamingtorrent.net
 gaminqplay.online
 gamislots.com
+gamma-expert.ru
 gamma-seven.com
 gamma.pipitor.site
 gammes.my-azartonline.com
@@ -103446,6 +103446,7 @@ o1o4jzvzmb.com
 o1xbet.site
 o2.lllordfilm.tv
 o2.llordfilm.tv
+o2.oxytropin.org
 o21-lordfilm.lordfilm.wine
 o21d200j.online
 o2bpm-azino777.icu
@@ -103457,12 +103458,14 @@ o2tjx-azinomobile.icu
 o2wef-azino777.icu
 o3-lordfilm.lordfilm.wine
 o3.llordfilm.tv
+o3.oxytropin.org
 o32x1z8y9t.com
 o3d4823zmst.com
 o3ones.com
 o3ones.xyz
 o3ozf-azino777.icu
 o4.lllordfilm.tv
+o4.oxytropin.org
 o46t9-azinomobile.icu
 o4hhahdi43mst.com
 o4xh5m5smst.com
@@ -139055,6 +139058,7 @@ top10-online-casino7.xyz
 top10-online-kasino.azurewebsites.net
 top10-onlinecasino.ru
 top10.casinoru.fun
+top100.s-onlinus.net
 top100.slotonllinus-onlinecllub1.com
 top100casino.azurewebsites.net
 top100mmorpg.ru
@@ -152498,6 +152502,7 @@ webrip.online
 website-admiral-x.ru
 webtrader.acttrader.net
 webtrader.bitzha.com
+webtrader.capartners.cloud
 webtrader.capitalfx.co
 webtrader.capitalonemarkets.com
 webtrader.celinvest.pro
