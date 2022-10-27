@@ -18962,7 +18962,9 @@ ARRAY(0x8b5d8f060)
 ARRAY(0x8b6b86450)
 ARRAY(0x8b6ffef18)
 ARRAY(0x8b75a7d80)
+ARRAY(0x8bc54e198)
 ARRAY(0x8bcaa3ae0)
+ARRAY(0x8bce82b58)
 ARRAY(0x8bd3004c8)
 ARRAY(0x8c0c24de0)
 ARRAY(0x8c1442c18)
@@ -22783,6 +22785,7 @@ alco-magazin037.site
 alco-magazin038.site
 alco-na-dom.site
 alco-nochiu154.xyz
+alco-raketa-samara.ru
 alco-spb-dostavka24.online
 alco.8l2.mobi
 alco.dostavka.date
@@ -47387,6 +47390,8 @@ casinoversus1.biz
 casinoversus1.org
 casinoversus10.info
 casinoversus11.info
+casinoversus12.info
+casinoversus13.info
 casinoversus14.info
 casinoversus15.info
 casinoversus3.com
@@ -69128,6 +69133,7 @@ implay-fortuna.pro
 imppr.ru
 improvemediaplay.win
 improvplaybook.com
+impulse.bet
 imrlwn.xyz
 imy-slotik.net
 imykpqcy.olimppflg.xyz
@@ -69137,6 +69143,7 @@ in-alushta.ru
 in-betwinner.ru
 in-spinsity.com
 in-volcano.com
+in.alleng.org
 in.profilib.fun
 in.profilib.me
 in51gy8u.com
@@ -77704,6 +77711,7 @@ kinokrad.store
 kinokrad.tech
 kinokrad.tw
 kinokrad.uz
+kinokrad.work
 kinokrad1.fun
 kinokrad1080.ru
 kinokrad720.ru
@@ -82865,6 +82873,7 @@ logih-vtb.com
 login.freehd.com.ua
 login.joycasino2017.co
 login98you.com
+logindanab.top
 loginsb13.com
 loginsb16.com
 loginsb19.com
@@ -100458,6 +100467,7 @@ n1.fastrutor.site
 n1.filmy24.info
 n1.hdkinoset.online
 n1.hdkinoteater.net
+n1.hdkinoteater.ru
 n1.kino-sera.ru
 n1.kinogo.link
 n1.kinogo.network
@@ -100524,6 +100534,7 @@ n2.deltakino.cam
 n2.filmy24.info
 n2.hdkinoset.online
 n2.hdkinoteater.net
+n2.hdkinoteater.ru
 n2.kinogo.link
 n2.kinogo.network
 n2.kinogo.stream
@@ -111951,6 +111962,7 @@ play1xsport.com
 play2.pinup-casino-best.com
 play2joy.ru
 play2x.cash
+play2x.gold
 play2x.press
 play2x.red
 play3c.emmescloset.com
@@ -148098,6 +148110,7 @@ vulkan-champion.space
 vulkan-championcasino.com
 vulkan-chance.azurewebsites.net
 vulkan-chance.club
+vulkan-chance.top
 vulkan-city.azurewebsites.net
 vulkan-city.online
 vulkan-city.site
@@ -162084,6 +162097,7 @@ www1.hdrezka.world
 www1.joycasinoplay.click
 www1.kinobuh.ru
 www1.kinohal.ru
+www1.kinokrad.work
 www1.kinokrada.ru
 www1.kinoof.ru
 www1.kinooff.ru
@@ -162145,6 +162159,7 @@ www2.ict.ufvjm.edu.br
 www2.joycasinoplay.click
 www2.kinobuh.ru
 www2.kinohal.ru
+www2.kinokrad.work
 www2.kinoofi.ru
 www2.leonbetszerkalo.online
 www2.leonbetszerkalo.site
@@ -162219,6 +162234,7 @@ www3.hdrezka.work
 www3.joycasinoplay.click
 www3.kinobuh.ru
 www3.kinohal.ru
+www3.kinokrad.work
 www3.leonbetszerkalo.online
 www3.muzofond.online
 www3.opttab.ru
@@ -162240,6 +162256,7 @@ www4.fonbet.be
 www4.fonbetzerkalo.xyz
 www4.joycasinoplay.click
 www4.kinobuh.ru
+www4.kinokrad.work
 www4.leonbetszerkalo.online
 www4.opttab.ru
 www4.parimatch.kiev.ua
@@ -162255,6 +162272,7 @@ www5.1xbetzerkalo.online
 www5.1xbetzerkalo.site
 www5.alpari-rus.com
 www5.joycasinoplay.click
+www5.kinokrad.work
 www5.leonbetszerkalo.online
 www5.parimatch.kiev.ua
 www5.windbet.ru
@@ -162263,6 +162281,7 @@ www6.1xbetbk.online
 www6.1xbetzerkalo.online
 www6.1xbetzerkalo.site
 www6.alpari-rus.com
+www6.kinokrad.work
 www6.parimatch.kiev.ua
 www6.zenitbet.su
 www7.1xbetbk.online
@@ -164649,6 +164668,7 @@ yourwindbet.com
 yourwindybet.com
 yousport.life
 yousport.media
+yousport.network
 yousport.today
 youtor.ru
 youtube-com.club
