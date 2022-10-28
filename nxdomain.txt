@@ -2355,6 +2355,7 @@
 15.xn--80adsjoy.xn--p1ai
 150-azino777.win
 1500-games.com
+1500games.com
 1500igr.net
 150119azino777.com
 150119azino777.ru
@@ -18958,12 +18959,14 @@
 ARRAY(0x83339cee8)
 ARRAY(0x8335f7270)
 ARRAY(0x834bd9f30)
+ARRAY(0x8351fa8a0)
 ARRAY(0x8369ff750)
 ARRAY(0x83855c738)
 ARRAY(0x83a174c30)
 ARRAY(0x83a705468)
 ARRAY(0x83b1bfc90)
 ARRAY(0x83b8fdf60)
+ARRAY(0x83bc838e8)
 ARRAY(0x83bd8d0d8)
 ARRAY(0x83dff7378)
 ARRAY(0x83fbd07f8)
@@ -18976,8 +18979,6 @@ ARRAY(0x8b4b8ce70)
 ARRAY(0x8b5436660)
 ARRAY(0x8b5d1b828)
 ARRAY(0x8bc0e31c8)
-ARRAY(0x8bc54e198)
-ARRAY(0x8bce82b58)
 ARRAY(0x8bd0b6c48)
 ARRAY(0x8c0645900)
 ARRAY(0x8c0ac6600)
@@ -21594,6 +21595,7 @@ ahilesshop.ru
 ahl3h13n1i.sran.connect.netcdn.bcdl.rocks
 ahlcz-azino777.icu
 ahml4-azino777.icu
+ahokinfos.space
 ahr8h-azinomobile.icu
 ahtouchmbet.site
 ahtownmbet.site
@@ -24069,6 +24071,7 @@ aplay-casino-111.ru
 aplay-casino-6.spravka-sorevnovaniya.ru
 aplay-casino-official1.ru
 aplay-casino-review.hardreboot.ru
+aplay-casino.1500games.com
 aplay-casino.foot-bol.com
 aplay-casino.fun
 aplay-casino.great-stories.club
@@ -24099,6 +24102,7 @@ aplay-kazino1.5000rubley.com
 aplay-kazino1.ru
 aplay-kazino2.ru
 aplay-kazino3.ru
+aplay-online.1500games.com
 aplay-online.5000rubley.com
 aplay-online.casino
 aplay-online.win-here.club
@@ -24157,6 +24161,7 @@ aplaykazino1.ru
 aplaykazino2.ru
 aplaykazino3.ru
 aplaykazino4.ru
+aplayonline.1500games.com
 aplayonline.5000rubley.com
 aplayonline.casino
 aplayonline.luckyru.club
@@ -42329,6 +42334,7 @@ bznvh-azino777.icu
 bzqexv3bzxpwza.website
 c-azino-777.ru
 c-azino777.ru
+c-azino777.xyz
 c-bank.online
 c-ib.ru
 c-imperator.com
@@ -42973,6 +42979,7 @@ casino-aladdin-managua.hotelenergetic.ru
 casino-allreels.ru
 casino-ambassador.ru
 casino-anonymous.com
+casino-aplay.1500games.com
 casino-aplay.club
 casino-aplay.nlofact.com
 casino-aplay.online
@@ -43140,6 +43147,7 @@ casino-clyb-vulkan.org
 casino-co.club
 casino-coin.ru
 casino-coliseum.com
+casino-columb.1500games.com
 casino-columb.com
 casino-columb.ru
 casino-columb.win-here.club
@@ -50022,6 +50030,7 @@ columb-cazino.great-stories.club
 columb-cazino.site
 columb-online.foot-bol.com
 columb-slots.sport-people.club
+columb.1500games.com
 columb.casino
 columb.foot-bol.com
 columb.nlofact.com
@@ -50136,6 +50145,7 @@ columbus-slot.azurewebsites.net
 columbus-slots.azurewebsites.net
 columbus-x.com
 columbus-x.ru
+columbus.1500games.com
 columbus.5000rubley.com
 columbus.foot-bol.com
 columbus.luckyru.club
@@ -50304,6 +50314,7 @@ coolslots.ru
 coolss.kinogo.wtf
 cooltunes.ru
 coools.kinogo.wtf
+cooperationcotton.info
 cop.date2love.org
 cop.hdxa.ru
 copokapy.ru
@@ -131611,6 +131622,7 @@ sex2.prostitutkianapystop.info
 sex2.prostitutkiarhangelskaget.net
 sex2.prostitutkiarhangelskalast.org
 sex2.prostitutkiarhangelskalucky.net
+sex2.prostitutkiarhangelskanice.net
 sex2.prostitutkiarhangelskastop.net
 sex2.prostitutkiastrahani2021.net
 sex2.prostitutkiastrahanicase.info
@@ -133376,6 +133388,7 @@ slot-v-site7.azurewebsites.net
 slot-v-top-casino.com
 slot-v-top.ru
 slot-v-vkhod.kokosankapieczeitestuje-blog24.pl
+slot-v.1500games.com
 slot-v.5000.games
 slot-v.club
 slot-v.foot-bol.com
@@ -140462,6 +140475,7 @@ tradersplatform.net
 tradersroom.a1-capitals.com
 tradersroom.acttrader.net
 tradersroom.acttrader.org
+tradersroom.alltopmarket.com
 tradersroom.altesso-pro.com
 tradersroom.altesso.info
 tradersroom.danskery.com
@@ -152921,6 +152935,7 @@ webrip.online
 website-admiral-x.ru
 webtrader.24trade.net
 webtrader.acttrader.net
+webtrader.alltopmarket.com
 webtrader.bitzha.com
 webtrader.capartners.cloud
 webtrader.capitalfx.co
