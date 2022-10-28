@@ -5785,6 +5785,7 @@
 1x-bet12536.world
 1x-bet129332.world
 1x-bet13324.com
+1x-bet13357.com
 1x-bet13723.com
 1x-bet14209.com
 1x-bet14318.com
@@ -18973,11 +18974,13 @@ ARRAY(0x83fbd07f8)
 ARRAY(0x840b67c60)
 ARRAY(0x8418de2e8)
 ARRAY(0x841ea40c0)
+ARRAY(0x8b2ece8d0)
 ARRAY(0x8b3e986a8)
 ARRAY(0x8b44bf1f8)
 ARRAY(0x8b4b8ce70)
 ARRAY(0x8b5436660)
 ARRAY(0x8b5d1b828)
+ARRAY(0x8ba529168)
 ARRAY(0x8bc0e31c8)
 ARRAY(0x8bd0b6c48)
 ARRAY(0x8c0645900)
@@ -49600,6 +49603,7 @@ client.crypneteasy.com
 client.ctsolutions.uk
 client.dolfinindex.com
 client.eastscotinvest.org
+client.ecn-broker.pro
 client.ecnbroker.io
 client.ex-cbc.com
 client.fenixsgroup.com
@@ -49692,6 +49696,7 @@ club-kinogo.com
 club-leo.net
 club-levz.xyz
 club-lew.net
+club-millions.com
 club-mln.com
 club-my-slotik.com
 club-nsk.site
@@ -49937,6 +49942,7 @@ cm7c.site
 cm7c.xyz
 cm8dryguvymb.com
 cmcollierphd.com
+cmeukxayc.ny3blpuku.cc
 cmmokxxhmb.com
 cmnpp.ru
 cmnpr.ru
@@ -50020,6 +50026,7 @@ colour.oserialsoul.site
 colovki.ru
 coltsccc.xyz
 columb-casino.1500-games.com
+columb-casino.1500games.com
 columb-casino.azurewebsites.net
 columb-casino.foot-bol.com
 columb-casino.info
@@ -61140,6 +61147,7 @@ fxactiv.info
 fxbli.com
 fxcityindex.com
 fxcloudvest.com
+fxcoins.org
 fxcompany.ru
 fxcore.trade
 fxcore.world
@@ -67139,6 +67147,7 @@ hwl5mtqjmb.com
 hwnhsqgmmst.com
 hwqfyk6yifmst.com
 hwylxb.best
+hx.lordfilmax.net
 hxmelhgfdo.top
 hxncw3dqk4s.top
 hxopbwmryu.website
@@ -80013,6 +80022,7 @@ kurskaya-oblast.doc-avto.info
 kurskaya_oblast.kupit-prava.com
 kurskhot.mobi
 kush777.biz.klad24.store
+kutenok.com
 kuvaldatv.best
 kuvashkp.ru
 kuwopye1.website
@@ -82937,6 +82947,7 @@ loctt.top
 lod.lordfilm3.site
 lode.lordfilm3.site
 lodki-rus.ru
+lods.lordfilm4.site
 loen8-casino.win
 lofa19qzulmst.com
 loftfilm-s.com
@@ -83503,6 +83514,9 @@ lordfilmhd.site
 lordfilmhd.vip
 lordfilmhd.zone
 lordfilmhd1080.online
+lordfilmi-q1.lordfilms.band
+lordfilmi-q2.lordfilms.band
+lordfilmi-q3.lordfilms.band
 lordfilmi.live
 lordfilmi.net
 lordfilmi.xyz
@@ -132563,6 +132577,7 @@ sidi-smotri.com
 siegr5c7mst.com
 sif40-azino777.icu
 siferot.ru
+sig-optt.ru
 sigareti24.com
 sigaretioptom.online
 sigaretioptom.ru
@@ -135904,6 +135919,7 @@ sport-mostbet-topsport.ru
 sport-mostbet.ru
 sport-online24.ru
 sport-pin-up.com
+sport-rock.ru
 sport-slot.club
 sport-slot.com
 sport-steroids.website
@@ -138333,6 +138349,7 @@ tcspmy.tech
 tctiwhu.fabra48.ru
 tcwd3s3s.club
 td-usp.ru
+td3.lordfilms.gree
 td4tc0vem9mb.com
 td50g-azino777.icu
 tdbirga.ru
@@ -139327,6 +139344,7 @@ top.cine4u.ru
 top.deluxecasino.club
 top.drug-market.xyz
 top.f-torrent.ru
+top.fanfilm4k.xyz
 top.fasst-torrent.site
 top.filmhd1080.video
 top.filmotopka.online
@@ -157298,6 +157316,7 @@ www.club-gaminator.org
 www.club-gaminators.com
 www.club-gaminators.net
 www.club-gaminators.org
+www.club-millions.com
 www.club-vulkan.xyz
 www.club01.ru
 www.clubapelsin.ru
