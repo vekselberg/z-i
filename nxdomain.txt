@@ -19108,6 +19108,7 @@ ARRAY(0x83c471930)
 ARRAY(0x83f997108)
 ARRAY(0x83ff3a4f8)
 ARRAY(0x840127ee8)
+ARRAY(0x840130648)
 ARRAY(0x840be2f48)
 ARRAY(0x8418587e0)
 ARRAY(0x8b0db9900)
@@ -19123,6 +19124,7 @@ ARRAY(0x8bac6c138)
 ARRAY(0x8bc2b3f48)
 ARRAY(0x8be543390)
 ARRAY(0x8be81c0a8)
+ARRAY(0x8c10adc78)
 ARRAY(0x8c1cbf510)
 a-bets63.top
 a-bt56.top
@@ -19294,6 +19296,7 @@ a.rasta-rasha.live
 a.rasta-rasha.me
 a.rasta-rasha.online
 a.rasta-rasha.shop
+a.rasta-rasha.space
 a.rastarasha.blog
 a.rastarasha.ink
 a.rastarasha.link
@@ -50060,6 +50063,7 @@ club.vulkanrussia6.com
 club.win-admiral.online
 club.wulkan-online.top
 club24-vulcan.com
+club24vulcan.com.s-glay.com
 club777.azartnye-avtomaty.in
 club777.crazy-monkey.in
 club777.epassion.top
@@ -56661,6 +56665,7 @@ ferh23bkin.com
 ferini.tryserialmisi.online
 ferlnl.tryserialmisi.online
 feromon.xyz
+ferricforge.com
 ferrymediaplay.win
 fery.dosug-hab.pro
 ferzikovo.prava-pro.org
@@ -66013,6 +66018,7 @@ hd16.1-lordserials.xyz
 hd16.2lordserials.xyz
 hd16.5lordfilm-0.xyz
 hd16.kino-go.best
+hd16.lordix.cc
 hd17.1-lordserials.xyz
 hd17.2lordserials.xyz
 hd17.kino-go.best
@@ -67488,6 +67494,7 @@ hydra3rudf3j4hww.c-onion.com
 hydra3rudf3j4hww.j-onion.com
 hydra3rudf3j4hww.onion.org.ru
 hydra4-onion.com
+hydra4center.com
 hydra4jpwhfx4mst.a-onion.com
 hydra4jpwhfx4mst.b-onion.com
 hydra4jpwhfx4mst.c-onion.com
@@ -67685,6 +67692,7 @@ hydraruzxpnew4afz.buzz
 hydraruzxpnew4avf.onionddd.com
 hydraruzxpnew4eaf.onionddd.com
 hydraruzxpnew4ef.onion-shop.com
+hydraruzxpnew4faonion.com
 hydraruzxpnew4laf-onion.com
 hydraruzxpnew5af.com
 hydraruzxpnew71.onions7777.com
@@ -139142,6 +139150,7 @@ tnt-premier.site
 tnt-serial.me
 tnt.holostyak.su
 tnt.one-premier.xyz
+tnt.premier-one.site
 tnt.premier-serial.site
 tnt25800.ru
 tntbesplanto.site
@@ -164270,6 +164279,7 @@ xn--s1a.zfilm-hd-936.online
 xn--s1a.zfilm-hd-948.online
 xn--s1a.zfilm-online69.xyz
 xn--slyudyana-21h.prava-online.org
+xn--ustomerportal-o8k.waldora.company
 xn-watch.tryserial4iks.online
 xncuoiuxmvuczbyczcxzbxb.pratka.ru
 xncuoiuxmvuczbyczcxzbxn.pratka.ru
