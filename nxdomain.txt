@@ -19119,9 +19119,11 @@ ARRAY(0x840127ee8)
 ARRAY(0x840be2f48)
 ARRAY(0x8418587e0)
 ARRAY(0x8b0db9900)
+ARRAY(0x8b129da50)
 ARRAY(0x8b26c6d98)
 ARRAY(0x8b37a0ee8)
 ARRAY(0x8b3842918)
+ARRAY(0x8b3e8ce88)
 ARRAY(0x8b5624168)
 ARRAY(0x8b5ec41f8)
 ARRAY(0x8b5f60b70)
@@ -24471,6 +24473,8 @@ apr12.hdfilm720.ru
 apr12.lordfillms.xyz
 apr13.alfakino.net
 apr14.lordfillms.ru
+apr15.lordfillms.ru
+apr16.lordfillms.ru
 apr23.lordfillms.ru
 apr29.gorafilm.ru
 apr4.alfakino.net
@@ -56194,6 +56198,7 @@ faoboxtj.olimpcu7g.xyz
 fapcheck.ru
 fapor7rre.icu
 fappics.ru
+fapster.xxx
 faq-hydra.ru
 faqbet.kz
 far1.mc-clinik.com
@@ -65696,6 +65701,7 @@ hd.kinobu720.ru
 hd.kinoby1.ru
 hd.kinocam.ru
 hd.kinocamrad.ru
+hd.kinocoin.online
 hd.kinocox.net
 hd.kinocruise.club
 hd.kinodo.space
@@ -67574,6 +67580,7 @@ hydra4jpwhfx4mst.c-onion.com
 hydra4jpwhfx4mst.j-onion.com
 hydra4jpwhfx4mst.onion.moscow
 hydra4jpwhfx4mst.online
+hydra4supports.com
 hydra54wsk3sgxfo.onion-site.net
 hydra5etioavaz6onion.com
 hydra5etioavaz7p.a-onion.com
@@ -67592,6 +67599,7 @@ hydra7lpipoe4q2d.c-onion.com
 hydra7lpipoe4q2d.j-onion.com
 hydraa7dikudurlg.onion-site.net
 hydraanalog.site
+hydrabestmarket.com
 hydraclub.ru
 hydraclubb.com
 hydraclubbiokni.com
@@ -67771,6 +67779,7 @@ hydraruzxpnew4laf-onion.com
 hydraruzxpnew5af.com
 hydraruzxpnew71.onions7777.com
 hydraruzxpnew77.onions7777.com
+hydraruzxpnew8onion.com
 hydraruzxpnnew4af.com
 hydraruzxpnnew4af.xyz
 hydraruzxpnw4af.com
@@ -70140,6 +70149,7 @@ irkutsk.sam-poexal.com
 irkutsk.studys-documenty.com
 irkutsk.xn----btb8ajhbb5h.xn--p1ai
 irkutsk.xn----otbfohobeg7gza.xn--p1ai
+irkutsk1.doc-avto.info
 irkutsk1.hostgen.ru
 irkutsk2.hostgen.ru
 irkutsk4.hostgen.ru
@@ -74172,6 +74182,7 @@ jun04.hdtv720.ru
 jun04.kinotrast.ru
 jun06.gorafilm.xyz
 jun11.kinojiza.cc
+jun17.lordfillms.ru
 jun17.lordfillms.xyz
 jun18.lordfillm.ru
 jun19.lordfillm.ru
@@ -83105,6 +83116,7 @@ liveslots-x55.com
 liveslots-xx2.com
 livesportmax.ru
 livestavki.website
+livestreams.totalsportek.com
 livetop.online
 livetv.essaygun.org
 livetv113.me
@@ -88058,6 +88070,7 @@ max.goldsong.fun
 max.hd.films1080.club
 max.hdthrone.cc
 max.kinospace.me
+max.lordfillms.ru
 max.lordfilm.cx
 max.lordfilm.so
 max.lordfilmq.net
@@ -94213,6 +94226,7 @@ mockva.prava.monster
 mockvva.documentu-avto.info
 mockvva1.documentu-avto.info
 mockvva2.documentu-avto.info
+mockwa.doc-avto.info
 mockwa.doc-avto.life
 mockwa.doc-avto.monster
 mockwa.documentu-avto.info
@@ -100292,6 +100306,7 @@ murmansk.simsdiploms.com
 murmansk.spravki-v-gai.ru
 murmansk.studys-document.com
 murmansk.vodn-prava.com
+murmansk1.doc-avto.info
 murmansk1.doc-avto.life
 murmansk1.hostgen.ru
 murmansk1.pomosh-voditelu.com
@@ -110228,6 +110243,7 @@ pin-up-casino3.net
 pin-up-casino3.win
 pin-up-casino4.net
 pin-up-casino4.win
+pin-up-casino5.xyz
 pin-up-casino6.net
 pin-up-casino6.win
 pin-up-casino7.azurewebsites.net
@@ -118743,6 +118759,7 @@ ranic.ru
 ranits.ru
 raniv.ru
 raniz.ru
+rank.com.br
 rannebet.xyz
 rannerbet.xyz
 rannerbetki.xyz
@@ -134867,6 +134884,7 @@ smokgames.tech
 smokgames.top
 smokgames.uno
 smokymag.net
+smolensk-kalyan-vape.ru
 smolensk.auto-doki.life
 smolensk.damdiplomses.com
 smolensk.diplom-obrazovanie.com
@@ -143131,6 +143149,7 @@ v1.kinomops.su
 v1.kinomutant.online
 v1.kinowek.fun
 v1.kinozorko.ru
+v1.lordfillms.ru
 v1.lordfilms.stream
 v1.lordzfilm.online
 v1.lostfilm.rocks
@@ -143357,6 +143376,7 @@ v8.kinomutant.online
 v8.kinopovtor.com
 v8.kinozorko.ru
 v8.koshara.top
+v8.lordfillms.ru
 v8.lostfilm.rocks
 v8.top-movie.ru
 v8.vulcanclubplay.com
@@ -146804,6 +146824,7 @@ vorkuta.doc-avto.info
 vorkuta.kupit-prava.com
 vorkuta.pomosh-voditelu.com
 vorkuta.prostitutki.tips
+vorkuta1.doc-avto.info
 vorkuta1.pomosh-voditelu.com
 vorkuta1.prostitutki.store
 vorkuta2.prostitutki.store
@@ -158731,6 +158752,7 @@ www.joocasino5.com
 www.joocasino6.com
 www.joocasino7.com
 www.joocasino8.com
+www.joshkar-ola-kalyan-vape.ru
 www.journal-onlain.ru
 www.journals-world.ru
 www.journaly.ru
@@ -161601,6 +161623,7 @@ www.torrentum.net
 www.torrentum.org
 www.torrentza.net
 www.totallycasino.co
+www.totalsportek.com
 www.toto71.casino
 www.tporn.ru
 www.tracid.ru
@@ -162846,6 +162869,7 @@ www7.1xbetzerkalo.site
 www7.alpari-rus.com
 www7.artmax.live
 www7.kinobuh.ru
+www7.longsila.com
 www7.parimatch.kiev.ua
 www7.zenitbet.su
 www8.1xbetbk.online
