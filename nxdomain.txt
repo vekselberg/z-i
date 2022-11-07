@@ -19167,13 +19167,11 @@ ARRAY(0x83578ce10)
 ARRAY(0x8372740f0)
 ARRAY(0x837ce3720)
 ARRAY(0x83867d2b8)
-ARRAY(0x83a32cbb8)
 ARRAY(0x83ab2c408)
 ARRAY(0x83d316cf0)
 ARRAY(0x83e11d318)
 ARRAY(0x83ea9d798)
 ARRAY(0x840b88840)
-ARRAY(0x8b36744f8)
 ARRAY(0x8b5d2afd8)
 ARRAY(0x8b6893390)
 ARRAY(0x8b73616d8)
@@ -19184,8 +19182,10 @@ ARRAY(0x8b99fdd98)
 ARRAY(0x8bb7586f0)
 ARRAY(0x8bd5d2ba0)
 ARRAY(0x8be15c780)
+ARRAY(0x8beb09bb8)
 ARRAY(0x8bf3d1990)
 ARRAY(0x8bfb7a798)
+ARRAY(0x8c1015768)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -24513,6 +24513,7 @@ apteka2.msk-sabril.ru
 apteka4.msk-sabril.ru
 aptekaberlin-farm.com
 aptekaberlinfarm.com
+aptekaeu.com
 aptekaformen.ru
 aptekapvt-24.ru
 aptekapvt24.ru
@@ -52220,6 +52221,7 @@ diplomana.com
 diplomans-onlines24.com
 diplomas-box365.com
 diplomas-russiany24.com
+diplomas-shop.com
 diplomass1.com
 diplomassrus.com
 diplomasvuza.com
@@ -53535,6 +53537,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e109.fisher-1.ru
 e110.fisher-1.ru
 e111.fisher-1.ru
 e1152ad.icu
@@ -78178,6 +78181,7 @@ kinogou.cc
 kinogou.ru
 kinogov.club
 kinogov.net
+kinogovno.info
 kinogovno.online
 kinogovno24.info
 kinogox.ru
@@ -121144,6 +121148,7 @@ rezzka.cc
 rf-dlplom.com
 rf-errors-seeds.com
 rf-tehosmotronline.ru
+rf.24video.porn
 rf.best-club.xyz
 rf.lenporno.click
 rf.porno365.soy
@@ -139135,6 +139140,7 @@ timoks-posmotri.ru
 timstep.com
 tinkoff-invest.tech
 tinkoff-junior-card.ru
+tinkoff-loans.ru
 tinkoff-platform.com
 tinkoff-strahovanie.com
 tinkoffmy-online.com
