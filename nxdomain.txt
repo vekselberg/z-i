@@ -10549,6 +10549,18 @@
 1xslots-ag.xyz
 1xslots-ba.xyz
 1xslots-bonus.com
+1xslots-brig.top
+1xslots-brown.top
+1xslots-buck.top
+1xslots-buil.top
+1xslots-bull.top
+1xslots-bump.top
+1xslots-burn.top
+1xslots-bury.top
+1xslots-bust.top
+1xslots-busy.top
+1xslots-buzz.top
+1xslots-call.top
 1xslots-casino-online.online
 1xslots-casino-promokod.domservisvsk.ru
 1xslots-casino.azurewebsites.net
@@ -19156,7 +19168,9 @@ ARRAY(0x8372740f0)
 ARRAY(0x837ce3720)
 ARRAY(0x83867d2b8)
 ARRAY(0x83a32cbb8)
+ARRAY(0x83ab2c408)
 ARRAY(0x83d316cf0)
+ARRAY(0x83e11d318)
 ARRAY(0x83ea9d798)
 ARRAY(0x840b88840)
 ARRAY(0x8b36744f8)
@@ -19168,12 +19182,10 @@ ARRAY(0x8b77d2a20)
 ARRAY(0x8b7fcd450)
 ARRAY(0x8b99fdd98)
 ARRAY(0x8bb7586f0)
-ARRAY(0x8bd1b1f60)
 ARRAY(0x8bd5d2ba0)
 ARRAY(0x8be15c780)
 ARRAY(0x8bf3d1990)
 ARRAY(0x8bfb7a798)
-ARRAY(0x8bfc85ba0)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -37377,9 +37389,21 @@ betwinner-bone.top
 betwinner-bonus.site
 betwinner-bonus777.site
 betwinner-book.top
+betwinner-bor.top
 betwinner-bord.top
 betwinner-bore.top
+betwinner-bory.top
+betwinner-bos.top
 betwinner-boss.top
+betwinner-bot.top
+betwinner-bots.top
+betwinner-boy.top
+betwinner-bran.top
+betwinner-brand.top
+betwinner-break.top
+betwinner-brick.top
+betwinner-brid.top
+betwinner-brief.top
 betwinner-buk.ru
 betwinner-bukmeker.club
 betwinner-bukmeker.com
@@ -50768,6 +50792,7 @@ cpntuv.best
 cpprk86.ru
 cpr-086.com
 cpravky99.com
+cprawcy.co
 cprawki.co
 cprawky-fact.com
 cprfabtk.olimp7i7n.xyz
@@ -53510,8 +53535,8 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
-e109.fisher-1.ru
 e110.fisher-1.ru
+e111.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -54851,6 +54876,7 @@ emb.apl46.me
 emb.apl47.me
 emb.apl48.me
 emb.apl49.me
+emb.apl52.me
 emb.apl58.me
 emb.apl59.me
 emb.apl66.me
@@ -76748,6 +76774,7 @@ kino-fs.name
 kino-fs.net
 kino-fs.pro
 kino-fs.su
+kino-fs.top
 kino-fs.tv
 kino-full.ru
 kino-fullhd.fun
@@ -100509,6 +100536,7 @@ mutki24.biz
 mutkl72.biz
 muum7-azino777.icu
 muveog.best
+muvisex.club
 muvmed.com
 muw5v-azino777.icu
 muz-bmu.ru
@@ -115986,6 +116014,8 @@ poker2you.site
 poker888.com.ua
 poker888.guru
 poker888.one
+poker888.run
+poker888.site
 poker888.su
 poker888.win
 pokeramp.ru
@@ -116152,6 +116182,7 @@ pokerdom.ml
 pokerdom.name
 pokerdom.network
 pokerdom.party
+pokerdom.run
 pokerdom.team
 pokerdom.tech
 pokerdom.uno
@@ -128362,6 +128393,7 @@ rus.progambler1.ru
 rus.programmnewsrus2.xyz
 rus.re-idnia.ru
 rus.rgmechanics.games
+rus.russkie-novinki.ru
 rus.spycasino.info
 rus.thebestcasino.biz
 rus.thebestcasino.su
@@ -139102,6 +139134,7 @@ timeua.in.ua
 timoks-posmotri.ru
 timstep.com
 tinkoff-invest.tech
+tinkoff-junior-card.ru
 tinkoff-platform.com
 tinkoff-strahovanie.com
 tinkoffmy-online.com
@@ -149310,6 +149343,7 @@ vulkan24-topslots.com
 vulkan24-vipclub.com
 vulkan24-vipslots.com
 vulkan24-wc.top
+vulkan24-yb.xyz
 vulkan24-yp.xyz
 vulkan24-z.xyz
 vulkan24-zerkalo.com
@@ -165386,6 +165420,7 @@ zacgb-azinomobile.icu
 zachtobantoopyat.xyz
 zadergka.space
 zadobriedela.ru
+zaebalporn.com
 zaeblo.xyz
 zaedr.site
 zag-zag.net
