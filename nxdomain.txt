@@ -19137,10 +19137,9 @@
 9zm5omo.icu
 ARRAY(0x8332eed98)
 ARRAY(0x834c2cde0)
+ARRAY(0x83935fb40)
 ARRAY(0x839968e40)
-ARRAY(0x83ab2c408)
 ARRAY(0x83ca8cee8)
-ARRAY(0x83e11d318)
 ARRAY(0x83edef150)
 ARRAY(0x83fb7cbe8)
 ARRAY(0x83fd07a98)
@@ -19160,6 +19159,7 @@ ARRAY(0x8bbd24048)
 ARRAY(0x8be687d68)
 ARRAY(0x8be81b990)
 ARRAY(0x8beb09bb8)
+ARRAY(0x8bf446b70)
 ARRAY(0x8c1015768)
 a-bets63.top
 a-bt56.top
@@ -60896,6 +60896,7 @@ fstorr.ru
 fstorrent.ru
 fsx7ng53etmst.com
 fszvm-azino777.icu
+ft.canfs.com
 ft7a8-azinomobile.host
 fta.ipadlock.org
 ftech-info.com
@@ -61953,6 +61954,7 @@ gaminatorslots-onlayn.spravka-070.ru
 gaminatorslots.biz
 gaminatorslots.club
 gaminatorslots.fun
+gaminatorslots.info
 gaminatorslots.kinofilez.ru
 gaminatorslots.me
 gaminatorslots.org
@@ -103877,6 +103879,7 @@ o.gidonline-2156.site
 o.kino.pub
 o.kino.vodka
 o.kupit-med-spravku.org
+o.kupit-sofosbuvir.ru
 o.lordfilm21.xyz
 o.lordfilmix.xyz
 o.lordfilms-film.online
@@ -129165,6 +129168,7 @@ sale-attestaty.com
 sale.9203336.site
 sale.9253451.com
 sale.anti-co.xyz
+sale.diplomis-svs.com
 sale.medfirma.org
 sale.moscowpharma.su
 sale.spravka-spb.store
