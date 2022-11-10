@@ -19202,7 +19202,6 @@ ARRAY(0x835aada38)
 ARRAY(0x8366294b0)
 ARRAY(0x838a25720)
 ARRAY(0x8391085a0)
-ARRAY(0x83cdf2f90)
 ARRAY(0x83cf34120)
 ARRAY(0x83d7c1c00)
 ARRAY(0x83db1c6c0)
@@ -19214,12 +19213,15 @@ ARRAY(0x8b2bebdc8)
 ARRAY(0x8b376c9c0)
 ARRAY(0x8b59071e0)
 ARRAY(0x8b79afab0)
+ARRAY(0x8b7f893f0)
 ARRAY(0x8b9421510)
 ARRAY(0x8b9777438)
+ARRAY(0x8bb503948)
 ARRAY(0x8bb6e8798)
+ARRAY(0x8bd975360)
 ARRAY(0x8be3f8918)
+ARRAY(0x8bf3dc060)
 ARRAY(0x8bf835900)
-ARRAY(0x8c0844258)
 ARRAY(0x8c0b333f0)
 ARRAY(0x8c1388408)
 a-bets63.top
@@ -19357,6 +19359,7 @@ a.lordfilms-filmy.online
 a.lordfilmy.one
 a.lordhdfilm.ru
 a.lordsfilms-720.top
+a.love-best.online
 a.mirkino.best
 a.mskseeds.art
 a.mskseeds.me
@@ -24820,6 +24823,12 @@ as50.online-star.org
 as51.online-star.org
 as52.online-star.org
 as7qu-azino777.icu
+as85.online-stars.org
+as86.online-stars.org
+as87.online-stars.org
+as88.online-stars.org
+as89.online-stars.org
+as90.online-stars.org
 ascensu.ru
 asd1l1mk1.com
 asdfilm.ru
@@ -25300,6 +25309,7 @@ avtomaty.biz
 avtomaty.casino-vulkan38.com
 avtomaty.game-casinox.net
 avtomaty.igrovoy-zal.com
+avtomaty.kazino.group
 avtomaty.kazinosvulkan.com
 avtomaty.life
 avtomaty.lions-casinos.com
@@ -47918,6 +47928,7 @@ casinox-5064.ru
 casinox-777.ru
 casinox-810.ru
 casinox-admi.top
+casinox-ae.xyz
 casinox-af.xyz
 casinox-agre.top
 casinox-best.top
@@ -49051,6 +49062,7 @@ ch.gdegerthshop1.ru
 ch1.gerthshopn1.biz
 chafe.top-movie.ru
 chaika-sochi.ru
+chaletsdeluxe.ru
 champ-casino.zipprofi.ru
 champ.rusbetcity.com
 champ.win
@@ -51140,6 +51152,7 @@ cusin0-r.vip
 cusino-r.vip
 cusino-x.ru
 cuslno-r.vip
+cusolt.u866.buff.elastictech.org
 cust41.freehd.com.ua
 customer.hdreactor.club
 cutaj.top
@@ -51908,6 +51921,7 @@ demo-vulcan.xyz
 demo-vulkan.azurewebsites.net
 demo-vulkan.xyz
 demo-wulcan.fun
+demo.01.hdreactor.club
 demo.1c.hdreactor.club
 demo.2games.pw
 demo.admirallux.pw
@@ -51923,6 +51937,7 @@ demo.qs.hdreactor.club
 demo.russiancasino.com
 demo.slots-bar.com
 demo.sp.hdreactor.club
+demo.ssi.hdreactor.club
 demo.vb5.hdreactor.club
 demo.vpn.hdreactor.club
 demo.vz.hdreactor.club
@@ -52048,6 +52063,7 @@ detskiye-igrovyye-avtomaty-ryazan.neftegazhimeco.ru
 detskiye-igrovyye-avtomaty-ulan-ude.mp3-ostrov.ru
 deustrade.pro
 dev.1.freehd.com.ua
+dev.11.hdreactor.club
 dev.1c.hdreactor.club
 dev.2019.freehd.com.ua
 dev.3grxmirgrip7s5o.freehd.com.ua
@@ -59561,6 +59577,7 @@ forum.bezdepa.biz
 forum.bitmmgp.ru
 forum.ganjalive.cc
 forum.ganjalive.icu
+forum.ganjalive.website
 forum.gribo4ek.cz
 forum.hdreactor.club
 forum.kino-tor.org
@@ -63316,6 +63333,7 @@ go.9618azinogo.icu
 go.9660azinogo.icu
 go.aazino777.online
 go.admiral-slots.top
+go.alleng.org
 go.azartzona-play.com
 go.azino-24-azino.icu
 go.azino-azino24.site
@@ -67589,6 +67607,7 @@ http-casino-royale24comotzyvy-cards-royalehtml.brewbarrel.ru
 http-chcgreen-net.nabat24.ru
 http.hydraruzxpnew4af.ru
 http.ru-free-tor.org
+http1.hdreactor.club
 httpp.ru-free-tor.org
 https-azino777-live.voyazhvrn.ru
 https-casino-1xbet-net.ostrova-gymnastics.ru
@@ -70997,6 +71016,7 @@ jet-prestige8126.ru
 jet-rep.ru
 jet-skating.ru
 jet-winplay438.ru
+jet-x-casino-avis.sashaalex.ru
 jet-xplay.ru
 jet-zet73.ru
 jet4958.ru
@@ -71416,6 +71436,8 @@ joycasino-001.xyz
 joycasino-007.xyz
 joycasino-1.top
 joycasino-1.xyz
+joycasino-100.top
+joycasino-101.top
 joycasino-105.xyz
 joycasino-14.com
 joycasino-16ec.xyz
@@ -71444,7 +71466,9 @@ joycasino-1x.xyz
 joycasino-1y.xyz
 joycasino-1z.xyz
 joycasino-2.xyz
+joycasino-200.top
 joycasino-2018.com
+joycasino-202.top
 joycasino-2020.club
 joycasino-2020.com
 joycasino-2020.fun
@@ -71494,6 +71518,8 @@ joycasino-2y.xyz
 joycasino-2z.xyz
 joycasino-3.xyz
 joycasino-30.xyz
+joycasino-300.top
+joycasino-303.top
 joycasino-32x.xyz
 joycasino-365-play.site
 joycasino-365.club
@@ -71521,6 +71547,8 @@ joycasino-3x.xyz
 joycasino-3y.xyz
 joycasino-3z.xyz
 joycasino-4.xyz
+joycasino-400.top
+joycasino-404.top
 joycasino-4a.xyz
 joycasino-4b.xyz
 joycasino-4c.xyz
@@ -71542,6 +71570,8 @@ joycasino-4win.xyz
 joycasino-4x.xyz
 joycasino-4y.xyz
 joycasino-4z.xyz
+joycasino-500.top
+joycasino-550.top
 joycasino-555.xyz
 joycasino-5a.xyz
 joycasino-5c.xyz
@@ -71803,6 +71833,10 @@ joycasino-bott.top
 joycasino-boun.top
 joycasino-boy.top
 joycasino-br.top
+joycasino-br1.top
+joycasino-br3.top
+joycasino-br5.top
+joycasino-br7.top
 joycasino-bran.top
 joycasino-brand.top
 joycasino-bre.xyz
@@ -71821,15 +71855,24 @@ joycasino-bst.xyz
 joycasino-bt.xyz
 joycasino-btc.xyz
 joycasino-bu.xyz
+joycasino-bu1.top
+joycasino-bu3.top
+joycasino-bu7.top
 joycasino-bub.top
+joycasino-buc1.top
 joycasino-buck.top
 joycasino-buil.top
+joycasino-bul3.top
 joycasino-bull.top
+joycasino-bum1.top
 joycasino-bump.top
+joycasino-bur1.top
 joycasino-burn.top
 joycasino-bury.top
+joycasino-bus1.top
 joycasino-bust.top
 joycasino-busy.top
+joycasino-buz1.top
 joycasino-buzz.top
 joycasino-bw.xyz
 joycasino-bwp.xyz
@@ -71840,6 +71883,7 @@ joycasino-c01.xyz
 joycasino-c02.xyz
 joycasino-c10.xyz
 joycasino-ca.top
+joycasino-ca1.top
 joycasino-ca9.xyz
 joycasino-calm.top
 joycasino-can.xyz
@@ -72013,6 +72057,7 @@ joycasino-cover.top
 joycasino-cpp.xyz
 joycasino-cq.xyz
 joycasino-cr.top
+joycasino-cr.xyz
 joycasino-cr2.xyz
 joycasino-craft.top
 joycasino-crate.top
@@ -72334,6 +72379,7 @@ joycasino-kno.xyz
 joycasino-know.xyz
 joycasino-ko.xyz
 joycasino-ku.xyz
+joycasino-kv.xyz
 joycasino-kw.xyz
 joycasino-kwe.xyz
 joycasino-kx.top
@@ -72407,6 +72453,7 @@ joycasino-mf.xyz
 joycasino-min.xyz
 joycasino-mirror.info
 joycasino-mjw.xyz
+joycasino-mk.xyz
 joycasino-mm.xyz
 joycasino-mo.xyz
 joycasino-mobi.club
@@ -72436,6 +72483,7 @@ joycasino-nh7.xyz
 joycasino-nh9.xyz
 joycasino-ni.xyz
 joycasino-nic.xyz
+joycasino-nj.xyz
 joycasino-nl.xyz
 joycasino-nm.xyz
 joycasino-nn.xyz
@@ -72626,6 +72674,7 @@ joycasino-online5.xyz
 joycasino-online6.xyz
 joycasino-online7.xyz
 joycasino-online70.win
+joycasino-oo.xyz
 joycasino-oot.xyz
 joycasino-op2t.xyz
 joycasino-op9.xyz
@@ -72994,6 +73043,7 @@ joycasino-tm1.xyz
 joycasino-tmp.xyz
 joycasino-tn.top
 joycasino-tne.xyz
+joycasino-to.xyz
 joycasino-top.club
 joycasino-top.site
 joycasino-top.tech
@@ -73326,11 +73376,13 @@ joycasino-zerkalo-online2.win
 joycasino-zerkalo-online2.xyz
 joycasino-zerkalo.site
 joycasino-zerkalo.uno
+joycasino-zf.xyz
 joycasino-zgx.xyz
 joycasino-zh.xyz
 joycasino-zhg.xyz
 joycasino-zip.xyz
 joycasino-zix.xyz
+joycasino-zj.xyz
 joycasino-zk.xyz
 joycasino-zlb.xyz
 joycasino-zm.xyz
@@ -74833,6 +74885,7 @@ kasino-champion25.ru
 kasino-champion26.ru
 kasino-champion27.ru
 kasino-champion28.ru
+kasino-chempion.ru
 kasino-coin.info
 kasino-coins.info
 kasino-columb.nlofact.com
@@ -82771,6 +82824,7 @@ lihoy-rost.site
 lika-torrent.ru
 lika-torrent.xyz
 like-key.ru
+like.ganjalive.website
 like.getone.fun
 like.kinofilmtop.online
 like.vulkanbet.info
@@ -86647,6 +86701,7 @@ magento.ht1.hdreactor.club
 magento.httpswww.hdreactor.club
 magento.lyncdiscover.hdreactor.club
 magento.owa.hdreactor.club
+magento.trx3.hdreactor.club
 magento.xn-41a.hdreactor.club
 magento.y.hdreactor.club
 magento2.11.hdreactor.club
@@ -94832,6 +94887,7 @@ morrisvariety.com
 morshansk.su
 morshczn.ru
 moruette.ru
+mos-azot24.ru
 mos-bank.com
 mos-depbank.site
 mos-gorsud.com
@@ -104029,6 +104085,7 @@ nuts.bet
 nutsbet2.com
 nuttydaily.site
 nuxe2qfx.club
+nuxeo.hdreactor.club
 nv4w4.72ofgk3cu.icu
 nvartovsk.sam-poehali.com
 nvb2w-azino777.icu
@@ -106893,6 +106950,7 @@ online2.club-vulkan-777.club
 online2.crazy-monkey-free.com
 online2.dirta.ru
 online2.divan-tv.win
+online2.hd1080film.ru
 online2.hd11.ru
 online2.kinodoza.tv
 online2.lentapremier.ru
@@ -110874,6 +110932,21 @@ pinup-blaz.top
 pinup-blue.top
 pinup-blur.top
 pinup-bookmaker.com
+pinup-bor.top
+pinup-bory.top
+pinup-bos.top
+pinup-bot.top
+pinup-bots.top
+pinup-boun.top
+pinup-boy.top
+pinup-bran.top
+pinup-brand.top
+pinup-break.top
+pinup-breas.top
+pinup-breez.top
+pinup-brick.top
+pinup-brid.top
+pinup-brief.top
 pinup-bukmeker.site
 pinup-bukmekers.tech
 pinup-casino-10.win
@@ -111801,6 +111874,7 @@ play-azino777online.ru
 play-casino-888.gadgetfreak.info
 play-casino-baccarat-online.2535756.ru
 play-casino-baccarat-online.t-custom.ru
+play-casino-for-real-money-online.sashaalex.ru
 play-casino-free.ru
 play-casino-games-for-real-money.prokat-nsk.ru
 play-casino-pin-up.com
@@ -116507,6 +116581,7 @@ pornovsem.gidonline-1359.site
 pornovsem.gidonline-2156.site
 pornovsem.gidonline-838.site
 pornozak.xxx
+pornozaur.net
 pornozona.tv
 pornrusskoe.net
 pornswank.com
@@ -118745,6 +118820,7 @@ rasta-rasha.space
 rasta-rasha.store
 rasta-seeds.ru
 rastarasha.blog
+rastarasha.co
 rastarasha.guru
 rastarasha.link
 rastarasha.live
@@ -129840,7 +129916,9 @@ sbd314.hdreactor.club
 sbd322.hdreactor.club
 sbd332.hdreactor.club
 sbd334.hdreactor.club
+sbd370.hdreactor.club
 sbd373.hdreactor.club
+sbd375.hdreactor.club
 sbd408.hdreactor.club
 sbd409.hdreactor.club
 sbd420.hdreactor.club
@@ -129887,6 +129965,7 @@ sbd838.hdreactor.club
 sbd841.hdreactor.club
 sbd843.hdreactor.club
 sbd872.hdreactor.club
+sbd876.hdreactor.club
 sbd878.hdreactor.club
 sbd883.hdreactor.club
 sbd889.hdreactor.club
@@ -132362,6 +132441,7 @@ shop.login.hdreactor.club
 shop.love-tabs.ru
 shop.magicwww.hdreactor.club
 shop.market.hdreactor.club
+shop.peptits.club
 shop.pharmsport.top
 shop.pma.hdreactor.club
 shop.ris.hdreactor.club
@@ -132651,6 +132731,7 @@ simulyator-igrovyye-avtomaty.sotterra.ru
 sinbad-ug.ru
 sincerecommittee.site
 sinerama.tv
+singlup.co
 singlup.top
 sinhub.host
 sinkc.ru
@@ -138860,6 +138941,7 @@ tigredecristal1.org
 tigush.space
 tihvin.diploms4yours.com
 tihvinbm.ru
+tiibn94.hdreactor.club
 tikho-azino777.icu
 tilatula.com
 tilthemp.fun
@@ -139301,6 +139383,7 @@ top-rington.ru
 top-rutor.pl
 top-samykh-kazino.gruzoperevozki-vo-vladimire.ru
 top-saytov-igrovykh-avtomatov-na-realnyye-dengi.artemievastudio.ru
+top-saytov-kazino.sashaalex.ru
 top-serials-online.fun
 top-serials-online.host
 top-serials.fun
@@ -142971,6 +143054,7 @@ v4.rostor.fun
 v4.vikino2.ru
 v4.vulcan-club-luck.com
 v4.vulcanclubplay.com
+v40.hdreactor.club
 v42.hdreactor.club
 v43yj-azino777.icu
 v44.hdreactor.club
@@ -154726,6 +154810,7 @@ worldinginfo.ru
 worldmonitoring.ru
 worldofcase.com
 worldofcinema.ru
+worldofinfo.ru
 worldpokershowdown.club
 worldscasino-1.ru
 worldscasino-top.ru
@@ -159394,6 +159479,7 @@ www.merkurmagic.es
 www.merlinwin.com
 www.mexedi.net
 www.mggei74.ru
+www.miirra.ru
 www.milarosa.ru
 www.military-book.ru
 www.million-club1.com
@@ -159695,6 +159781,7 @@ www.olimpbet2.ru
 www.olimpbet3.ru
 www.olimpbet5.ru
 www.olimpbetcom.ru
+www.olimpvulcan.info
 www.olimpwulcan.com
 www.olinemarathon.win
 www.olkrmncig.com
@@ -161183,6 +161270,7 @@ www.sweetbet.com
 www.swisschains.com
 www.swissfuture-fx.com
 www.sz.hdreactor.club
+www.szneg.ru
 www.t-custom.ru
 www.tailwaggs.com
 www.takefivelottery.org
@@ -162139,6 +162227,7 @@ www.xn--1--flc3ar6a.xn--p1ai
 www.xn--360-5cd9ag2a2ci.xn--p1ai
 www.xn--41a.hdreactor.club
 www.xn--777-1-3ve3ci9bk.net
+www.xn--80a.hdreactor.club
 www.xn--80aaaghm0bgp8a.xn--p1ai
 www.xn--80aaahavpo6aheeikg0ui.xn--p1ai
 www.xn--80aabz0bfcggejc.xn--p1ai
@@ -164008,6 +164097,7 @@ xn--b1amnve.net
 xn--b1amnve.pw
 xn--b1amnve.xn--p1acf
 xn--b1arjkh.com
+xn--c1a2c.hdreactor.club
 xn--c1abdnvcdbpj2e5c.com
 xn--c1adcxciuio3b.xn--p1ai
 xn--c1ajbhqpv4bv.xn--p1ai
@@ -164029,6 +164119,7 @@ xn--d1abokgdcl.site
 xn--d1abokgdcl.xn--p1ai
 xn--d1abucts.xn--p1ai
 xn--d1accrufw6e.xn--80adxhks
+xn--d1ad.hdreactor.club
 xn--d1ahfbogbaasi6c.xn--p1ai
 xn--d1ahfkdgb.su
 xn--d1ahfnbebp.xn--p1ai
@@ -165062,6 +165153,7 @@ z-imperator.com
 z-live.club
 z-lostfilm.online
 z-potolok.ru
+z.1.hdreactor.club
 z.azino777-vhod-1.xyz
 z.bobfilm-hd.ru
 z.bobfilm1.ru
