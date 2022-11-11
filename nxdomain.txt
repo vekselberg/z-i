@@ -19228,13 +19228,10 @@
 9zm5omo.icu
 ARRAY(0x83412ce70)
 ARRAY(0x835421570)
-ARRAY(0x8359d0270)
 ARRAY(0x836b03ee8)
 ARRAY(0x838648e88)
 ARRAY(0x83b9d4510)
 ARRAY(0x83c6bd4c8)
-ARRAY(0x83dc45a50)
-ARRAY(0x83dda5b58)
 ARRAY(0x83e55a480)
 ARRAY(0x83fd2b918)
 ARRAY(0x83ffafb58)
@@ -19242,9 +19239,10 @@ ARRAY(0x8b0e73840)
 ARRAY(0x8b0f3ce10)
 ARRAY(0x8b181d4e0)
 ARRAY(0x8b2373cd8)
+ARRAY(0x8b2ebe708)
 ARRAY(0x8b376c9c0)
+ARRAY(0x8b52a0f60)
 ARRAY(0x8b5c53fc0)
-ARRAY(0x8b79afab0)
 ARRAY(0x8b7f893f0)
 ARRAY(0x8ba525888)
 ARRAY(0x8bb503948)
@@ -31368,6 +31366,7 @@ baf.lordfilin.net
 baf974.olimp38fc.top
 bafilm.ru
 bagfilm.ru
+bagsslovess.ru
 bahis.anariojamoda.es
 bahis.beaarcelus.es
 bahofuhy.tk
@@ -31400,6 +31399,7 @@ balashiha.study-docums.com
 balashiha.xn----otbfohobeg7gza.xn--p1ai
 balbembi.zfilm1990.site
 balkan24.xyz
+balkanfarmma.ru
 ballofduty.art
 ballpin22.website
 ballroombabies.com
@@ -53723,6 +53723,7 @@ e-donbas.org
 e-film.zfilm2000.site
 e-island.eu
 e-kasina.com
+e-kat.schetchiki-spb.com
 e-libra.info
 e-libra.me
 e-loto.net
@@ -75108,6 +75109,7 @@ kaluga.prava.monster
 kaluga.pravap-4you.com
 kaluga.pravau-4you.com
 kaluga.prostitutki.soy
+kaluga.prostitutki24.soy
 kaluga.sam-poehali.com
 kaluga.snus-mega.ru
 kaluga.studys-documenty.com
@@ -82562,6 +82564,7 @@ levcasino-officials.com
 levcasino-offiicial.com
 levcasino.top
 levcasino777.ru
+levcasinoclub.com
 levcasinoplay.ru
 levcazino.monster
 levcazino.site
@@ -82599,6 +82602,7 @@ lew.casino
 lew.pipitor.site
 lex.financial
 ley06gu8cwmb.com
+lf02.lordfilmy.site
 lf7.lordserials.pw
 lf9-azinomobile.icu
 lfcnadrnx.top
@@ -90014,6 +90018,7 @@ medcpravka-23.xyz
 medcpravkii-medknigkii-v-irkk.ru
 medcprawka-nn.xyz
 medd-spravkii-orenburgg.ru
+medfarma24.ru
 medfirma.org
 medfirmaspb.com
 medi-cpravca.com
@@ -101982,6 +101987,7 @@ naric-kazakhstan.kz
 narko-film.ru
 narko-films.ru
 narko-films.su
+narkotiki.click
 narodniy.in.ua
 narshas.win
 nasfedrl.olimp2wzz.xyz
@@ -110717,7 +110723,6 @@ phonexeioect.xyz
 phongvevietnambooking.com
 phosphors.ru
 photo-curs.su
-photo.casinopinups.com
 photo.pinup-wiki.com
 photocodeathome.info
 photokaluga.online
@@ -117042,6 +117047,7 @@ poooh.klad.wtf
 pop.aptekaformen.ru
 pop.kinogo-kinozz.ru
 pop.litvik.ru
+pop.medfarma24.ru
 pop.see-me.ru
 pop.sezon.life
 pop.zetflix.vip
@@ -117797,6 +117803,7 @@ prostitutkihabarovskarelax.info
 prostitutkiirkutskalist.info
 prostitutkiivanovo2021.net
 prostitutkiivanovoboom.net
+prostitutkiivanovochange.com
 prostitutkiivanovogo.info
 prostitutkiivanovolist.net
 prostitutkiivanovoreal.com
@@ -129648,6 +129655,7 @@ ryazan.life-diplomw.com
 ryazan.mydiplomysstore.com
 ryazan.prava-pro.org
 ryazan.prava.monster
+ryazan.prostitutki.soy
 ryazan.prostitutki24.soy
 ryazan.prostitutkicasa.net
 ryazan.prostitutkisoy.com
@@ -133499,6 +133507,12 @@ site.vulcan-lucky12.com
 site.vulkan-platinum4.com
 site.vulkanrussia6.com
 site.zerkalo-live.online
+site10.forex4you.org
+site11.forex4you.org
+site12.forex4you.org
+site13.forex4you.org
+site14.forex4you.org
+site15.forex4you.org
 site1xbet.host
 site2.izmailov.bar
 site3.izmailov.bar
@@ -147311,6 +147325,7 @@ vologda.exdiplomys.com
 vologda.godiplomsas.com
 vologda.life-diplomr.com
 vologda.prostitutki.soy
+vologda.prostitutki24.soy
 vologda.rusn-diplomy.com
 vologda.sam-poehali.com
 vologda.sam-poexal.com
@@ -161477,6 +161492,7 @@ www.rosaauto.ru
 www.rosapteka24.ru
 www.roslotcentr.ru
 www.rostor.fun
+www.rostov.prostitutki.soy
 www.roststrategy.ru
 www.rotatecool.win
 www.rotatembetset.win
@@ -165844,6 +165860,7 @@ your.official-booi-casino.org
 youratehere.ru
 yourmarathon.win
 yourmarathonteam.win
+yourprize.ru
 yours.official-booi-casino.com
 yourussian.ru
 yourwindbet.com
