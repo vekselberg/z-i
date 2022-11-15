@@ -19238,6 +19238,7 @@ ARRAY(0x839375fa8)
 ARRAY(0x839b89408)
 ARRAY(0x83c8d6f60)
 ARRAY(0x83ca8ed20)
+ARRAY(0x83e0ec408)
 ARRAY(0x83e15d558)
 ARRAY(0x8b1c2c018)
 ARRAY(0x8b209b888)
@@ -19249,7 +19250,7 @@ ARRAY(0x8b6555df8)
 ARRAY(0x8b6a477b0)
 ARRAY(0x8b6ddeb28)
 ARRAY(0x8b73dbea0)
-ARRAY(0x8b764eee8)
+ARRAY(0x8b81cc0a8)
 ARRAY(0x8b92c04c8)
 ARRAY(0x8ba97df18)
 ARRAY(0x8bb8a9f00)
@@ -19257,7 +19258,6 @@ ARRAY(0x8bc26f210)
 ARRAY(0x8bc33feb8)
 ARRAY(0x8bfac7bb8)
 ARRAY(0x8c03b5240)
-ARRAY(0x8c04fa2e8)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -19282,7 +19282,6 @@ a.10film.top
 a.1mirr.site
 a.1xbet-hot.info
 a.1xbet-ter.site
-a.1xbett.site
 a.2020filmy.online
 a.2020hd.online
 a.alphatech.pw
@@ -19311,6 +19310,7 @@ a.bobfilm1.ru
 a.bonbon.fun
 a.casino-mask-2.xyz
 a.casino-x.com
+a.casinos-gamer.com
 a.dosug-almetevsk.ru
 a.dosug-izhevsk.com
 a.dosug-simferopol.ru
@@ -31089,6 +31089,7 @@ b.baza-knig.info
 b.bobfilm-hd.ru
 b.bobfilm1.ru
 b.boroda.tv
+b.casinos-gamer.com
 b.cinema-24.net
 b.dosug-uhta.com
 b.es-spbg.com
@@ -38204,7 +38205,6 @@ bezdep.mobi
 bezdep.name
 bezdep.net
 bezdep.one
-bezdep.playspin.ru
 bezdep.pro
 bezdep.site
 bezdep.today
@@ -41471,7 +41471,6 @@ bonus.casinobezdep.one
 bonus.casinotropezclub.com
 bonus.freelucky.info
 bonus.go2post.net
-bonus.playspin.ru
 bonus.volcanoslotsonline.com
 bonus2018.net
 bonus4.fun
@@ -54120,6 +54119,7 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
+e110.fisher-1.ru
 e111.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -55495,6 +55495,8 @@ emb.apl66.me
 emb.apl71.me
 emb.apl72.me
 emb.apl73.me
+emb.apl85.me
+emb.apl89.me
 emb.x150635.apl31.me
 embaevo-tut.prava-online.net
 embaevo.prava-online.net
@@ -57449,6 +57451,7 @@ fgtnadrbx.top
 fh5sr-azino777.icu
 fhd-1080.online
 fhd-online.ru
+fhd.kinocoin.online
 fhd.lordfilmz.site
 fhd720.ru
 fheisb4mst.com
@@ -66559,6 +66562,7 @@ hd.kinobu720.ru
 hd.kinoby1.ru
 hd.kinocam.ru
 hd.kinocamrad.ru
+hd.kinocoin.online
 hd.kinocox.net
 hd.kinocruise.club
 hd.kinodex.one
@@ -81639,6 +81643,7 @@ kursk-kupit-snus.fun
 kursk-tut.prava-online.net
 kursk-tyt.prava-online.net
 kursk-zdes.prava-online.net
+kursk.attestatuta.com.
 kursk.diplomw-4you.com
 kursk.diplomw-kurerom.com
 kursk.dublikatprav.top
@@ -100878,6 +100883,7 @@ mrbitcasinoslot.net
 mrbitcasinoslots.xyz
 mrbitcasinotop.net
 mrbitcasinovhod.net
+mrbitcasinowin.club
 mrbitcasinowin.net
 mrbitcasinoz.com
 mrbitgame.club
@@ -109551,6 +109557,7 @@ pa8he4j.icu
 paardrijden.live
 pablo-clearnet.xyz
 pace.playing-bigazart.com
+pachislot-4.gazpieprzowy.net.pl
 packersaaa.live
 packplastic.ru
 pad.mbou46.ru
@@ -119226,6 +119233,7 @@ psn-game.club
 psn-pirate.com
 psnone.ru
 psnplati.club
+psnplati.com
 psnrus.xyz
 pstdom.ru
 pstr-okno.online
@@ -141352,7 +141360,6 @@ top-slotov-rtp.disney-toys.ru
 top-slots-casino.azurewebsites.net
 top-slots.info
 top-slots.org
-top-slots.ru
 top-slots777.ru
 top-sloty-v-kazino-germanii.sotterra.ru
 top-solcasino.club
@@ -144982,6 +144989,7 @@ v10.hd720.fun
 v10.kinomutant.online
 v10.kinozorko.ru
 v10.vulcanclubplay.com
+v1080hd.com
 v1080kino.com
 v1080kino.info
 v11.hd720.fun
@@ -145342,6 +145350,7 @@ vanchopizza.ru
 vapetabakerka.ru
 variant-service.online
 variant-service.ru
+varmatchtv.ru
 varymediaplay.win
 vas89-azinomobile.icu
 vasch-vibor.ru
@@ -166347,6 +166356,7 @@ xn--80abvgcdp0czb.su
 xn--80abzibm.xn----7sbvehetibtn.com
 xn--80acujcixko.xn--p1ai
 xn--80adbfgmgkshhlabhb9adt0f0a.xn--p1ai
+xn--80addgndhech6aazs.xn--p1ai
 xn--80addt5bn2dn.xn--80adxhks
 xn--80adff8bcl.xn--p1ai
 xn--80adgwarfabdumgth.xn--p1ai
