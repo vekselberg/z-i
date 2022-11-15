@@ -19230,16 +19230,15 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x834cfe918)
 ARRAY(0x8353b0de0)
 ARRAY(0x835712288)
 ARRAY(0x836085ae0)
+ARRAY(0x8386248a0)
 ARRAY(0x839375fa8)
 ARRAY(0x839b89408)
-ARRAY(0x83c8d6f60)
-ARRAY(0x83ca8ed20)
 ARRAY(0x83e0ec408)
 ARRAY(0x83e15d558)
+ARRAY(0x840b887c8)
 ARRAY(0x8b1c2c018)
 ARRAY(0x8b209b888)
 ARRAY(0x8b24acf60)
@@ -19252,7 +19251,6 @@ ARRAY(0x8b6ddeb28)
 ARRAY(0x8b73dbea0)
 ARRAY(0x8b81cc0a8)
 ARRAY(0x8b92c04c8)
-ARRAY(0x8ba97df18)
 ARRAY(0x8bb8a9f00)
 ARRAY(0x8bc26f210)
 ARRAY(0x8bc33feb8)
@@ -19377,6 +19375,7 @@ a.konoply.club
 a.konoply.com.de
 a.kultura420.art
 a.kultura420.com
+a.kultura420.shop
 a.kupit-udostoverenie.biz
 a.kupit-udostoverenie.top
 a.lesnoy.tv
@@ -51483,6 +51482,7 @@ cryptopaha.ru
 cryptoplan.pro
 cryptorocket.trade
 cryptow.top
+crystal-bet.ru
 crystal-casino.click
 crystal-casino.co
 crystal-casino.fun
@@ -55495,7 +55495,10 @@ emb.apl66.me
 emb.apl71.me
 emb.apl72.me
 emb.apl73.me
+emb.apl79.me
+emb.apl80.me
 emb.apl85.me
+emb.apl88.me
 emb.apl89.me
 emb.x150635.apl31.me
 embaevo-tut.prava-online.net
@@ -62988,6 +62991,7 @@ gazistroy.com
 gazm20.ru
 gaznf.runeww3.site
 gazoprovod-1.prava-online.net
+gazpieprzowy.net.pl
 gazprinvest.com
 gazprom-invest.org
 gazprom.dahod.shop
@@ -80747,7 +80751,6 @@ kl44p7ojnjmst.com
 kl70a-azinomobile.icu
 klad.ms.admbot.site
 klad.ms.klad24.store
-klad24.me
 klad24.shop
 klad24.xyz
 kladik.pro
@@ -81525,6 +81528,7 @@ kukoldov.net
 kulakova-center.ru
 kultkollege.ru
 kultura420.com
+kultura420.shop
 kulylupotlayj.xyz
 kumelgetdo.top
 kumertau.auto-doki.life
@@ -106651,6 +106655,7 @@ ohmymarathon.win
 ohrana-truda-rf.online
 ohrana-truda-rf.ru
 ohuom.site
+oi-music.ru
 oi.lordfilm.frl
 oi8s6xggy5mst.com
 oifcawmm.olimpq6al.xyz
@@ -118647,6 +118652,7 @@ profit-kazino-888.vlassmaker.ru
 profitassist.io
 profitcarriage.site
 profitfinans.site
+profitium.io
 profittome.trade
 profupravdom.ru
 profxevo.site
@@ -149229,6 +149235,7 @@ vstavka.name
 vstv.cf
 vsuhov.ru
 vt2e55qrmxmb.com
+vtb-action.counsellmenow.com
 vtb-action.fjordmarine.com
 vtb-action.segwayvld.com
 vtb-bank.jasonsikes.com
