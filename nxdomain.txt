@@ -19230,9 +19230,11 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x834dcacd8)
 ARRAY(0x8353b0de0)
 ARRAY(0x835712288)
 ARRAY(0x836085ae0)
+ARRAY(0x83721a7e0)
 ARRAY(0x8386248a0)
 ARRAY(0x839375fa8)
 ARRAY(0x839b89408)
@@ -44585,6 +44587,7 @@ casino-profits-by-game.marina-meshcheryakova.ru
 casino-qiwi.ru
 casino-quotes.vozim-do-granitsy.ru
 casino-r.best
+casino-r.by
 casino-r.cc
 casino-r.fun
 casino-r.info
@@ -163957,6 +163960,7 @@ www.vse-besplatno.com
 www.vseloto.com
 www.vseserial.net
 www.vsfilm.ru
+www.vstarine.com
 www.vtokarev.ru
 www.vtorrentix.com
 www.vtracker.org
@@ -170851,6 +170855,7 @@ zigzag-777.eu
 zigzag-casino-777.ru
 zigzag-casino.org
 zigzag-i.best
+zigzag-kazino.ru
 zigzag4.ru
 zigzag5.ru
 zigzag6.ru
