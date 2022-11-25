@@ -4478,7 +4478,6 @@
 1win-oficialnyj-sajt.buzz
 1win-online.xyz
 1win-rus.club
-1win-sajt.ru
 1win-sayt-skachat-vin-one-siti.missmua.ru
 1win-sbet.com
 1win-site.azurewebsites.net
@@ -19448,9 +19447,10 @@
 ARRAY(0x83398b960)
 ARRAY(0x834044a68)
 ARRAY(0x835125858)
-ARRAY(0x838291390)
+ARRAY(0x836aa3048)
 ARRAY(0x8383545d0)
 ARRAY(0x838640e10)
+ARRAY(0x83892dc90)
 ARRAY(0x83a372480)
 ARRAY(0x83bb45e10)
 ARRAY(0x83bc85738)
@@ -19458,15 +19458,14 @@ ARRAY(0x83bfa6090)
 ARRAY(0x83d5f8d80)
 ARRAY(0x83f834438)
 ARRAY(0x8416bfc00)
+ARRAY(0x8b2ed8c48)
 ARRAY(0x8b4c208a0)
 ARRAY(0x8b51eab88)
-ARRAY(0x8b54141e0)
 ARRAY(0x8b54b42b8)
-ARRAY(0x8b68ac300)
 ARRAY(0x8b6e2b5d0)
 ARRAY(0x8b89c78e8)
+ARRAY(0x8b915ce88)
 ARRAY(0x8b99b7360)
-ARRAY(0x8bb4dc060)
 ARRAY(0x8bbe45690)
 ARRAY(0x8bf568f90)
 ARRAY(0x8c0504990)
@@ -23495,6 +23494,7 @@ alcotorg2.ru
 alcotorg3.ru
 alcotorg4.ru
 alcotorg43.ru
+alcotown-spb001.ru
 alcotown3016.com
 alcotown3517.com
 alcotown6164.com
@@ -25413,6 +25413,7 @@ asx-diplomy24.com
 asx80li85w.srca.connect.netcdn.bcdl.rocks
 asxdiplomans.com
 asxdiplomans24.com
+at-indigo-sky-bingo.smoke-fire.ru
 at-online.lordfilms-s.art
 at-perevod.ru
 at2ux3me.website
@@ -31429,6 +31430,7 @@ b1.liveball9.ga
 b1.lordfilm1.pro
 b1.mirkino.best
 b1.pipitor.site
+b1.rusbook.su
 b1.spon.live
 b1.tryserial.xyz
 b1.viewlordfilm.club
@@ -52240,12 +52242,18 @@ d0f4b36.icu
 d1.ebook.surf
 d1.fullmp3.net
 d1.lordsfilm.xyz
+d1.rusbook.su
 d1.serialswatch.club
 d1.spon.live
+d10.rusbook.su
 d10nf0x.host
+d11.rusbook.su
 d11430.olimpe297.top
+d12.rusbook.su
 d12f85.olimpdcb8.top
+d13.rusbook.su
 d13850.olimpfc65.top
+d14.rusbook.su
 d14cba.olimp9cf3.top
 d167.icu
 d1694f.olimpa7d2.top
@@ -52262,6 +52270,7 @@ d2.ebook.surf
 d2.fullmp3.net
 d2.lord-films.online
 d2.lordsfilm.xyz
+d2.rusbook.su
 d2.serialswatch.club
 d2.spon.live
 d205e2.olimp3ed3.top
@@ -52285,6 +52294,7 @@ d2selector.ru
 d3.ebook.surf
 d3.fullmp3.net
 d3.kinomoco.xyz
+d3.rusbook.su
 d3.serialswatch.club
 d3.spon.live
 d3024-azino777.icu
@@ -52301,6 +52311,7 @@ d3uvl-azino777.icu
 d3vxdijrcdmb.com
 d4.fullmp3.net
 d4.kinomoco.xyz
+d4.rusbook.su
 d4.serialswatch.club
 d4.spon.live
 d4072a.olimp0115.top
@@ -52319,6 +52330,7 @@ d4fdb5.olimp9f96.top
 d4ix6j3hanfvmb.com
 d5.fullmp3.net
 d5.kinomoco.xyz
+d5.rusbook.su
 d5.spon.live
 d505e0.olimp9b5b.top
 d51e7hnwmb.com
@@ -52334,6 +52346,7 @@ d5cfb5.olimpf4ab.top
 d5ekvkonzymst.com
 d5q99-azino777.host
 d6.fullmp3.net
+d6.rusbook.su
 d6.serialswatch.club
 d625f8.olimp31d2.top
 d63287jpum.top
@@ -52347,6 +52360,7 @@ d6h7h2tnv7mb-setka.com
 d6pkk-azino777.icu
 d6pkt-azinomobile.host
 d7.kinomodus.xyz
+d7.rusbook.su
 d7.spon.live
 d70264.olimp656f.top
 d716ia75oo.com
@@ -52362,6 +52376,7 @@ d7c65b.olimp9cf3.top
 d7dc78.olimpb138.top
 d7jt1-azinomobile.icu
 d8.kinomodus.xyz
+d8.rusbook.su
 d8.spon.live
 d81b.club
 d8630cc.icu
@@ -52372,6 +52387,7 @@ d8e1b5c.com
 d8e259.olimpd9f7.top
 d8hljfjw93enhvz.xyz
 d8rz2urgngmst.com
+d9.rusbook.su
 d9.spon.live
 d903ac.olimpf4ab.top
 d904d4.olimpd6a6.top
@@ -53866,6 +53882,7 @@ dostavka-voronezh-alco.store
 dostavka.flash.city
 dostavka.pivovozspb.in
 dostavka.probka.cyou
+dostavkaalco001.ru
 dostavkatime.ru
 dostavkatimemagasin.ru
 dostavkavkazani.xyz
@@ -68190,6 +68207,7 @@ hdrezo.biz
 hdrezo.info
 hdrezzka.site
 hdrfilm.net
+hdrhdr.com
 hdrip.biz
 hdrip.online
 hdrip.xyz
@@ -72491,6 +72509,7 @@ joshkar-ola.studys-documenty.com
 jotwr.xyz
 journal-onlain.ru
 journal-onlain.top
+journal-volgograd.ru
 journalonline.top
 journals-world.ru
 journaly.ru
@@ -83132,6 +83151,7 @@ leon-official-site.site
 leon-official.fun
 leon-official.space
 leon-official.xyz
+leon-official1-bet-play.ru
 leon-official1-bet.ru
 leon-online.ru
 leon-registracija.com
@@ -88652,6 +88672,7 @@ mamkoved.top
 mammeo.space
 man.lordfilms-tv.site
 man.vulkanjet.com
+management-software-bookie-7.ajsblo.pl
 managementmanthra.com
 managerfifa.xyz
 managerfifah.xyz
@@ -102010,6 +102031,7 @@ my-vulkan-vegas.bet
 my-zaycev.net
 my.1hd1080.info
 my.24trade.net
+my.alleng.org
 my.arhivfailov.ru
 my.axentrade.com
 my.belosnegki.xyz
@@ -102301,6 +102323,7 @@ myvippobeda.com
 myvulcancasino.ru
 myvulcanclub.ru
 myvulkan.top
+myvulkangrand.ru
 myvulkanplatinum.com
 myvulkanruss1.ru
 myworkshop.space
@@ -107489,7 +107512,6 @@ onhockey.live
 onhockey.pro
 onhockey.top
 onhockey.win
-oniksyar.ru
 oniline.myslotik.net
 oniom.gs
 onion-1.com
@@ -108159,6 +108181,7 @@ online.dirta.ru
 online.divan-tv.win
 online.eldorado-kasino.site
 online.fan-vulkan.com
+online.frank-casino.info
 online.game-casinox.fun
 online.game-casinox.net
 online.gidonline-1176.site
@@ -131112,7 +131135,6 @@ sale-sofosbuvir.ru
 sale.9203336.site
 sale.9253451.com
 sale.anti-co.xyz
-sale.diplomis-svs.com
 sale.medfirma.org
 sale.moscowpharma.su
 sale.spravka-spb.store
@@ -133703,6 +133725,7 @@ sferosoft.online
 sferosoft.ru
 sfez4808n1y0mb.com
 sffbs684.pw
+sffiilm.com
 sffs994.com
 sffsfgg.tk
 sfhvpmelgn.top
@@ -134161,6 +134184,7 @@ sigarety-import.info
 sigarety-import.live
 sigarreti-optom.com
 sigarus8.com
+sigidot2.net
 sigmakino.club
 signal03.ru
 signalprocessing.ru
@@ -136104,6 +136128,7 @@ smmelheordo.top
 smnf23knc.com
 smoczek-sklep.pl
 smok-games.site
+smoke-fire.ru
 smokenvape.ru
 smokgam.es
 smokgames.best
@@ -138297,6 +138322,7 @@ spravkif-na-dom.com
 spravkii-medknigkii-v-tverii.ru
 spravkij-na-dom.com
 spravkimed.net
+spravkina.site
 spravkinazakaz.com
 spravkineva.online
 spravkio-v-gai.com
@@ -138993,6 +139019,7 @@ stonerstime.com
 stonezenit.top
 stop-schet.ru
 stop-shet.ru
+stopfilms.red
 stophd.ru
 stopitarbitrazh.com
 stopitarbitrazh.online
@@ -140741,6 +140768,7 @@ tomsk.fort-pravan.com
 tomsk.godiplomsas.com
 tomsk.gozsnakdiplomas.com
 tomsk.kupit-prava.com
+tomsk.kupug-prava.com
 tomsk.medknizhka-bystro.xyz
 tomsk.poluchite-prava.online
 tomsk.prava.monster
@@ -142186,6 +142214,7 @@ trade.mjs-fx.com
 trade.norselle.com
 trade.opinvesting.net
 trade.pearlfx.net
+trade.pexpayfinance.com
 trade.provinvest.org
 trade.psb.broker
 trade.quickeliquid.net
@@ -143587,6 +143616,7 @@ uacasino.ua.casino
 uae.go-out.me
 uafarm.site
 uajgrycx.fun
+ualiveazino777.com
 uapd3oaymb.com
 uasport.online
 uastate.com
@@ -156221,6 +156251,7 @@ winlinestar38.com
 winlinestar39.com
 winlinestar4.com
 winlinestar40.com
+winlinestar48.com
 winlinestar5.com
 winlinestar6.com
 winlinestar7.com
@@ -163983,7 +164014,6 @@ www.worldstream.pw
 www.wowmagic.me
 www.wowmagick2.xyz
 www.wowmagics.xyz
-www.wowoclip.com
 www.ww.xrutor.org
 www.ww1.hdreactor.net
 www.ww8aids.org
