@@ -13207,7 +13207,6 @@
 3-hd.lorfil.lol
 3-hour.space
 3-topora.online
-3-tuza.com
 3-tuza.net
 3.0cb1.xyz
 3.1.12zigzag777.com
@@ -19444,6 +19443,7 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x8338c2210)
 ARRAY(0x83398b960)
 ARRAY(0x834044a68)
 ARRAY(0x835125858)
@@ -19451,10 +19451,10 @@ ARRAY(0x836aa3048)
 ARRAY(0x8383545d0)
 ARRAY(0x838640e10)
 ARRAY(0x83892dc90)
+ARRAY(0x8390e8f18)
 ARRAY(0x83a372480)
 ARRAY(0x83bb45e10)
 ARRAY(0x83bc85738)
-ARRAY(0x83bfa6090)
 ARRAY(0x83d5f8d80)
 ARRAY(0x83f834438)
 ARRAY(0x8416bfc00)
@@ -19466,7 +19466,6 @@ ARRAY(0x8b6e2b5d0)
 ARRAY(0x8b89c78e8)
 ARRAY(0x8b915ce88)
 ARRAY(0x8b99b7360)
-ARRAY(0x8bbe45690)
 ARRAY(0x8bf568f90)
 ARRAY(0x8c0504990)
 ARRAY(0x8c07ff2a0)
@@ -24188,7 +24187,6 @@ antiwulkan.ru
 antoniocasa.ru
 anusrkn.openrussia.org
 anutafoto.ru
-anvcasino.com
 anvgoplay.me
 anvgoplay.net
 anvgoplay.org
@@ -28548,6 +28546,7 @@ azino777-mll2o.icu
 azino777-mly56.icu
 azino777-mmea9.icu
 azino777-mnxew.icu
+azino777-mo1.ru
 azino777-mo2.ru
 azino777-mob.club
 azino777-mob.com
@@ -35017,7 +35016,6 @@ betbetx.xyz
 betbetz.xyz
 betbig.ru
 betbkmbet.win
-betbookmakers.mobi
 betboom-casino.xyz
 betboom-official1-bk.ru
 betboom-official1.ru
@@ -53697,6 +53695,7 @@ dokdipllomy.com
 dokfilmy.online
 dokiekb-sb.ru
 dokiekb-sk.ru
+dokikrasnoyarsk-vk.ru
 dokinovosib-rm.ru
 dokiomsk-rp.ru
 dokiperm-sk.ru
@@ -54529,7 +54528,6 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
-e110.fisher-1.ru
 e111.fisher-1.ru
 e112.fisher-1.ru
 e1152ad.icu
@@ -57486,7 +57484,6 @@ fartuscasino.fun
 fartuvam.fun
 fas-torent.pro
 fasad-at.ru
-faserial.com
 fashion-monitor.fun
 fasl-casinos.ru
 fasl-cosinos.ru
@@ -65601,8 +65598,6 @@ grand-casino118.com
 grand-casino216.com
 grand-casino24.ru
 grand-casino24.xyz
-grand-casino31.com
-grand-casino34.com
 grand-casino87.com
 grand-casinoclub.com
 grand-casinoff.ru
@@ -78248,7 +78243,6 @@ kino-1337.ru
 kino-2.hd-1080.live
 kino-2017.online
 kino-2018.me
-kino-2018.online
 kino-2020-online.ru
 kino-2020.com
 kino-2020.fun
@@ -102929,6 +102923,7 @@ nelzorg.space
 nenk.pw
 nensi-mebel.ru
 nensy.6rutor.site
+neo-film.ru
 neo.kino-go.digital
 neo.kino-onlain.xyz
 neoaxis.online
@@ -104470,7 +104465,6 @@ ngznmzgabpmst.com
 nh0wd-azino777.icu
 nh10t-azino777.icu
 nh1anxufdo.top
-nhac.vip
 nhdybwdvb4mb.com
 nhg-mar-rrghr.win
 nhiif-azino777.icu
@@ -106806,6 +106800,7 @@ olga-tv.pro
 olga-tv.top
 olga-tw.pro
 olga-tw.site
+olga.lol
 olga.monster
 olga4isoro.tryserialmisi.online
 olgaserial.ru
@@ -118204,7 +118199,6 @@ porno2018.com
 porno24xxx.top
 porno25.info
 pornoafisha.xxx
-pornoakt.in
 pornoakt.top
 pornoall.cc
 pornoatom.net
@@ -120123,6 +120117,7 @@ r-casino34.win
 r-casjno.site
 r-caslno.site
 r-casuno.me
+r-charts.net
 r-ciasino.me
 r-ciasino.site
 r-dreu.ru
@@ -140203,7 +140198,6 @@ terminal.nordic-cloud-c.net
 terminal.usa-broker.com
 terraarch.ru
 terraperm.ru
-terrapoker.com
 terraserial.ru
 terrikon-kino.ru
 territoriyaazarta.su
@@ -142970,7 +142964,6 @@ tubebot.ru
 tubeovo.com
 tubepages.ru
 tubeplay.ru
-tubetram.net
 tubezoo.ru
 tubtuts.info
 tubvideo.ru
@@ -144000,7 +143993,6 @@ up0w3.club
 up0x4.su
 up0y9.club
 up1d8.tech
-up1i5.club
 up1k4.ru
 up1u3.xyz
 up1y6.xyz
@@ -144046,7 +144038,6 @@ up5z4.site
 up6g7.art
 up6p6.xyz
 up6p7.xyz
-up6q5.tech
 up6s0.xyz
 up6u5.ru
 up6v0.xyz
@@ -147500,7 +147491,6 @@ vipazinomob.icu
 vipazinomob.site
 vipbigcihd.net
 vipbonusgame.ru
-vipbook.pro
 vipbookmakers.ru
 vipclub-777.com
 vipclub.casino
@@ -148535,6 +148525,7 @@ vrn.documentu-avto.info
 vrn.rusofdak.ru
 vrn1.documentu-avto.info
 vrnir-azinomobile.icu
+vrotberi.net
 vrtytcrq-quvry.xyz
 vrutor.eu
 vs-cash.pro
@@ -158181,6 +158172,7 @@ www.ataxi.com.ua
 www.atelienapetrogradke.ru
 www.atlanticcasinomarketing.com
 www.atoll-af.ru
+www.audio-kniga.org
 www.audio-lib.ru
 www.audioboo.ru
 www.audiokniga.in
@@ -159218,7 +159210,6 @@ www.btput.info
 www.bud-perm.ru
 www.bukmbetmts.com
 www.bukmekerfon.com
-www.bukmekerfonbet.com
 www.bukmekerskajakontorazerkalo.online
 www.bukmekery.co
 www.bukvaved-love.bid
@@ -159414,7 +159405,6 @@ www.classiccasinogold.com
 www.classicgoldcasino.net
 www.cleantube.ru
 www.climatcom-shop.ru
-www.cliptk.com
 www.cloda.me
 www.cloda.plus
 www.cloda.zone
@@ -162429,7 +162419,6 @@ www.redstarcasino11.eu
 www.redstarcasino12.eu
 www.redstarcasino13.eu
 www.redstarcasino14.eu
-www.redstarcasino16.eu
 www.redstarcasino17.eu
 www.redstarcasino18.eu
 www.redstarcasino19.eu
