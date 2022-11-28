@@ -19409,11 +19409,12 @@
 9zm5omo.icu
 ARRAY(0x834d1a390)
 ARRAY(0x8367102b8)
+ARRAY(0x839afc540)
 ARRAY(0x83e05d060)
 ARRAY(0x84099f2d0)
 ARRAY(0x840cea360)
-ARRAY(0x840e13ea0)
 ARRAY(0x84116ec00)
+ARRAY(0x8b2d75f78)
 ARRAY(0x8b396f060)
 ARRAY(0x8b3b0dcc0)
 ARRAY(0x8b5454468)
@@ -19432,7 +19433,6 @@ ARRAY(0x8c0ce8d80)
 ARRAY(0x8c0d0f6c0)
 ARRAY(0x8c0de7858)
 ARRAY(0x8c1044420)
-ARRAY(0x8c237c9f0)
 ARRAY(0x8c2b94468)
 ARRAY(0x8c30d0750)
 a-bets63.top
@@ -71150,6 +71150,7 @@ increasebed.site
 increaseprofit.xyz
 incrediblegamebonus.com
 ind93oex.com
+indi-game.com
 indi-samara2.com
 indi-samara3.com
 indi-samara7.com
@@ -114720,7 +114721,6 @@ play.columbuscasinoslot.info
 play.columbuscasinovhod.info
 play.columbuscasinowin.info
 play.crazy-monkey.in
-play.dinhvutrangngan.com
 play.drift-casinotop.com
 play.drift-casinoyes.com
 play.driftcasino-info.com
@@ -158597,6 +158597,7 @@ www.4azino777.win
 www.4november.ru
 www.4torrents.net
 www.4vlast.info
+www.4xempires.com
 www.5-888azino.win
 www.5-azino777.win
 www.5-azmpp.win
@@ -168088,6 +168089,7 @@ zakaz.gepatitanet.guru
 zakaz.lv-med.website
 zakaz.mosmedblank.top
 zakaz3.lv-med.website
+zakazat-nanyat-naiti.com
 zakic-azota.ru
 zakino.net
 zakis-azot.shop
