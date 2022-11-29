@@ -19411,10 +19411,10 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x8354a4150)
 ARRAY(0x8366eab10)
 ARRAY(0x8369f83f0)
 ARRAY(0x8370f5b88)
-ARRAY(0x839afc540)
 ARRAY(0x839fecba0)
 ARRAY(0x83b2f1d08)
 ARRAY(0x83b5bfc00)
@@ -19424,9 +19424,9 @@ ARRAY(0x83ddd2180)
 ARRAY(0x83fa4b600)
 ARRAY(0x8403ee720)
 ARRAY(0x8b2258dc8)
-ARRAY(0x8b2d75f78)
 ARRAY(0x8b43a40a8)
 ARRAY(0x8b6225120)
+ARRAY(0x8b7308240)
 ARRAY(0x8b73f6c48)
 ARRAY(0x8b7f5d8a0)
 ARRAY(0x8b8c72648)
@@ -76241,6 +76241,7 @@ k0e6tretd8mst.com
 k0llqzsbikmb.com
 k1.alfaseeds.art
 k1.alfaseeds.cloud
+k1.alfaseeds.ink
 k1.alfaseeds.tech
 k1.kinogo-lordfilm.net
 k1.kinokurt.me
@@ -82170,6 +82171,7 @@ krd.rusofdak.ru
 krd1.documentu-avto.info
 kreare.space
 krebor.ru
+krechet-shop.ru
 kredez.space
 kredit-24.su
 kredit-leaders-aa.com
@@ -86298,6 +86300,7 @@ lordfilms4.link
 lordfilms4.livecc.online
 lordfilms4.zone
 lordfilmse.ru
+lordfilmshd.club
 lordfilmshow.org
 lordfilmss.buzz
 lordfilmss.club
@@ -113552,6 +113555,7 @@ pinupcasino-r.site
 pinupcasino.azurewebsites.net
 pinupcasino.best
 pinupcasino.fun
+pinupcasino.vip
 pinupcasino.win
 pinupcasino1.su
 pinupcasino102.com
@@ -131747,6 +131751,7 @@ sale-sofosbuvir.ru
 sale.9203336.site
 sale.9253451.com
 sale.anti-co.xyz
+sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomisbry.com
@@ -144063,6 +144068,7 @@ tvok.fun
 tvonline.su
 tvoy-vulkan-udachi-igrovyye-avtomaty.shatilovo.ru
 tvoy.stoyak.online
+tvoya-spravka.ru
 tvoymillion.org
 tvoyvulkan.org
 tvpil887.bennnntosd1.info
@@ -149810,6 +149816,7 @@ vulcan-grand-official14.fun
 vulcan-grand-official15.fun
 vulcan-grand-official16.fun
 vulcan-grand-official2.site
+vulcan-grand-official2.win
 vulcan-grand-official2.xyz
 vulcan-grand-official3.site
 vulcan-grand-official3.win
