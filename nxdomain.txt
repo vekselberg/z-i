@@ -19413,22 +19413,22 @@ ARRAY(0x836aef948)
 ARRAY(0x83a4689d8)
 ARRAY(0x83e1f1618)
 ARRAY(0x84071a150)
-ARRAY(0x8b2e5fcc0)
 ARRAY(0x8b3b5c438)
 ARRAY(0x8b3e8bb28)
 ARRAY(0x8b4e9a450)
 ARRAY(0x8b541c378)
 ARRAY(0x8b5a70ab0)
 ARRAY(0x8b5a98468)
-ARRAY(0x8b5bafaf8)
 ARRAY(0x8b7c19c18)
 ARRAY(0x8b8149b88)
 ARRAY(0x8b862cdf8)
+ARRAY(0x8b8a1c720)
 ARRAY(0x8b8b1dee8)
 ARRAY(0x8b8fb8b58)
 ARRAY(0x8bab4c510)
 ARRAY(0x8bb91f378)
 ARRAY(0x8bba81198)
+ARRAY(0x8bcbf3be8)
 ARRAY(0x8be945ae0)
 ARRAY(0x8becfe9f0)
 ARRAY(0x8c0364d98)
@@ -23538,6 +23538,7 @@ alko-store59.ru
 alko-store60.ru
 alko-store61.ru
 alko-store62.ru
+alko-store64.ru
 alko-store65.ru
 alko116.xyz
 alko16.xyz
@@ -25551,6 +25552,7 @@ avrilwg.com
 avrobeting.com
 avrora-av.online
 avrora-av.ru
+avs.laboscana.net
 avsxldoap.icu
 avt08-azino777.icu
 avto-docs.ru
@@ -39568,6 +39570,7 @@ bk-melbet-zerkalo-site.xyz
 bk-melbet.club
 bk-melbet.online
 bk-melbet.org
+bk-melbets.ru
 bk-mostbet-official-zerkalo.club
 bk-mostbet-official.fun
 bk-mostbet-official.site
@@ -44705,6 +44708,7 @@ casino-pinup-official906.xyz
 casino-pinup-oficial906.fun
 casino-pinup-online906.fun
 casino-pinup-play.azurewebsites.net
+casino-pinup-play.win
 casino-pinup-play21.fun
 casino-pinup-player.azurewebsites.net
 casino-pinup-site.azurewebsites.net
@@ -57268,6 +57272,7 @@ fapcheck.ru
 fapor7rre.icu
 fapos.net
 fappics.ru
+faq-hydra.com
 faq-hydra.ru
 faqbet.kz
 far2.mc-clinik.com
@@ -60525,6 +60530,7 @@ fortuna-avtomaty.mixsub.ru
 fortuna-bonus.pro
 fortuna-bonus7.net
 fortuna-casino-active.ru
+fortuna-casino-club.ru
 fortuna-casino-login.ecodecor-shop.ru
 fortuna-casino.top
 fortuna-clock-casino.szczesliwestopki.pl
@@ -62573,6 +62579,7 @@ futboll.online
 futbolnye-obzory.ru
 futbolonlajn.com
 futbolonlajn.ru
+futbolstreams.club
 futurama-shop.klad.wtf
 futurama.klad.wtf
 futuramaklad.com
@@ -71235,6 +71242,7 @@ intensiefgehoor.online
 intensiv7.ru
 inter-farma-de.com
 inter-info.xyz
+interactive-markets.org
 interbet01.club
 interbet3.club
 interbet5.club
@@ -80858,6 +80866,7 @@ kinotan.ru
 kinotan.zfilm1990.site
 kinotan.zfilm2000.site
 kinotank.online
+kinotasix.uz
 kinotaun.ru
 kinotavr.kz
 kinotaz.site
@@ -88778,6 +88787,7 @@ mandarin-slotsu6.com
 mandarin-slotv5d.com
 mandarincas.com
 mandevilleconsultantsltd.com
+manevr.az
 maneylocky.space
 mango.pipitor.site
 mango.pyramidgambling.xyz
@@ -102408,6 +102418,7 @@ mytor.space
 mytorka.tk
 mytororg.tk
 mytorrents.xyz
+mytorrnado.ru
 mytrafficmostbet.com
 mytraffmostbet.com
 mytv.group
@@ -106275,6 +106286,7 @@ official-pinup-casino.ru
 official-pinup-casino.site
 official-pinup-casino.win
 official-pinup-casino.xyz
+official-pinup-play.win
 official-pinup-site.win
 official-pinup-slot.win
 official-pinup-win.azurewebsites.net
@@ -107209,6 +107221,7 @@ on-the-sofa.space
 on-video.tv
 on-vtb.one
 on.1hd1080.info
+on.alleng.org
 on.betting-helper.fun
 on.films-2021.cc
 on.gidonllinego.ru
@@ -112710,6 +112723,7 @@ pinup-casino777.site
 pinup-casino777.win
 pinup-casino797.win
 pinup-casino81.fun
+pinup-casino81.win
 pinup-casino841.ru
 pinup-casino888.site
 pinup-casino888.website
@@ -116794,6 +116808,7 @@ pm-casinos-sloter.xyz
 pm-casinos-slots.xyz
 pm-casinos-victory.xyz
 pm-casinos-winning.xyz
+pm-casinos.pro
 pm-casinos.ru
 pm-casinos.xyz
 pm-casinosbet.xyz
@@ -123015,6 +123030,7 @@ reiting-avtomatov.xyz
 reiting-bestcasino01.ru
 reiting-bestcasinoz.ru
 reiting-kazino.su
+reiting-online-casino.ru
 reiting-online-kazino.azurewebsites.net
 reitingkazino.com
 reitingstopcasino.ru
@@ -123562,6 +123578,7 @@ riobet7.ru
 riobet777.club
 riobet780.ru
 riobet79.ru
+riobet80.ru
 riobetbetmax1.ru
 riobetbetmax2.ru
 riobetcash.azurewebsites.net
@@ -131329,17 +131346,13 @@ sale.9203336.site
 sale.9253451.com
 sale.anti-co.xyz
 sale.diplomabuyer.com
-sale.diplomis-mkp.com
 sale.diplomis-svs.com
-sale.diplomisbry.com
 sale.diplomys-bratsk.com
+sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
-sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
-sale.kupit-attestat-v-spb-812.ru
-sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.medfirma.org
@@ -131888,6 +131901,7 @@ selector40.gg
 selector41.gg
 selector42.gg
 selector43.gg
+selector44.gg
 selector5.gg
 selector6.gg
 selector7.gg
