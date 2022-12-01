@@ -19408,7 +19408,6 @@
 9zm5omo.icu
 ARRAY(0x8358cf558)
 ARRAY(0x836508f60)
-ARRAY(0x836aef948)
 ARRAY(0x83a4689d8)
 ARRAY(0x83df8ad20)
 ARRAY(0x83e1f1618)
@@ -19429,9 +19428,10 @@ ARRAY(0x8bb91f378)
 ARRAY(0x8bba81198)
 ARRAY(0x8bcbf3be8)
 ARRAY(0x8be945ae0)
-ARRAY(0x8becfe9f0)
+ARRAY(0x8bf525720)
 ARRAY(0x8c0364d98)
 ARRAY(0x8c19f9108)
+ARRAY(0x8c3e25f90)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -47821,6 +47821,7 @@ casinojoy42.xyz
 casinojoy85.xyz
 casinojoy96.xyz
 casinojozz.org
+casinojust.com
 casinoka.ru
 casinokbs.org
 casinokbs.xyz
@@ -56501,6 +56502,7 @@ exgambling7.xyz
 exgambling8.com
 exgambling8.xyz
 exgambling9.com
+exgambling9.xyz
 exgl.info
 exglobal.pro
 exgym.ru
@@ -65325,7 +65327,7 @@ good.k1no.cc
 good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
-good.kupit-attestat-v-chelyabinske-351.ru
+good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
@@ -85245,7 +85247,6 @@ ljs3vl7.host
 ljt12nmjart.com
 ljysioxubjmb.com
 lk.fan-serials.online
-lk.narayana.cash
 lk.narayana.club
 lk.novavi.org
 lk.ruanabol.top
@@ -106321,6 +106322,7 @@ official-pinup-wins1.azurewebsites.net
 official-pinup.azurewebsites.net
 official-pinup.com
 official-pinup.net
+official-pinup.xyz
 official-pinup1.xyz
 official-pinup103.xyz
 official-pinup117.xyz
@@ -111711,6 +111713,7 @@ phonex8ioeck.xyz
 phonexeioect.xyz
 phongvevietnambooking.com
 phosphors.ru
+photo.casinopinups.com
 photo.pinup-wiki.com
 photocodeathome.info
 photokaluga.online
@@ -112067,6 +112070,7 @@ pin-up-official.org.ru
 pin-up-official.ru
 pin-up-official.site
 pin-up-official.win
+pin-up-official.xyz
 pin-up-official10.fun
 pin-up-officials.fun
 pin-up-officials.website
@@ -112475,6 +112479,7 @@ pinup-ave.xyz
 pinup-aviator.space
 pinup-best1.ru
 pinup-bet-385.com
+pinup-bet-official.xyz
 pinup-bet-win.xyz
 pinup-bet.site
 pinup-bet061.com
@@ -112870,6 +112875,7 @@ pinup-official-play3.win
 pinup-official-site.com
 pinup-official-site.org
 pinup-official-site.win
+pinup-official-site.xyz
 pinup-official-slot.win
 pinup-official-slot.xyz
 pinup-official-slot1.xyz
@@ -112880,6 +112886,7 @@ pinup-official.net.ru
 pinup-official.online
 pinup-official.org.ru
 pinup-official.website
+pinup-official.xyz
 pinup-officiales.com
 pinup-officials.site
 pinup-officials.website
@@ -120393,6 +120400,7 @@ r13.pesnityt.ru
 r14.filfak.xyz
 r15.filfak.xyz
 r15h3-azinomobile.icu
+r16.dosugrost.com
 r16.filfak.xyz
 r17.filfak.xyz
 r18.filfak.xyz
@@ -129106,6 +129114,7 @@ ru.slotsay.com
 ru.slotv-casino-online.website
 ru.smbvo5z.com
 ru.smnf23knc.com
+ru.smo-diplomas.com
 ru.specnadzor.com
 ru.spprava.com
 ru.spy-casino.club
@@ -131373,6 +131382,7 @@ sale.anti-co.xyz
 sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
+sale.diplomisbry.com
 sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
@@ -131384,6 +131394,7 @@ sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.medfirma.org
 sale.moscowpharma.su
+sale.sok-diplomas.com
 sale.spravka-spb.store
 sale.vol-diplomas.com
 saleglass.ru
@@ -134817,6 +134828,7 @@ skybudshops.com
 skycard.cash
 skycard.me
 skycard.pro
+skycard.top
 skycinema.cc
 skydesigner.ru
 skyinvest-holding.com
@@ -158024,7 +158036,6 @@ www.4azino777.win
 www.4november.ru
 www.4torrents.net
 www.4vlast.info
-www.4xempires.com
 www.5-888azino.win
 www.5-azino777.win
 www.5-azmpp.win
