@@ -8899,7 +8899,6 @@
 1xbets-x.top
 1xbets-xbets.top
 1xbets-xx.top
-1xbets.site
 1xbets1.site
 1xbetsegodny2019.info
 1xbetser.site
@@ -19411,19 +19410,19 @@ ARRAY(0x8358cf558)
 ARRAY(0x836508f60)
 ARRAY(0x836aef948)
 ARRAY(0x83a4689d8)
+ARRAY(0x83df8ad20)
 ARRAY(0x83e1f1618)
 ARRAY(0x84071a150)
 ARRAY(0x8b3b5c438)
+ARRAY(0x8b3de08d0)
 ARRAY(0x8b3e8bb28)
 ARRAY(0x8b4e9a450)
-ARRAY(0x8b541c378)
 ARRAY(0x8b5a70ab0)
 ARRAY(0x8b5a98468)
 ARRAY(0x8b7c19c18)
 ARRAY(0x8b8149b88)
 ARRAY(0x8b862cdf8)
 ARRAY(0x8b8a1c720)
-ARRAY(0x8b8b1dee8)
 ARRAY(0x8b8fb8b58)
 ARRAY(0x8bab4c510)
 ARRAY(0x8bb91f378)
@@ -44713,6 +44712,7 @@ casino-pinup-play21.fun
 casino-pinup-player.azurewebsites.net
 casino-pinup-site.azurewebsites.net
 casino-pinup-site.mobi
+casino-pinup-slot.win
 casino-pinup-slot.xyz
 casino-pinup-slot1.fun
 casino-pinup-slot1.top
@@ -45169,7 +45169,6 @@ casino-top-russia.azurewebsites.net
 casino-top-russian.azurewebsites.net
 casino-top-slot.azurewebsites.net
 casino-top.azurewebsites.net
-casino-top.online
 casino-top.site
 casino-top.space
 casino-top10.pp.ua
@@ -52521,6 +52520,7 @@ dasyure.site
 data.lordfilin.net
 data.zerkalosite.net
 datagreed.ru
+datnew.store
 dato.tvfilms.club
 dato1.tvfilms.club
 datum-finance-limited.com
@@ -53087,6 +53087,7 @@ din1.kinotitan.ru
 din10.kinotitan.ru
 din5.kinotitan.ru
 dingpoworkback.tk
+dinhvutrangngan.com
 dinnyrim.olimpd29l.xyz
 dinoage.ru
 dinosaur-show.online
@@ -57947,7 +57948,6 @@ film-fan.online
 film-fan.ru
 film-hd-online.com
 film-hd.fun
-film-hd.site
 film-hd1080.net
 film-hd1080.ru
 film-house.online
@@ -63612,6 +63612,7 @@ geekspins5.com
 geekspins5.xyz
 geekspins6.com
 geekspins7.com
+geekspins7.xyz
 geekspins8.xyz
 geekspins9.com
 geely29.ru
@@ -65326,6 +65327,7 @@ good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
+good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
 good.saledip-at.com
@@ -65788,7 +65790,6 @@ grand-slots-vulkan.com
 grand-slots-vulkan.vip
 grand-slots.club
 grand-slots.one
-grand-slots.online
 grand-slots.quest
 grand-slots.ru
 grand-slots.shop
@@ -78579,7 +78580,6 @@ kino-live11.site
 kino-live2.pw
 kino-live2.site
 kino-live3.org
-kino-live3.site
 kino-live4.org
 kino-live4.site
 kino-live5.site
@@ -84857,6 +84857,7 @@ lirunexinvest.co
 lirunexinvest.com
 lis161.ga
 lisamuz.ru
+lisasha.ru
 liski.diploms4yoursas.com
 liski.exdiplomus.com
 list-casino-online.nabeach.ru
@@ -90189,6 +90190,31 @@ mbbfcap.xyz
 mbbfcard.xyz
 mbbfcast.xyz
 mbbfcat.xyz
+mbbfchain.xyz
+mbbfchair.xyz
+mbbfchin.xyz
+mbbfclass.xyz
+mbbfclean.xyz
+mbbfclock.xyz
+mbbfcloth.xyz
+mbbfclub.xyz
+mbbfcoach.xyz
+mbbfcoal.xyz
+mbbfcoast.xyz
+mbbfcook.xyz
+mbbfcover.xyz
+mbbfcrate.xyz
+mbbfcrown.xyz
+mbbfcub.xyz
+mbbfcurve.xyz
+mbbfday.xyz
+mbbfdesk.xyz
+mbbfdock.xyz
+mbbfdog.xyz
+mbbfeasy.xyz
+mbbfenjoy.xyz
+mbbffan.xyz
+mbbffarm.xyz
 mbdou-14.ru
 mbdou-32.ru
 mbebtterm.com
@@ -107178,7 +107204,6 @@ omwork.cc
 on-line-slotv.namobile.fun
 on-money-vulcan.xyz
 on-off-on.gidonline-742.site
-on-off-on.lostfilm-hd-1359.site
 on-off-on.lostfilm-hd-1679.site
 on-off-on.zfilm-hd-1048.online
 on-off-on.zfilm-hd-1065.online
@@ -111686,7 +111711,6 @@ phonex8ioeck.xyz
 phonexeioect.xyz
 phongvevietnambooking.com
 phosphors.ru
-photo.casinopinups.com
 photo.pinup-wiki.com
 photocodeathome.info
 photokaluga.online
@@ -114293,6 +114317,7 @@ play.columbuscasinoslot.info
 play.columbuscasinovhod.info
 play.columbuscasinowin.info
 play.crazy-monkey.in
+play.dinhvutrangngan.com
 play.drift-casinotop.com
 play.drift-casinoyes.com
 play.driftcasino-info.com
@@ -129081,7 +129106,6 @@ ru.slotsay.com
 ru.slotv-casino-online.website
 ru.smbvo5z.com
 ru.smnf23knc.com
-ru.smo-diplomas.com
 ru.specnadzor.com
 ru.spprava.com
 ru.spy-casino.club
@@ -130122,6 +130146,7 @@ ruscasinos.su
 ruscasinos1.info
 ruscasinos1.net
 ruscasinos1.su
+ruscasinos10.xyz
 ruscasinos11.xyz
 ruscasinos13.xyz
 ruscasinos15.xyz
@@ -131346,6 +131371,7 @@ sale.9203336.site
 sale.9253451.com
 sale.anti-co.xyz
 sale.diplomabuyer.com
+sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomys-bratsk.com
 sale.diplomys-chr.com
@@ -131353,11 +131379,11 @@ sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
 sale.kupit-attestat-v-samare-846.ru
+sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.medfirma.org
 sale.moscowpharma.su
-sale.sok-diplomas.com
 sale.spravka-spb.store
 sale.vol-diplomas.com
 saleglass.ru
@@ -136374,7 +136400,6 @@ smokgames.store
 smokgames.tech
 smokgames.top
 smokgames.uno
-smokymag.net
 smolensk-kalyan-vape.ru
 smolensk-tut.bez-avtoshkoly.site
 smolensk.damdiplomes.com
@@ -157473,7 +157498,6 @@ ww.goldfishka8.com
 ww.hd-1080.live
 ww.kino-onlinego.com
 ww.kinocruise.club
-ww.kinomutant.online
 ww.lordfilms.mobi
 ww.maxbet-slots.org
 ww.putlockers.film
@@ -157815,7 +157839,6 @@ www.20-azino777.win
 www.20-azmpp.win
 www.200azino777.win
 www.201azino777.win
-www.2020filmy.online
 www.2020hd.online
 www.2021-filmy.online
 www.2021hd.online
@@ -160651,6 +160674,7 @@ www.inter-scommessa.com
 www.internetgamblingdirectory.net
 www.intgames.net
 www.intim-club.site
+www.intim-dosug.one
 www.intim-vl25.com
 www.inulpoker.link
 www.invrt.ru
@@ -162789,7 +162813,6 @@ www.ru6spinpalace.com
 www.rubetcity.com
 www.rubetcity.top
 www.rubit-tracker.org
-www.ruerovideos.tv
 www.rufilm.tv
 www.ruletka-bitcoin.com
 www.ruletka-casino.com
