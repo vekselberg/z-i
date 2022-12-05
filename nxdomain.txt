@@ -19449,13 +19449,14 @@
 9zm5omo.icu
 ARRAY(0x833725a08)
 ARRAY(0x8344520f0)
-ARRAY(0x8376ed2b8)
 ARRAY(0x83ae77768)
 ARRAY(0x83b828330)
 ARRAY(0x83e20ea08)
 ARRAY(0x83e5f4d20)
 ARRAY(0x83e884810)
+ARRAY(0x83fa6d8a0)
 ARRAY(0x83fcba330)
+ARRAY(0x8403fb4e0)
 ARRAY(0x841cfaac8)
 ARRAY(0x8b42cfcd8)
 ARRAY(0x8b59b7e28)
@@ -19469,7 +19470,6 @@ ARRAY(0x8bdaeb960)
 ARRAY(0x8bdbd8498)
 ARRAY(0x8bdf32d80)
 ARRAY(0x8c15197e0)
-ARRAY(0x8c3610bd0)
 ARRAY(0x8c4549e88)
 a-bets63.top
 a-bt56.top
@@ -34786,6 +34786,7 @@ bet-boom111.com
 bet-boom112.com
 bet-boom113.com
 bet-boom114.com
+bet-boom12.com
 bet-boom125.com
 bet-boom13.com
 bet-boom14.com
@@ -48474,6 +48475,7 @@ casinos-slotv.pro
 casinos-sol-fest.ru
 casinos-sol-side.ru
 casinos-top-10.azurewebsites.net
+casinos-tops.ru
 casinos-trust.azurewebsites.net
 casinos-vavada.azurewebsites.net
 casinos-vulcan.azurewebsites.net
@@ -50114,6 +50116,7 @@ cfbroker.io
 cfc5kzw5ewme.xyz
 cfd.belfort-way.com
 cfd.bitreth.com
+cfd.coinswap.fm
 cfd.crelanbankanalytics.com
 cfd.deltainvestment.uk
 cfd.fxbank.capital
@@ -65585,7 +65588,6 @@ good-win-frank.club
 good.diplomis-mkh.com
 good.filmshd.vip
 good.k1no.cc
-good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
@@ -107600,6 +107602,7 @@ omsk.edu24-diplomany.com
 omsk.exdiplomses.com
 omsk.exdiplomys.com
 omsk.fort-pravamb.com
+omsk.fulldiplom24.com
 omsk.kupit-prava.com
 omsk.kupug-prava.com
 omsk.kupuw-prava.com
@@ -108504,6 +108507,7 @@ online-igroviye-avtomaty.com
 online-igroviyeavtomaty.com
 online-igrovye-avtomaty.com
 online-imperator-casino.nuku-nuku.info
+online-j.xyz
 online-jackpot-game.com
 online-jackpots.net
 online-journaloff.ru
@@ -108720,6 +108724,7 @@ online.dirta.ru
 online.divan-tv.win
 online.eldorado-kasino.site
 online.fan-vulkan.com
+online.frank-casino.info
 online.game-casinox.fun
 online.game-casinox.net
 online.gidonline-1176.site
@@ -130523,6 +130528,7 @@ rus-marathon.site
 rus-media-org.info
 rus-melbet.club
 rus-mfo.com
+rus-music.com
 rus-musics.com
 rus-onlinecasino1000.ru
 rus-pasporta-2021.com
@@ -131851,7 +131857,6 @@ sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomys-bratsk.com
-sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
@@ -131864,7 +131869,6 @@ sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
 sale.sok-diplomas.com
 sale.spravka-spb.store
-sale.vol-diplomas.com
 saleglass.ru
 salehard.sex-znakom.com
 sales.9253451.com
@@ -160299,6 +160303,7 @@ www.clubsacasino.com
 www.clubvulcan777.org
 www.cobura.space
 www.cofn-gov.com
+www.coinswap.fm
 www.colibrifx.com
 www.com-eng.ru
 www.commandante.ru
