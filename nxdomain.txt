@@ -19465,16 +19465,15 @@
 9zm5omo.icu
 ARRAY(0x833ac1678)
 ARRAY(0x8349c4d50)
-ARRAY(0x834afb5b8)
 ARRAY(0x834ee6d08)
 ARRAY(0x835bce0f0)
 ARRAY(0x836d37a80)
 ARRAY(0x83861e408)
 ARRAY(0x83ac92e88)
 ARRAY(0x83f1654c8)
-ARRAY(0x8401d7540)
 ARRAY(0x840987ea0)
 ARRAY(0x8416c5900)
+ARRAY(0x8b35e0d08)
 ARRAY(0x8b4998510)
 ARRAY(0x8b61e2870)
 ARRAY(0x8b7e64078)
@@ -19485,6 +19484,7 @@ ARRAY(0x8bca338b8)
 ARRAY(0x8be47a978)
 ARRAY(0x8be5be858)
 ARRAY(0x8be9e7870)
+ARRAY(0x8bf37ffa8)
 ARRAY(0x8bfcc4510)
 ARRAY(0x8bff57e70)
 ARRAY(0x8c0b99f48)
@@ -24940,7 +24940,6 @@ argo-kazino.ru
 argo-promokod.goldang.ru
 argo-slots.com
 argo-sport.ru
-argo.krypie.ru
 argocasino-official1.ru
 argocasino-play.com
 argocasino.bet
@@ -50990,6 +50989,7 @@ cinematronik.ru
 cinemaup.site
 cinemaxx.biz
 cinemaxx.me
+cinephile.online
 cinimalot.ru
 cioec8onexzyp.xyz
 cioyyu.best
@@ -54820,6 +54820,7 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
+e110.fisher-1.ru
 e111.fisher-1.ru
 e112.fisher-1.ru
 e1152ad.icu
@@ -65758,7 +65759,6 @@ good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
-good.saledip-at.com
 good.vlddiplomus.com
 good99year.com
 goodalco1111.com
@@ -69522,6 +69522,7 @@ hydrarunxpnew4af.com
 hydrarupzxnew4af.onion-shop24.com
 hydrarurzxnew4af.top
 hydrarusikwpnew4afonion.com
+hydrarusikxpnew4afonionon.com
 hydrarusikxpnew4afoniononline.com
 hydrarusoexkd4copuuvio52k7hd6qbabt4lxcwnbsad.onion-zerkalo-v3.com
 hydrarusxpnow4af.com
@@ -112453,6 +112454,7 @@ pharaon24.ru
 pharaon4025.ru
 pharaon4026.ru
 pharaon777.azurewebsites.net
+pharaonbet.krypie.ru
 pharaoncasino-bonuc700.online
 pharaoncasino.azurewebsites.net
 pharaoncasino.club
@@ -128417,6 +128419,7 @@ ru.iosdoap12.com
 ru.irleo52oa8.com
 ru.irs61wwx0072qa.com
 ru.irz7ael.com
+ru.islamic-sources.com
 ru.itorrent-igruha.org
 ru.iva21489hb.com
 ru.izi.az
@@ -148529,6 +148532,7 @@ vidcas2.qolden-game.com
 vidcas2.qoldqame.com
 vidcas4.golden-game4.com
 vide.kinoha1080.ru
+videeo.kinogut.space
 video-34.ru
 video-c.ru
 video-clip-press.info
@@ -151522,7 +151526,6 @@ vulkan-bonus.azurewebsites.net
 vulkan-bonus.casino
 vulkan-bonus.fun
 vulkan-bonus.icu
-vulkan-bonus.krypie.ru
 vulkan-bonus.link
 vulkan-bonus.store
 vulkan-bonus.xyz
@@ -158369,6 +158372,7 @@ wulcan-russia-casino.top
 wulcan-russia.azurewebsites.net
 wulcan-russia.club
 wulcan-russia.online
+wulcan-russia.ru
 wulcan-slot.azurewebsites.net
 wulcan-slots.azurewebsites.net
 wulcan-stars.azurewebsites.net
