@@ -19485,7 +19485,6 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
-ARRAY(0x834a53be8)
 ARRAY(0x838418108)
 ARRAY(0x8389d1288)
 ARRAY(0x839077900)
@@ -19495,8 +19494,9 @@ ARRAY(0x83aba7420)
 ARRAY(0x83b6c8198)
 ARRAY(0x83debb600)
 ARRAY(0x83e01e600)
-ARRAY(0x8b34a2288)
+ARRAY(0x8b3499180)
 ARRAY(0x8b38de870)
+ARRAY(0x8b3a1d978)
 ARRAY(0x8b48e0840)
 ARRAY(0x8b5bb3cc0)
 ARRAY(0x8b66ef348)
@@ -65106,6 +65106,7 @@ go.9618azinogo.icu
 go.9660azinogo.icu
 go.aazino777.online
 go.admiral-slots.top
+go.alleng.org
 go.azartzona-play.com
 go.azino-24-azino.icu
 go.azino-azino24.site
@@ -65919,7 +65920,6 @@ good-win-frank.club
 good.diplomis-mkh.com
 good.filmshd.vip
 good.k1no.cc
-good.kemerovodiplomys.com
 good.kinogo.wtf
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
@@ -91959,6 +91959,7 @@ mediacoin.pro
 mediafiarys.com
 mediaforumzz.com
 mediainfo.in.ua
+medialaw.kz
 medialight.site
 mediamanthree.com
 mediarot-newyear.win
@@ -113038,6 +113039,7 @@ pin-up-casino-online.top
 pin-up-casino-online.win
 pin-up-casino-online.xyz
 pin-up-casino-online2.top
+pin-up-casino-onlyne.xyz
 pin-up-casino-pin.com
 pin-up-casino-play-games.org
 pin-up-casino-play.win
@@ -114467,6 +114469,7 @@ pinupofficial.club
 pinupofficial.online
 pinupofficial.ru
 pinupofficial.top
+pinupofficialcasino.xyz
 pinupoficialnyj.site
 pinupp1.info
 pinuppay-slotz.ru
@@ -128820,6 +128823,7 @@ ru.dgewjn2ek.com
 ru.dgwjn31kj.com
 ru.dh0cpt5v97.com
 ru.diplom-r.org
+ru.diplomsbrn.com
 ru.diplomyxchelyabinsk.com
 ru.djajb4bhnc.com
 ru.djbf123hmc.com
@@ -130577,6 +130581,7 @@ ru.slotsay.com
 ru.slotv-casino-online.website
 ru.smbvo5z.com
 ru.smnf23knc.com
+ru.smo-diplomas.com
 ru.spy-casino.club
 ru.spycasino.club
 ru.spycasino.info
@@ -132877,9 +132882,7 @@ sale.grzdiplomix.com
 sale.kazandiplomax.com
 sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
-sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
-sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
 sale.rostovnadonudiplomis.com
@@ -138866,6 +138869,7 @@ sol999-avtomaty1.ru
 solandmost.com
 solar-money.best
 solarcouncilinc.com
+solarisbest.love
 solarispaint.ru
 solbest.ru
 solbest1.ru
@@ -154835,6 +154839,7 @@ w.azino777.ru.net
 w.casino-mars-1.xyz
 w.casinonadengi.org
 w.drochka.mobi
+w.eldoradoklub.org
 w.evro-lek.ru
 w.fantasy-worlds.org
 w.farmamixse.ru
@@ -166635,6 +166640,7 @@ wwwcasino.info
 wwwttr.ru
 wwwvavadabonus.com
 wwww.islamdin.com
+wwww.kambohstream.xyz
 wwwww.rusimperia.info
 wwy.mp3-tut.online
 wxclo.site
