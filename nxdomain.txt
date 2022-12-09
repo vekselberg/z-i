@@ -19496,17 +19496,17 @@ ARRAY(0x83b6c8198)
 ARRAY(0x83d1d3510)
 ARRAY(0x83debb600)
 ARRAY(0x83e01e600)
-ARRAY(0x83feb4540)
 ARRAY(0x8b34a2288)
 ARRAY(0x8b38de870)
 ARRAY(0x8b48e0840)
+ARRAY(0x8b5bb3cc0)
 ARRAY(0x8b66ef348)
+ARRAY(0x8bc326e88)
 ARRAY(0x8bd2e6f30)
 ARRAY(0x8bdaed738)
 ARRAY(0x8be2d47b0)
 ARRAY(0x8beef57f8)
 ARRAY(0x8bef519a8)
-ARRAY(0x8c1146390)
 ARRAY(0x8c14cd4e0)
 ARRAY(0x8c20671c8)
 ARRAY(0x8c27175d0)
@@ -39246,6 +39246,7 @@ bk-firstbet8.online
 bk-firstbet8.win
 bk-fon-bet.com
 bk-fon.com
+bk-fonbet.net
 bk-fonbet.online
 bk-fonbet.ru.com
 bk-fonbet100.ru
@@ -54867,7 +54868,6 @@ e.beliyspisok.name
 e.fantasy-worlds.org
 e.fast-torrent1.top
 e.feipiter.com
-e.genotech.site
 e.gidonline-1176.site
 e.gidonline-144.site
 e.gidonline-1656.site
@@ -54931,7 +54931,6 @@ e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
 e110.fisher-1.ru
-e111.fisher-1.ru
 e112.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -57583,7 +57582,6 @@ faintnoble.info
 fairplayvip.net
 fairscash.ru
 fairspin-casino.site
-fairspin.ru
 fairy-land.info
 fairygamewlk.com
 fairyland-vrn.ru
@@ -57839,7 +57837,6 @@ farm.farmlandpro.store
 farm24.xyz
 farm43.ru
 farm59.ru
-farm82.ru
 farm96.ru
 farma-land.ru
 farma-lend.ru
@@ -62777,7 +62774,6 @@ ftp.online-bigcinema.net
 ftp.sledy66.com
 ftp.vabankclub.email
 ftp0.ru
-ftp5.netco.uz
 ftpuotbs.space
 ftpvuuff.fun
 fu.kinogood.me
@@ -65902,6 +65898,7 @@ good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
 good.saledip-at.com
+good.vlddiplomus.com
 good99year.com
 goodalco1111.com
 goodbkmbet.win
@@ -69525,6 +69522,8 @@ hydra-com.org
 hydra-darknet.click
 hydra-darknet.club
 hydra-darknet.link
+hydra-darknet.pro
+hydra-darknet.top
 hydra-drops.onion-ssylka-v3.com
 hydra-info.ru
 hydra-loot.online
@@ -69635,6 +69634,7 @@ hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchida.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchidb.top
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchidonion.info
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7nchidshop.com
+hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7ncid.com
 hydraclubioknikoke7.com
 hydraclublinkwebsiteofficialonion.space
 hydraclubsiteoneon.com
@@ -71733,6 +71733,7 @@ infofilmes.ru
 infofilms.ru
 infoflows.xyz
 infointers.xyz
+infokursmarket.net
 infomania.bz
 infomostbet-bets.ru
 infomostbet-bk.ru
@@ -109352,7 +109353,6 @@ online.dirta.ru
 online.divan-tv.win
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.fun
 online.game-casinox.net
 online.gidonline-1176.site
@@ -128748,7 +128748,6 @@ ru.dgewjn2ek.com
 ru.dgwjn31kj.com
 ru.dh0cpt5v97.com
 ru.diplom-r.org
-ru.diplomsbrn.com
 ru.diplomyxchelyabinsk.com
 ru.djajb4bhnc.com
 ru.djbf123hmc.com
@@ -132799,6 +132798,7 @@ sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomisbry.com
 sale.diplomys-bratsk.com
+sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
@@ -132809,7 +132809,6 @@ sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
-sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.spravka-spb.store
 sale.vol-diplomas.com
@@ -143089,6 +143088,7 @@ top10-online-casino.info
 top10-online-casino.xyz
 top10-online-casino1.xyz
 top10-online-casino10.xyz
+top10-online-casino11.xyz
 top10-online-casino2.xyz
 top10-online-casino3.xyz
 top10-online-casino4.xyz
@@ -160160,7 +160160,6 @@ www.alcostock037.xyz
 www.alcostock039.xyz
 www.alcostock046.xyz
 www.alcostock054.xyz
-www.alcotime013.xyz
 www.alcotime015.xyz
 www.alcotime016.xyz
 www.alcotime017.xyz
