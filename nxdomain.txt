@@ -3630,6 +3630,7 @@
 1kz0ooy8mst.com
 1lbetrate.host
 1lbetrate.ru
+1leon.ru
 1leon.site
 1leon.website
 1leonbet.ru
@@ -19494,10 +19495,12 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x834210918)
+ARRAY(0x835bd2990)
 ARRAY(0x836311f30)
 ARRAY(0x836591108)
 ARRAY(0x838472648)
 ARRAY(0x8385917b0)
+ARRAY(0x8386c17c8)
 ARRAY(0x83b3c4120)
 ARRAY(0x83d0e1090)
 ARRAY(0x83f69bed0)
@@ -19508,14 +19511,12 @@ ARRAY(0x8b3499180)
 ARRAY(0x8b3a1d978)
 ARRAY(0x8b4b657f8)
 ARRAY(0x8b5536450)
-ARRAY(0x8b5bb3cc0)
 ARRAY(0x8b76cff78)
 ARRAY(0x8b84f0a68)
 ARRAY(0x8ba09dbe8)
 ARRAY(0x8bb9911e0)
 ARRAY(0x8bbc30990)
 ARRAY(0x8bbd82d50)
-ARRAY(0x8bc326e88)
 ARRAY(0x8bdf8c468)
 ARRAY(0x8bfe95648)
 ARRAY(0x8c131fed0)
@@ -34223,7 +34224,6 @@ beewin.xyz
 beewir.xyz
 beewire.xyz
 befilm.ru
-beforeke.fun
 befu.blackrutor.site
 begeshop.ru
 begivkino.online
@@ -52626,7 +52626,6 @@ d.film-mix1.online
 d.firebro.top
 d.firsthd1.ru
 d.freehd.com.ua
-d.genotech.site
 d.gidonline-2156.site
 d.herrutor.org
 d.kinogo.wtf
@@ -63494,6 +63493,7 @@ game.freshfit-vrn.com
 game.givor.ru
 game.grandcazino.su
 game.igryxa.ru
+game.internet-casino-guide.net
 game.joy-kasino.online
 game.kasino-admiral-game.online
 game.kazino-x.com
@@ -65911,8 +65911,10 @@ good.k1no.cc
 good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
+good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
+good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
 good.saledip-at.com
@@ -69759,6 +69761,7 @@ hydraruzxpnew4afonion.ru
 hydraruzxpnew4afonion1.com
 hydraruzxpnew4afonlion.ru
 hydraruzxpnew4afonlon.com
+hydraruzxpnew4afshop.com
 hydraruzxpnew4avfonion.ru
 hydraruzxpnew4faonion.com
 hydraruzxpnew4laf-onion.com
@@ -89439,7 +89442,6 @@ magnitslot4.com
 magnitslot5.com
 magnitslot8.com
 magnitslot9.com
-magnumirk.com
 magreclama.ru
 magruz.net
 magsellm.com
@@ -103316,7 +103318,6 @@ mylittleprofit.net
 mylivedealer.com
 myloginportal.info
 mylotoru.xyz
-mylove40.su
 myloveslot.azurewebsites.net
 myloveslot.net
 myloveslots.azurewebsites.net
@@ -115504,6 +115505,7 @@ play.graf-casino.xyz
 play.grand-casino-online.ru
 play.igrovyeavtomaty-frank.xyz
 play.igry-flash.com
+play.internet-casino-guide.net
 play.joy-casino-official.online
 play.joycasino-slots.org
 play.kasino-x-official.online
@@ -120390,6 +120392,7 @@ prostitutkinizhnegonovgorodatask.com
 prostitutkinizhnegonovgorodawomen.net
 prostitutkinizhnegotagilaero.info
 prostitutkinizhnegotagilamix.com
+prostitutkinizhnevartovskalet.com
 prostitutkinizhnevartovskasexy.com
 prostitutkinovogourengoyaarea.net
 prostitutkinovokuznetskaclub.org
@@ -132684,7 +132687,8 @@ sale.anti-co.xyz
 sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
-sale.diplomys-chr.com
+sale.diplomisbry.com
+sale.diplomys-bratsk.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
