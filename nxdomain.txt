@@ -3267,6 +3267,7 @@
 1bet-x98944.world
 1bet.pro
 1bet.ru.com
+1bet.site
 1bet7e0uz.ru
 1betcity.top
 1beter.ru
@@ -8860,6 +8861,7 @@
 1xbetrs1.top
 1xbetrs2.top
 1xbetru-24x7.space
+1xbetru.fun
 1xbetru.site
 1xbetru.space
 1xbetrum.site
@@ -19455,6 +19457,7 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x834694b70)
+ARRAY(0x8346c15a0)
 ARRAY(0x834ba8600)
 ARRAY(0x8351a2ab0)
 ARRAY(0x835562360)
@@ -19466,7 +19469,6 @@ ARRAY(0x83bda3390)
 ARRAY(0x83d9da4b0)
 ARRAY(0x83e769318)
 ARRAY(0x83ebab930)
-ARRAY(0x8411cc5a0)
 ARRAY(0x8417ca180)
 ARRAY(0x8b5f9f180)
 ARRAY(0x8b911b5e8)
@@ -19477,11 +19479,11 @@ ARRAY(0x8ba153810)
 ARRAY(0x8ba967df8)
 ARRAY(0x8bbb83f90)
 ARRAY(0x8bd4420d8)
-ARRAY(0x8be5d1180)
 ARRAY(0x8bf888900)
 ARRAY(0x8bfc82798)
 ARRAY(0x8c0dbdee8)
 ARRAY(0x8c11b8d38)
+ARRAY(0x8c1cf73c0)
 ARRAY(0x8c2a714b0)
 ARRAY(0x8c3cb8ea0)
 a-bets63.top
@@ -43187,7 +43189,6 @@ buy.qrcode-covid.com
 buy.relax-in-moscow.ru
 buy.xn----gtbdadoapyaqmh0j.xn--p1ai
 buy1.qrcode-covid.com
-buy24.viarussia.org
 buycialismedsonline.com
 buycocaine.us
 buyg1.com
@@ -43959,6 +43960,7 @@ casino-aplay.nlofact.com
 casino-aplay.online
 casino-apparaty.ru
 casino-ar.guru
+casino-argo.online
 casino-argo.ru
 casino-argo.site
 casino-argo.su
@@ -43996,6 +43998,7 @@ casino-avtomati.space
 casino-avtomaty.com
 casino-avtomaty.ru
 casino-azart-play.net
+casino-azart-play.online
 casino-azart-play1.net
 casino-azartmania.info
 casino-azartmania.online
@@ -54909,6 +54912,7 @@ e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
+e110.fisher-1.ru
 e111.fisher-1.ru
 e112.fisher-1.ru
 e1152ad.icu
@@ -65862,6 +65866,7 @@ good.filmshd.vip
 good.k1no.cc
 good.kemerovodiplomys.com
 good.kinogo.wtf
+good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
@@ -85324,6 +85329,7 @@ limis.win
 limited-trd-cloud.net
 limited-trd.biz
 limitzenit.site
+limo-play.online
 limon-million.ru
 limon-tv.net
 limonfilm.net
@@ -102939,7 +102945,6 @@ my-vulkan-vegas.bet
 my-zaycev.net
 my.1hd1080.info
 my.24trade.net
-my.alleng.org
 my.arhivfailov.ru
 my.axentrade.com
 my.bezdepozita.online
@@ -109128,7 +109133,6 @@ online.dirta.ru
 online.divan-tv.win
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.fun
 online.game-casinox.net
 online.gidonline-1176.site
@@ -115387,7 +115391,6 @@ play.slotvcasino-new.info
 play.slotvcasino-new.net
 play.slotvcasinoenter.info
 play.slotvcasinonew.info
-play.slotvcasinosite.com
 play.slotvcasinovhod.info
 play.slotvcasinowin.net
 play.top-admiral-casino.online
@@ -130217,6 +130220,7 @@ ru.slotsay.com
 ru.slotv-casino-online.website
 ru.smbvo5z.com
 ru.smnf23knc.com
+ru.smo-diplomas.com
 ru.spy-casino.club
 ru.spycasino.club
 ru.spycasino.info
@@ -160997,6 +161001,7 @@ www.crownshop.cc
 www.cryptofairplay.com
 www.crystal-casino.net
 www.crystalcasino.info
+www.crystall-casino.online
 www.crystalslot.vip
 www.crystalslotclub.com
 www.csgodesire.org
