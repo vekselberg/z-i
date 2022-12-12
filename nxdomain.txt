@@ -10818,6 +10818,7 @@
 1xslots.cloud
 1xslots.cool
 1xslots.date
+1xslots.fun
 1xslots.guru
 1xslots.live
 1xslots.online
@@ -19491,11 +19492,11 @@ ARRAY(0x8346c15a0)
 ARRAY(0x8362a63a8)
 ARRAY(0x8372f0990)
 ARRAY(0x8383d76c0)
+ARRAY(0x838758b40)
 ARRAY(0x83886d060)
 ARRAY(0x838996fd8)
 ARRAY(0x838bc3b88)
 ARRAY(0x83c2905a0)
-ARRAY(0x83d9da4b0)
 ARRAY(0x83dd0b660)
 ARRAY(0x83ec76e40)
 ARRAY(0x840c25270)
@@ -19504,9 +19505,9 @@ ARRAY(0x8b31d86a8)
 ARRAY(0x8b529df48)
 ARRAY(0x8b72b2858)
 ARRAY(0x8b8b48f90)
+ARRAY(0x8ba4b1c60)
 ARRAY(0x8bac89b70)
 ARRAY(0x8bad87ea0)
-ARRAY(0x8bbb83f90)
 ARRAY(0x8bda89f00)
 ARRAY(0x8c17bd6a8)
 ARRAY(0x8c1aaa750)
@@ -19676,7 +19677,6 @@ a.nbtyumen.org
 a.nightlady.nu
 a.novokuznetsk-nb.com
 a.omsk-z.com
-a.one-steel.online
 a.onlinevkino.com
 a.onlinevkino.net
 a.onlinevkino1.com
@@ -19690,6 +19690,7 @@ a.rasta-rasha.online
 a.rasta-rasha.shop
 a.rasta-rasha.space
 a.rasta-rasha.tech
+a.rastarasha.ink
 a.rastarasha.shop
 a.recept-reduksin.com
 a.reduksin.club
@@ -23463,7 +23464,9 @@ alconights644.ru
 alconnov4.ru
 alcoparty.online
 alcopresent148.ru
+alcopulyaa66.online
 alcopulyaa66.ru
+alcopulyaa96.online
 alcopulyaa96.ru
 alcostock017.xyz
 alcostock018.xyz
@@ -23706,7 +23709,9 @@ alkopulya96.xyz
 alkopulya966.online
 alkopulya966.ru
 alkopulya996.online
+alkopulyaa66.online
 alkopulyaa66.ru
+alkopulyaa96.online
 alkopulyaa96.ru
 alkovillage.site
 all-777-azino.site
@@ -25385,7 +25390,6 @@ astrahan.godiplomses.com
 astrahan.intim69.tips
 astrahan.life-diplomn.com
 astrahan.life-diplomw.com
-astrahan.onlines-diploman24.com
 astrahan.pravae-4you.com
 astrahan.pravao-ru.com
 astrahan.prostitutki.fit
@@ -31495,7 +31499,6 @@ b.mmix.club
 b.movies-online.su
 b.myklad.me
 b.okah.top
-b.one-steel.online
 b.onlinevkino.com
 b.onlinevkino.net
 b.onlinevkino1.com
@@ -44197,7 +44200,6 @@ casino-champion1.com
 casino-champion1.ru
 casino-champion2.ru
 casino-champion2020.site
-casino-championslots.info
 casino-chempion-official1.win
 casino-chempion-official2.win
 casino-chempion.org
@@ -44248,7 +44250,6 @@ casino-columbus3.fun
 casino-columbus365.ru
 casino-com.krypie.ru
 casino-comar-leon.womanknow.ru
-casino-cosmolot.com
 casino-cristal.kz
 casino-cristall.com
 casino-crystal-online.ru
@@ -44901,7 +44902,6 @@ casino-otzyvy.org
 casino-p.org
 casino-parimatch.org
 casino-parimatch.ru
-casino-parimatch.site
 casino-pays.ru
 casino-payz.ru
 casino-pharaon-online.com
@@ -47674,6 +47674,7 @@ casinoapk.info
 casinoapk.xyz
 casinoapk2.xyz
 casinoapk3.xyz
+casinoapk4.xyz
 casinoapks.com
 casinoaplay.group
 casinoaplay.network
@@ -51710,7 +51711,6 @@ co.lordfilm.so
 co.lordfilmq.net
 co.lordfilmx.biz
 co1403.ru
-co1x.mobi
 co4wx7oxyrmst.com
 co5kkcf.host
 co8vf-azino777.icu
@@ -52675,7 +52675,6 @@ d.my-kino.org
 d.myklad.me
 d.neherrutor.org
 d.nerutorher.org
-d.one-steel.online
 d.reduksin.club
 d.ru-kinogo.net
 d.rutor.press
@@ -57145,7 +57144,6 @@ f.lordfilms-film.online
 f.lordfilms-filmy.online
 f.lordssfilm.life
 f.moonfilmc.club
-f.one-steel.online
 f.parkerlabs.shop
 f.scatz.fun
 f.smotretfilmi.ru
@@ -65119,6 +65117,7 @@ go.9618azinogo.icu
 go.9660azinogo.icu
 go.aazino777.online
 go.admiral-slots.top
+go.alleng.org
 go.azartzona-play.com
 go.azino-24-azino.icu
 go.azino-azino24.site
@@ -65938,7 +65937,6 @@ good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
-good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
@@ -71523,6 +71521,7 @@ incore.capital
 increasebed.site
 incrediblegamebonus.com
 ind93oex.com
+indatabs.com
 indi-game.com
 indi-samara2.com
 indi-samara3.com
@@ -80913,6 +80912,7 @@ kinolair.online
 kinolair.ru
 kinolake.online
 kinolake.ru
+kinolar.org
 kinolaym.club
 kinolaym.net
 kinolaym.online
@@ -97135,7 +97135,6 @@ moskapital.com
 moskva-diplomm.com
 moskva-diploms.com
 moskva-hot.com
-moskva.bez-avtoshkoly.site
 moskva.doc-avto.info
 moskva.kupit-prava.com
 moskva.pravax.top
@@ -102756,7 +102755,6 @@ murmansk.studys-document.com
 murmansk.vodd-prava.com
 murmansk.vodn-prava.com
 murmansk1.hostgen.ru
-murmansk5.hostgen.ru
 murmanskaya-oblast-tyt.bez-avtoshkoly.site
 murmanskaya-oblast.poluchite-prava.online
 murmur48.cc
@@ -108162,7 +108160,6 @@ omsk1.hostgen.ru
 omsk1.prostitutki.store
 omsk2.prostitutki.store
 omsk4.hostgen.ru
-omsk5.hostgen.ru
 omskaya-oblast.bez-avtoshkoly.site
 omskredcross.ru
 omskrusdeutsch.ru
@@ -112963,11 +112960,14 @@ pin-up-casino24.site
 pin-up-casino25.site
 pin-up-casino26.site
 pin-up-casino27.site
+pin-up-casino28.site
+pin-up-casino29.site
 pin-up-casino3.com
 pin-up-casino3.fun
 pin-up-casino3.net
 pin-up-casino3.top
 pin-up-casino3.win
+pin-up-casino30.site
 pin-up-casino4.fun
 pin-up-casino4.net
 pin-up-casino4.win
@@ -119231,6 +119231,7 @@ pokerdom-officials.site
 pokerdom-officials.website
 pokerdom-officials.win
 pokerdom-offlcial.tech
+pokerdom-oficialnyj.site
 pokerdom-oficialnyj.win
 pokerdom-oficialnyj1.win
 pokerdom-oficialnyj2.site
@@ -128779,7 +128780,6 @@ ru.dgewjn2ek.com
 ru.dgwjn31kj.com
 ru.dh0cpt5v97.com
 ru.diplom-r.org
-ru.diplomsbrn.com
 ru.diplomyxchelyabinsk.com
 ru.djajb4bhnc.com
 ru.djbf123hmc.com
@@ -129748,6 +129748,7 @@ ru.leon921921.com
 ru.leon9221.com
 ru.leon92419.com
 ru.leon9249.com
+ru.leon9276.com
 ru.leon9279.com
 ru.leon9301.com
 ru.leon9307.com
@@ -132561,7 +132562,6 @@ s21.sharewood.xyz
 s22.kinomot.xyz
 s22.sharewood.xyz
 s22.slivbiz.cc
-s23.allcoursesclub.cc
 s23.sharewood.xyz
 s2333924234.torrent--games.net
 s24.sharewood.xyz
@@ -133327,7 +133327,6 @@ seeds-cannabis.store
 seeds-kanabis.fun
 seeds-kanabis.space
 seeds-shop.club
-seeds.growerz.de
 seeds.semenarnia-shop.org
 seedscannabis.fun
 seedscannabis.shop
@@ -134250,6 +134249,7 @@ sex.kurgan.prostitutki.fit
 sex.kurtizanki36.ru
 sex.loveapteka.ru
 sex.miass-dd.com
+sex.novosibirsk.prostitutki.fit
 sex.prostitutki-angarska.ru
 sex.prostitutki-kalugi.win
 sex.prostitutki-sochi.men
@@ -135495,7 +135495,6 @@ sheroil.ru
 shesthe1.space
 shetchikof.ru
 shett.ru
-shf.via2you.me
 shfx.ru
 shgdcd.top
 ship-world.ru
@@ -135574,7 +135573,6 @@ shop.ganja-seeds.cc
 shop.ganja-seeds.cz
 shop.ganjaseeds.site
 shop.gmeds365.org
-shop.growerz.de
 shop.growerz.pet
 shop.hepalife.ru
 shop.japanshop24.ru
@@ -138132,7 +138130,6 @@ sofosbuvir-russia.ga
 sofosbuvir-russia.ml
 sofosbuvir-sanktpeterburg.ru
 sofosbuvir-stores.ru
-sofosbuvir-tolyatti.ru
 sofosbuvir-tymen.ru
 sofosbuvir-v-kazani.ru
 sofosbuvir-v-permi.ru
@@ -145261,7 +145258,6 @@ u.serialy-hd.fun
 u.tntx.ru
 u.topserialshd.pw
 u.vmigalko555.online
-u.xtorrents-igruha.org
 u.zfilm-hd666.monster
 u01can.com
 u01cano.com
@@ -154414,7 +154410,6 @@ vyazyma2.prostitutki.store
 vybhnu.best
 vyborcasinoonline.com
 vybortv.xyz
-vybory2012.politiko.ua
 vyce4cpyn4tlwtf.xyz
 vycgdd.doingtheswirl.com
 vye161e2nvmst.com
