@@ -19488,16 +19488,16 @@
 9zm5omo.icu
 ARRAY(0x8344c3e58)
 ARRAY(0x8346c15a0)
-ARRAY(0x8351a2ab0)
 ARRAY(0x8362a63a8)
+ARRAY(0x8372f0990)
 ARRAY(0x8383d76c0)
 ARRAY(0x83886d060)
 ARRAY(0x838996fd8)
 ARRAY(0x838bc3b88)
-ARRAY(0x83bda3390)
+ARRAY(0x83c2905a0)
 ARRAY(0x83d9da4b0)
 ARRAY(0x83dd0b660)
-ARRAY(0x83ebab930)
+ARRAY(0x83ec76e40)
 ARRAY(0x840c25270)
 ARRAY(0x88f6c8ca8)
 ARRAY(0x8b31d86a8)
@@ -19508,11 +19508,11 @@ ARRAY(0x8bac89b70)
 ARRAY(0x8bad87ea0)
 ARRAY(0x8bbb83f90)
 ARRAY(0x8bda89f00)
-ARRAY(0x8c0dbdee8)
 ARRAY(0x8c17bd6a8)
 ARRAY(0x8c1aaa750)
 ARRAY(0x8c1cf73c0)
 ARRAY(0x8c25216f0)
+ARRAY(0x8c4c25750)
 ARRAY(0x8c56ee5e8)
 a-bets63.top
 a-bt56.top
@@ -26218,6 +26218,7 @@ azartmania.biz
 azartmania.casino
 azartmania.info
 azartmania.me
+azartmania.monster
 azartmania.one
 azartmania.space
 azartmania.xyz
@@ -54121,6 +54122,7 @@ dofiga-mp3.ru
 dog-house.online
 dog.dostfilms.biz
 dogcharm.ru
+dogfilms.vip
 dogicountry.xyz
 dogsbei.xyz
 dogsbek.top
@@ -55312,6 +55314,7 @@ ecchwean.olimpyaxh.xyz
 eced33.olimpde83.top
 ecf6ibz0.fun
 ecgcplmz.olimp5atx.xyz
+echeloncapitalltd.org
 echomp3.ru
 ecinem.ru
 ecinew.ru
@@ -59000,6 +59003,7 @@ finpakistan.ru
 fins-media.online
 finstonfx.com
 fintel.trade
+fintex.pro
 fintik.pw
 finuvjpa.olimp1s32.xyz
 finvel.space
@@ -65115,7 +65119,6 @@ go.9618azinogo.icu
 go.9660azinogo.icu
 go.aazino777.online
 go.admiral-slots.top
-go.alleng.org
 go.azartzona-play.com
 go.azino-24-azino.icu
 go.azino-azino24.site
@@ -65938,6 +65941,7 @@ good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
+good.mahachkala-diplomus.com
 good.saledip-at.com
 good.vlddiplomus.com
 good99year.com
@@ -69647,7 +69651,9 @@ hydraruzxpnew4af-onionl.com
 hydraruzxpnew4af-oniono.com
 hydraruzxpnew4af-onioon.com
 hydraruzxpnew4af.kiwi
+hydraruzxpnew4af.mobi
 hydraruzxpnew4af.net
+hydraruzxpnew4af.news
 hydraruzxpnew4af.onio-n.com
 hydraruzxpnew4af.onion-shop24.com
 hydraruzxpnew4af.onion-site.com
@@ -79513,6 +79519,7 @@ kino.bobfilm-hd.ru
 kino.bobfilm1.ru
 kino.casa
 kino.curses.site
+kino.dogfilms.vip
 kino.doma.kingfllmsiki.online
 kino.family
 kino.film-v.ru
@@ -82076,6 +82083,7 @@ kinozmei.net
 kinozod.ru
 kinozombi.ru
 kinozombi.tv
+kinozon.pp.ua
 kinozona-lordfilm.xyz
 kinozona.biz
 kinozona.cc
@@ -87315,6 +87323,7 @@ lostfilmtv.info
 lostfilmtv.live
 lostfilmtv.me
 lostfilmtv.org
+lostfilmtv.vip
 lostfilmvip.ru
 lostflix.net
 lostgo.ru
@@ -88977,6 +88986,7 @@ m1.kinoreal.net
 m1.lordfilm-2022.net
 m1.lordfilmhd.vip
 m1.lordfilmx-online.net
+m1.lostfilmtv.vip
 m1.megogofilma.online
 m1.million-azart-play.com
 m1.million-game-slot.com
@@ -101950,6 +101960,7 @@ ms-3.lordfilm.green
 ms.kinohaip.net
 ms.lordfilmhd.vip
 ms.lordsfilms.store
+ms.lostfilmtv.vip
 ms.pharmsport.top
 ms0ml-azinomobile.host
 ms1.kinohaip.net
@@ -107611,6 +107622,7 @@ ogrosiol0.serialnchek.online
 ogrosiolo.serialnchek.online
 ogypaaaw.olimpa1mn.xyz
 ogznl3m56mmst.com
+oh.filmec.co
 oh3rq-azinomobile.icu
 ohf-azinomobile.icu
 ohiochem.org
@@ -108217,6 +108229,7 @@ on.kinoonline-go.site
 on.kinoonlinego.com
 on.klnogo-lordfilms.ru
 on.lordkino.ru
+on.lostfilmtv.vip
 on.muviza.ru
 on.rufllm.fun
 on.serialhit.ru
@@ -121837,6 +121850,7 @@ rasta-seeds.ru
 rastarasha.blog
 rastarasha.co
 rastarasha.guru
+rastarasha.ink
 rastarasha.live
 rastarasha.lol
 rastarasha.me
@@ -132794,6 +132808,7 @@ sale.anti-co.xyz
 sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
+sale.diplomisbry.com
 sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
@@ -162236,7 +162251,9 @@ www.hydraclubb.online
 www.hydramarketsnjmd.link
 www.hydramarketsnjmd.name
 www.hydramarketsnjmd.support
+www.hydraruzxpnew4af.mobi
 www.hydraruzxpnew4af.net
+www.hydraruzxpnew4af.news
 www.hydraruzxpnew4af.org
 www.hydraruzxpnew4afonion.ru
 www.hydraruzxpnew4afshop.com
@@ -165075,6 +165092,7 @@ www.tradefxlance.com
 www.trademezone.com
 www.trademuto.com
 www.trainedartmonkey.com
+www.trannytemptation.com
 www.transi-msk.com
 www.traveladler.ru
 www.travkindom.biz
