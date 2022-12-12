@@ -19470,6 +19470,7 @@ ARRAY(0x8344c3e58)
 ARRAY(0x8346c15a0)
 ARRAY(0x8351a2ab0)
 ARRAY(0x8362a63a8)
+ARRAY(0x8383d76c0)
 ARRAY(0x83886d060)
 ARRAY(0x838996fd8)
 ARRAY(0x838bc3b88)
@@ -19478,16 +19479,15 @@ ARRAY(0x83d9da4b0)
 ARRAY(0x83dd0b660)
 ARRAY(0x83e769318)
 ARRAY(0x83ebab930)
-ARRAY(0x8417ca180)
 ARRAY(0x8b31d86a8)
 ARRAY(0x8b529df48)
 ARRAY(0x8b8b48f90)
 ARRAY(0x8b969b7e0)
 ARRAY(0x8ba967df8)
 ARRAY(0x8bac89b70)
+ARRAY(0x8bad87ea0)
 ARRAY(0x8bbb83f90)
 ARRAY(0x8bda89f00)
-ARRAY(0x8bfc82798)
 ARRAY(0x8c0dbdee8)
 ARRAY(0x8c17bd6a8)
 ARRAY(0x8c1aaa750)
@@ -43326,7 +43326,6 @@ c.mkfilm.org
 c.my-kino.org
 c.myklad.me
 c.officeverse.com
-c.one-steel.online
 c.onlinevkino.com
 c.progjpm.xyz
 c.reduksin.club
@@ -65892,11 +65891,11 @@ good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
-good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
+good.saledip-at.com
 good.vlddiplomus.com
 good99year.com
 goodalco1111.com
@@ -71502,6 +71501,7 @@ indigo-info.eu
 indina.ru
 indisamara.com
 individualka78.com
+individualki-nizhnego-novgoroda.top
 individualki-nn.name
 individualki-prostitutki.com
 individualki-volgograd.ru
@@ -73970,6 +73970,7 @@ joycasino-casino5.fun
 joycasino-casino5.win
 joycasino-casino50.fun
 joycasino-casino6.fun
+joycasino-casino6.win
 joycasino-casino70.com
 joycasino-casino70.xyz
 joycasino-casino777.azurewebsites.net
@@ -77488,6 +77489,7 @@ katertent.ru
 katran-games.com
 katran.club
 katushka1.top
+katushka3.top
 kavkaaefuchxmtlyp.azureedge.net
 kavkaamhljmvsxfmk.azureedge.net
 kavkaaymqrmndskth.azureedge.net
@@ -82367,6 +82369,7 @@ komitetsto.ru
 kompleks-tobol.kz
 kompressor-asprom.ru
 kompromat.io
+kompromat1.top
 komsomolsk-na-amure.damdiplomes.com
 komsomolsk-na-amure.diplomd-4you.com
 komsomolsk-na-amure.diploms4yoursa.com
@@ -89227,7 +89230,6 @@ magick-girl.net
 magickino.ru
 magiclsm.com
 magicreels-casino.club
-magicreels4.com
 magik-gerlz.com
 magiya-kazino.jk-novaya-zvezda.ru
 magkino.pw
@@ -91882,6 +91884,7 @@ mega-pobeda.com
 mega-sloty.xyz
 mega-tor.info
 mega-tor.top
+mega-trek.com
 mega-vulkan-avtomaty.glumilino.ru
 mega-vulkan1.ru
 mega-vulkan2.ru
@@ -94329,6 +94332,7 @@ milionczn.club
 milioneri7.net
 milka.torrent-filmy.ru
 milki-vay.ru
+mill.lordfilm4.site
 million-azart-play.com
 million-bonus.ru
 million-casino-mirror.online
@@ -97027,6 +97031,7 @@ moscow-himpro.ru
 moscow-komador.ru
 moscow-ndfl.ru
 moscow-pharaon242.ru
+moscow-post.top
 moscow-regional-bank.pw
 moscow-sofosbuvir.cf
 moscow-toperoids.ru
@@ -100287,6 +100292,7 @@ mostqdz.com
 mostqea.com
 mostqei.com
 mostqej.com
+mostqel.com
 mostqex.com
 mostqez.com
 mostqff.com
@@ -106426,6 +106432,7 @@ nvuti.rodeo
 nvuti.ski
 nvuti.soy
 nvuti.tatar
+nvuti.top
 nvuti.uk
 nvuti.wine
 nvuti.zone
@@ -108880,6 +108887,7 @@ online-casinos8.pro
 online-casinos9.pro
 online-casinosplay.org
 online-casinoss.me
+online-casinox.mobi
 online-casinoz.fun
 online-cazino-grand.online
 online-cazino-grand.ru
@@ -112874,6 +112882,7 @@ pin-up-casino5.xyz
 pin-up-casino55.fun
 pin-up-casino6.fun
 pin-up-casino6.net
+pin-up-casino6.top
 pin-up-casino6.win
 pin-up-casino7.azurewebsites.net
 pin-up-casino7.net
@@ -119102,6 +119111,7 @@ pokerdom-official-org.raventest.ru
 pokerdom-official-play.win
 pokerdom-official-site.fun
 pokerdom-official-site.org
+pokerdom-official-site.win
 pokerdom-official-site1.win
 pokerdom-official-site2.win
 pokerdom-official.azurewebsites.net
@@ -119125,6 +119135,7 @@ pokerdom-officials.site
 pokerdom-officials.website
 pokerdom-officials.win
 pokerdom-offlcial.tech
+pokerdom-oficialnyj.win
 pokerdom-oficialnyj1.win
 pokerdom-oficialnyj2.site
 pokerdom-oficialnyj3.site
@@ -125287,6 +125298,7 @@ roskstone.ru
 rosmolproekt.xyz
 rosnoucard.ru
 rospotrebnodzor.ru
+rospres.top
 rosqt8s.xyz
 rossal-24.online
 rossal24.online
@@ -132319,6 +132331,7 @@ s1.sosamba-nn.ru
 s1.tntx.cc
 s1.tntx.ru
 s1.top-igruha.net
+s1.torbook.one
 s1.torrent-capella.me
 s1.torrent-games.me
 s1.torrent-post.org
@@ -132693,6 +132706,7 @@ sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
+sale.kazandiplomax.com
 sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
@@ -134951,6 +134965,7 @@ sex3.prostitutkicheboksarycool.info
 sex3.prostitutkicheboksaryrelax.net
 sex3.prostitutkichelyabinskawant.net
 sex3.prostitutkichitydeep.net
+sex3.prostitutkichityhim.com
 sex3.prostitutkichitylike.org
 sex3.prostitutkichitystay.com
 sex3.prostitutkichitytake.com
@@ -136025,6 +136040,7 @@ skazpushkina.org
 skazpushkina.ru
 skbbch.space
 skcbet.ru
+skelet.top
 skforme24.biz
 skh6.ru
 skidows.biz
@@ -141787,6 +141803,7 @@ terminal.monobroker.net
 terminal.nordic-brokers.com
 terminal.nordic-cloud-c.net
 terminal.usa-broker.com
+ternopol.top
 terraarch.ru
 terrafilm3d.ru
 terraperm.ru
@@ -145040,6 +145057,7 @@ twrru-azinomobile.icu
 tww24.cc
 twwbcpssd.space
 tx.progjpm.xyz
+txgx.grustuz.xyz
 txhuskvwmst.com
 txoxrj9.icu
 txqkinwomst.com
