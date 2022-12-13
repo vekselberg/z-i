@@ -19504,13 +19504,14 @@ ARRAY(0x837c517e0)
 ARRAY(0x838758b40)
 ARRAY(0x8391fc810)
 ARRAY(0x839e5e168)
+ARRAY(0x83bb56570)
 ARRAY(0x83c2905a0)
 ARRAY(0x83df14f00)
-ARRAY(0x83ec76e40)
 ARRAY(0x8411e71c8)
 ARRAY(0x84143e3a8)
 ARRAY(0x8b4704828)
 ARRAY(0x8b5b91f00)
+ARRAY(0x8b72b1300)
 ARRAY(0x8b8facaf8)
 ARRAY(0x8b9306eb8)
 ARRAY(0x8b97f6690)
@@ -19521,7 +19522,6 @@ ARRAY(0x8bd7e4b88)
 ARRAY(0x8c125f078)
 ARRAY(0x8c3fad390)
 ARRAY(0x8c4ad8948)
-ARRAY(0x8c4c25750)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -28571,6 +28571,7 @@ azino777-ktmpe.icu
 azino777-ku3wg.host
 azino777-kwngj.icu
 azino777-kyvt1.icu
+azino777-kz.ru
 azino777-l05ba.icu
 azino777-l07s3.icu
 azino777-l537j.host
@@ -45355,6 +45356,7 @@ casino-slot-v.com
 casino-slot-v.fun
 casino-slot-v.name
 casino-slot-v.net
+casino-slot-v.ru
 casino-slot-v.site
 casino-slot-v.tech
 casino-slot-v.website
@@ -48334,6 +48336,7 @@ casinootzyv1.info
 casinop.online
 casinop.ru
 casinopage.net
+casinopage2file20.ksb-spb.ru
 casinopartner.ru
 casinopay.azurewebsites.net
 casinopay.info
@@ -55007,7 +55010,6 @@ e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
 e110.fisher-1.ru
-e111.fisher-1.ru
 e112.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -65977,16 +65979,17 @@ good-video1.tech
 good-video2.club
 good-video2.tech
 good-win-frank.club
+good.diplomis-mkh.com
 good.filmshd.vip
 good.k1no.cc
 good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
+good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
-good.vlddiplomus.com
 good99year.com
 goodalco1111.com
 goodbkmbet.win
@@ -66474,6 +66477,7 @@ grandazino.com
 grandbestcazino.com
 grandbricks.online
 grandbricks.ru
+grandcapital.info
 grandcas.azurewebsites.net
 grandcas1.azurewebsites.net
 grandcas10.azurewebsites.net
@@ -133057,7 +133061,6 @@ sale.moscowpharma.su
 sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.spravka-spb.store
-sale.vol-diplomas.com
 sale24b.gmeds365.org
 saleglass.ru
 salehard.sex-znakom.com
