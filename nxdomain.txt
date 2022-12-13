@@ -19499,13 +19499,12 @@
 ARRAY(0x8339381c8)
 ARRAY(0x8342993d8)
 ARRAY(0x834bd4c48)
-ARRAY(0x8372f0990)
 ARRAY(0x837c517e0)
 ARRAY(0x838758b40)
 ARRAY(0x8391fc810)
 ARRAY(0x839e5e168)
 ARRAY(0x83bb56570)
-ARRAY(0x83c2905a0)
+ARRAY(0x83db4f1b0)
 ARRAY(0x83df14f00)
 ARRAY(0x8411e71c8)
 ARRAY(0x84143e3a8)
@@ -19517,6 +19516,7 @@ ARRAY(0x8b9306eb8)
 ARRAY(0x8b97f6690)
 ARRAY(0x8ba4b1c60)
 ARRAY(0x8baf34e28)
+ARRAY(0x8baf6f330)
 ARRAY(0x8bb8c63d8)
 ARRAY(0x8bd7e4b88)
 ARRAY(0x8c125f078)
@@ -48883,6 +48883,7 @@ casinosuperslots.cc
 casinosuperslots.club
 casinosuperslots.email
 casinosuperslots.me
+casinosuperslots.net
 casinosuperslots.online
 casinosuperslots.org
 casinosuperslots.site
@@ -53445,6 +53446,7 @@ dendycazino.com
 dendykazino.club
 denezhki-rim.net
 dengi-avtomaty.xyz
+dengi-dom.com
 dengikazino.com
 dengislot.win
 dengivslotah.ru
@@ -104041,6 +104043,7 @@ natco24-pharma.ru
 natco24-russia.ru
 natco24-shop.ru
 natco24-sof.ru
+natco24.biz
 nati.su
 nationalcorps.org
 nationalnews.in.ua
@@ -133047,7 +133050,6 @@ sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomisbry.com
 sale.diplomys-bratsk.com
-sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
@@ -133565,6 +133567,7 @@ seeds-cannabis.store
 seeds-kanabis.fun
 seeds-kanabis.space
 seeds-shop.club
+seeds.growerz.de
 seeds.semenarnia-shop.org
 seedscannabis.fun
 seedscannabis.shop
@@ -133653,6 +133656,7 @@ selector47.gg
 selector48.gg
 selector49.gg
 selector5.gg
+selector51.gg
 selector6.gg
 selector7.gg
 selector8.gg
@@ -135839,6 +135843,7 @@ shop.ganja-seeds.cc
 shop.ganja-seeds.cz
 shop.ganjaseeds.site
 shop.gmeds365.org
+shop.growerz.de
 shop.growerz.pet
 shop.hepalife.ru
 shop.japanshop24.ru
@@ -149659,6 +149664,7 @@ vit777.in
 vita-print.ru
 vitalbet.net
 vitalego.ru
+vitalitepills.com
 vitalstyle.ru
 vitaltradeprofits.com
 vitaxs.info
