@@ -19507,9 +19507,9 @@ ARRAY(0x839e5e168)
 ARRAY(0x83c2905a0)
 ARRAY(0x83df14f00)
 ARRAY(0x83ec76e40)
-ARRAY(0x840c25270)
 ARRAY(0x8411e71c8)
 ARRAY(0x84143e3a8)
+ARRAY(0x8b4704828)
 ARRAY(0x8b5b91f00)
 ARRAY(0x8b8facaf8)
 ARRAY(0x8b9306eb8)
@@ -19517,11 +19517,11 @@ ARRAY(0x8b97f6690)
 ARRAY(0x8ba4b1c60)
 ARRAY(0x8baf34e28)
 ARRAY(0x8bb8c63d8)
+ARRAY(0x8bd7e4b88)
 ARRAY(0x8c125f078)
 ARRAY(0x8c3fad390)
 ARRAY(0x8c4ad8948)
 ARRAY(0x8c4c25750)
-ARRAY(0x8c56ee5e8)
 a-bets63.top
 a-bt56.top
 a-bt78.top
@@ -23789,6 +23789,7 @@ all-video.xn--c1ajfnfb.xn--p1acf
 all-vulkan-sites.fun
 all-wulcan-sites.xyz
 all-wulkan-sites.space
+all.alleng.org
 all.alljackpot.net
 all.freshfit-vrn.com
 all.myslotik.net
@@ -25733,6 +25734,7 @@ avtomatslots.com
 avtomatu-igrovie.org
 avtomatu-igrovye.org
 avtomatu.casino-paf.ru
+avtomatu.igra-slot.ru
 avtomatu777.com
 avtomaty-777.com
 avtomaty-az.com
@@ -45424,6 +45426,7 @@ casino-spincity-win.ru
 casino-spincity.in
 casino-spincity777.com
 casino-ss.ru
+casino-ssl.com
 casino-stand.co
 casino-stands.biz
 casino-stands.co
@@ -49872,6 +49875,7 @@ cazinokazahstan.ru
 cazinokorona.net
 cazinokorona1.net
 cazinolev-play.ru
+cazinolev-plays.ru
 cazinolev.ru
 cazinoloki.club
 cazinolucky.azurewebsites.net
@@ -55004,6 +55008,7 @@ e1.spon.live
 e109.fisher-1.ru
 e110.fisher-1.ru
 e111.fisher-1.ru
+e112.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -56384,6 +56389,8 @@ emb.apl52.me
 emb.apl55.me
 emb.apl58.me
 emb.apl59.me
+emb.apl64.me
+emb.apl65.me
 emb.apl67.me
 emb.apl71.me
 emb.apl72.me
@@ -63904,6 +63911,7 @@ gaminatormulticasino.com
 gaminatorplay.online
 gaminatorplay.org
 gaminators-club.com
+gaminators.co
 gaminators777.com
 gaminators999.com
 gaminatorsclub.com
@@ -65975,6 +65983,7 @@ good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
+good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
 good.vlddiplomus.com
@@ -78905,6 +78914,7 @@ kazinox-oficlalniysayt.com
 kazinox-oflcialniy.com
 kazinox-oflcialniysayt.com
 kazinox-play.ru
+kazinox-sayt-oficialniy.com
 kazinox-sayt-oflcialniy.com
 kazinox.azurewebsites.net
 kazinoz.guru
@@ -81129,6 +81139,7 @@ kinolive.red
 kinolive2020.ru
 kinolivi.ru
 kinolix.ru
+kinoliz.biz
 kinoliz.cc
 kinoliz.org
 kinoliza.biz
@@ -83442,6 +83453,7 @@ laitspb.ru
 laivsmi.ru
 lajsnaze.olimpq29q.xyz
 lajt.sportingbet.com
+lakers24.cc
 lakzk2exmst.com
 lalala-casino.site
 lalamusic.ru
@@ -92023,6 +92035,7 @@ medinfopro.ru
 mediplomss.com
 medipploms.com
 medisinskje-knigki.com
+medissa-stom.ru
 medium-fx.com
 mediumfx.business
 mediumfx.company
@@ -115653,6 +115666,7 @@ play.gamesmark.ru
 play.gaminqplay.online
 play.graf-casino.xyz
 play.grand-casino-online.ru
+play.igra-slot.ru
 play.igrovyeavtomaty-frank.xyz
 play.igry-flash.com
 play.internet-casino-guide.net
@@ -132626,6 +132640,7 @@ s1.kinoswet.ru
 s1.kinoutka.net
 s1.kinoxom.site
 s1.kinozoro.tv
+s1.kursosliv.com
 s1.liveball8.ml
 s1.lordfilin.net
 s1.lordfilm.click
@@ -163834,6 +163849,7 @@ www.ostrovbet.net
 www.otcentr.ru
 www.otvet.mobi
 www.ourspecialplacenj.org
+www.overbetting.org
 www.oxgiw0oarkpgehr.freehd.com.ua
 www.pacificplace.fr
 www.paloma-travel.ru
