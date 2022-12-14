@@ -19507,7 +19507,6 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x8334420c0)
-ARRAY(0x8339381c8)
 ARRAY(0x834bd4c48)
 ARRAY(0x83893bac8)
 ARRAY(0x83b7040c0)
@@ -19523,12 +19522,13 @@ ARRAY(0x8b730d5e8)
 ARRAY(0x8b97f6690)
 ARRAY(0x8ba87ae28)
 ARRAY(0x8ba938540)
-ARRAY(0x8baf34e28)
 ARRAY(0x8baf6f330)
+ARRAY(0x8bc759648)
 ARRAY(0x8bd7e4b88)
 ARRAY(0x8be459f78)
 ARRAY(0x8be958978)
 ARRAY(0x8c1c16828)
+ARRAY(0x8c408f618)
 ARRAY(0x8c4876b58)
 ARRAY(0x8c4a216a8)
 ARRAY(0x8c4ce5090)
@@ -25434,6 +25434,7 @@ astrakhan.intim69.tips
 astrakhan.kupit-prava.com
 astro-tv.me
 astrocapitalmarkets.com
+astroit.ru
 astronomie.ru
 astronomyspace.ru
 astrum30.ru
@@ -53848,6 +53849,8 @@ diplomskei.com
 diplomsrussianas.com
 diplomssite.com
 diplomsy-originalny1.com
+diplomsy-services24.com
+diplomsy-servises24.com
 diplomt-40.com
 diplomt-4you.com
 diplomt-56.com
@@ -54179,6 +54182,7 @@ doesbigsmall.com
 dofiga-mp3.ru
 dog-house.online
 dog.dostfilms.biz
+dog4home.ru
 dogcharm.ru
 dogfilms.vip
 dogicountry.xyz
@@ -57215,6 +57219,7 @@ f.scatz.fun
 f.smotretfilmi.ru
 f0.spon.live
 f00.kinomodus.xyz
+f001.fisher-r.online
 f006.fisher-r.ru
 f01.kinomodus.xyz
 f016f17.icu
@@ -94482,6 +94487,7 @@ mgka6-azino777.icu
 mgrxqv.yonatanhyatt.com
 mgstav.ru
 mgtu-mami.online
+mgtu-mami.ru
 mgu-familiya.online
 mgvm.ru
 mgyhu-azino777.icu
@@ -108421,6 +108427,7 @@ onacer.space
 onbee.ru
 onbx3ms39mrpmb.com
 oncmovta.olimpov9p.xyz
+ondeamo.ru
 one-bukmeker.ru
 one-casino-posledni-kupony.centrumterezka.cz
 one-investor.club
@@ -120566,6 +120573,7 @@ prostitutkimoskvy.life
 prostitutkimoskvy.vip
 prostitutkimoskvy24.club
 prostitutkimoskvygood.net
+prostitutkimoskvykiss.com
 prostitutkimoskvysexy.org
 prostitutkimoskvyxx.net
 prostitutkimytishchi2.com
@@ -133048,12 +133056,11 @@ sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
-sale.kazandiplomax.com
-sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
+sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
 sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
@@ -136410,6 +136417,7 @@ skcbet.ru
 skelet.top
 skforme24.biz
 skh6.ru
+skiamericas.ru
 skidows.biz
 skidows.org
 skif-perm.ru
@@ -142737,7 +142745,6 @@ tolkohd.info
 tolkoty74.ru
 tolkozdorovie.online
 tollers.site
-tolya10.ddns.mksat.net
 tolyatti.damdiplomses.com
 tolyatti.diplomk-4you.com
 tolyatti.diplomr-rf.com
@@ -146539,6 +146546,7 @@ v.dvernoy-samara.ru
 v.fanfilms4k.fun
 v.fantasy-worlds.org
 v.farmamix.club
+v.feipiter.com
 v.film-v.ru
 v.filmive-hd.net
 v.gepstore.shop
@@ -147131,7 +147139,6 @@ vavada-cazino.host
 vavada-cazino.info
 vavada-cazino.net.ru
 vavada-cazino.org.ru
-vavada-cazino.ru
 vavada-cazino.ru.com
 vavada-cazino.website
 vavada-cazino.xyz
@@ -148998,6 +149005,7 @@ versus-bet3.space
 versus-bet5.space
 versustop.info
 vertco.online
+vertco.ru
 verwjhd7klmst.com
 verybigporn.com
 verybigporn.tv
@@ -160371,6 +160379,7 @@ www.arotrade.net
 www.art17spb.ru
 www.arzero-5ka.ru
 www.assosplay.com
+www.astroit.ru
 www.astros3.xyz
 www.asu-spb.ru
 www.ataxi.com.ua
@@ -161753,6 +161762,7 @@ www.docronika.ru
 www.docs-ekb.com
 www.doctor-spravka.net
 www.doctorxayc.ru
+www.dog4home.ru
 www.dohodniimetod.com
 www.dok911.ru
 www.dokfilm.ru.com
@@ -164955,6 +164965,7 @@ www.skachatmp3.ru
 www.skbbch.space
 www.skcrb.ru
 www.skforme24.biz
+www.skiamericas.ru
 www.skidows.org
 www.skladchik.download
 www.skudi.ru
@@ -165572,6 +165583,7 @@ www.vegas-avtomati7.com
 www.vegasluck.com
 www.velgodskiy.ru
 www.venevcev.ru
+www.vertco.ru
 www.veshalkikovka.ru
 www.vezun4ik.com
 www.vgtorrent.ru
