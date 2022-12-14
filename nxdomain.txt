@@ -19507,11 +19507,11 @@
 9zic37w.icu
 9zir3o-setka.com
 9zm5omo.icu
+ARRAY(0x83310cd50)
 ARRAY(0x8334420c0)
 ARRAY(0x83893bac8)
 ARRAY(0x83af4d150)
 ARRAY(0x83b7040c0)
-ARRAY(0x83bb56570)
 ARRAY(0x83d877528)
 ARRAY(0x83db4f1b0)
 ARRAY(0x83effd120)
@@ -19519,13 +19519,13 @@ ARRAY(0x83fbf24e0)
 ARRAY(0x841282b40)
 ARRAY(0x8b41e25e8)
 ARRAY(0x8b4e45a80)
-ARRAY(0x8b72b1300)
 ARRAY(0x8b730d5e8)
 ARRAY(0x8ba3b0dc8)
 ARRAY(0x8ba87ae28)
 ARRAY(0x8ba938540)
 ARRAY(0x8baf6f330)
 ARRAY(0x8bc759648)
+ARRAY(0x8bc98b660)
 ARRAY(0x8be459f78)
 ARRAY(0x8be958978)
 ARRAY(0x8c1c16828)
@@ -24188,7 +24188,6 @@ anonim-info.com
 anonimm.ru
 anonimslots.org
 anonworldwide.com
-anonym-casino.krypie.ru
 anonym-casino.net
 anonymcasino.xyz
 anonymclub.xyz
@@ -24242,6 +24241,7 @@ anvgoplays.me
 anvgoplays.net
 anvgoplays.org
 anvgoplays.pro
+anvitplay.net
 anvitplay.org
 anvitplay.pro
 anvitplay.top
@@ -42421,6 +42421,7 @@ booicasino.azurewebsites.net
 booicasino.best
 booicasino.buzz
 booicasino.cc
+booicasino.link
 booicasino.me
 booicasino.mobi
 booicasino.monster
@@ -48377,7 +48378,6 @@ casinootzyv1.info
 casinop.online
 casinop.ru
 casinopage.net
-casinopage2file20.ksb-spb.ru
 casinopartner.ru
 casinopay.azurewebsites.net
 casinopay.info
@@ -49197,6 +49197,7 @@ casinox-admi.top
 casinox-ae.xyz
 casinox-af.xyz
 casinox-agre.top
+casinox-bd.xyz
 casinox-best.top
 casinox-big.net
 casinox-bk.xyz
@@ -49230,6 +49231,7 @@ casinox-gd.xyz
 casinox-hash.top
 casinox-hb.xyz
 casinox-ho.xyz
+casinox-hr.xyz
 casinox-in.xyz
 casinox-la.xyz
 casinox-loft.top
@@ -55410,6 +55412,7 @@ ecocsgo.me
 ecocsgo.net
 ecodecor-shop.ru
 ecodistanciya.online
+ecodistanciya.ru
 ecofinrural.site
 ecogarden24.ru
 ecoinvbank.com
@@ -56193,7 +56196,6 @@ eldorado-ukraine-logo-history.daki-rest.ru
 eldorado-xbox.snegiri63.ru
 eldorado-zerkalo.net
 eldorado.casino-play.online
-eldorado.krypie.ru
 eldorado1.ga
 eldorado187-good.ru
 eldorado2.ml
@@ -61383,7 +61385,6 @@ frank-3160.ru
 frank-422.ru
 frank-423.ru
 frank-424.ru
-frank-best.krypie.ru
 frank-bonus.com
 frank-bonus.krypie.info
 frank-bonus.krypie.ru
@@ -66050,7 +66051,6 @@ good-video1.tech
 good-video2.club
 good-video2.tech
 good-win-frank.club
-good.diplomis-mkh.com
 good.filmshd.vip
 good.k1no.cc
 good.kemerovodiplomys.com
@@ -73421,6 +73421,7 @@ joycasino-199.top
 joycasino-1a.top
 joycasino-1a.xyz
 joycasino-1a6d.xyz
+joycasino-1b.xyz
 joycasino-1c.xyz
 joycasino-1e.xyz
 joycasino-1el.xyz
@@ -73540,6 +73541,7 @@ joycasino-365.site
 joycasino-366.top
 joycasino-367.top
 joycasino-377.top
+joycasino-3a.top
 joycasino-3a.xyz
 joycasino-3b.xyz
 joycasino-3c.xyz
@@ -73891,6 +73893,7 @@ joycasino-axd.xyz
 joycasino-ay.xyz
 joycasino-az.xyz
 joycasino-azx.xyz
+joycasino-b1.xyz
 joycasino-b11.top
 joycasino-b13.top
 joycasino-b15.top
@@ -74655,6 +74658,7 @@ joycasino-key.xyz
 joycasino-kf.xyz
 joycasino-kg.top
 joycasino-kgb.xyz
+joycasino-kgt.top
 joycasino-kh.xyz
 joycasino-ki.xyz
 joycasino-kic.xyz
@@ -75161,6 +75165,7 @@ joycasino-qw.xyz
 joycasino-qx.xyz
 joycasino-qy.xyz
 joycasino-qz.xyz
+joycasino-r1.xyz
 joycasino-ra.xyz
 joycasino-ra3.xyz
 joycasino-ra8.xyz
@@ -75200,6 +75205,7 @@ joycasino-rex.xyz
 joycasino-rf.xyz
 joycasino-rf2.xyz
 joycasino-rf9.xyz
+joycasino-rg.xyz
 joycasino-rg7.xyz
 joycasino-rg9.xyz
 joycasino-rgq.xyz
@@ -75897,7 +75903,6 @@ joycasino.casa
 joycasino.digital
 joycasino.group
 joycasino.guru
-joycasino.krypie.ru
 joycasino.oficiall.info
 joycasino.org.ru
 joycasino.pictures
@@ -88280,7 +88285,6 @@ luxorslots-ofitsialnyy-sayt.chicago-chelny.ru
 luxorslots-onlayn-kazino-ofitsialnyy-sayt-vkhod.raventest.ru
 luxorslots-online-1.com
 luxorslots-zone557.ru
-luxorslots.krypie.ru
 luxorslots.su
 luxury24klad.cc
 luxuryonlinegame.com
@@ -98272,6 +98276,7 @@ mostbet-ddl.xyz
 mostbet-die.xyz
 mostbet-doc.xyz
 mostbet-dy4.xyz
+mostbet-ed.top
 mostbet-edi.xyz
 mostbet-edy.xyz
 mostbet-egg.xyz
@@ -98294,10 +98299,13 @@ mostbet-gin.xyz
 mostbet-go-wins.website
 mostbet-gri.xyz
 mostbet-gue.xyz
+mostbet-gy.top
+mostbet-hn.top
 mostbet-ho3.xyz
 mostbet-in5.xyz
 mostbet-inn.site
 mostbet-ir.xyz
+mostbet-jn.top
 mostbet-kazino-rabocheye-zerkalo.34urista.ru
 mostbet-kazino-vkhod.arenda-elit-auto.ru
 mostbet-kazino.xyz
@@ -98411,6 +98419,7 @@ mostbet-rus6.site
 mostbet-rus7.site
 mostbet-rus8.site
 mostbet-rus9.site
+mostbet-rz.top
 mostbet-s.xyz
 mostbet-sb4.xyz
 mostbet-scaricare-applicazione.spravka-sorevnovaniya.ru
@@ -98485,11 +98494,13 @@ mostbet-wm3.xyz
 mostbet-wmq5.xyz
 mostbet-wn1.xyz
 mostbet-wn5.xyz
+mostbet-wnh9.xyz
 mostbet-wo5.xyz
 mostbet-wo7.xyz
 mostbet-wpq4.xyz
 mostbet-wpy6.xyz
 mostbet-wr2.xyz
+mostbet-ws.top
 mostbet-ws1.xyz
 mostbet-ws2.xyz
 mostbet-ws9.xyz
@@ -98516,6 +98527,7 @@ mostbet-x.site
 mostbet-x1.site
 mostbet-xe4.xyz
 mostbet-yc.xyz
+mostbet-yh.top
 mostbet-zerkalo-2019.ru
 mostbet-zerkalo-na-segodnya.arenda-elit-auto.ru
 mostbet-zerkalo-qop.online
@@ -102872,7 +102884,6 @@ multi-torrents.ml
 multi3ker.org
 multigaminator-casino.ru
 multigaminator-club.com
-multigaminator-club.krypie.ru
 multigaminator-club.ru
 multigaminator-internet-kazino-na-rubli.bonus-na-tailand.info
 multigaminator.net
@@ -116314,6 +116325,7 @@ playfortuna-vj.xyz
 playfortuna-vn.xyz
 playfortuna-vo.xyz
 playfortuna-vq.top
+playfortuna-vt.xyz
 playfortuna-vv.xyz
 playfortuna-wc.top
 playfortuna-wc.xyz
@@ -120332,6 +120344,7 @@ proect-okno.ru
 proerotik.ru
 prof-granit.ru
 prof.casino-pharaon.tech
+profashion-kids.ru
 profbaks.fun
 profcarp.ru
 profdemontaj.ru
@@ -152264,7 +152277,6 @@ vulkan-24-onlayn-zerkalo.bars-lock.ru
 vulkan-24-rabocheye-zerkalo.zipprofi.ru
 vulkan-24.azurewebsites.net
 vulkan-24.fun
-vulkan-24.krypie.ru
 vulkan-24.link
 vulkan-24.website
 vulkan-24.work
@@ -152316,7 +152328,6 @@ vulkan-bonus.azurewebsites.net
 vulkan-bonus.casino
 vulkan-bonus.fun
 vulkan-bonus.icu
-vulkan-bonus.krypie.ru
 vulkan-bonus.link
 vulkan-bonus.store
 vulkan-bonus.xyz
@@ -153571,7 +153582,6 @@ vulkanclub-zerkalo.ficryider.ru
 vulkanclub.azurewebsites.net
 vulkanclub.bar
 vulkanclub.city
-vulkanclub.krypie.ru
 vulkanclub.su
 vulkanclub777.online
 vulkanclub777.ru
@@ -154314,7 +154324,6 @@ vulkanstars-sloty.com
 vulkanstars-vip.com
 vulkanstars.azurewebsites.net
 vulkanstars.business
-vulkanstars.krypie.ru
 vulkanstars.pw
 vulkanstars1.azurewebsites.net
 vulkanstars1.ml
@@ -154364,7 +154373,6 @@ vulkanstavka-6.ru
 vulkanstavka-777.net
 vulkanstavka-klub.com
 vulkanstavka-ru.com
-vulkanstavka.krypie.ru
 vulkanstavka.one
 vulkanstavka.su
 vulkanstavka24.ru
