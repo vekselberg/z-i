@@ -18815,6 +18815,7 @@
 9014.info
 902a96.olimp1960.top
 9050azm.host
+9062.info
 907fe3.olimp9f96.top
 90816d.olimp78a8.top
 9089azinogo.icu
@@ -19305,16 +19306,16 @@ ARRAY(0x8346a8798)
 ARRAY(0x834b91ea0)
 ARRAY(0x8353192b8)
 ARRAY(0x836469d38)
-ARRAY(0x8374aa360)
-ARRAY(0x83a5b6b10)
 ARRAY(0x83be7e5e8)
 ARRAY(0x83df1d420)
 ARRAY(0x8407445b8)
 ARRAY(0x841535510)
+ARRAY(0x8b3f5b7e0)
 ARRAY(0x8b538a798)
 ARRAY(0x8b589c6c0)
 ARRAY(0x8b6847b10)
 ARRAY(0x8b6fa5408)
+ARRAY(0x8b83dbee8)
 ARRAY(0x8b8c88b40)
 ARRAY(0x8b96542e8)
 ARRAY(0x8b96c73d8)
@@ -23239,6 +23240,7 @@ alcotaxi22.xyz
 alcotaxi23.xyz
 alcotaxi25.xyz
 alcotaxi26.xyz
+alcotaxi27.xyz
 alcotaxi7.ru
 alcotime016.xyz
 alcotime018.xyz
@@ -27056,6 +27058,8 @@ azino.su
 azino.vim-alliance.ru
 azino.vunmc.ru
 azino001.ru
+azino003.site
+azino005.site
 azino01.space
 azino010.site
 azino02.space
@@ -47546,6 +47550,7 @@ casinomarmelad.ru
 casinomarmelad1.com
 casinomarmelad2.com
 casinomarmelad3.com
+casinomarvel.online
 casinomarvel.site
 casinomarvel1.site
 casinomarvel3.site
@@ -64991,7 +64996,7 @@ good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
-good.kupit-diplom-v-krasnoyarske-391.ru
+good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
@@ -68527,6 +68532,7 @@ hydraclubbioknikokex7njhwuahc2l67lfi.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z3.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2j.com
+hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvoda7nchid.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda.com
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda6ehead.onione.top
 hydraclubbioknikokex7njhwuahc2l67lfiz7z36md2jvopda7cid.com
@@ -70252,6 +70258,7 @@ ildarbikbov.com
 ile-kosztuje-maszyna-do-gier-hazardowych.ospzawada.pl
 ilgflxnt.olimp01x7.xyz
 ilhkag27ptfbmb-setka.com
+ili.xtubetv.su
 ilifija.ru
 illoveslloti.amazon-rus.com
 illovesloti.amazon-rus.com
@@ -78679,6 +78686,7 @@ kinobrend.ru
 kinobro.net
 kinobro.online
 kinobro.tv
+kinobrothers.com
 kinobtc.ru
 kinobu1080.ru
 kinobu720.ru
@@ -114831,6 +114839,7 @@ playfortunagame.xyz
 playfortunagames.ru
 playfortunaice.ru
 playfortunainfo.club
+playfortunainfo.xyz
 playfortunaj4.com
 playfortunaj5.com
 playfortunaj56b.com
@@ -114884,7 +114893,6 @@ playfortunaslotplays.ru
 playfortunaslots-playz.ru
 playfortunaslots.azurewebsites.net
 playfortunaslots1.ru
-playfortunaslotsplayz.ru
 playfortunaslotswin.ru
 playfortunaslotz.ru
 playfortunasq5.com
@@ -115132,6 +115140,7 @@ playvlkmaximum.com
 playvlkneon.com
 playvlkneon.org
 playvlkprestige.com
+playvoltacasino.org
 playvulcan.one
 playvulcangrand1.com
 playvulkan.info
@@ -118334,6 +118343,7 @@ pre5zm6gvb.top
 precasino.ru
 preceddmax.space
 precedentmold.info
+preepicsnud.lol
 preferans-igrat.vtonuce.ru
 preferans-onlayn-na-dengi.dvv-spb.ru
 pregbukmekersx202.top
@@ -131171,10 +131181,10 @@ sale.920-333-6.com
 sale.9203336.site
 sale.9253451.com
 sale.anti-co.xyz
-sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomisbry.com
+sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
@@ -131277,6 +131287,7 @@ sankt-peterburg.edu24-diplomany.com
 sankt-peterburg.edu24-diploms.com
 sankt-peterburg.kupit-prava.com
 sankt-peterburg.xn----btb8ajhbb5h.xn--p1ai
+santamoon.win
 santoryostyle.ru
 sapernadengi.ru
 sapfyr.ru
@@ -133927,10 +133938,12 @@ shop.bioseeds.live
 shop.buyhgh.cloud
 shop.farmus7.ru
 shop.freehd.com.ua
+shop.g-seeds.net
 shop.ganja-seeds.cc
 shop.ganja-seeds.cz
 shop.ganjaseeds.site
 shop.gmeds365.org
+shop.growerz.de
 shop.growerz.pet
 shop.hepalife.ru
 shop.japanshop24.ru
