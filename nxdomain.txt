@@ -19318,12 +19318,11 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x83507feb8)
+ARRAY(0x8358a8750)
 ARRAY(0x835b697b0)
-ARRAY(0x8380b4420)
 ARRAY(0x839886e40)
-ARRAY(0x83b25d858)
 ARRAY(0x83d782330)
-ARRAY(0x83e2d8d20)
+ARRAY(0x83e281c00)
 ARRAY(0x83f86b198)
 ARRAY(0x83f8d4180)
 ARRAY(0x83f95f1f8)
@@ -19331,8 +19330,8 @@ ARRAY(0x841133588)
 ARRAY(0x8b3ebed20)
 ARRAY(0x8b3ed6e88)
 ARRAY(0x8b4197e28)
+ARRAY(0x8b4ac2a38)
 ARRAY(0x8b4cb4510)
-ARRAY(0x8b55eae10)
 ARRAY(0x8b56ef180)
 ARRAY(0x8b62805e8)
 ARRAY(0x8b8ef99d8)
@@ -19340,6 +19339,7 @@ ARRAY(0x8b9349378)
 ARRAY(0x8ba67c4c8)
 ARRAY(0x8bbbb8ee8)
 ARRAY(0x8bcf78300)
+ARRAY(0x8bdf191c8)
 ARRAY(0x8c0221ba0)
 ARRAY(0x8c0e476f0)
 ARRAY(0x8c2ee6d38)
@@ -25260,6 +25260,7 @@ aura4.finance
 auroombet15.com
 auroombet3.com
 auroombet9.com
+auroomgroup.ru
 auterusisafeature.loan
 auterusisafeature.online
 auterusisafeature.space
@@ -54446,6 +54447,7 @@ e1.spon.live
 e109.fisher-1.ru
 e110.fisher-1.ru
 e111.fisher-1.ru
+e112.fisher-1.ru
 e113.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -54483,7 +54485,6 @@ e1e572.olimp3ed3.top
 e1f967.olimp58e7.top
 e1fe06.olimp161f.top
 e1xbet.xyz
-e2.elitekurs.com
 e2.liveball8.ml
 e2.spon.live
 e211a5b.icu
@@ -56684,6 +56685,7 @@ f1casino4.club
 f1casino5.club
 f1casino6.club
 f1casino7.club
+f1casino9.club
 f1d5b8.olimpd7c0.top
 f1ddd6.olimpa88c.site
 f1e3.icu
@@ -64779,6 +64781,7 @@ gold-slots8021.xyz
 gold-slotsclub.xyz
 gold-song.ru
 gold-stavka.ru
+gold-warez.com
 gold.all-casinoworld.com
 gold.casino-eldorado.mobi
 gold.igrovyeavtomatybesplatno6.online
@@ -65222,9 +65225,12 @@ good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
+good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
+good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
 good.saledip-at.com
+good.vlddiplomus.com
 good99year.com
 goodalco1111.com
 goodbkmbet.win
@@ -71968,6 +71974,7 @@ jet677.ru
 jet680.ru
 jet788-city.ru
 jetbull-casino.kulon-love.ru
+jetcash.pro
 jetcash.pw
 jetcasino-1.ru
 jetcasino-2300.ru
@@ -86306,7 +86313,6 @@ lost-film.xyz
 lost-films.cc
 lost-films.live
 lost-films.online
-lost-serials.com
 lost.pipitor.site
 lostcdn.ru
 lostcinema.online
@@ -102285,6 +102291,7 @@ mychampioncasino7.xyz
 myclay.ru
 mycoolmbet.win
 mycsgo.app
+mydeaf.club
 mydeluxe.cyou
 mydeluxe.icu
 mydeluxe.news
@@ -114291,7 +114298,6 @@ play.azino777-cazino.com
 play.bg-fortuna.ru
 play.bigazart.org
 play.carlistas.org
-play.cash-play-avtomaty.net
 play.casino-admiral12.com
 play.casino-grand.info
 play.casino-iks.ru
@@ -119178,6 +119184,7 @@ prostitutkiivanovo2021.net
 prostitutkiivanovoboom.net
 prostitutkiivanovochange.com
 prostitutkiivanovogo.info
+prostitutkiizhevskacasa.com
 prostitutkiizhevskadosug.net
 prostitutkiizhevskaero.info
 prostitutkiizhevskafit.com
@@ -130641,6 +130648,7 @@ rutor.mytorr.info
 rutor.name
 rutor.net.ru
 rutor.nl
+rutor.nxshock.me
 rutor.org.pl
 rutor.pp.ru
 rutor.proxybit.cyou
@@ -131445,6 +131453,7 @@ sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
+sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.spravka-spb.store
 sale.vol-diplomas.com
@@ -160181,6 +160190,7 @@ www.gold-fishka-play.com
 www.gold-line.online
 www.gold-podkova.com
 www.gold-song.ru
+www.gold-warez.com
 www.golden-baby.ru
 www.goldenmines.org
 www.goldfishka3.com
@@ -161335,6 +161345,7 @@ www.my-skladkino.ru
 www.my-zaycev.net
 www.mycashed.com
 www.mycoolmbet.win
+www.mydeaf.club
 www.mydomashka.ru
 www.mykolaiv.top
 www.mymarbet.com
