@@ -19318,9 +19318,10 @@
 ARRAY(0x833871df8)
 ARRAY(0x833a4cd20)
 ARRAY(0x83405a918)
-ARRAY(0x83507feb8)
+ARRAY(0x8357458b8)
 ARRAY(0x8358a8750)
 ARRAY(0x838fadac8)
+ARRAY(0x83aefe228)
 ARRAY(0x83b6b3198)
 ARRAY(0x83d782330)
 ARRAY(0x83e281c00)
@@ -19331,7 +19332,6 @@ ARRAY(0x8407bf1b0)
 ARRAY(0x840c24768)
 ARRAY(0x8b3ed6e88)
 ARRAY(0x8b4ac2a38)
-ARRAY(0x8b56ef180)
 ARRAY(0x8b6ca2e40)
 ARRAY(0x8b773fe10)
 ARRAY(0x8b9349378)
@@ -20876,6 +20876,7 @@ admiral-cazinos.azurewebsites.net
 admiral-cazinoz.azurewebsites.net
 admiral-club-casino.net
 admiral-clubcasino.com
+admiral-columbus.com
 admiral-elmtq.ondigitalocean.app
 admiral-game.azurewebsites.net
 admiral-game.club
@@ -21144,6 +21145,7 @@ admiral888.org
 admiral888cazinoz.ru
 admiral888official.com
 admiral888slots.club
+admiralavtomati.com
 admiralavtomaty.fun
 admiralcasino-club.com
 admiralcasino-klub.com
@@ -23658,6 +23660,7 @@ almetevsk.fulldiplom24.com
 almetevsk.godiplomses.com
 almetevsk.luxdiploms.com
 almetevsk.reals-diplomas.com
+almetevsk.redads.ru
 almetevsk.simdiplomi.com
 almetevsk.study-docums.com
 almetstyle.ru
@@ -25138,6 +25141,7 @@ astronomie.ru
 astronomyspace.ru
 astrum30.ru
 asvnukovo.ru
+asx-diplom.com
 asx-diplom24.com
 asx-diploma.com
 asx-diplomas.com
@@ -29165,6 +29169,7 @@ azino777bonus19.ru
 azino777bonus2.ru
 azino777bonus20.ru
 azino777bonus21.ru
+azino777bonus22.ru
 azino777bonus23.ru
 azino777bonus3.ru
 azino777bonus5.ru
@@ -32684,6 +32689,7 @@ barnaul.prostitutki24.fit
 barnaul.prostitutki24.soy
 barnaul.prostitutkibuzz.com
 barnaul.prostitutkirest.com
+barnaul.redads.ru
 barnaul.rusd-diplomy.com
 barnaul.rusofdak.ru
 barnaul.rusr-diplomy.com
@@ -42806,7 +42812,6 @@ buy.qrcode-covid.com
 buy.relax-in-moscow.ru
 buy.xn----gtbdadoapyaqmh0j.xn--p1ai
 buy1.qrcode-covid.com
-buy24.viarussia.org
 buycialismedsonline.com
 buycocaine.us
 buyg1.com
@@ -63964,6 +63969,7 @@ gidra.group
 gidramarket.fun
 gidraruzxpnew4aff.com
 gidrasajt24.com
+gidrasajt24dostup.com
 gidrashop.top
 gidrator.com
 gidratorssylka.com
@@ -64317,6 +64323,7 @@ go-to-play.live
 go-to-play.org
 go-to.lol
 go-winner.website
+go-xbets.com
 go.0033azinogo.icu
 go.0076azinogo.icu
 go.0281azinogo.icu
@@ -80762,6 +80769,7 @@ kinosnake.online
 kinosnake.ru
 kinosnou.xyz
 kinosoda.net
+kinosoks.com
 kinosolo.net
 kinoson.net
 kinosooop.ru
@@ -100491,6 +100499,7 @@ movean.estate
 movec.ru
 movie-club.tv
 movie-files.ru
+movie-hd.net
 movie-max.su
 movie-pro.ru
 movie-site.ru
@@ -103259,6 +103268,7 @@ nevinnomyssk.damdiplomses.com
 nevinnomyssk.diplomilike.com
 nevinnomyssk.study-docums.com
 nevinnomyssk1.prostitutki.store
+nevozone.com
 new-admiral777.ru.com
 new-azino-10.ru
 new-azino-11.ru
@@ -104731,6 +104741,7 @@ nizhnij-novgorod.mydiplomysstore.com
 nizhnij-novgorod.nyjni-prava.online
 nizhnij-novgorod.poluchite-prava.online
 nizhnij-novgorod.prava-pro.org
+nizhnij-novgorod.redads.ru
 nizhnij-novgorod.simdiplomi.com
 nizhnij-novgorod.simsdiploms.com
 nizhnij-novgorod.studys-document.com
@@ -109779,6 +109790,7 @@ pandafilms.club
 pandafilms.pro
 pandafilms.site
 pandafilms.top
+pandamoney.ru
 pandastocks.ltd
 panel.instanttrade.net
 panel.novavi.org
@@ -131487,6 +131499,8 @@ sale.diplomisbry.com
 sale.diplomys-bratsk.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
+sale.kazandiplomax.com
+sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
@@ -134629,6 +134643,7 @@ site-goldclub.top
 site-grand-casino.ru
 site-grand.online
 site-grand.ru
+site-hydra-official.com
 site-hydra-onion.com
 site-joy-casino.azurewebsites.net
 site-joy-casino.net
@@ -152525,6 +152540,7 @@ vulkanum-clubganestap.com
 vulkanum-clubganestop.com
 vulkanum-i.com
 vulkanum.azurewebsites.net
+vulkanum.com
 vulkanum.info
 vulkanum.me
 vulkanum.net
