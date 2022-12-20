@@ -11504,6 +11504,7 @@
 227azino777.win
 227ba37.icu
 227joycasino.com
+227joycasino.xyz
 2289.info
 228azino777.win
 228joycasino.com
@@ -19253,14 +19254,14 @@ ARRAY(0x83d7980c0)
 ARRAY(0x83fd47be8)
 ARRAY(0x8416569d8)
 ARRAY(0x841966f00)
+ARRAY(0x8b2985c18)
 ARRAY(0x8b2f69708)
 ARRAY(0x8b3a7ec18)
 ARRAY(0x8b3abc630)
-ARRAY(0x8b3da8f48)
-ARRAY(0x8b6357090)
 ARRAY(0x8b65e8600)
 ARRAY(0x8b67a9120)
 ARRAY(0x8b6b75a08)
+ARRAY(0x8b6c35840)
 ARRAY(0x8bbdd4f30)
 ARRAY(0x8bcd62648)
 ARRAY(0x8bd6d4ac8)
@@ -19584,6 +19585,7 @@ a1.lostfilmtv.live
 a1.msc-spravka.com
 a1.msk-spravka.com
 a1.my-kino.site
+a1.onlinevkino4.com
 a1.parkerlabs.club
 a1.parkerlabs.info
 a1.pipitor.site
@@ -19669,6 +19671,7 @@ a2.lostfilms720.live
 a2.lostfilmshd.cc
 a2.lostfilmtv.live
 a2.my-kino.site
+a2.onlinevkino4.com
 a2.pipitor.site
 a2.serialswatch.club
 a2.smotrim-tut2.online
@@ -19722,6 +19725,7 @@ a3.lordfilm1.media
 a3.lordfilmx-onlain.net
 a3.lordfilmx-online.net
 a3.lordssfilm.life
+a3.onlinevkino5.com
 a3.parkerlabs.club
 a3.pipitor.site
 a3.spon.live
@@ -25125,6 +25129,7 @@ auto.synergy.group
 auto545.ru
 autoboss-ser.ru
 autoclick63.ru
+autodiscover.hdreactor.club
 autods.su
 autogame.space
 autohaus-krell.eu
@@ -31075,6 +31080,7 @@ b1.kinokorp.me
 b1.liveball9.ga
 b1.lordfilm1.pro
 b1.mirkino.best
+b1.onlinevkino5.com
 b1.pipitor.site
 b1.rusbook.su
 b1.spon.live
@@ -31109,6 +31115,7 @@ b2.hd-1080.live
 b2.hd.kino-bog.online
 b2.kinotik.fun
 b2.liveball9.ga
+b2.onlinevkino5.com
 b2.pipitor.site
 b2.spon.live
 b2.tryserial.xyz
@@ -31144,6 +31151,7 @@ b3.kinogoods.ru
 b3.kinotik.fun
 b3.liveball8.ml
 b3.liveball9.ga
+b3.onlinevkino5.com
 b3.pipitor.site
 b3.spon.live
 b3.tryserial.xyz
@@ -40872,6 +40880,7 @@ blog.dc0pq4mfj53liwm.freehd.com.ua
 blog.dev.6l6hicfquflzhbt.freehd.com.ua
 blog.eml.freehd.com.ua
 blog.es.hdreactor.club
+blog.et.hdreactor.club
 blog.extranet.freehd.com.ua
 blog.ganjaexpert.site
 blog.git.freehd.com.ua
@@ -41556,6 +41565,7 @@ booi-cazinox.info
 booi-cazinox.pro
 booi-com.azurewebsites.net
 booi-com.online
+booi-da.com
 booi-fz.xyz
 booi-gl.xyz
 booi-kasino.azurewebsites.net
@@ -49650,6 +49660,7 @@ champcasino.org
 champcasino.top
 champcasino.tv
 champcasino.xyz
+champion-best.top
 champion-cas.com
 champion-casino-1.ru.com
 champion-casino-1.site
@@ -49741,8 +49752,12 @@ champion-cazino.mobi
 champion-cazino.site
 champion-club-casino-vkhod.gamezaine.ru
 champion-club-casino.art-zakaz.ru
+champion-code.top
 champion-com.online
+champion-csn.top
+champion-ert.top
 champion-games.click
+champion-good.top
 champion-igrovaya-sistema.t-custom.ru
 champion-igrovyye-avtomaty-onlayn.brzikrediti.info
 champion-kasino.com
@@ -49755,6 +49770,7 @@ champion-kazino.pro
 champion-offical-casino.ru.com
 champion-original.ru
 champion-play.site
+champion-rus.top
 champion-slot.com
 champion-slot.link
 champion-slot.net
@@ -49765,10 +49781,14 @@ champion-slots.club
 champion-slots.net
 champion-slots.online
 champion-sloty-pci.nabeach.ru
+champion-spin.top
 champion-top.ru
+champion-top.top
 champion-vulcan.com
 champion-vulcan.space
+champion-win.top
 champion-win.xyz
+champion-yes.top
 champion.admiral-casino-play.online
 champion.admiral-cazino-play.online
 champion.admiral-kasino-play.online
@@ -52259,6 +52279,7 @@ db.spon.live
 db2345.olimpde83.top
 db3c49.olimp58e7.top
 db48b2f.icu
+dbadmin.hdreactor.club
 dbb9f2.olimp31d2.top
 dbbbe5.olimp1a50.top
 dbcsdd2fxh-setka.com
@@ -52729,6 +52750,7 @@ dev.3grxmirgrip7s5o.freehd.com.ua
 dev.5p9jjzbew2cq7fo.freehd.com.ua
 dev.7qqvwuah1st9uku.freehd.com.ua
 dev.a.hdreactor.club
+dev.admin.hdreactor.club
 dev.api.hdreactor.club
 dev.b.hdreactor.club
 dev.crm.hdreactor.club
@@ -54184,6 +54206,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e109.fisher-1.ru
 e110.fisher-1.ru
 e111.fisher-1.ru
 e112.fisher-1.ru
@@ -54659,6 +54682,7 @@ eefast.info
 eefe56.olimp0115.top
 eeff06.olimpdcb8.top
 eeftk-azino777.icu
+eeheat.info
 eehtest.icu
 eejh8zmp2.icu
 eemcj.site
@@ -64873,7 +64897,6 @@ good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
 good.saledip-at.com
-good.vlddiplomus.com
 good99year.com
 goodalco1111.com
 goodbkmbet.win
@@ -74482,15 +74505,19 @@ joycasino-z.azurewebsites.net
 joycasino-z1.xyz
 joycasino-z2f.xyz
 joycasino-z64.xyz
+joycasino-za.top
 joycasino-za.xyz
 joycasino-zap.xyz
+joycasino-zb.top
 joycasino-zc.xyz
+joycasino-zd.top
 joycasino-zd.xyz
 joycasino-zdc.xyz
 joycasino-zdd.xyz
 joycasino-zds.xyz
 joycasino-ze.top
 joycasino-ze.xyz
+joycasino-zee.top
 joycasino-zerkalo-dd.azurewebsites.net
 joycasino-zerkalo-dd1.azurewebsites.net
 joycasino-zerkalo-dd2.azurewebsites.net
@@ -74501,36 +74528,55 @@ joycasino-zerkalo-online2.xyz
 joycasino-zerkalo.com
 joycasino-zerkalo.site
 joycasino-zerkalo.uno
+joycasino-zf.top
 joycasino-zf.xyz
+joycasino-zg.top
 joycasino-zg.xyz
 joycasino-zgx.xyz
+joycasino-zh.top
 joycasino-zh.xyz
 joycasino-zhg.xyz
+joycasino-zi.top
 joycasino-zi.xyz
 joycasino-zip.xyz
 joycasino-zix.xyz
+joycasino-zj.top
 joycasino-zj.xyz
+joycasino-zk.top
 joycasino-zk.xyz
+joycasino-zl.top
 joycasino-zlb.xyz
+joycasino-zm.top
 joycasino-zm.xyz
 joycasino-zmc.xyz
+joycasino-zn.top
 joycasino-zn.xyz
+joycasino-zo.top
 joycasino-zo.xyz
+joycasino-zp.top
 joycasino-zp.xyz
 joycasino-zpl.xyz
 joycasino-zq.xyz
 joycasino-zqz.xyz
+joycasino-zr.top
 joycasino-zr.xyz
+joycasino-zs.top
 joycasino-zs.xyz
 joycasino-zsd.xyz
+joycasino-zt.top
 joycasino-zt.xyz
 joycasino-ztd.xyz
+joycasino-zu.top
 joycasino-zu.xyz
+joycasino-zv.top
 joycasino-zv.xyz
 joycasino-zvd.xyz
+joycasino-zw.top
 joycasino-zw.xyz
+joycasino-zx.top
 joycasino-zx.xyz
 joycasino-zxp.xyz
+joycasino-zy.top
 joycasino-zy.xyz
 joycasino-zz.xyz
 joycasino-zzz.xyz
@@ -74897,6 +74943,7 @@ joycasino2022.top
 joycasino2023.top
 joycasino203.xyz
 joycasino204.xyz
+joycasino205.xyz
 joycasino22.com
 joycasino22.win
 joycasino23.com
@@ -75368,6 +75415,7 @@ joykazino.cool
 joykazino.date
 joykazino.digital
 joykazino.guru
+joykazino.me
 joykazino.mobi
 joykazino.net.ru
 joykazino.network
@@ -84890,6 +84938,7 @@ log.prutor.site
 logbetleons.com
 logih-vtb.com
 login.freehd.com.ua
+login.hdreactor.club
 login98you.com
 logindanab.top
 loginsb13.com
@@ -90398,6 +90447,7 @@ mebelservise.ru
 mebysc.best
 mechanics.team
 med-495-online.com
+med-495-online.net
 med-blanks.ru
 med-bro.ru
 med-cpravci.co
@@ -130647,11 +130697,11 @@ sale.anti-co.xyz
 sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
-sale.diplomisbry.com
 sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
+sale.kazandiplomax.com
 sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
@@ -130928,6 +130978,7 @@ sbd630.hdreactor.club
 sbd649.hdreactor.club
 sbd667.hdreactor.club
 sbd687.hdreactor.club
+sbd695.hdreactor.club
 sbd7.hdreactor.club
 sbd755.hdreactor.club
 sbd794.hdreactor.club
@@ -140064,6 +140115,7 @@ tolkoty74.ru
 tolkozdorovie.online
 tolkozdorovie.ru
 tollers.site
+tolya10.ddns.mksat.net
 tolyatti.damdiplomses.com
 tolyatti.diplomk-4you.com
 tolyatti.diploms4yoursas.com
@@ -142525,6 +142577,7 @@ tv.mnogovideos.ru
 tv.myvimir.vip
 tv.one-premier.xyz
 tv.onlinehockey.club
+tv.onlinevkino.xyz
 tv.premier-one.fun
 tv.premier-one.site
 tv.premier-one.space
@@ -143820,6 +143873,7 @@ v15.koshara.top
 v15.vulcanclubplay.com
 v16.ofxme.co
 v16.vulcanclubplay.com
+v17.hdreactor.club
 v17.ofxme.co
 v17.vulcanclubplay.com
 v18.hdreactor.club
@@ -152547,6 +152601,7 @@ w1.my-luchshie.ru
 w1.mytorrent.xyz
 w1.nekino.space
 w1.ogofilm.ru
+w1.onlinevkino.xyz
 w1.rumuzfan.ru
 w1.seasonvar.monster
 w1.slot-mag-1.xyz
@@ -152566,6 +152621,7 @@ w10.kinotrast.ru
 w10.liveball8.ml
 w10.lordfilms.mobi
 w10.online-life.online
+w10.onlinevkino.xyz
 w10.rumuzfan.ru
 w10.technom.su
 w11.1baskino.xyz
@@ -152577,6 +152633,7 @@ w11.hd-videobox3.ru
 w11.kinocool.su
 w11.kinokrad.website
 w11.kinotrast.ru
+w11.onlinevkino.xyz
 w11.technom.su
 w11w.hdreactor.club
 w12.2021-filmy-hd.online
@@ -152689,6 +152746,7 @@ w2.lordsfilm3.xyz
 w2.muzoffs.ru
 w2.mytorrent.xyz
 w2.ogofilm.ru
+w2.onlinevkino.xyz
 w2.rumuzfan.ru
 w2.seria-z.space
 w2.smotri-nd-kino.ru
@@ -152797,6 +152855,7 @@ w3.mobilaziino.site
 w3.muzoffs.ru
 w3.ogofilm.ru
 w3.online-life.online
+w3.onlinevkino.xyz
 w3.rumuzfan.ru
 w3.seasonvar.kim
 w3.smotri-nd-kino.ru
@@ -152833,6 +152892,7 @@ w4.mdc.promo
 w4.muzoffs.ru
 w4.ogofilm.ru
 w4.online-life.online
+w4.onlinevkino.xyz
 w4.rumuzfan.ru
 w4.seasonvar.kim
 w4.urafilms.ru
@@ -152861,6 +152921,7 @@ w5.lordfilm-2.band
 w5.lordfilms.mobi
 w5.mdc.promo
 w5.online-life.online
+w5.onlinevkino.xyz
 w5.rumuzfan.ru
 w5.seasonvar.kim
 w5.urafilms.ru
@@ -152877,6 +152938,7 @@ w6.kinogo2-2019.ru
 w6.kinotrast.ru
 w6.liveball8.ml
 w6.lordfilm-2.band
+w6.onlinevkino.xyz
 w6.rumuzfan.ru
 w6.seasonvar.kim
 w686lx6lp3g1mst.com
@@ -152919,6 +152981,7 @@ w7.kinocool.su
 w7.liveball8.ml
 w7.lordfilm-2.band
 w7.lordfilms.mobi
+w7.onlinevkino.xyz
 w7.rumuzfan.ru
 w7.seasonvar.kim
 w7uxm-azinomobile.icu
@@ -153538,6 +153601,7 @@ w8.o2bpqhp.icu
 w8.o7kki52.icu
 w8.ogp8iw0.icu
 w8.online-life.online
+w8.onlinevkino.xyz
 w8.onnjlyg.icu
 w8.oq4q5k6.host
 w8.orscd09.icu
@@ -153692,6 +153756,7 @@ w9.kinocool.su
 w9.kinotrast.ru
 w9.liveball8.ml
 w9.lordfilms.mobi
+w9.onlinevkino.xyz
 w9.rumuzfan.ru
 w90vv-azino777.host
 w9blmst5516.com
@@ -156245,6 +156310,7 @@ ww.forovation.ru
 ww.forum.imperiafilm.ru
 ww.goldfishka8.com
 ww.hd-1080.live
+ww.hdreactor.club
 ww.kino-onlinego.com
 ww.kinocruise.club
 ww.kinopools.com
@@ -164289,6 +164355,7 @@ xn--nowagercasno-1fb.org
 xn--o1ab.hdreactor.club
 xn--onon-rpa.com
 xn--orca88-casino--8tl5e7a9cu4dwb.dayzparadox.ru
+xn--pa5k.hdreactor.club
 xn--personal-39g.build-capital.biz
 xn--q1a.rocketon.pw
 xn--q1a4d.hdreactor.club
