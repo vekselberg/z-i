@@ -16430,6 +16430,7 @@
 720-free.3zfilme-hd.site
 720-free.3zfilme-hd.top
 720-free.gov-bbs-y.top
+720-free.gov-bcp-s.top
 720-free.hdfilmi-hd.top
 720-free.zfilm-hd69.top
 720-free.zfilm-hd777.monster
@@ -19224,13 +19225,14 @@ ARRAY(0x836085f60)
 ARRAY(0x838259870)
 ARRAY(0x839b000f0)
 ARRAY(0x83a3880a8)
+ARRAY(0x83aa46720)
 ARRAY(0x83ad6e348)
 ARRAY(0x83c8fc570)
 ARRAY(0x83d0d6108)
+ARRAY(0x83d1ebdf8)
 ARRAY(0x8b1f57348)
 ARRAY(0x8b2985c18)
 ARRAY(0x8b317b840)
-ARRAY(0x8b3abc630)
 ARRAY(0x8b4345c00)
 ARRAY(0x8b67a9120)
 ARRAY(0x8b6c35840)
@@ -19240,7 +19242,6 @@ ARRAY(0x8bd6d4ac8)
 ARRAY(0x8bda82210)
 ARRAY(0x8beaca8d0)
 ARRAY(0x8beef9540)
-ARRAY(0x8c002aed0)
 ARRAY(0x8c1731f90)
 ARRAY(0x8c18dec00)
 ARRAY(0x8c1fe3be8)
@@ -23295,6 +23296,7 @@ alkogrand360.ru
 alkogrand361.ru
 alkogrand362.ru
 alkogrand363.ru
+alkogrand369.ru
 alkogrand370.ru
 alkogrand372.ru
 alkogrand374.ru
@@ -23338,6 +23340,7 @@ alkomarket-3.ru
 alkomig-196.ru
 alkomig196.ru
 alkon-balkon.ru
+alkonadom114.ru
 alkonapitkoff119.xyz
 alkonapitkoff120.xyz
 alkonapitkoff121.xyz
@@ -23796,6 +23799,7 @@ anna-mironova.ru
 annashapogolik.ru
 annettemccleave.club
 anokth07mst.com
+anonib.su
 anonim-info.com
 anonimm.ru
 anonworldwide.com
@@ -61717,6 +61721,7 @@ fuh7r-azino777.icu
 fujjmajilisrp2.xyz
 fulibwsd-vzzfp.xyz
 full-diplom.com
+full-hd.gov-bcp-s.top
 full-hd.hdfilmi-1080.buzz
 full-hd.hdfilmi.top
 full-hd.lamafilm-hd.space
@@ -70388,6 +70393,7 @@ iph83gc5mstru.com
 iphonefilm.ru
 iphoneigui.ru
 ipi-msk.ru
+ipin-up18.com
 ipkoz.ru
 ipkywece.olimpda45.xyz
 iplay-fortuna.azurewebsites.net
@@ -94854,6 +94860,7 @@ moneymoren.space
 moneymores.space
 moneyn.club
 moneypayscasino.ru
+moneypayscasinos.ru
 moneypulse.info
 moneyr.club
 moneys-active.xyz
@@ -107246,6 +107253,7 @@ online.dirta.ru
 online.divan-tv.win
 online.eldorado-kasino.site
 online.fan-vulkan.com
+online.frank-casino.info
 online.game-casinox.fun
 online.game-casinox.net
 online.gidonline-1176.site
@@ -111212,6 +111220,7 @@ pin-upf81.com
 pin-uph67.com
 pin-upj43.com
 pin-upkasino.ru
+pin-upkasinoslots.ru
 pin-upp1.com
 pin-upp10.com
 pin-upp11.com
@@ -111934,6 +111943,7 @@ pinup-win.club
 pinup-win.site
 pinup-win.website
 pinup-wincasino.ru
+pinup-wincazino.ru
 pinup-wins.azurewebsites.net
 pinup-zerkalo.net.ru
 pinup-zerkalo.top
@@ -128921,6 +128931,7 @@ runnerbem.xyz
 runnerbets.xyz
 running818.art
 runningstorestpete.com
+runspiner.ru
 runzzwlks.com
 rupi-x.com
 rupinup.fun
@@ -130266,6 +130277,7 @@ sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
+sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
@@ -139325,6 +139337,7 @@ the-load.ru
 the-melbet.club
 the-music-institute.org
 the-play-fortuna.azurewebsites.net
+the-rox.ru
 the-solcasino.club
 the-spin-city-casino3.com
 the-topslot.azurewebsites.net
@@ -157675,6 +157688,7 @@ www.ebubk2.com
 www.ebyt365.net
 www.echomp3.ru
 www.eco-kurort.ru
+www.ecoatominf.ru
 www.ecogarden24.ru
 www.ecruc.com
 www.eeeee.biz
@@ -162297,6 +162311,7 @@ x-tor.org
 x-tor.top
 x-torrent.club
 x-torrent.ru
+x.1xbet-x.com
 x.1xbetjr.site
 x.azino777.pp.ru
 x.bobfilm-hd.ru
@@ -164784,6 +164799,7 @@ za-rul.ru
 za.filmive-hd.net
 za.ladu-rus.ru
 za.lordfilmax.net
+za4itaika.ru
 za4itaika.site
 za4x9mgzmst.com
 zabajkalskij-kraj.prava-pro.org
