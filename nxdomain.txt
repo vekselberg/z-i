@@ -19084,13 +19084,14 @@ ARRAY(0x838259870)
 ARRAY(0x8389c9f48)
 ARRAY(0x839b000f0)
 ARRAY(0x83aa46720)
-ARRAY(0x83ad6e348)
 ARRAY(0x83c8fc570)
 ARRAY(0x83d0d6108)
 ARRAY(0x83d1ebdf8)
 ARRAY(0x8b1f57348)
+ARRAY(0x8b24f95e8)
 ARRAY(0x8b317b840)
 ARRAY(0x8b4345c00)
+ARRAY(0x8b6693438)
 ARRAY(0x8bc0aadb0)
 ARRAY(0x8bcb48810)
 ARRAY(0x8bd5be5b8)
@@ -19101,7 +19102,6 @@ ARRAY(0x8bfb64390)
 ARRAY(0x8bfc38ae0)
 ARRAY(0x8c1731f90)
 ARRAY(0x8c18dec00)
-ARRAY(0x8c1fe3be8)
 ARRAY(0x8c3e8d030)
 a-bets63.top
 a-bt56.top
@@ -42804,6 +42804,7 @@ casino-business.ru
 casino-ca.guru
 casino-cafe.ru
 casino-cash-flow.pro
+casino-champion-1.site
 casino-champion-official-site.com
 casino-champion-official.com
 casino-champion-official.fun
@@ -52824,6 +52825,7 @@ dropmessy.site
 dropmyboxru-promokody.raventest.ru
 dropni.fun
 dropni.su
+dropnu.ru
 drrxbd9.host
 drugayagalaktika.com
 drugoesoznanie.fun
@@ -53150,6 +53152,7 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e109.fisher-1.ru
 e111.fisher-1.ru
 e112.fisher-1.ru
 e113.fisher-1.ru
@@ -62832,7 +62835,6 @@ go.filmshd.gg
 go.filmshd.vip
 go.fito-medic.ru
 go.gidonllinego.ru
-go.gosnadzor-rk.ru
 go.grandclub.online
 go.grandvlk.top
 go.hd1080px.top
@@ -63532,10 +63534,11 @@ good-video1.tech
 good-video2.club
 good-video2.tech
 good-win-frank.club
-good.diplomis-mkh.com
 good.filmshd.vip
 good.k1no.cc
+good.kemerovodiplomys.com
 good.kinogo.wtf
+good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
@@ -79601,6 +79604,7 @@ kolizey-arena.ru
 kollegia-pravo.ru
 kolobok.kg
 kolobok.site
+kolobok.store
 kolobol.online
 kologa.fun
 kolomna1.prostitutki.store
@@ -87590,6 +87594,8 @@ maxbet-zerkalo.space
 maxbet.azurewebsites.net
 maxbetcasino.by
 maxbetcasino.club
+maxbetcasino.info
+maxbetcasino.org
 maxbetcasino71.online
 maxbetofficial.xyz
 maxbets-betting.club
@@ -112365,7 +112371,6 @@ playfortuna.guru
 playfortuna.house
 playfortuna.kim
 playfortuna.media
-playfortuna.mobi
 playfortuna.net.ru
 playfortuna.news
 playfortuna.org.ru
@@ -128522,6 +128527,7 @@ sale.9253451.com
 sale.anti-co.xyz
 sale.auto-tema.com
 sale.diplomabuyer.com
+sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomisbry.com
 sale.diplomys-bratsk.com
@@ -128535,6 +128541,7 @@ sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
+sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.spravka-spb.store
 sale.vol-diplomas.com
@@ -132365,7 +132372,6 @@ slot.casinovulcan-udachi.org
 slot.cazino-vulkan-onlines.org
 slot.columbus-casino-official.org
 slot.dluxe.top
-slot.frank-casino.info
 slot.freshfit-vrn.com
 slot.funnygame.online
 slot.gms-play.top
@@ -142104,6 +142110,7 @@ vavada-om.xyz
 vavada-on-line.org.ru
 vavada-one.azurewebsites.net
 vavada-one.xyz
+vavada-one2.xyz
 vavada-one3.azurewebsites.net
 vavada-one4.azurewebsites.net
 vavada-onlayn-kazino-bonus.mkyshanin.ru
@@ -157303,7 +157310,6 @@ www.pinup03.com
 www.pinup04.com
 www.pinup05.com
 www.pinup06.com
-www.pinup067bet.com
 www.pinup07.com
 www.pinup08.com
 www.pinup083bet.com
@@ -160633,6 +160639,7 @@ xn---1-6kctciwjbvhds.xyz
 xn---1-7kcawbnzegql4a.xn--p1ai
 xn---1-7kcctbbp2adiqmj0a2a.xn--p1ai
 xn---1-7kcsblwdgokhw.xn--p1ai
+xn---2-6kcaxdjzkcxls.xyz
 xn---2-6kcbj2ahnfjtfh6e.xn--80asehdb
 xn---2-6kcfrcbk2albzjdw1aq.xn--p1ai
 xn---2-7kcsaldccetf2acagij1lpe.xn--p1ai
