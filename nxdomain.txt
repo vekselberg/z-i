@@ -18811,10 +18811,10 @@ ARRAY(0x8389c9f48)
 ARRAY(0x839bad468)
 ARRAY(0x839fe4f30)
 ARRAY(0x83a8b28e8)
-ARRAY(0x83aa46720)
 ARRAY(0x83bbc39d8)
 ARRAY(0x83ca58690)
-ARRAY(0x83d1ebdf8)
+ARRAY(0x83cfd0768)
+ARRAY(0x83dcd1b88)
 ARRAY(0x83fc11228)
 ARRAY(0x83fd2c378)
 ARRAY(0x840b86f00)
@@ -22854,7 +22854,6 @@ alkomarket-3.ru
 alkomig-196.ru
 alkomig196.ru
 alkon-balkon.ru
-alkonadom114.ru
 alkonapitkoff120.xyz
 alkonapitkoff121.xyz
 alkonapitkoff122.xyz
@@ -33024,6 +33023,7 @@ best.frank-casino-official.net
 best.free-files.ru
 best.game-platinum.xyz
 best.gomuz.eu
+best.growerz.bid
 best.hd1080film.ru
 best.kazino.tech
 best.kino-zk.online
@@ -40681,6 +40681,7 @@ bookpedia.ru
 books-as.ru
 books.e-libra.net
 books.e-libra.ru
+books.e-libra.su
 books.megaresheba.site
 books.reshalka.net
 booksas.ru
@@ -42120,7 +42121,6 @@ casino-champion.pro
 casino-champion.ru.com
 casino-champion.su
 casino-champion.win
-casino-champion.xyz
 casino-champion1.ru
 casino-champion2.ru
 casino-champion2020.site
@@ -46558,6 +46558,7 @@ casinox-loft.top
 casinox-long.top
 casinox-lu.xyz
 casinox-mobile.ru
+casinox-ms.xyz
 casinox-nd.xyz
 casinox-nn.xyz
 casinox-offical-casino.ru.com
@@ -52024,7 +52025,9 @@ e1.liveball8.ml
 e1.spon.live
 e109.fisher-1.ru
 e110.fisher-1.ru
+e111.fisher-1.ru
 e112.fisher-1.ru
+e113.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
 e15d3d4.com
@@ -59787,6 +59790,7 @@ gaiy.prostitutki24.red
 galaxy-matrix.fun
 galaxy-rus24.com
 galaxyrus24.com
+galaxytrade.pro
 gale5zzttxmst.com
 galeontorg.online
 galery-club.ru
@@ -62125,10 +62129,12 @@ good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
+good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
+good.saledip-at.com
 good.vlddiplomus.com
 good99year.com
 goodalco1111.com
@@ -70273,6 +70279,7 @@ joycasino-mai.xyz
 joycasino-man.xyz
 joycasino-map.xyz
 joycasino-maze.top
+joycasino-mb.xyz
 joycasino-mc.xyz
 joycasino-mc7.xyz
 joycasino-mc9.xyz
@@ -71237,6 +71244,7 @@ joycasino-world2.azurewebsites.net
 joycasino-world3.azurewebsites.net
 joycasino-world4.azurewebsites.net
 joycasino-wp.top
+joycasino-wp.xyz
 joycasino-wpl.xyz
 joycasino-wpm.xyz
 joycasino-wpt.xyz
@@ -71361,6 +71369,7 @@ joycasino-yb.xyz
 joycasino-yb0.xyz
 joycasino-yb2.xyz
 joycasino-ybw.xyz
+joycasino-yc.top
 joycasino-yc.xyz
 joycasino-yd.top
 joycasino-yd.xyz
@@ -71375,15 +71384,20 @@ joycasino-ygf.xyz
 joycasino-ygg.top
 joycasino-yh.top
 joycasino-yhh.top
+joycasino-yi.top
 joycasino-yi.xyz
+joycasino-yj.top
 joycasino-yj.xyz
+joycasino-yk.top
 joycasino-yk.xyz
 joycasino-yka.xyz
 joycasino-yl.top
 joycasino-yl.xyz
 joycasino-ym.top
 joycasino-ym.xyz
+joycasino-yn.top
 joycasino-yn.xyz
+joycasino-yo.top
 joycasino-yo.xyz
 joycasino-yo2.xyz
 joycasino-yo9.xyz
@@ -71393,6 +71407,7 @@ joycasino-yp.top
 joycasino-yp.xyz
 joycasino-yq.top
 joycasino-yq.xyz
+joycasino-yr.top
 joycasino-ys.top
 joycasino-ys.xyz
 joycasino-yt.top
@@ -71403,10 +71418,12 @@ joycasino-yv.top
 joycasino-yv.xyz
 joycasino-yw.top
 joycasino-yw.xyz
+joycasino-yww.top
 joycasino-yx.top
 joycasino-yx.xyz
 joycasino-yy.top
 joycasino-yy.xyz
+joycasino-yz.top
 joycasino-yz.xyz
 joycasino-yzd.xyz
 joycasino-z.azurewebsites.net
@@ -72265,6 +72282,7 @@ joycazino2030.xyz
 joycazino2031.xyz
 joycazino2032.xyz
 joycazino303.xyz
+joycazino304.xyz
 joycazino777.xyz
 joycazino77777.xyz
 joycazino777777.xyz
@@ -98509,6 +98527,7 @@ nahodka.prava-pro.org
 nahodka.simdiplomi.com
 nahodka.study-docums.com
 nahodka1.prostitutki.store
+nai.kintas.site
 nailchik.simdiplomi.com
 naj2n1j22k.com
 najlepsze-gry-total-casino.obdauto.eu
@@ -103687,7 +103706,6 @@ online.dirta.ru
 online.divan-tv.win
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.fun
 online.game-casinox.net
 online.gidonline-1176.site
@@ -114318,6 +114336,7 @@ putanacall.ru
 putani-kaluga.top
 putani-kirov.top
 putanu-base.kamnem.ru
+putany-krasnodar.net
 putany-lubim.com
 putanykiss24na7.online
 putanysearch.online
@@ -123860,7 +123879,6 @@ ru.slotsay.com
 ru.slotv-casino-online.website
 ru.smbvo5z.com
 ru.smnf23knc.com
-ru.smo-diplomas.com
 ru.spycasino.club
 ru.spycasino.info
 ru.sq47j1qa0q.com
@@ -125983,12 +126001,12 @@ sale.auto-tema.com
 sale.diplomabuyer.com
 sale.diplomis-mkp.com
 sale.diplomis-svs.com
+sale.diplomisbry.com
 sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
-sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
@@ -158548,7 +158566,6 @@ za-rul.ru
 za.filmive-hd.net
 za.ladu-rus.ru
 za.lordfilmax.net
-za4itaika.ru
 za4itaika.site
 za4x9mgzmst.com
 zabajkalskij-kraj.prava-pro.org
