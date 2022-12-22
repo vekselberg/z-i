@@ -19079,22 +19079,22 @@
 9zm5omo.icu
 ARRAY(0x83422aca8)
 ARRAY(0x834f6ba08)
-ARRAY(0x836085f60)
 ARRAY(0x838259870)
 ARRAY(0x8389c9f48)
 ARRAY(0x839b000f0)
 ARRAY(0x83aa46720)
+ARRAY(0x83bbc39d8)
 ARRAY(0x83c8fc570)
 ARRAY(0x83d0d6108)
 ARRAY(0x83d1ebdf8)
 ARRAY(0x8b1f57348)
 ARRAY(0x8b24f95e8)
 ARRAY(0x8b317b840)
-ARRAY(0x8b4345c00)
 ARRAY(0x8b6693438)
 ARRAY(0x8bc0aadb0)
 ARRAY(0x8bcb48810)
 ARRAY(0x8bd5be5b8)
+ARRAY(0x8be896948)
 ARRAY(0x8beaca8d0)
 ARRAY(0x8beef9540)
 ARRAY(0x8bf8574b0)
@@ -45946,7 +45946,6 @@ casino.online-vulkan-pobeda.com
 casino.onlinesloty.org
 casino.playfortuna-mobile.ru
 casino.playfortuna.fun
-casino.playfortuna.mobi
 casino.playfortuna.online
 casino.pobedawins.com
 casino.r-bonus.com
@@ -56452,6 +56451,7 @@ film.kinorubka.online
 film.kinorupka.online
 film.kinoseego.online
 film.kinospace.club
+film.kinows.online
 film.koshara.top
 film.lordfilm.uno
 film.lordfilms-online.net
@@ -58897,6 +58897,7 @@ footballru.online
 footballrun.online
 footballscore.ru
 footballsite.online
+footballsk.online
 footballsopcast.ru
 footballtop.online
 footballtoyou.online
@@ -63534,13 +63535,13 @@ good-video1.tech
 good-video2.club
 good-video2.tech
 good-win-frank.club
+good.diplomis-mkh.com
 good.filmshd.vip
 good.k1no.cc
 good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
-good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
 good.mahachkala-diplomus.com
@@ -64647,6 +64648,7 @@ habarovsk.attestatut.com
 habarovsk.damdiplomses.com
 habarovsk.diplom4yoursas.com
 habarovsk.diplomavruki.com
+habarovsk.diplomgoszznak.com
 habarovsk.diplomilike.com
 habarovsk.diplomknaamm.com
 habarovsk.diplomlikea.com
@@ -65185,6 +65187,7 @@ hd.kinotraf.club
 hd.kinovhod.top
 hd.kinovhod.website
 hd.kinovhod.xyz
+hd.kinows.online
 hd.kinoxom.site
 hd.kinoxx.net
 hd.kinoy.ru
@@ -65420,6 +65423,7 @@ hd1.kinomops.xyz
 hd1.kinoserials.club
 hd1.kinosmak.online
 hd1.kinovhod.xyz
+hd1.kinows.online
 hd1.kinoz.ru
 hd1.livecc.online
 hd1.livefox.cc
@@ -65583,6 +65587,7 @@ hd2.kinomoh.ru
 hd2.kinomops.su
 hd2.kinomops.xyz
 hd2.kinosmak.online
+hd2.kinows.online
 hd2.kinoz.ru
 hd2.lordfilm-tnt.site
 hd2.lordfilm.bet
@@ -65652,6 +65657,7 @@ hd3.kinolenta.cc
 hd3.kinoma.tv
 hd3.kinomops.su
 hd3.kinomops.xyz
+hd3.kinows.online
 hd3.kinoz.ru
 hd3.lordfilm.bet
 hd3.lordfilmax.net
@@ -65700,6 +65706,7 @@ hd4.kino-rezka.ru
 hd4.kinokard720.ru
 hd4.kinoma.tv
 hd4.kinomops.su
+hd4.kinows.online
 hd4.kinoz.ru
 hd4.lordfilm.bet
 hd4.lordfilmax.net
@@ -65738,6 +65745,7 @@ hd5.kino-go.best
 hd5.kinogonka.top
 hd5.kinokard720.ru
 hd5.kinomops.xyz
+hd5.kinows.online
 hd5.kinoz.ru
 hd5.lordfilm.bet
 hd5.lordfilmax.net
@@ -65766,6 +65774,7 @@ hd6.7lordfilm-0.xyz
 hd6.filmlord.net
 hd6.kino-go.best
 hd6.kinomops.xyz
+hd6.kinows.online
 hd6.kinoz.ru
 hd6.lordfilm.bet
 hd6.lordfilmax.net
@@ -73875,6 +73884,7 @@ joyjoycazino12.xyz
 joyjoycazino13.xyz
 joyjoycazino14.xyz
 joyjoycazino15.xyz
+joyjoycazino16.xyz
 joyjoycazino2.xyz
 joyjoycazino3.xyz
 joyjoycazino4.xyz
@@ -83784,6 +83794,7 @@ lordfilm.info
 lordfilm.irish
 lordfilm.kim
 lordfilm.kinolords.com
+lordfilm.kinows.online
 lordfilm.livecc.online
 lordfilm.lol
 lordfilm.lordfilm-2833.site
@@ -83804,6 +83815,7 @@ lordfilm.press
 lordfilm.rent
 lordfilm.rocks
 lordfilm.rpltb.online
+lordfilm.rumovie.online
 lordfilm.sale
 lordfilm.skin
 lordfilm.sktop.me
@@ -83838,6 +83850,7 @@ lordfilm.zfilm-hd-835.online
 lordfilm.zfilm-hd720.icu
 lordfilm0.tv
 lordfilm1.club
+lordfilm1.kinows.online
 lordfilm1.livecc.online
 lordfilm1.net
 lordfilm1.online
@@ -83845,6 +83858,7 @@ lordfilm1.rpltb.online
 lordfilm1.skin
 lordfilm1.tk
 lordfilm1080.ru
+lordfilm2.kinows.online
 lordfilm2.livecc.online
 lordfilm2.rpltb.online
 lordfilm2.tk
@@ -83853,26 +83867,33 @@ lordfilm2021.website
 lordfilm21.net
 lordfilm21.xyz
 lordfilm3.kinolink.info.jpg
+lordfilm3.kinows.online
 lordfilm3.link
 lordfilm3.livecc.online
 lordfilm3.rpltb.online
 lordfilm3.tk
+lordfilm4.kinows.online
 lordfilm4.livecc.online
 lordfilm4.rpltb.online
 lordfilm4.ru
 lordfilm4.tk
+lordfilm5.kinows.online
 lordfilm5.livecc.online
 lordfilm5.rpltb.online
 lordfilm5.tk
+lordfilm6.kinows.online
 lordfilm6.livecc.online
 lordfilm6.rpltb.online
 lordfilm6.tk
+lordfilm7.kinows.online
 lordfilm7.livecc.online
 lordfilm7.rpltb.online
 lordfilm7.tk
 lordfilm720.ru
+lordfilm8.kinows.online
 lordfilm8.livecc.online
 lordfilm8.rpltb.online
+lordfilm9.kinows.online
 lordfilm9.livecc.online
 lordfilmaa-online.net
 lordfilmas.tech
@@ -98719,7 +98740,6 @@ mrbits.club
 mrbits.fun
 mrbits.pw
 mrbits.site
-mrbits.xyz
 mrbitt-casino.azurewebsites.net
 mrbitt.azurewebsites.net
 mrbitt.club
@@ -112515,6 +112535,7 @@ playfortunacom.site
 playfortunacom.website
 playfortunacrystal3.ru
 playfortunacx.online
+playfortunad.xyz
 playfortunaenter.ru
 playfortunaenter1.ru
 playfortunafortuna1.ru
@@ -120586,6 +120607,7 @@ rezka.icu
 rezka.kinoit.net
 rezka.lutikhd.com
 rezka.netflex.one
+rezka.rumovie.online
 rezka.vseriale.online
 rezka.website
 rezka.zfilm-hd-2659.online
@@ -135321,6 +135343,7 @@ sportstart.online
 sportstreams.tech
 sportstv1.website
 sportstv777.pro
+sportsv.online
 sportswiner.ru
 sporttlive.ru
 sporttranslation.ru
