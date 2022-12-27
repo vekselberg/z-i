@@ -18509,12 +18509,11 @@ ARRAY(0x8338443d8)
 ARRAY(0x833c3eb40)
 ARRAY(0x8346c4de0)
 ARRAY(0x8357dd4c8)
+ARRAY(0x837ac3af8)
 ARRAY(0x8394c56f0)
 ARRAY(0x8396288e8)
 ARRAY(0x83b6366f0)
-ARRAY(0x83cc899d8)
 ARRAY(0x83d1a18a0)
-ARRAY(0x83f5aa3d8)
 ARRAY(0x8408f5660)
 ARRAY(0x840904750)
 ARRAY(0x841795b28)
@@ -18527,6 +18526,7 @@ ARRAY(0x8b6422858)
 ARRAY(0x8b70e7d80)
 ARRAY(0x8b720dc78)
 ARRAY(0x8b7a17180)
+ARRAY(0x8b8ac0e40)
 ARRAY(0x8bef83a50)
 ARRAY(0x8c1010dc8)
 a-bets63.top
@@ -29493,6 +29493,7 @@ b.azino777-vhod-3.xyz
 b.baza-knig.info
 b.bobfilm-hd.ru
 b.bobfilm1.ru
+b.bobfilms.ru
 b.cinema-24.net
 b.doktorfarm.website
 b.dosug-chelyabinsk.ru
@@ -32281,6 +32282,7 @@ beringia2014.ru
 berkli.ru
 berry.dosug-58.info
 berry.fei36.ru
+berry.intim24.org
 berry.intim76.com
 berry.putana74.com
 bersek.space
@@ -46122,6 +46124,7 @@ cazinogaming.com
 cazinogold.club
 cazinogrand.azurewebsites.net
 cazinogrant.azurewebsites.net
+cazinogrant.com
 cazinogrant.net
 cazinoiimperator.com
 cazinoimperator.club
@@ -47652,6 +47655,7 @@ club-vulcan-udachi.xyz
 club-vulcan24.azurewebsites.net
 club-vulcan24.top
 club-vulcan24.xyz
+club-vulcandeluxe.com
 club-vulcanplatinum.com
 club-vulcanrussia24.com
 club-vulcanslot.com
@@ -51468,6 +51472,9 @@ ekb.fort-pravamb.com
 ekb.rusd-diplomy.com
 ekb.rusofdak.ru
 ekb.vodd-prava.com
+ekb.zakaz-naoitok.ru
+ekb2.zakaz-naoitok.ru
+ekb3.zakaz-naoitok.ru
 ekb4.alkomig96.ru
 ekb5.alkomig96.ru
 ekbtoday.ru
@@ -51887,7 +51894,6 @@ elib.startmail.com
 elista.bez-avtoshkoly.site
 elista.damdiplomes.com
 elista.damdiplomses.com
-elista.diplom4yoursas.com
 elista.diplombrandi.com
 elista.diplombrrand.com
 elista.diplomgoszznak.com
@@ -56425,7 +56431,6 @@ fpi24-trade.site
 fpjck.top
 fpjd756ut5jbmer.uno
 fpsln.site
-fpteam-hack.com
 fq4gskh1mst.com
 fqbnd197192.com
 fqbndni66ll.com
@@ -61829,6 +61834,7 @@ hd.betonfilm.space
 hd.blacklord.pw
 hd.bobfilm-hd.ru
 hd.bobfilm1.ru
+hd.bobfilms.ru
 hd.boxfilm.me
 hd.btorr.ru
 hd.ekranka.life
@@ -80935,6 +80941,7 @@ lords6-film.lordfilm1.zone
 lords6.lordfilm.pics
 lords7.lordfilm.pics
 lords8-hd.lordfilm1.zone
+lords8.lordfilm.pics
 lordseral.lortfilm.cc
 lordserial.lortfilm.cc
 lordserialhd.net
@@ -96693,6 +96700,7 @@ n2.kinoha.top
 n2.kinosimka3.be
 n2.lordfilm.today
 n2.lordfilmhd.cam
+n2.lordfilmz-online.net
 n2.nicotinka.ru
 n2.prutor.site
 n2.seasongo.info
@@ -111910,7 +111918,6 @@ prostitutkiekaterinburgasweet.info
 prostitutkiekaterinburgawant.info
 prostitutkiekaterinburgaxx.info
 prostitutkiescort.online
-prostitutkiescortdosug.online
 prostitutkigelendzhykasex.net
 prostitutkihabarovskaarea.com
 prostitutkihabarovskaher.com
@@ -134923,6 +134930,7 @@ tv.1hd1080.info
 tv.all-kino.online
 tv.bobfilm-hd.ru
 tv.bobfilm1.ru
+tv.bobfilms.ru
 tv.divan-tv.win
 tv.docro.ru
 tv.filmedia-hd.net
@@ -135973,6 +135981,7 @@ v.4khd.online
 v.bob-film.xyz
 v.bobfilm-hd.ru
 v.bobfilm1.ru
+v.bobfilms.ru
 v.cinema-hd.ru
 v.domkino.kz
 v.dvernoy-samara.ru
@@ -141350,6 +141359,7 @@ vulkan-rossiya-kazino-litsenzionnyy.rtasamara.ru
 vulkan-rossiya-skachat-na-android.100gotovka.ru
 vulkan-rossiya.buzz
 vulkan-rossiya.ru
+vulkan-ru-777.com
 vulkan-rus-online.com
 vulkan-rus-onlines.com
 vulkan-rus.azurewebsites.net
@@ -149260,7 +149270,6 @@ www.holtv5.ru
 www.holtv6.ru
 www.holtv7.ru
 www.holtv8.ru
-www.hopps.ru
 www.hotel-duslik.ru
 www.hotel4dog.ru
 www.hotkit.ru
