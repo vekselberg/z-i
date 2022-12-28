@@ -18492,14 +18492,13 @@
 ARRAY(0x834bf6708)
 ARRAY(0x835297540)
 ARRAY(0x83633f8d0)
-ARRAY(0x837107570)
 ARRAY(0x838283f78)
 ARRAY(0x8382c92a0)
 ARRAY(0x838a92018)
 ARRAY(0x83bb25f90)
+ARRAY(0x83c4e3018)
 ARRAY(0x83dc22df8)
 ARRAY(0x83e9002e8)
-ARRAY(0x841496798)
 ARRAY(0x8b08521c8)
 ARRAY(0x8b121af60)
 ARRAY(0x8b122d030)
@@ -18507,6 +18506,7 @@ ARRAY(0x8b23729d8)
 ARRAY(0x8b310ff30)
 ARRAY(0x8b62d3168)
 ARRAY(0x8b6d5c540)
+ARRAY(0x8b8d10b40)
 ARRAY(0x8ba143948)
 ARRAY(0x8bac72a98)
 ARRAY(0x8bae61c90)
@@ -18689,6 +18689,7 @@ a.ru-steroid.art
 a.saratovnb.info
 a.semenarnia-seeds.live
 a.semenarnia-seeds.store
+a.semenarnia-semena-1.link
 a.semenarnia-semena-1.site
 a.semenarnia-semena-10.site
 a.semenarnia-semena-11.live
@@ -18696,9 +18697,13 @@ a.semenarnia-semena-12.live
 a.semenarnia-semena-13.live
 a.semenarnia-semena-14.live
 a.semenarnia-semena-15.live
+a.semenarnia-semena-2.link
 a.semenarnia-semena-2.site
+a.semenarnia-semena-3.link
 a.semenarnia-semena-3.site
+a.semenarnia-semena-4.link
 a.semenarnia-semena-4.site
+a.semenarnia-semena-5.link
 a.semenarnia-semena-5.site
 a.semenarnia-semena-6.site
 a.semenarnia-semena-7.site
@@ -18728,9 +18733,13 @@ a.semyanich-shop-9.xyz
 a.semyanichcannabis.website
 a.semyanichsale.space
 a.serialy.tv
+a.shishkin-semena-1.click
 a.shishkin-semena-10.live
 a.shishkin-semena-11.live
 a.shishkin-semena-12.live
+a.shishkin-semena-2.click
+a.shishkin-semena-3.click
+a.shishkin-semena-4.click
 a.shishkin-semena-6.live
 a.shishkin-semena-7.live
 a.shishkin-semena-8.live
@@ -24430,7 +24439,6 @@ ayotifsccb.to.accessbetcity.com
 ayq2llgaoymb.com
 ayrfb.site
 ayscasino.ru
-aytomatibesplatno.ru
 aywer.ru
 az-777-ino.ru
 az-casino777.ru
@@ -29534,6 +29542,7 @@ b.rasta-rasha.art
 b.reduksin.club
 b.rf-errors-seeds.com
 b.ru-kinogo.net
+b.semenarnia-semena-2.link
 b.smotretfilmi.ru
 b.spravkainfo.org
 b.spravkid.com
@@ -42377,6 +42386,7 @@ casino-tip-6.xyz
 casino-tip-7.xyz
 casino-tip-8.xyz
 casino-tip-9.xyz
+casino-tip-top.ru
 casino-tip.hot-top10.com
 casino-tip1.hot-top10.com
 casino-tip2.hot-top10.com
@@ -50087,7 +50097,6 @@ dokinovosib-rm.ru
 dokinovosib-vk.ru
 dokiomsk-rp.ru
 dokiperm-sr.ru
-dokiperm-sv.ru
 dokiporus.ru
 dokirostov-vk.ru
 dokisamara-rm.ru
@@ -53025,6 +53034,7 @@ fa7b84.olimp1897.top
 fa7ff32b.pw
 fabnb-azinomobile.icu
 fabra48.ru
+fabrika-chekov.com
 fabrika-chekov.site
 fabrika-chekov.website
 fabrika-money.life
@@ -54238,6 +54248,7 @@ filmsmegahd.ru
 filmspro.site
 filmss.hdr-puls.ru
 filmstart.ru
+filmster.co
 filmstime.online
 filmstitle.ru
 filmstor.net
@@ -58296,6 +58307,7 @@ gagarinmedia.ru
 gaiy.prostitutki24.red
 galaxy-matrix.fun
 galaxy-rus24.com
+galaxy-rust.ru
 galaxyrus24.com
 galaxytrade.pro
 gale5zzttxmst.com
@@ -60521,7 +60533,6 @@ good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
-good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
@@ -64005,6 +64016,7 @@ hydraruzxpnew4af-oniono.com
 hydraruzxpnew4af-oniont.com
 hydraruzxpnew4af-onioon.com
 hydraruzxpnew4af-oonion.com
+hydraruzxpnew4af.cc
 hydraruzxpnew4af.discount
 hydraruzxpnew4af.group
 hydraruzxpnew4af.hydraruzpnew4afonion.com
@@ -66091,7 +66103,6 @@ ivagnp15shmb.com
 ivangorod.prava-pro.org
 ivangurmash.xyz
 ivanovo-tut.bez-avtoshkoly.site
-ivanovo.diplom4yoursas.com
 ivanovo.diplomd-kurerom.com
 ivanovo.diplomk-4you.com
 ivanovo.diplomn-magazine.com
@@ -66607,6 +66618,7 @@ jet-casino-006.ru
 jet-casino-007.ru
 jet-casino-77wt.ru
 jet-casino-77wt2.ru
+jet-casino-77wt4.ru
 jet-casino-dok2.ru
 jet-casino-dok3.ru
 jet-casino-dok4.ru
@@ -76634,6 +76646,7 @@ konakfashion.com
 konekrad.ru
 konepor.site
 konepor.xyz
+koniggame.ru
 konkurs-ai-drugdesign.ru
 konkursmaf.ru
 konllidok.ru
@@ -101121,7 +101134,6 @@ omsk-sofosbuvir.ru
 omsk-tut.bez-avtoshkoly.site
 omsk.attestatut.com
 omsk.damdiplomses.com
-omsk.diplom4yoursas.com
 omsk.diplomk-4you.com
 omsk.diplomknaamm.com
 omsk.diplomlikea.com
@@ -111964,7 +111976,6 @@ prokazatour.ru
 prokinozal.ru
 prokopevsk.damdiplomes.com
 prokopevsk.damdiplomses.com
-prokopevsk.diplom4yoursas.com
 prokopevsk.diplomd-4you.com
 prokopevsk.diplomk-4you.com
 prokopevsk.diplomlikea.com
@@ -120279,6 +120290,7 @@ ru.dgwjn31kj.com
 ru.dh0cpt5v97.com
 ru.diplom-r.org
 ru.diplomsbrn.com
+ru.diplomyxchelyabinsk.com
 ru.djajb4bhnc.com
 ru.djbf123hmc.com
 ru.djkgfb1ej31a.com
@@ -124785,6 +124797,7 @@ semenarnia-seeds.online
 semenarnia-seeds.site
 semenarnia-seeds.top
 semenarnia-seeds.zone
+semenarnia-semena-1.link
 semenarnia-semena-1.live
 semenarnia-semena-1.site
 semenarnia-semena-10.live
@@ -124794,9 +124807,11 @@ semenarnia-semena-12.live
 semenarnia-semena-13.live
 semenarnia-semena-14.live
 semenarnia-semena-15.live
+semenarnia-semena-2.link
 semenarnia-semena-2.live
 semenarnia-semena-2.site
 semenarnia-semena-3.site
+semenarnia-semena-4.link
 semenarnia-semena-4.site
 semenarnia-semena-5.site
 semenarnia-semena-6.live
@@ -125176,6 +125191,7 @@ serialpoisk.zfilm-hd-1065.online
 serialpoisk.zfilm-hd-520.online
 serialpoisk.zfilm-hd720.icu
 serialpro.co
+serialpro.net
 serialrezka.site
 serialrub.ru
 serials-2020.online
@@ -125549,6 +125565,7 @@ sex.bryansk-dd.com
 sex.dosugkrsk.com
 sex.dzerzhinsk.prostitutki.fit
 sex.feo-dd.com
+sex.individualki-krasnodara.ru
 sex.individualkichelyabinskadosug.net
 sex.individualkiekaterinburgafine.net
 sex.individualkimoskvystop.net
@@ -126735,6 +126752,7 @@ shishkin-seeds.online
 shishkin-seeds.site
 shishkin-seeds.space
 shishkin-seeds.works
+shishkin-semena-1.click
 shishkin-semena-1.live
 shishkin-semena-10.live
 shishkin-semena-11.live
@@ -126746,9 +126764,12 @@ shishkin-semena-16.live
 shishkin-semena-17.live
 shishkin-semena-18.live
 shishkin-semena-19.live
+shishkin-semena-2.click
 shishkin-semena-2.live
 shishkin-semena-20.live
+shishkin-semena-3.click
 shishkin-semena-4.live
+shishkin-semena-5.click
 shishkin-semena-5.live
 shishkin-semena-6.live
 shishkin-semena-7.live
@@ -128246,7 +128267,6 @@ slotsgotop.mobi
 slotsik.ru
 slotsinpurse.com
 slotslak.com
-slotsmicrogaming.ru
 slotsmoney-plays.ru
 slotsmoney7.ru
 slotsmoneypay.ru
@@ -133181,6 +133201,7 @@ top-kazino-s-khoroshey-otdachey.online-obzor.ru
 top-kazino-s-momentalnym-vyvodom.kaluga-dubrava.ru
 top-kinohd.ru
 top-legal-casino.ru
+top-licenzionnye-kazino.online
 top-lord.lordsfilms.gold
 top-loto.best
 top-loto.cash
@@ -133772,6 +133793,7 @@ tor.hub-mahno.ru
 tor.hydra-2web.com
 tor.hydraclubioknikoke7.com
 tor.hydradarknet.cc
+tor.hydraruzxpnew4af.cc
 tor.hydraruzxpnew4af.net
 tor.hydraruzxpnew4af.org
 tor.hyrdaruzxpnew4af1onion.com
@@ -146550,6 +146572,7 @@ winlinestar58.com
 winlinestar59.com
 winlinestar6.com
 winlinestar60.com
+winlinestar64.com
 winlinestar7.com
 winlinestar8.com
 winlinestar9.com
@@ -149619,6 +149642,7 @@ www.hydra73jwjikvxij.biz
 www.hydramarketsnjmd.link
 www.hydramarketsnjmd.name
 www.hydramarketsnjmd.support
+www.hydraruzxpnew4af.cc
 www.hydraruzxpnew4af.group
 www.hydraruzxpnew4af.mobi
 www.hydraruzxpnew4af.net
@@ -149855,6 +149879,7 @@ www.knigi1.ru
 www.knpz-ken.com
 www.kodori.ru
 www.kolibribank.org
+www.koniggame.ru
 www.konsolka.club
 www.konustv.ru
 www.koskifoto.ru
@@ -151434,6 +151459,7 @@ www.serialage.tv
 www.serialhd-online.ru
 www.serialhit.tv
 www.serialok.life
+www.serialpro.net
 www.serials.vip
 www.serialsend.ru
 www.serialtv3.ru
@@ -152581,6 +152607,7 @@ www.youopen.ru
 www.yourincest.com
 www.yourussian.net
 www.yourussian.ru
+www.youtor.org
 www.youtor.ru
 www.yummyanime.club
 www.yuom.ru
