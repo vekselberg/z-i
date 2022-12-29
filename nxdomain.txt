@@ -12524,6 +12524,7 @@
 2ndflnn-vk.ru
 2ndflnovosib-sh.ru
 2ndflnovosib-vk.ru
+2ndflnovosib-vz.ru
 2ndflomsk-sm.ru
 2ndflomsk-sn.ru
 2ndflomsk-sp.ru
@@ -18487,8 +18488,10 @@ ARRAY(0x8401e67e0)
 ARRAY(0x840528fa8)
 ARRAY(0x84062e540)
 ARRAY(0x840f5d060)
+ARRAY(0x8b095fc60)
 ARRAY(0x8b0c51e88)
 ARRAY(0x8b2764138)
+ARRAY(0x8b3c68d80)
 ARRAY(0x8b44f14c8)
 ARRAY(0x8b4cc7828)
 ARRAY(0x8b5e4b8e8)
@@ -24018,6 +24021,7 @@ atorrent.ru
 atorrent.site
 atorrent.xyz
 atorrents.net
+atorrents.ru
 atorrfilms.ru
 atrium-plc.com
 atron.website
@@ -47992,6 +47996,7 @@ collss.kinogo.wtf
 colmex24.net
 colorit-dv.ru
 colour.oserialsoul.site
+colter.ru
 coltsccc.xyz
 columb-casino.1500-games.com
 columb-casino.1500games.com
@@ -54452,6 +54457,7 @@ financeforcegroupe.co
 financeforcegroupe.com
 financeoptionsltd.com
 financesnxt.xyz
+financialauthority.trade
 financingfifty.com
 finanka24.ru
 finconsultant.seenrben.com
@@ -59507,6 +59513,7 @@ gidra-link24.com
 gidra-market.club
 gidra.group
 gidramarket.fun
+gidrapro.com
 gidraruzxpnew4aff.com
 gidrasajt24.com
 gidrasajt24dostup.com
@@ -60674,6 +60681,7 @@ good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
 good.kupit-diplom-v-novosibirske-383.ru
+good.mahachkala-diplomus.com
 good.saledip-at.com
 good99year.com
 goodalco1111.com
@@ -96663,6 +96671,7 @@ my-solcasino.club
 my-zaycev.net
 my.1hd1080.info
 my.24trade.net
+my.alleng.org
 my.arhivfailov.ru
 my.awsfxbank.com
 my.axentrade.com
@@ -101721,6 +101730,7 @@ one1.cinema4k.ru
 one12.cinema4k.ru
 onebahis.mobi
 onebest-betwinner.club
+onebett.ru
 onedeluxe.online
 onedepository.com
 onegowin.top
@@ -106365,6 +106375,7 @@ pinup-casino1.net
 pinup-casino1.site
 pinup-casino1.xyz
 pinup-casino10.fun
+pinup-casino10.ru
 pinup-casino10.space
 pinup-casino10.win
 pinup-casino11.life
@@ -124329,11 +124340,13 @@ sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
+sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.moscowpharma.su
+sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.spravka-spb.store
 sale.vol-diplomas.com
@@ -128758,6 +128771,7 @@ slotvkazinos03.ru
 slotvkazinos04.ru
 slotvkazinos05.online
 slotvkazinos06.ru
+slotvkazinos16a.ru
 slotvlink.com
 slotvofficiall.ru
 slotvoficial.ru
@@ -129725,6 +129739,7 @@ solcasino-aya2.ru
 solcasino-aya4.ru
 solcasino-aya5.ru
 solcasino-bal.ru
+solcasino-banya2.ru
 solcasino-best.ru
 solcasino-better.ru
 solcasino-black.ru
@@ -137324,6 +137339,7 @@ vavada-online.net.ru
 vavada-online.org.ru
 vavada-online.su
 vavada-online.trafytch.com
+vavada-onlinecasino-azart.com
 vavada-original.com
 vavada-otzyvy-realnyye.kino-poster.ru
 vavada-pc.xyz
@@ -137920,6 +137936,7 @@ vavadagame09.ru
 vavadagame117-ac.store
 vavadagame147-ab.store
 vavadagame147a.store
+vavadagame17c.ru
 vavadagame17v.store
 vavadagame555.com
 vavadagame999.com
