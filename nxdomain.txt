@@ -18482,7 +18482,6 @@ ARRAY(0x8345d2ea0)
 ARRAY(0x835547f78)
 ARRAY(0x838f2c4f8)
 ARRAY(0x83c0c9318)
-ARRAY(0x83c4e3018)
 ARRAY(0x83edf6678)
 ARRAY(0x8401e67e0)
 ARRAY(0x840528fa8)
@@ -18493,12 +18492,13 @@ ARRAY(0x8b0c51e88)
 ARRAY(0x8b2764138)
 ARRAY(0x8b3c68d80)
 ARRAY(0x8b44f14c8)
+ARRAY(0x8b48885e8)
 ARRAY(0x8b4cc7828)
 ARRAY(0x8b5e4b8e8)
 ARRAY(0x8b7d75240)
 ARRAY(0x8b7ebd330)
-ARRAY(0x8b8d10b40)
 ARRAY(0x8b9a15c60)
+ARRAY(0x8bb5ef108)
 ARRAY(0x8bce22af8)
 ARRAY(0x8bf2d8f60)
 a-bets63.top
@@ -39061,7 +39061,6 @@ blog.ganjaexpert.site
 blog.git.freehd.com.ua
 blog.gmkqbzpmrunzfmi.freehd.com.ua
 blog.go.freehd.com.ua
-blog.gw.hdreactor.club
 blog.hdreactor.freehd.com.ua
 blog.http.freehd.com.ua
 blog.https1.hdreactor.club
@@ -56447,6 +56446,7 @@ formbetplaywin.top
 formostpart.com
 formostpic.com
 formosttraffik.com
+formula-dental.ru
 formula-gaza-msk.ru
 formulaprof.ru
 foroulo.filmlordec.online
@@ -60675,7 +60675,6 @@ good.filmshd.vip
 good.k1no.cc
 good.kemerovodiplomys.com
 good.kinogo.wtf
-good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
@@ -77012,7 +77011,6 @@ krasnodar.topdiplomy.com
 krasnodar.xn----otbfohobeg7gza.xn--p1ai
 krasnodardopingshop.ru
 krasnodarr-spravkii-medknigkii.ru
-krasnodarr-spravkii-medknigkiii.ru
 krasnodarshopdoping.ru
 krasnodarskij-kraj.nyjni-prava.online
 krasnodarskij-kraj.prava-pro.org
@@ -107159,6 +107157,7 @@ platinumvulkan777.ru
 platinumvulkanigray.com
 platinumvulkans.com
 plationline.org
+platkipp.ru
 platnyye-igrovyye-apparaty-eldorado.pochemu-otchego.info
 platycixdb.space
 plau-fortuna-igrovyye-avtomaty-ofitsialnyy.fresco40.ru
@@ -124345,6 +124344,7 @@ sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
+sale.kupit-diplomis-v-moskve-495.com
 sale.moscowpharma.su
 sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
@@ -124578,7 +124578,6 @@ sbd255.hdreactor.club
 sbd260.hdreactor.club
 sbd273.hdreactor.club
 sbd280.hdreactor.club
-sbd286.hdreactor.club
 sbd29.hdreactor.club
 sbd302.hdreactor.club
 sbd314.hdreactor.club
@@ -129475,6 +129474,7 @@ sol-dd.ru
 sol-dd1.ru
 sol-dd2.ru
 sol-dd3.ru
+sol-disok.ru
 sol-disok1.ru
 sol-first.ru
 sol-friendlyrest-25.ru
@@ -129736,6 +129736,7 @@ solcasino-ave.ru
 solcasino-aya.ru
 solcasino-aya1.ru
 solcasino-aya2.ru
+solcasino-aya3.ru
 solcasino-aya4.ru
 solcasino-aya5.ru
 solcasino-bal.ru
@@ -132138,6 +132139,7 @@ superslotsonline.icu
 superslotsonline.net
 superslotsonline.ru
 superslotsonline.xyz
+superslotss.ru
 superslotstv.sotterra.ru
 superslotszerkalo.ru
 supersloty-casino.online
@@ -137554,6 +137556,7 @@ vavada3719.ru
 vavada3720.ru
 vavada38.com
 vavada387-xplay1.ru
+vavada3978.ru
 vavada3erkalo.ru
 vavada4.azurewebsites.net
 vavada4.site
