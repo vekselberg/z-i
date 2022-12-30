@@ -18487,19 +18487,17 @@ ARRAY(0x83cff17c8)
 ARRAY(0x83d04f1e0)
 ARRAY(0x83e45e168)
 ARRAY(0x83f574f30)
+ARRAY(0x83f77b798)
 ARRAY(0x840285630)
 ARRAY(0x84031fe70)
 ARRAY(0x8422b1288)
 ARRAY(0x89306b3c0)
-ARRAY(0x8b095fc60)
 ARRAY(0x8b14602e8)
 ARRAY(0x8b21f6ed0)
-ARRAY(0x8b3c68d80)
-ARRAY(0x8b48885e8)
 ARRAY(0x8b6367888)
+ARRAY(0x8b8f3ed80)
 ARRAY(0x8b94ee4b0)
 ARRAY(0x8ba18b1e0)
-ARRAY(0x8bb5ef108)
 ARRAY(0x8bbf64a20)
 ARRAY(0x8bd40eca8)
 ARRAY(0x8be8a7708)
@@ -40624,6 +40622,7 @@ buskino.pro
 busmzbpn.olimpakbo.xyz
 busspb-travel.ru
 buy-dipllom.com
+buy-diplomm.com
 buy-dlploms.com
 buy-kazino-otzyvy.sidewinders.info
 buy-kazino-zerkalo-rabocheye.dom-evropa.ru
@@ -44286,6 +44285,7 @@ casino.fortune-admiral.club
 casino.frank-slot.top
 casino.frank-slots.online
 casino.gamblingtop.info
+casino.gdemoney.com
 casino.golden-cazino.xyz
 casino.gosnadzor-rk.ru
 casino.jackpot-win.site
@@ -49854,7 +49854,6 @@ diplomov-98.com
 diplomov-msk.com
 diplomov-spb.com
 diplomov.net
-diplompro24.site
 diplompsos.com
 diplomq-v-tule.com
 diplomq-v-yaroslavle.com
@@ -50963,6 +50962,8 @@ e0ea4a8.icu
 e0f62svr.fun
 e1.liveball8.ml
 e1.spon.live
+e109.fisher-1.ru
+e110.fisher-1.ru
 e111.fisher-1.ru
 e112.fisher-1.ru
 e113.fisher-1.ru
@@ -72015,6 +72016,7 @@ kamensk-uralskiy.diplomgoszznak.com
 kamensk-uralskiy.diplomlikea.com
 kamensk-uralskiy.diplomvrukia.com
 kamensk-uralskiy.study-docums.com
+kamensk-uralsky.sale-of-diplomas.com
 kamyshin.xn----otbfohobeg7gza.xn--p1ai
 kanalukraina.kinogo-hd.icu
 kanalukraina.zfilm-hd-2248.online
@@ -77592,6 +77594,7 @@ kyzyl.diplomavruki.com
 kyzyl.diplomgoszznak.com
 kyzyl.fulldiplom24.com
 kyzyl.prostitutki24.xyz
+kyzyl.sale-of-diplomas.com
 kyzyl.simdiplomi.com
 kyzyl.study-docums.com
 kyzyl.studys-document.com
@@ -109258,6 +109261,7 @@ pleyandwins.azurewebsites.net
 pleyandwinz.azurewebsites.net
 pleydom-kazino-igrat-onlayn.kulon-love.ru
 pleyfortuna.simkaa.ru
+plg.bet
 plina-azinomo-bile.icu
 plm5v4i.host
 plm8s-azino777.icu
@@ -124456,6 +124460,7 @@ sale.diplomis-mkp.com
 sale.diplomis-svs.com
 sale.diplomisbry.com
 sale.diplomys-bratsk.com
+sale.diplomys-chr.com
 sale.goodiplommoscow.com
 sale.grzdiplomix.com
 sale.kazandiplomax.com
@@ -124469,6 +124474,7 @@ sale.moscowpharma.su
 sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.spravka-spb.store
+sale.vol-diplomas.com
 sale24b.gmeds365.org
 salepro.in.ua
 sales.9253451.com
@@ -135853,6 +135859,7 @@ tver.prostitutkirest.com
 tver.prostitutkisoy.com
 tver.prostitutkisoy.info
 tver.prostitutkisoy.net
+tver.sale-of-diplomas.com
 tver.sam-poehals.com
 tver.study-docums.com
 tver.vodn-prava.com
@@ -150459,6 +150466,7 @@ www.koniggame.ru
 www.konsolka.club
 www.konustv.ru
 www.koskifoto.ru
+www.kosmos-nsk.ru
 www.kovcheg-spasenya.ru
 www.krm-tour.com
 www.kronemark.ru
@@ -153201,7 +153209,6 @@ www.youopen.ru
 www.yourincest.com
 www.yourussian.net
 www.yourussian.ru
-www.youtor.org
 www.youtor.ru
 www.yuom.ru
 www.yusra.market
