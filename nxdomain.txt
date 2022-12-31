@@ -3037,6 +3037,7 @@
 1bet-8x.top
 1bet-9.top
 1bet-9x.top
+1bet-official.ru
 1bet-x00253.world
 1bet-x01258.world
 1bet-x01450.com
@@ -9047,6 +9048,7 @@
 1xirsp34.com
 1xirsp35.com
 1xirsp36.com
+1xirsp37.com
 1xirsp38.com
 1xirsp39.com
 1xirsp4.com
@@ -12395,6 +12397,7 @@
 2c3cb1.olimpe297.top
 2c430b.olimpe24a.top
 2c58c9.olimp58e7.top
+2c6sz.waypointpodcast.com
 2c8yr8zmmb.com
 2c9413.olimp0bae.top
 2ca318.olimpcaf3.top
@@ -13512,6 +13515,7 @@
 3pinupcasinoss.com
 3pk9eo35mst.com
 3pmcasinoss.com
+3pokerdom.com
 3qea0-azinomobile.icu
 3qfw7-azino777.icu
 3qyi3stgmb.com
@@ -15062,6 +15066,7 @@
 5zvezdfoto.ru
 6-azmpp.win
 6-hd.lorfil.lol
+6-mond.com
 6.3.12zigzag777.com
 6.6m.hdkf.me
 6.6m.lordfilmii.net
@@ -18516,11 +18521,14 @@
 9zir3o-setka.com
 9zm5omo.icu
 ARRAY(0x835a28708)
+ARRAY(0x835d6f0c0)
 ARRAY(0x835ddcdc8)
 ARRAY(0x836767f18)
 ARRAY(0x836d8c4c8)
+ARRAY(0x83852d9a8)
 ARRAY(0x839c3e990)
 ARRAY(0x83ba256c0)
+ARRAY(0x83c060fd8)
 ARRAY(0x83d04f1e0)
 ARRAY(0x83e8edd20)
 ARRAY(0x83f574f30)
@@ -18529,8 +18537,8 @@ ARRAY(0x840285630)
 ARRAY(0x8404ce2d0)
 ARRAY(0x840d143a8)
 ARRAY(0x8b0792a50)
-ARRAY(0x8b21f6ed0)
 ARRAY(0x8b32f0ea0)
+ARRAY(0x8b3aa4258)
 ARRAY(0x8b685f888)
 ARRAY(0x8b712b468)
 ARRAY(0x8b8961198)
@@ -18538,7 +18546,6 @@ ARRAY(0x8b8f3ed80)
 ARRAY(0x8ba272c48)
 ARRAY(0x8ba3dd2d0)
 ARRAY(0x8bb18dd68)
-ARRAY(0x8bbf64a20)
 ARRAY(0x8bc100b58)
 ARRAY(0x8bd18efa8)
 ARRAY(0x8bd40eca8)
@@ -32914,6 +32921,7 @@ bet1-x34486.com
 bet1-x39503.com
 bet1-x48410.com
 bet1-x52536.com
+bet1-x52910.com
 bet1-x58326.com
 bet1-x62518.com
 bet1-x62651.com
@@ -50702,6 +50710,7 @@ drutor.site
 drutor.tech
 druzhbakino.ru
 druzya.tv
+drvcsn.com
 drygp-azino777.icu
 ds102.v-s.mobi
 ds138.v-s.mobi
@@ -51009,6 +51018,7 @@ e1.spon.live
 e109.fisher-1.ru
 e110.fisher-1.ru
 e111.fisher-1.ru
+e112.fisher-1.ru
 e113.fisher-1.ru
 e1152ad.icu
 e136h-azinomobile.icu
@@ -60811,6 +60821,7 @@ good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
+good.kupit-diplom-v-norilske-3919.ru
 good.mahachkala-diplomus.com
 good.saledip-at.com
 good99year.com
@@ -72571,6 +72582,7 @@ kazin025.com
 kazin026.com
 kazin027.com
 kazin028.com
+kazin029.com
 kazin03.com
 kazin04.com
 kazin05.com
@@ -82355,6 +82367,7 @@ luckyslot-klub.xyz
 luckyspm.xyz
 lucshie-online-casino.ru
 ludoclub.ru.com
+ludodudes.com
 ludojob-bonus.com
 ludojop-stream.com
 ludojop.info
@@ -82552,6 +82565,7 @@ m-sport-bet.club
 m-sport-bet.website
 m-sport-betting.club
 m-sport-betting.website
+m.101-diploms.com
 m.1fullhd1080.club
 m.1xslot73704.com
 m.1xslot93567.com
@@ -87484,6 +87498,7 @@ melbet96788.com
 melbet96855.com
 melbet979960.top
 melbet98257.com
+melbet98506.com
 melbet99386.com
 melbeta.org
 melbetadh.host
@@ -96070,6 +96085,7 @@ mstdss.com
 mstdtk.com
 mstdvq.com
 mstdwg.com
+mstdxc.com
 mstdzc.com
 mstdzv.com
 mstdzw.com
@@ -107958,6 +107974,7 @@ play-fortunacasino.ru
 play-fortunacazino.ru
 play-fortunagg.ru
 play-fortunagu33.com
+play-fortunaj62n.com
 play-fortunakasino.ru
 play-fortunakazino.ru
 play-fortunal91m.com
@@ -108307,6 +108324,7 @@ play.slotvcasino-new.info
 play.slotvcasino-new.net
 play.slotvcasinoenter.info
 play.slotvcasinonew.info
+play.slotvcasinosite.com
 play.slotvcasinovhod.info
 play.slotvcasinowin.net
 play.top-admiral-casino.online
@@ -111601,9 +111619,11 @@ pobedavulca.online
 pobedavulkan.online
 pocerdom.ru
 pochemu-ne-rabotaet.net
+pochemu-ne-rabotaet1.com
 pochemu-ne-rabotayet-kazino-eurogrand.spravka-bassein1.ru
 pochemu-ne-zahodit.net
 pochemu-ne-zahodit.xyz
+pochemu-ne-zahodit1.com
 pochemu-ne-zakhodit-v-grand-kazino.total-game.ru
 pochemu-otchego.info
 pocketlib.net
@@ -116471,6 +116491,7 @@ register-fresh1.ru
 register-rox370.ru
 register-rox713.ru
 register.qtradeltd.com
+registerspb-online.com
 registration-betcity-ru.pw
 registration-fonbet-ru.pw
 registration-leon-ru.pw
@@ -120861,6 +120882,7 @@ ru.fortunacasino2.club
 ru.fortunacasino3.club
 ru.fqib23bvs.com
 ru.fr33gami55leo7.com
+ru.futbik.org
 ru.g773leo11ytr.com
 ru.gafsui4561.com
 ru.gam72leo86k.com
@@ -121026,6 +121048,7 @@ ru.kthjjeb2y310.com
 ru.ku4ugu66le.com
 ru.ku5r4bb61le.com
 ru.ku7rr1stt5.com
+ru.kupit-diplom-v-omske-381.ru
 ru.kuraa1aa6o71ro.com
 ru.kz32tt4leon.com
 ru.kz37leo22ou.com
@@ -123099,6 +123122,7 @@ ru6.igrovyeavtomatynadengi.online
 ru6.lordfilmax.net
 ru6.musicoff.online
 ru6.rump3.info
+ru6music.com
 ru7.hdkinoteater.cam
 ru7.hdkinoteater.net
 ru7.homosteron.me
@@ -124554,6 +124578,8 @@ sale.anti-co.xyz
 sale.auto-tema.com
 sale.diplomabuyer.com
 sale.diplomis-mkp.com
+sale.diplomis-svs.com
+sale.diplomisbry.com
 sale.diplomys-bratsk.com
 sale.diplomys-chr.com
 sale.goodiplommoscow.com
@@ -127944,6 +127970,7 @@ skladchik.bet
 skladchik.click
 skladchik.download
 skladchiki.online
+skladchikpro.com
 skladchinabuy.club
 skladchinabuy.ru
 skladodrom.club
@@ -132165,6 +132192,7 @@ sub.kinolenta.club
 sub.muznew.site
 subatgold.com
 sudaj.prava-pro.org
+sudar-buh.com
 sukko.bez-avtoshkoly.site
 suktyvkar.diplomavruki.com
 suktyvkar.diplomgoszznak.com
@@ -133566,6 +133594,7 @@ tolkohd.info
 tolkozdorovie.online
 tolkozdorovie.ru
 tollers.site
+tolya10.ddns.mksat.net
 tolyatti.diplomk-4you.com
 tolyatti.diploms4yoursas.com
 tolyatti.intim69.tips
@@ -134468,6 +134497,7 @@ torrent-just.ru
 torrent-k.online
 torrent-k.ru
 torrent-kino.cc
+torrent-kino.com
 torrent-kino.pro
 torrent-ko.ru
 torrent-kong.ru
@@ -134734,6 +134764,7 @@ torrentsdog.com
 torrentsget.net
 torrentshare.org
 torrentsik.ru
+torrentsoon.com
 torrentss.okah.top
 torrentss24.ru
 torrentstar.xyz
@@ -143549,6 +143580,7 @@ vvv0k-azino777.icu
 vvv22.xxxzerkalo.ru
 vvv24.vulkan-kazino-onlines.net
 vvvbet.site
+vvvvv.cityrescue.ru
 vvvvv.sadik41.ru
 vvvvv.school-logos.ru
 vvvvv.studenti-detyam.ru
@@ -149644,6 +149676,7 @@ www.cpin-up43.com
 www.creoseo.ru
 www.criticfilm.ru
 www.crowd-mine.com
+www.crownbusinesssolution.com
 www.crownshop.cc
 www.crystalcasino.info
 www.crystall-casino.online
@@ -150945,6 +150978,7 @@ www.lovemuzon.ru
 www.ls-10.bet
 www.ls-11.bet
 www.lubovnye-romany.ru
+www.luckycasino777.com
 www.ludobonus.com
 www.lunzofx.com
 www.lustration-kz.org
@@ -153782,6 +153816,7 @@ x-admiralcasinos.com
 x-bet-casino.business-biosea.ru
 x-bet-zerkalo-official-site.online
 x-bookmaker.com
+x-bookmeker.com
 x-casiino.com
 x-casimo.ru
 x-casimo2.ru
