@@ -930,6 +930,7 @@
 1-win2.azurewebsites.net
 1-win3.azurewebsites.net
 1-win4.azurewebsites.net
+1-win5.azurewebsites.net
 1-x-bet-bonus.ru
 1-x-bet-go-1.top
 1-x-bet-go.site
@@ -1082,7 +1083,6 @@
 1.one-premier.xyz
 1.onlinelifetv.com
 1.onlinevkino2.com
-1.parn-tour.com
 1.pharaonkazino.ru
 1.pharaonkazino2.ru
 1.pool.startmail.com
@@ -1115,7 +1115,6 @@
 1.sofosbuvir-v-permi.ru
 1.sofosbuvir-v-samare.ru
 1.topkinofilm.net
-1.topkinofilms.com
 1.tumen-sofosbuvir.ru
 1.tv.ezfilm.net
 1.videocdn.pw
@@ -4103,6 +4102,7 @@
 1win-official4.azurewebsites.net
 1win-officials.site
 1win-officials3.azurewebsites.net
+1win-officials4.azurewebsites.net
 1win-officialsite-casino.fun
 1win-officialsite-casino.space
 1win-online-casino.cfd
@@ -4130,6 +4130,7 @@
 1win-zerkalo-4.azurewebsites.net
 1win-zerkalo-5.azurewebsites.net
 1win-zerkalo1-4.azurewebsites.net
+1win-zerkalo2-4.azurewebsites.net
 1win.casa
 1win.chat
 1win.name
@@ -6188,6 +6189,7 @@
 1xbet-9i.xyz
 1xbet-9l.xyz
 1xbet-9m.xyz
+1xbet-a-zerkalo1.azurewebsites.net
 1xbet-a.club
 1xbet-a.xyz
 1xbet-a1.club
@@ -6389,6 +6391,7 @@
 1xbet-bza.xyz
 1xbet-c-zerkalo.azurewebsites.net
 1xbet-c-zerkalo1.azurewebsites.net
+1xbet-c-zerkalo3.azurewebsites.net
 1xbet-c.club
 1xbet-c.xyz
 1xbet-c01.xyz
@@ -7320,6 +7323,7 @@
 1xbet-sloty4.azurewebsites.net
 1xbet-sloty5.azurewebsites.net
 1xbet-sloty6.azurewebsites.net
+1xbet-sloty7.azurewebsites.net
 1xbet-sls.xyz
 1xbet-sly.xyz
 1xbet-sm.top
@@ -8188,6 +8192,7 @@
 1xbetslot4.azurewebsites.net
 1xbetslot5.azurewebsites.net
 1xbetslot6.azurewebsites.net
+1xbetslot7.azurewebsites.net
 1xbetsport.xyz
 1xbetss.site
 1xbetstar.site
@@ -9625,6 +9630,7 @@
 1xslofficial.azurewebsites.net
 1xslofficial1.azurewebsites.net
 1xslofficial2.azurewebsites.net
+1xslofficial3.azurewebsites.net
 1xslot-official.ru
 1xslot-site.cam
 1xslot-site.top
@@ -10073,6 +10079,7 @@
 200919azino777.ru
 20092019azino777.com
 20092019azino777.ru
+200rf.rest
 201.videocdn.pw
 201018azino777.com
 201018azino777.ru
@@ -21070,7 +21077,6 @@ alkodostavka034.xyz
 alkodostavka035.xyz
 alkodostavka27.ru
 alkogid.net
-alkogold0024.online
 alkogold0024.ru
 alkogolnadom.xyz
 alkogrand.ru
@@ -22912,6 +22918,7 @@ az-official.azurewebsites.net
 az-official1.azurewebsites.net
 az-official2.azurewebsites.net
 az-official3.azurewebsites.net
+az-official4.azurewebsites.net
 az.dluxe.online
 az.topmadbear.com
 az100.ru
@@ -23701,6 +23708,7 @@ azino-777-mobile19.azurewebsites.net
 azino-777-mobile2.azurewebsites.net
 azino-777-mobile20.azurewebsites.net
 azino-777-mobile21.azurewebsites.net
+azino-777-mobile22.azurewebsites.net
 azino-777-mobile3.azurewebsites.net
 azino-777-mobile4.azurewebsites.net
 azino-777-mobile5.azurewebsites.net
@@ -24898,6 +24906,7 @@ azino777-ee-official.azurewebsites.net
 azino777-ee-official1.azurewebsites.net
 azino777-ee-official2.azurewebsites.net
 azino777-ee-official3.azurewebsites.net
+azino777-ee-official4.azurewebsites.net
 azino777-eeoh1.icu
 azino777-egj5g.host
 azino777-eiscr.icu
@@ -25557,6 +25566,7 @@ azino777-qq-official2.azurewebsites.net
 azino777-qq-official20.azurewebsites.net
 azino777-qq-official21.azurewebsites.net
 azino777-qq-official22.azurewebsites.net
+azino777-qq-official23.azurewebsites.net
 azino777-qq-official3.azurewebsites.net
 azino777-qq-official4.azurewebsites.net
 azino777-qq-official5.azurewebsites.net
@@ -25752,6 +25762,7 @@ azino777-tritoporika.ru
 azino777-trqbr.icu
 azino777-tt-official.azurewebsites.net
 azino777-tt-official1.azurewebsites.net
+azino777-tt-official10.azurewebsites.net
 azino777-tt-official2.azurewebsites.net
 azino777-tt-official3.azurewebsites.net
 azino777-tt-official4.azurewebsites.net
@@ -26185,6 +26196,7 @@ azino777newsait.ru
 azino777nrtm.icu
 azino777official-bb.azurewebsites.net
 azino777official-bb1.azurewebsites.net
+azino777official-bb2.azurewebsites.net
 azino777official-site.online
 azino777official-site.ru.com
 azino777official-site.win
@@ -43817,6 +43829,7 @@ cdn.livetv213.me
 cdn.livetv220.me
 cdn.livetv221.me
 cdn.livetv230.me
+cdn.livetv231.me
 cdn.livetv247.me
 cdn.livetv261.me
 cdn.livetv265.me
@@ -43895,7 +43908,6 @@ cdn.livetv471.me
 cdn.livetv472.me
 cdn.livetv473.me
 cdn.livetv474.me
-cdn.livetvcdn.net
 cdn.nload.xyz
 cdn1.kinomoco.xyz
 cdnezlpv.olimp9t8k.xyz
@@ -45069,7 +45081,6 @@ club.epassion.top
 club.fnbf.ru
 club.gosnadzor-rk.ru
 club.hydraruzxpnew4af.net
-club.izmailov.bar
 club.kingsofprize.com
 club.luck-admiral.online
 club.pornoakt.video
@@ -49866,7 +49877,6 @@ f00.kinomodus.xyz
 f001.fisher-r.online
 f002.fisher-r.online
 f003.fisher-r.online
-f004.fisher-r.online
 f01.kinomodus.xyz
 f016f17.icu
 f02.kinomodus.xyz
@@ -50515,6 +50525,8 @@ farmacent3.org
 farmacent4.top
 farmacent5.top
 farmacent6.top
+farmacent7.top
+farmacent8.top
 farmalandss.ru
 farmalends.ru
 farmamiks.ru
@@ -50867,6 +50879,7 @@ feokino.ru
 ferh23bkin.com
 ferini.tryserialmisi.online
 ferlnl.tryserialmisi.online
+fermbit.shop
 ferricforge.com
 fest-kino.ru
 festivalbrassofdallas.com
@@ -53265,7 +53278,6 @@ fortune-clock-casino-review.reprogram-horizon2020.eu
 fortune-clock-casino-sister-sites.szczesliwestopki.pl
 fortune-clock-casino-zerkalo.reprogram-horizon2020.eu
 fortunegamez.com
-fortuneroleplay.com
 fortunevulcan.com
 fortunevulkan.com
 forum.bezdepa.biz
@@ -56906,6 +56918,7 @@ gold-games.club
 gold-kazino.ru
 gold-kluby.com
 gold-million.azurewebsites.net
+gold-odyssey.asia
 gold-riobet658.ru
 gold-slot-club.xyz
 gold-slotclub.xyz
@@ -57268,7 +57281,6 @@ good.diplomis-mkh.com
 good.filmshd.top
 good.filmshd.vip
 good.k1no.cc
-good.kemerovodiplomys.com
 good.kinogo.wtf
 good.krg-diplomys.com
 good.kupit-attestat-v-chelyabinske-351.ru
@@ -59996,7 +60008,6 @@ heprcmyhlbygw.uno
 heracpc.com
 herb-dow.ru-betcity.com
 herbalzenit.site
-here.izmailov.bar
 hero.lordfilm.so
 hero.lordfilmx.biz
 herutor.site
@@ -60783,6 +60794,7 @@ hydraruzxpnew4af.xn--tr-2ja.com
 hydraruzxpnew4afe.onione.top
 hydraruzxpnew4afen.onione.top
 hydraruzxpnew4afgroup.com
+hydraruzxpnew4afi.net
 hydraruzxpnew4afline.com
 hydraruzxpnew4afo.online
 hydraruzxpnew4afonion-tor.cn
@@ -61582,6 +61594,7 @@ igrovyeavtomatybesplatno9.azurewebsites.net
 igrovyeavtomatybesplatno9.online
 igrovyeavtomatynadengi.su
 igrovyeavtomatynadengi.tk
+igrovyeavtomatynew.info
 igrovyeavtomatyonline.top
 igrovyeavtomatytop24.net
 igrovyeavtomatyx.com
@@ -61867,6 +61880,7 @@ in-alushta.ru
 in-azino777.ru
 in-betwinner.ru
 in-spinsity.com
+in.alleng.org
 in.films-smotret.online
 in.profilib.fun
 in.profilib.me
@@ -61996,6 +62010,7 @@ infotreker.ru
 infusionzenit.site
 ingeniouszenit.site
 ingiway.com
+ingkino.club
 ingr51rdchy789.com
 ingshop.cc
 ingwork.cc
@@ -62721,7 +62736,6 @@ izi.tryserialklng.online
 izi.wkinoizi.fun
 izi24.ru
 izm5wy4ymb.com
-izmailov.bar
 izmailov.club
 izmailov.fun
 izmailovtv.online
@@ -69112,7 +69126,6 @@ keksvkino-top.ru
 keksvkino.online
 keksvkino.pw
 keksvkino.ru
-kelstartechnologies.com
 kemcs.ru
 kemelklsdo.top
 kemerovo-snus-kupit.space
@@ -71073,7 +71086,6 @@ kinokong-org.divini.online
 kinokong.biz.ua
 kinokong.co.ua
 kinokong.fun
-kinokong.in
 kinokong.net.ua
 kinokong.su
 kinokong.top
@@ -76018,6 +76030,7 @@ livetv212.me
 livetv213.me
 livetv220.me
 livetv221.me
+livetv231.me
 livetv247.me
 livetv248.me
 livetv251.me
@@ -78314,6 +78327,7 @@ m.livetv213.me
 m.livetv220.me
 m.livetv221.me
 m.livetv230.me
+m.livetv231.me
 m.livetv247.me
 m.livetv248.me
 m.livetv251.me
@@ -78891,7 +78905,6 @@ main-tracker.com
 main-tracker.org
 main.all-playworlds.xyz
 main.footybite.cc
-main.izmailov.bar
 main.million-gamble.online
 main.millions-gamble.online
 main.new-nntt.ru
@@ -78901,9 +78914,7 @@ main10.izmailov.bar
 main10.tntx.cc
 main11.izmailov.bar
 main11.tntx.cc
-main12.izmailov.bar
 main12.tntx.cc
-main13.izmailov.bar
 main13.tntx.cc
 main14.tntx.cc
 main15.tntx.cc
@@ -78911,21 +78922,15 @@ main16.tntx.cc
 main17.tntx.cc
 main18.tntx.cc
 main19.tntx.cc
-main2.izmailov.bar
 main2.tntx.cc
-main3.izmailov.bar
 main3.tntx.cc
-main4.izmailov.bar
 main4.tntx.cc
 main5.izmailov.bar
 main5.tntx.cc
 main6.izmailov.bar
 main6.tntx.cc
-main7.izmailov.bar
 main7.tntx.cc
-main8.izmailov.bar
 main8.tntx.cc
-main9.izmailov.bar
 main9.tntx.cc
 maingenting.com
 mainpac.site
@@ -92716,8 +92721,6 @@ new2.lordfilmix.site
 new2.topkinofilm.gb.net
 new3.topkinofilm.gb.net
 new42kazan.ru
-new5.topkinofilm.gb.net
-new6.topkinofilm.gb.net
 newazino777.ru
 newbaskino.net
 newbestfilm.com
@@ -96088,7 +96091,6 @@ online.divan-tv.win
 online.dzheneriki.online
 online.eldorado-kasino.site
 online.fan-vulkan.com
-online.frank-casino.info
 online.game-casinox.fun
 online.gidonline-1176.site
 online.gidonline-1228.site
@@ -104820,6 +104822,7 @@ pokerdomzerkalo-offsites.azurewebsites.net
 pokerdomzerkalo-offsites1.azurewebsites.net
 pokerdomzerkalo-offsites2.azurewebsites.net
 pokerdomzerkalo.com
+pokerdomzerkalo1.azurewebsites.net
 pokerdon-casino.ru
 pokerdon-casinos.fun
 pokerdon-offcial.tech
@@ -104925,7 +104928,6 @@ pop.sezon.life
 pop.zetflix.vip
 popa-solutions.com
 popcorn.ru.com
-popcorno.ru
 popdsk.ru
 popen.ru
 popermera.site
@@ -105485,6 +105487,7 @@ prostitutki-pskova.ru
 prostitutki-ryadom.online
 prostitutki-ryazan.ru
 prostitutki-sexrussia.online
+prostitutki-smolenska.pro
 prostitutki-tomska.org
 prostitutki-vladivostok2.ru
 prostitutki-xxx.xyz
@@ -108760,6 +108763,7 @@ register-1xbet1.azurewebsites.net
 register-1xbet2.azurewebsites.net
 register.qtradeltd.com
 registerspb-online.com
+registracia1xbet1.azurewebsites.net
 registration-betcity-ru.pw
 registration-fonbet-ru.pw
 registration-leon-ru.pw
@@ -110561,7 +110565,6 @@ rox-casino-media.ru
 rox-casino-mirror.online
 rox-casino-moto.ru
 rox-casino-mr.ru
-rox-casino-new-2.ru
 rox-casino-new.ru
 rox-casino-odessa.ru
 rox-casino-official.cc
@@ -115426,6 +115429,7 @@ rustreams.info
 rustreams.net
 rustreams.ru
 rustrek.ru
+rustup.info
 rustv.org
 rusvidos.tv
 rusvlkn.com
@@ -115962,7 +115966,6 @@ s1.hdmore.fun
 s1.hdpuls.net
 s1.hdrezzka.online
 s1.hdxatv.ru
-s1.izmailov.bar
 s1.izmailov.fun
 s1.kiinoswet.ru
 s1.kino-2020.ru
@@ -116032,23 +116035,19 @@ s1.vulkan.services
 s1.xattab.games
 s1.xn--c1ajfnfb.su
 s10.gorafilmov.su
-s10.izmailov.bar
 s10.sharewood.xyz
 s10.sliv-info.com
 s10.slivysklad.net
 s10.tntx.cc
 s10.torrent-games.me
 s11.gorafilmov.su
-s11.izmailov.bar
 s11.izmailov.club
 s11.sliv-info.com
 s11.tntx.cc
-s12.izmailov.bar
 s12.sharewood.xyz
 s12.sliv-info.com
 s12.tntx.cc
 s122.kinomot.xyz
-s13.izmailov.bar
 s13.sharewood.xyz
 s13.tntx.cc
 s14.tntx.cc
@@ -116091,7 +116090,6 @@ s2.hdlord2.site
 s2.hdlord3.site
 s2.hdlord5.site
 s2.hdmore.fun
-s2.izmailov.bar
 s2.kiinoswet.site
 s2.kino-med.ru
 s2.kinobusi.ru
@@ -116159,7 +116157,6 @@ s3.gt-torrents.ru
 s3.hdlord2.site
 s3.hdmore.fun
 s3.hdrezzka.online
-s3.izmailov.bar
 s3.kiinoswet.site
 s3.kiinoswet2.ru
 s3.kino-med.ru
@@ -116206,7 +116203,6 @@ s4.gorafilmov.online
 s4.gorafilmov.su
 s4.hdlord2.site
 s4.hdmore.fun
-s4.izmailov.bar
 s4.izmailov.fun
 s4.kiinoswet.site
 s4.kinofilm-2020.online
@@ -116284,7 +116280,6 @@ s6clg3ftr2mb.com
 s7.gorafilmov.online
 s7.gorafilmov.su
 s7.hdmore.fun
-s7.izmailov.bar
 s7.kinokard.ru
 s7.myvimir.fun
 s7.sharewood.xyz
@@ -116299,7 +116294,6 @@ s77k3-azinomobile.icu
 s7edv-azino777.icu
 s7j2faxv0jmst.com
 s8.gorafilmov.su
-s8.izmailov.bar
 s8.kinokard.ru
 s8.myvimir.fun
 s8.sharewood.xyz
@@ -116314,7 +116308,6 @@ s8champion.com
 s8h19-azinomobile.icu
 s8qxejtmst.com
 s9.gorafilmov.su
-s9.izmailov.bar
 s9.sharewood.xyz
 s9.slivysklad.net
 s9.the-cineman.ru
@@ -116923,7 +116916,9 @@ selector55.gg
 selector56.gg
 selector57.gg
 selector58.gg
+selector59.gg
 selector6.gg
+selector60.gg
 selector7.gg
 selector8.gg
 selector9.gg
@@ -118884,6 +118879,7 @@ shopstoyal.online
 shopstoyal.shop
 shopstoyal.site
 shopthe9.website
+shopzillaafterwards.fun
 shortcpgen.com
 shou-holostyak.site
 shov.uz
@@ -119283,7 +119279,6 @@ site16.forex4you.org
 site17.forex4you.org
 site1xbet.host
 site2.izmailov.bar
-site3.izmailov.bar
 siteazino.site
 siteazino777.com
 sitegidranew.com
@@ -120341,6 +120336,7 @@ sloty1xbet.azurewebsites.net
 sloty1xbet1.azurewebsites.net
 sloty1xbet2.azurewebsites.net
 sloty1xbet3.azurewebsites.net
+sloty1xbet4.azurewebsites.net
 slotydengi.com
 slotz-for-free.azurewebsites.net
 slotz-pm-casino.xyz
@@ -122676,6 +122672,7 @@ st-bet-4.hagardo.de
 st-logistika.ru
 st-vestnik.in.ua
 st.brokino.fun
+st.kobura.store
 st.officeverse.com
 st.sayzu.ru
 sta22.ru
@@ -123535,7 +123532,6 @@ swzldlzg.olimpm50v.xyz
 sx.kzngirls.com
 sxcey2a.host
 sxcp6.xyz
-sxdlploma.com
 sxh4s-azino777.host
 sxkioqge.olimpowp9.xyz
 sxknadrzv.top
@@ -124460,6 +124456,7 @@ tolioc.space
 toliyatti.medknizhka.top
 tolkohd.info
 tollers.site
+tolya10.ddns.mksat.net
 tolyatti.diploms4yoursas.com
 tolyatti.intim69.tips
 tolyatti.life-diplomd.com
@@ -126907,7 +126904,6 @@ twitter-bodog.shanti71.ru
 twlnspln.pp.ru
 two.filmosliw.ml
 two.indi-sochi.com
-two.izmailov.bar
 two.lordfilms.red
 two.putanapapa.com
 two.rox-info.website
@@ -126980,7 +126976,6 @@ u.gidonline-2156.site
 u.greenfilm.vip
 u.hd-1080.site
 u.itorrents-igruha.org
-u.izmailov.bar
 u.kinobon.pw
 u.kinoma.best
 u.kinoma.xyz
@@ -127513,15 +127508,9 @@ usdcgloballimited.com
 use.izmailov.bar
 usefrntrw.xyz
 user.capital-group.tech
-user.izmailov.bar
 user.polarbearshopping.com
 user.pro-tr.online
 user.profitsstock.net
-user2.izmailov.bar
-user3.izmailov.bar
-user4.izmailov.bar
-user6.izmailov.bar
-user7.izmailov.bar
 userial4ik.online
 userialsoul.online
 usethese.space
@@ -139375,6 +139364,7 @@ www.casino-leon-money.com
 www.casino-luckyflash.com
 www.casino-money-leon.com
 www.casino-ru.ru
+www.casino-winner.com
 www.casinobooi.live
 www.casinobrazer.site
 www.casinomagnat.com
@@ -140117,6 +140107,7 @@ www.infinitimsk.ru
 www.info-gu.ru.com
 www.info-sliv.ru
 www.infotreker.ru
+www.ingkino.club
 www.instanttrade.net
 www.instapu.com
 www.intim-dosug.one
@@ -146355,6 +146346,7 @@ zenitmme.top
 zenitmyc.pw
 zenitnow.host
 zenitnow.site
+zenitnow.top
 zenitnow.xyz
 zenitnow02.site
 zenitnow090.xyz
@@ -146921,6 +146913,7 @@ zenitnow615.site
 zenitnow616.site
 zenitnow617.site
 zenitnow62.com
+zenitnow622.site
 zenitnow63.com
 zenitnow63.site
 zenitnow64.com
