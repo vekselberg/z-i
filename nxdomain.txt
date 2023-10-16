@@ -2695,7 +2695,6 @@
 7serialov.zfilm-hd-1020.online
 7serialov.zfilm-hd-1034.online
 7serialov.zfilm-hd-1048.online
-7serialov.zfilm-hd-1059.online
 7serialov.zfilm-hd-1065.online
 7serialov.zfilm-hd-111.online
 7serialov.zfilm-hd-1136.online
@@ -2834,6 +2833,7 @@
 9.animal-farma.shop
 9.kinogo.by
 9.serial-x.ru
+90.zfilm-hd-2174.online
 9015.ru
 90189-postup-khaosa.kinogo.ru.net
 90366-vzaperti.kinogo.ru.net
@@ -4304,7 +4304,6 @@ angrykino.by
 angsauna.top
 anidub.me
 animal-wp.ru
-animalfilms.zfilm-hd-1059.online
 animalfilms.zfilm-hd-1192.online
 animalfilms.zfilm-hd-1516.online
 animalfilms.zfilm-hd-1577.online
@@ -4446,6 +4445,7 @@ apl-footballgame.space
 aplay-casinogame.com
 aplay-casinosite.com
 aplay-casinovhod.com
+aplay-cassino.dengy-tut.com
 aplaycasinoclub.net
 aplaycasinoenter.net
 aplaycasinovhod.net
@@ -5369,6 +5369,7 @@ azino777casinotopz.ru
 azino777casinoz5.ru
 azino777casinoz6.ru
 azino777cazino-vip.ru
+azino777cens.com
 azino777club4.xyz
 azino777club5.xyz
 azino777club6.xyz
@@ -7750,6 +7751,7 @@ casino-finn.xyz
 casino-fins.xyz
 casino-frank-official.fun
 casino-frank-official.in
+casino-gifts.com
 casino-i.rest
 casino-imperator.fun
 casino-joycasino168.ru
@@ -8631,7 +8633,6 @@ chernoezerkalo.hdfilmi.monster
 chernoezerkalo.zfilm-hd-1013.online
 chernoezerkalo.zfilm-hd-1020.online
 chernoezerkalo.zfilm-hd-1034.online
-chernoezerkalo.zfilm-hd-1059.online
 chernoezerkalo.zfilm-hd-1065.online
 chernoezerkalo.zfilm-hd-1085.online
 chernoezerkalo.zfilm-hd-1109.online
@@ -9979,6 +9980,7 @@ dec.30rutor.site
 dec.31rutor.site
 dec.32rutor.site
 dec.33rutor.site
+dec.blackrutor.org
 dec.hurutor.org
 dec.neherrutor.org
 dec.nerutorher.org
@@ -11718,6 +11720,7 @@ emb.apl24.me
 emb.apl26.me
 emb.apl27.me
 emb.apl28.me
+emb.apl29.me
 emb.apl31.me
 emb.apl32.me
 emb.apl33.me
@@ -11755,6 +11758,7 @@ emb.x.apl37.me
 emb.x150635.apl24.me
 emb.x150635.apl26.me
 emb.x150635.apl28.me
+emb.x150635.apl29.me
 emb.x150635.apl31.me
 emb.x150635.apl32.me
 emb.x150635.apl33.me
@@ -13308,6 +13312,7 @@ fix.narutor.site
 fixapple.org
 fixik.domkino-hd.com
 fixik.zfilm-hd-1020.online
+fixik.zfilm-hd-1059.online
 fixik.zfilm-hd-172.online
 fixik.zfilm-hd-1852.online
 fixik.zfilm-hd-2659.online
@@ -14757,7 +14762,6 @@ gg2.tip0chek.site
 gg201.bet
 gg202.bet
 gg203.bet
-gg205.bet
 gg207.bet
 gg208.bet
 gg209.bet
@@ -14765,7 +14769,6 @@ gg210.bet
 gg211.bet
 gg212.bet
 gg213.bet
-gg214.bet
 gg215.bet
 gg218.bet
 gg219.bet
@@ -14917,7 +14920,6 @@ gidonline.website
 gidonline.zagonka-2156.site
 gidonline.zetflix-biz-l.site
 gidonline.zfilm-hd-1020.online
-gidonline.zfilm-hd-1059.online
 gidonline.zfilm-hd-1065.online
 gidonline.zfilm-hd-1085.online
 gidonline.zfilm-hd-1109.online
@@ -15480,7 +15482,6 @@ good.filmyhd-torrent.fun
 good.intim-vl.org
 good.kemerovodiplomys.com
 good.krg-diplomys.com
-good.kupit-attestat-v-chelyabinske-351.ru
 good.kupit-attestat-v-krasnoyarske-391.ru
 good.kupit-diplom-v-krasnoyarske-391.ru
 good.kupit-diplom-v-norilske-3919.ru
@@ -17366,7 +17367,6 @@ hdrezka.uno
 hdrezka.video
 hdrezka.wtf
 hdrezka.zfilm-hd-1048.online
-hdrezka.zfilm-hd-1059.online
 hdrezka.zfilm-hd-1065.online
 hdrezka.zfilm-hd-1163.online
 hdrezka.zfilm-hd-127.online
@@ -19830,7 +19830,6 @@ kahn-russia.ru
 kak-zarabotat-vulkan.in
 kakafilms.ru
 kakoyfilmposmotret.zfilm-hd-1020.online
-kakoyfilmposmotret.zfilm-hd-1059.online
 kakoyfilmposmotret.zfilm-hd-1065.online
 kakoyfilmposmotret.zfilm-hd-1269.online
 kakoyfilmposmotret.zfilm-hd-127.online
@@ -25383,7 +25382,6 @@ lordfilms-s.k1no-777.site
 lordfilms-s.lamafilm.top
 lordfilms-s.net
 lordfilms-s.zfilm-film.cyou
-lordfilms-s.zfilm-hd-1059.online
 lordfilms-s.zfilm-hd-1065.online
 lordfilms-s.zfilm-hd-111.online
 lordfilms-s.zfilm-hd-1147.online
@@ -25391,6 +25389,7 @@ lordfilms-s.zfilm-hd-1163.online
 lordfilms-s.zfilm-hd-1169.online
 lordfilms-s.zfilm-hd-1381.online
 lordfilms-s.zfilm-hd-1535.online
+lordfilms-s.zfilm-hd-1759.online
 lordfilms-s.zfilm-hd-1806.online
 lordfilms-s.zfilm-hd-1821.online
 lordfilms-s.zfilm-hd-1983.online
@@ -26661,7 +26660,6 @@ marvel.720-hd.icu
 marvel.domkino-hd.com
 marvel.lordsfilms-1080.top
 marvel.zfilm-hd-1020.online
-marvel.zfilm-hd-1059.online
 marvel.zfilm-hd-1065.online
 marvel.zfilm-hd-1147.online
 marvel.zfilm-hd-1163.online
@@ -27114,6 +27112,7 @@ megacritic-film.site
 megadark.market
 megadark.ru
 megadark2web.com
+megadarknet-sb.com
 megadarknetmarket.cfd
 megadarknetmarket.me
 megadarknetmarketefl3onion.com
@@ -27242,6 +27241,7 @@ melbet-ey.top
 melbet-fp.top
 melbet-gama5.online
 melbet-gama6.online
+melbet-game.com
 melbet-game.top
 melbet-gamf.top
 melbet-hall.top
@@ -28616,7 +28616,6 @@ msk.spt-trejd-cf.site
 msk1.putanamap.net
 msk1.spirt-best-cv.site
 msk1.spirt-elit-az.site
-msk16.lds-euro-lekarstva.ru
 msk17.lds-euro-lekarstva.ru
 msk2.glutathione.farm
 msk2.promassa.xyz
@@ -29130,7 +29129,6 @@ myawesomembet.win
 mybestinfo.ru
 mybestmus.ru
 mybigcinema.ru
-mybonuscasino.ru
 mybuketroz.ru
 myburger.ink
 mycabinet.trade
@@ -30081,6 +30079,7 @@ notes-invest.ru
 notice.top-film100.ru
 notifwery.com
 nov.big.fllmlordn.online
+nov.blackrutor.org
 nov.cloudfilms.online
 nov.nerutorher.org
 nov1.blackrutor.site
@@ -30688,6 +30687,7 @@ omgomg.com.se
 omgomg.info
 omgomg.ink
 omgomg.markets
+omgomg.org
 omgomg.shopping
 omgomg.top
 omgomg.tv
@@ -30734,7 +30734,6 @@ on-off-on.gidonline-742.site
 on-off-on.lostfilm-hd-1679.site
 on-off-on.zfilm-hd-1020.online
 on-off-on.zfilm-hd-1048.online
-on-off-on.zfilm-hd-1059.online
 on-off-on.zfilm-hd-1065.online
 on-off-on.zfilm-hd-111.online
 on-off-on.zfilm-hd-1269.online
@@ -30918,7 +30917,6 @@ online-720hd.2zfilme-hd.top
 online-720hd.hdrezka-2845.site
 online-720hd.lordsfilms.top
 online-720hd.zfilm-hd-1020.online
-online-720hd.zfilm-hd-1059.online
 online-720hd.zfilm-hd-1163.online
 online-720hd.zfilm-hd-1492.online
 online-720hd.zfilm-hd-1577.online
@@ -31982,16 +31980,19 @@ pin-up-slots2.fun
 pin-up-win-games1.top
 pin-up-win-official.site
 pin-up-zerkalo-rabochee.site
+pin-up1c4.com
 pin-up2.xyz
 pin-up277.ru
 pin-up322.com
 pin-up6481.xyz
 pin-up760.com
+pin-up79g.com
 pin-up82.com
 pin-up906.com
 pin-upofficialsitescasinoe476.win
 pin-upofficialsitescasinoe671.win
 pin-upoffsite777.win
+pin-upr31.com
 pin-ups24.ru
 pin-ups541.win
 pin-ups678.win
@@ -33358,6 +33359,7 @@ prostitutkikostromaxxx.com
 prostitutkikostromy.stream
 prostitutkikostromycity.com
 prostitutkikrasnodara.name
+prostitutkikurganarest.com
 prostitutkikurskadear.info
 prostitutkikurskarelax.com
 prostitutkilipetskaarea.com
@@ -34885,6 +34887,7 @@ rf-pasport.com
 rf-rezero.ru
 rf-rft.info
 rf.bro-market.site
+rf.lenporno.red
 rf.userialimus.online
 rf2.djeneriki.biz
 rf2.fast-medic.com
@@ -36915,7 +36918,6 @@ sale.kazandiplomax.com
 sale.kupit-attestat-v-moskve-495.com
 sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
-sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
 sale.kupit-diplomux.com
 sale.rostovnadonudiplomis.com
@@ -37050,6 +37052,7 @@ sc.livetv424.me
 sc.livetv426.me
 sc.livetv430.me
 sc.livetv433.me
+sc.livetv436.me
 sc.livetv438.me
 sc.livetv439.me
 sc.livetv444.me
@@ -46640,6 +46643,7 @@ www.fairtradein.net
 www.fan-tv.ru
 www.fanatlive.com
 www.fanread.ru
+www.fanserials-zerkalo.online
 www.fantasticfilm.ru
 www.fantastika-online.ru
 www.farmadron.org.farmacent.ru
@@ -48966,7 +48970,6 @@ xqr44-lords.lordfilm.tk
 xquiz.0.strangetruthentertainment.com
 xquiz.18.gnstream.com
 xquiz.beccaneer.com
-xquiz.generatorlog.com
 xreplic.ru
 xrop.serialmutik.online
 xrqcg.baqabur.cfd
