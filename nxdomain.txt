@@ -12752,6 +12752,7 @@ client.altesso.net
 client.amplixx.com
 client.aquatrade.io
 client.argotradefinance.org
+client.askmyshares.com
 client.axecapital.investments
 client.bdteurope.de
 client.brilion24.com
@@ -19097,6 +19098,7 @@ flat-earth.ru
 flatcity.app
 flatcity.info
 flattectat.space
+flawless-bot.com
 fleb.vidak.icu
 flenix.website
 flexcapital.cc
@@ -26788,9 +26790,11 @@ irobot.today
 irobot72.ru
 iroe04.xyz
 iron-man-kino.ru
+ironapp.site
 irongamer.ru
 ironhq.site
 ironlabs.site
+ironlabs.space
 ironmax.group
 ironwoqmxs.space
 irr-energo.ru
@@ -29880,6 +29884,7 @@ kinoboss.online
 kinobotan.com
 kinoboy.net
 kinobrat.fun
+kinobreez.club
 kinobrend.ru
 kinobrothers.com
 kinobu.xyz
@@ -43088,7 +43093,6 @@ on-serials.ru
 on-server.ru
 on-the-sofa.space
 on-vtb.one
-on.alleng.org
 on.gidonllinego.ru
 on.goldsong.fun
 on.info-manager.top
