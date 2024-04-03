@@ -5962,6 +5962,7 @@ area.allianceit.trade
 area.b-platform.trade
 area.lr-capital.online
 area.rcebanque.tech
+arena-diplomnaya.ru
 arena.gipnomag.ru
 arenalux.ru
 arenaplus.by
@@ -8140,12 +8141,25 @@ bb-3.lordfilm.gifts
 bb.beta-platform.xyz
 bb.spon.live
 bb1.gtmov.ru
+bb1.lordfilm-online.cc
+bb11.lordfilm-online.cc
+bb12.lordfilm-online.cc
+bb13.lordfilm-online.cc
+bb14.lordfilm-online.cc
+bb15.lordfilm-online.cc
+bb16.lordfilm-online.cc
+bb17.lordfilm-online.cc
 bb2.gtmov.ru
+bb2.lordfilm-online.cc
 bb3.gtmov.ru
+bb3.lordfilm-online.cc
 bb4.gtmov.ru
+bb4.lordfilm-online.cc
 bb5.gtmov.ru
 bb6.gtmov.ru
 bb7.gtmov.ru
+bb7.lordfilm-online.cc
+bb9.lordfilm-online.cc
 bbbparts.com.ua
 bbc-film.site
 bbcaazbjdeyxtbu.azureedge.net
@@ -9167,6 +9181,7 @@ bk-leon-registration10.site
 bk-leon-registration11.site
 bk-leon-registration12.site
 bk-leon-registration13.site
+bk-leon-registration14.site
 bk-leon-registration9.site
 bk-leon-zerkalo-sayta11.site
 bk-leon-zerkalo-sayta12.site
@@ -9985,6 +10000,7 @@ booicasinos.gives
 booicasinoss.azurewebsites.net
 booicasinoz.azurewebsites.net
 booicazino-play.ru
+booih62.com
 booikazino.online
 booikazino3.ru
 booikazino4.ru
@@ -10812,7 +10828,6 @@ cafoog.cfd
 cage-healthy.com
 caicotrattoriaecantina.it
 cailook.xyz
-cairex.moscow
 cairn-kennel.ru
 caixahb.com
 cakeresilient.com
@@ -15162,6 +15177,7 @@ diplom-landy.com
 diplom-maker.online
 diplom-makker.com
 diplom-market-novgorod.com
+diplom-market-piter.online
 diplom-market.info
 diplom-market.net
 diplom-market.org
@@ -21265,6 +21281,7 @@ fxcrypto.pro
 fxfinance.org
 fxmx.pro
 fxnotchtrading.com
+fxoanda.net
 fxprime365.com
 fxprofitscvm.com
 fxrealworld.com
@@ -24537,6 +24554,7 @@ hd.lordfilm-lu.site
 hd.lordfilm-me.site
 hd.lordfilm-official.online
 hd.lordfilm-official.site
+hd.lordfilm-online.cc
 hd.lordfilm-rezka.xyz
 hd.lordfilm-s.xyz
 hd.lordfilm-smotret-online.site
@@ -24787,6 +24805,7 @@ hd1.kinopoisk.press
 hd1.livefox.cc
 hd1.lorda.top
 hd1.lordfilm-2020.net
+hd1.lordfilm-online.cc
 hd1.lordfilm-rezka.xyz
 hd1.lordfilm-s.xyz
 hd1.lordfilm-tnt.site
@@ -25011,6 +25030,7 @@ hd2.kinosmak.online
 hd2.kinotik.de
 hd2.kinotruea.club
 hd2.lord.mom
+hd2.lordfilm-online.cc
 hd2.lordfilm-tnt.site
 hd2.lordfilm5-hdtv.xyz
 hd2.lordfilmhd-tv1.xyz
@@ -26601,6 +26621,7 @@ ib-opensz.site
 ibalance76.ru
 ibank-belinevstbank.top
 ibank-belinvestbank.top
+ibank.bel-cab24.pro
 ibank.belarus-gov-by.shop
 iberdokir.com
 ibica.vip
@@ -34815,10 +34836,12 @@ leon-kazino15.site
 leon-kazino16.site
 leon-kazino17.site
 leon-kazino18.site
+leon-kazino19.site
 leon-official-bk10.site
 leon-official-bk11.site
 leon-official-bk12.site
 leon-official-bk13.site
+leon-official-bk14.site
 leon-official-site-bets4.site
 leon-official-site-bets5.site
 leon-official-site-bets6.site
@@ -34855,6 +34878,8 @@ leon-registration10.site
 leon-registration11.site
 leon-registration12.site
 leon-registration13.site
+leon-registration14.site
+leon-registratsiya-na-saite10.site
 leon-registratsiya-na-saite6.site
 leon-registratsiya-na-saite7.site
 leon-registratsiya-na-saite8.site
@@ -34931,18 +34956,22 @@ leonbets-47play.xyz
 leonbets-48play.xyz
 leonbets-49play.xyz
 leonbets-50play.xyz
+leonbets-51play.xyz
 leonbets-777.top
 leonbets-abc.top
 leonbets-ait1.site
 leonbets-ait2.site
 leonbets-ait3.site
+leonbets-ait4.site
 leonbets-crc1.site
 leonbets-crc2.site
 leonbets-crc3.site
 leonbets-crc4.site
 leonbets-dpr1.site
+leonbets-dpr2.site
 leonbets-fpz1.site
 leonbets-fpz2.site
+leonbets-fpz3.site
 leonbets-jur1.site
 leonbets-jur2.site
 leonbets-kazino10.site
@@ -34961,6 +34990,7 @@ leonbets-mlv1.site
 leonbets-mlv2.site
 leonbets-mlv3.site
 leonbets-mlv4.site
+leonbets-mlv5.site
 leonbets-net.com
 leonbets-network.com
 leonbets-official-bk11.site
@@ -34973,6 +35003,7 @@ leonbets-official12.xyz
 leonbets-official34.xyz
 leonbets-official35.xyz
 leonbets-official36.xyz
+leonbets-official37.xyz
 leonbets-official8.xyz
 leonbets-official9.xyz
 leonbets-ofitsialnii-sait4.site
@@ -34981,6 +35012,7 @@ leonbets-ofitsialnii-sait6.site
 leonbets-qkt1.site
 leonbets-qkt2.site
 leonbets-qkt3.site
+leonbets-qkt4.site
 leonbets-qtv1.site
 leonbets-qtv2.site
 leonbets-rbh1.site
@@ -35008,6 +35040,7 @@ leonbets-zerkalo-bk16.site
 leonbets-zerkalo-official14.site
 leonbets-zerkalo-official15.site
 leonbets-zerkalo-official17.site
+leonbets-zerkalo-official18.site
 leonbets-zerkalo-sayta.xyz
 leonbets-zerkalo-site.xyz
 leonbets-zerkalo-vkhod12.site
@@ -45330,6 +45363,7 @@ originala-diplomov365.com
 originalas-diploma24.com
 originalitii-diplomy24.com
 originality-dlplom24.com
+originality-dlplom24.ru
 originall-diploms.com
 originalnie-diplom24.com
 originalnie-diploms24.com
@@ -45797,6 +45831,7 @@ patentuser.info
 pati.prof-stat.top
 patriotmoto.com.ua
 patrovis.com
+pats-social-opros.online
 pattoincucina.it
 paty24.biz
 patyhardruopt.vsite.pro
@@ -46259,6 +46294,7 @@ pin-up-casinositeofficialnuue777-win.win
 pin-up-casinosoficialnyyi777-win.win
 pin-up-cazino.top
 pin-up-cazinoplay777.win
+pin-up-cazinos.website
 pin-up-game-best4.top
 pin-up-game-casino777.xyz
 pin-up-game-casino878top.win
@@ -46418,6 +46454,7 @@ pinup-casino-officialnoe947-win.win
 pinup-casino-officialnyi707.win
 pinup-casino-officialnyii707.win
 pinup-casino-oficialnyi707.win
+pinup-casino-online.website
 pinup-casino-play-official3.top
 pinup-casino-plays-official3.top
 pinup-casino-plays-site4.top
@@ -48321,6 +48358,7 @@ positronltd.com
 posmotri.online
 posmotrim.tv
 posobrotp.info
+posol.cc
 posportu.online
 posportu.ru
 possesyzhp.space
@@ -50207,6 +50245,7 @@ rabochee-zerkalo-leon18.site
 rabochee-zerkalo-leonbet12.site
 rabochee-zerkalo-leonbet13.site
 rabochee-zerkalo-leonbet14.site
+rabochee-zerkalo-leonbet15.site
 rabochee-zerkalo-melbet.ru
 rabocheezerkalomostbet.ru
 rabota.bet
@@ -52567,6 +52606,7 @@ rudiplomeras.com
 rudiplomersy.com
 rudiplomery.com
 rudiplomirovanie24.ru
+rudiplomirovany.ru
 rudiplomma.com
 rudiplommsu.com
 rudiplommu.com
@@ -52892,6 +52932,7 @@ russiansbusinessleaders.org
 russianserials.net
 russiany-diploma24.ru
 russiany-diplomy24.ru
+russiany-diplomy24.xn--ru-olc
 russiaspravochnik.com
 russiawarcrimes.com
 russinvests.ru
@@ -54451,6 +54492,7 @@ selectorkasino.co
 selectorkasino.fun
 selectorkasino.guru
 selectorkasino.info
+selectorkasino.one
 selectorkasino.online
 selectorkasino.org
 selectorkasino.run
@@ -63290,6 +63332,7 @@ v.seriahd.ru
 v.torrents43.fun
 v.u168.ru
 v.vip-farm.net
+v.vulkanclub-official.com
 v.zhivem-po-maksimum.ru
 v01.kino-netu.ru
 v01.kinopolosa.ru
@@ -65053,8 +65096,10 @@ vavadacasino-official4.ru
 vavadacasino-oficialnoe156.win
 vavadacasino-oficialnoe861.win
 vavadacasino-oficialnoe952.win
+vavadacasino.help
 vavadacasino.media
 vavadacasino.pics
+vavadacasino.sbs
 vavadacasino.website
 vavadacasino.wiki
 vavadacasino1.ru
@@ -68421,6 +68466,8 @@ www.bestmp3center.ru
 www.bestseller.pp.ru
 www.bestwaycoop.com
 www.betbetnow.com
+www.betdsi.eu
+www.betdsi.net
 www.beter-bet.ru
 www.betsfongame.tk
 www.betune.ru
@@ -68645,7 +68692,6 @@ www.c.myklad.me
 www.c1.kniga.me
 www.cadacyo.site
 www.cafe-amigo.ru
-www.cairex.moscow
 www.canal3.md
 www.candy-girls.health.
 www.canon-tutorials.com
@@ -71514,6 +71560,7 @@ xn--b1amahqg.xn--p1ai
 xn--blacksprt-d9a.com
 xn--blackspru-et6d.net
 xn--blaksprut-2eb.net
+xn--brf-proxy-u3h.adstat.pro
 xn--c1abdkaaad2bbe0dwa4j.xn--p1ai
 xn--c1abdnvcdbpj2e5c.com
 xn--c1acdaaswfddhb7bl0lua.xn--p1ai
@@ -72662,15 +72709,18 @@ zerkalo-leon13.site
 zerkalo-leon14.site
 zerkalo-leon15.site
 zerkalo-leon16.site
+zerkalo-leon17.site
 zerkalo-leonbets-site.xyz
 zerkalo-leonbets104.site
 zerkalo-leonbets1100.site
+zerkalo-leonbets1305.site
 zerkalo-leonbets1500.site
 zerkalo-leonbets1605.site
 zerkalo-leonbets1701.site
 zerkalo-leonbets1803.site
 zerkalo-leonbets2103.site
 zerkalo-leonbets2503.site
+zerkalo-leonbets2603.site
 zerkalo-leonbets29.lol
 zerkalo-leonbets3101.site
 zerkalo-leonbets3303.site
@@ -72682,6 +72732,7 @@ zerkalo-leonbets37.site
 zerkalo-leonbets38.site
 zerkalo-leonbets401.site
 zerkalo-leonbets802.site
+zerkalo-leonbets803.site
 zerkalo-leonbets903.site
 zerkalo-leonbetss1.lol
 zerkalo-leonbetss13.site
