@@ -52360,6 +52360,7 @@ ru1.capitals-kz3.xyz
 ru1.deltakino.cam
 ru1.fankina.ru
 ru1.hdrezka.ga
+ru1.kinogid.lol
 ru1.kinolook.fun
 ru1.kinopoisk.press
 ru1.loftsfilm-s.com
@@ -52396,6 +52397,7 @@ ru2.alphakino.cam
 ru2.deltakino.cam
 ru2.hdkinoset.online
 ru2.hdkinoteater.net
+ru2.kinogid.lol
 ru2.kinogo.link
 ru2.kinolook.fun
 ru2.kinopoisk.press
@@ -67749,6 +67751,7 @@ winsport.tv
 winsslots-playz.ru
 wintercoin.site
 wintop100.com
+winwinsport.ru
 winx.online
 wirajgame.site
 wirajgame.space
@@ -68828,6 +68831,7 @@ www.e.kniga.me
 www.eazylinq.com
 www.ebalkino.com
 www.echomp3.ru
+www.ecn-broker.casa
 www.ecoatominf.ru
 www.economics-prorok.com
 www.ecopi.ru
