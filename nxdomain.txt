@@ -54335,6 +54335,7 @@ sale.kupit-attestat-v-samare-846.ru
 sale.kupit-attestat-v-spb-812.ru
 sale.kupit-diplom-v-permi-342.ru
 sale.kupit-diplom-v-samare-846.ru
+sale.kupit-diplomux.com
 sale.rostovnadonudiplomis.com
 sale.sok-diplomas.com
 sale.vol-diplomas.com
@@ -58646,6 +58647,7 @@ starcheer.net
 stardacasino-201.com
 stardacasino-302.com
 stardacasino-400.com
+stardacasino-500.com
 stardacasino-almazskat.ru
 stardacasino-blindrun.ru
 stardacasino-dailosm.ru
