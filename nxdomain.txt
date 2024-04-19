@@ -1178,7 +1178,6 @@
 1win-mirror.gives
 1win-mirror.pp.ru
 1win-mirror6.ru
-1win-mirror7.ru
 1win-ml.top
 1win-mr1.top
 1win-mr1.xyz
@@ -2443,6 +2442,7 @@
 1xslots-hy.top
 1xslots-iml.top
 1xslots-ip.top
+1xslots-jhi.top
 1xslots-jl.top
 1xslots-jt.top
 1xslots-jyk.top
@@ -2521,6 +2521,7 @@
 1xslots-uaj.top
 1xslots-un.top
 1xslots-vb.top
+1xslots-vcn.top
 1xslots-vhod.buzz
 1xslots-vhod2.buzz
 1xslots-vhod3.buzz
@@ -8735,7 +8736,6 @@ barnaul-kupi.prava-online.net
 barnaul-tut.prava-online.net
 barnaul-tyt.prava-online.net
 barnaul-zdes.prava-online.net
-barnaul.gooddiplomux.com
 barnaul.vip-farm.net
 barnaul.xn----8sbf5ajejubd2l.xn--p1ai
 barnaulcena.ru
@@ -14294,7 +14294,6 @@ chastniy-zaym-syrgyt.ru
 chastniy-zaym-tomsk.ru
 chastniy-zaym-tver.ru
 chastniy-zaym-vladivostok.ru
-chastniy-zaym-vologda.ru
 chastniy-zaym-yoshkarola.ru
 chastnoesex.com
 chastny-zaym-ivanovo.ru
@@ -14375,8 +14374,6 @@ chelyabinsk-tut.prava-online.net
 chelyabinsk-tyt.prava-online.net
 chelyabinsk-zdes.prava-online.net
 chelyabinsk.atdyploms-market.com
-chelyabinsk.gooddiplomux.com
-chelyabinsk.mydiplomzstores.com
 chelyabinsk.net.ru
 chelyabinsk.prawaq-srochno.com
 chelyabinsk.xn----8sbf5ajejubd2l.xn--p1ai
@@ -16501,8 +16498,10 @@ dengi-vdolg-arhangelsk.ru
 dengi-vdolg-astrahan.ru
 dengi-vdolg-barnaul.ru
 dengi-vdolg-belgorod.ru
+dengi-vdolg-bryansk.ru
 dengi-vdolg-chita.ru
 dengi-vdolg-habarovsk.ru
+dengi-vdolg-ijevsk.ru
 dengi-vdolg-krasnodar.ru
 dengi-vdolg-kurgan.ru
 dengi-vdolg-lipetsk.ru
@@ -17135,7 +17134,6 @@ diplomix-vld.com
 diplomixattestat.com
 diplomixeducations.com
 diplomixgrz.com
-diplomixkirov.com
 diplomixland.com
 diplomixlands.com
 diplomixvld.com
@@ -17516,7 +17514,6 @@ diplomx-v-samare.com
 diplomx-v-ulyanovske.com
 diplomxekaterinburg.com
 diplomxlike.com
-diplomxnkz.com
 diplomxxlike.com
 diplomy-boxis24.com
 diplomy-bryansk32.com
@@ -17571,13 +17568,11 @@ diplomyt-ru.com
 diplomyt.com
 diplomyx-chr.com
 diplomyx-kupit.com
-diplomyx-novokuzneck.com
 diplomyx-online.com
 diplomyx-online24.com
 diplomyxalm.com
 diplomyxattestati.com
 diplomyxattestats.com
-diplomyxattestaty.com
 diplomyxchelyabinsk.com
 diplomyxchi.com
 diplomyxchr.com
@@ -23722,6 +23717,7 @@ gamacasino.pro
 gamacasino.shop
 gamacasino.website
 gamacasino.xyz
+gamakasino.ru
 gamakazino.online
 gamas-mail.ru
 gambit-craft.ru
@@ -25564,7 +25560,6 @@ goodbyehd.online
 gooddiplomix.com
 gooddiplomj.com
 gooddiplomt.com
-gooddiplomux.com
 gooddiplomyx.com
 goodfon-film.site
 goodgambler5.ru
@@ -36889,7 +36884,6 @@ kostroma-tut.prava-online.net
 kostroma-tyt.prava-online.net
 kostroma-zdes.prava-online.net
 kostroma.arena-diploms.com
-kostroma.diplomyxattestaty.com
 kostroma.vip-farm.net
 kostroma.xn----8sbf5ajejubd2l.xn--p1ai
 kostromskaya-oblast-1.prava-online.net
@@ -37488,10 +37482,8 @@ kupit-diplomas-v-nijnem-novgorode-831.com
 kupit-diplomax.com
 kupit-diplomi-unas.com
 kupit-diplomiunas.com
-kupit-diplomix-v-ekaterinburge-343.com
 kupit-diplomix.com
 kupit-diplomova.com
-kupit-diploms-v-chelyabinske-351.com
 kupit-diploms-v-cherepovce-8202.com
 kupit-diploms-v-ekaterinburge-343.com
 kupit-diploms-v-krasnoyarske-391.com
@@ -46201,7 +46193,6 @@ mydiplomxstores.com
 mydiplomysstores.com
 mydiplomyxstore.com
 mydiplomzstore.com
-mydiplomzstores.com
 mydomashka.ru
 mydriftcasino.com
 myeasyabroad.com
@@ -49583,7 +49574,6 @@ orenburg-tut.prava-online.net
 orenburg-tyt.prava-online.net
 orenburg-zdes.prava-online.net
 orenburg.arena-diploms.com
-orenburg.mydiplomzstores.com
 orenburg.xn----8sbf5ajejubd2l.xn--p1ai
 orenburgskaya-oblast-bistro.prava-online.net
 orenburgskaya-oblast-kupi.prava-online.net
@@ -49692,7 +49682,6 @@ orsk-tut.prava-online.net
 orsk-tyt.prava-online.net
 orsk-zdes.prava-online.net
 orsk.diplomyxvsanktpeterburge.com
-orsk.mydiplomzstores.com
 orsk.prawaf-srochno.com
 ortex.fun
 orutor.info
@@ -50210,6 +50199,7 @@ pc.igruxa.ru
 pc.kinogo-biz.site
 pcccvietnam.net
 pcd-onl.ru
+pcl-fx.com
 pcqwxfm.siciliaimmagini.it
 pcr-covid.info
 pcsoftportal.ru
@@ -52018,6 +52008,7 @@ pokebupc.space
 pokego.land
 pokeputin.org
 poker-dom-casino.ru
+poker-dom-online.top
 poker-dom-ru.top
 poker-dom.xyz
 poker-doms.org
@@ -52218,6 +52209,7 @@ pokerdom-casino-win.win
 pokerdom-casino-winner.win
 pokerdom-casino.su
 pokerdom-casino2023.top
+pokerdom-casinoo.top
 pokerdom-cat.top
 pokerdom-cau9.top
 pokerdom-cazino-official.fun
@@ -52753,6 +52745,7 @@ pokerdompoker.quest
 pokerdompoker.today
 pokerdompro2.ru
 pokerdomrbc.fun
+pokerdomregister.top
 pokerdomroom2.ru
 pokerdomru-casino-official14.win
 pokerdomru-casino-official145.win
@@ -53553,7 +53546,6 @@ prize.openrussia.org
 prizmacsp.ru
 prizov.gruz200.hospital
 prjctr-film.site
-prmdiplomys.com
 pro-bank.co
 pro-joycasino138.ru
 pro-minus.ru
@@ -54072,9 +54064,7 @@ pskov-tut.prava-online.net
 pskov-tyt.prava-online.net
 pskov-zdes.prava-online.net
 pskov.arena-diploms.com
-pskov.gooddiplomux.com
 pskov.mahmutov.prava-online.net
-pskov.mydiplomzstores.com
 pskov.xn----8sbf5ajejubd2l.xn--p1ai
 pskovskaya-oblast-1-dubrovka.prava-online.net
 pskovskaya-oblast-1-vasilevo.prava-online.net
@@ -56258,7 +56248,6 @@ rnbee.site
 rnbsim.net
 rncb-bank.site
 rnd-diplomas.com
-rnddiplomys.com
 rndprava.site
 rneftlesson.com
 rnkbank.info
@@ -61988,6 +61977,7 @@ slottica-registration.xyz
 slottica-zercalo.org.ru
 slottica.net.ru
 slottica10.club
+slottica12.club
 slotticacasino-chai.com
 slotticacasino2.ru
 slotticacasinos.ru
@@ -65264,7 +65254,6 @@ tomsk-tyt.prava-online.net
 tomsk-zdes.prava-online.net
 tomsk.arena-diploms.com
 tomsk.diplomd-magazine.ru
-tomsk.mydiplomzstores.com
 tomsk.teyes.store
 tomsk.vip-farm.net
 tomsk.xn----8sbf5ajejubd2l.xn--p1ai
@@ -68280,8 +68269,6 @@ ufa-kypite.prava-online.net
 ufa-tut.prava-online.net
 ufa-tyt.prava-online.net
 ufa-zdes.prava-online.net
-ufa.diplomyxattestaty.com
-ufa.mydiplomzstores.com
 ufa.prawaf-srochno.com
 ufa.teyes.store
 ufa.vip-farm.net
@@ -75151,7 +75138,6 @@ www.elit-kniga.ru
 www.elitecointrade.com
 www.emerging-market-group.com
 www.empiresignals.co.uk
-www.emsltda.com
 www.emtika.ru
 www.emulaninc.com
 www.en.lyrsense.com
