@@ -19692,7 +19692,6 @@ e1.liveball8.ml
 e1.matchlive.cc
 e1.spon.live
 e1.z-tv.xyz
-e104.ele-fisher.ru
 e1dorawin.com
 e1dowin.com
 e2.gtmov.ru
@@ -35046,6 +35045,7 @@ kavva-capital.com
 kayenakora.xyz
 kaz-gaz.org
 kaz.encouragementsapp.cfd
+kaz.newgrand.top
 kazagaz.org
 kazah-gaz.org
 kazahgaz.org
@@ -40377,6 +40377,7 @@ leon-official-site-bk15.site
 leon-official-site-bk16.site
 leon-official-site-russia10.site
 leon-official-site-russia11.site
+leon-official-site-russia12.site
 leon-official-site-russia7.site
 leon-official-site-russia8.site
 leon-official-site-russia9.site
@@ -40498,6 +40499,7 @@ leonbet-aktualnoe-zerkalo.xyz
 leonbet-aktualnoe-zerkalo1.xyz
 leonbet-ofitsialnii-sait4.site
 leonbet-ofitsialnii-sait5.site
+leonbet-ofitsialnii-sait6.site
 leonbet-zerkalo12.site
 leonbet-zerkalo13.site
 leonbet-zerkalo14.site
@@ -40677,6 +40679,7 @@ leonwinners3.site
 leonwinners4.site
 leonwinners5.site
 leonwinners6.site
+leonwinners7.site
 leonzercalo.site
 leopardbooks.online
 leorate.com
@@ -60353,6 +60356,7 @@ ru2.kinowka.me
 ru2.lord-serial1.pro
 ru2.lordfilmhd.cam
 ru2.lordfilms.uno
+ru2.lordserialss2.pro
 ru2.lordserialz1.pro
 ru2.marvarid.su
 ru2.musicoff.online
@@ -74101,6 +74105,7 @@ vavada-qc3.xyz
 vavada-qc6.xyz
 vavada-qc8.xyz
 vavada-qck5.xyz
+vavada-qco4.xyz
 vavada-qcq8.xyz
 vavada-qct7.xyz
 vavada-qcz4.xyz
@@ -74160,6 +74165,7 @@ vavada-qi6.xyz
 vavada-qi7.xyz
 vavada-qi8.xyz
 vavada-qic1.xyz
+vavada-qif1.xyz
 vavada-qiu2.xyz
 vavada-qiw8.xyz
 vavada-qj0.xyz
@@ -74213,6 +74219,8 @@ vavada-qn6.xyz
 vavada-qn8.xyz
 vavada-qn9.xyz
 vavada-qna4.xyz
+vavada-qno1.xyz
+vavada-qnv4.xyz
 vavada-qnz0.xyz
 vavada-qo5.xyz
 vavada-qo6.xyz
@@ -74275,6 +74283,7 @@ vavada-quc0.xyz
 vavada-qul3.xyz
 vavada-qur1.xyz
 vavada-qus2.xyz
+vavada-quu2.xyz
 vavada-qv0.xyz
 vavada-qv1.xyz
 vavada-qv3.xyz
@@ -83293,6 +83302,7 @@ zerkalo-leonbets2802.site
 zerkalo-leonbets2803.site
 zerkalo-leonbets29.lol
 zerkalo-leonbets2905.site
+zerkalo-leonbets2906.site
 zerkalo-leonbets3006.site
 zerkalo-leonbets305.site
 zerkalo-leonbets3101.site
@@ -83318,6 +83328,7 @@ zerkalo-leonbets706.site
 zerkalo-leonbets802.site
 zerkalo-leonbets803.site
 zerkalo-leonbets804.site
+zerkalo-leonbets805.site
 zerkalo-leonbets903.site
 zerkalo-leonbets905.site
 zerkalo-leonbetss1.lol
