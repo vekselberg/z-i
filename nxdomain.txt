@@ -2902,6 +2902,7 @@
 1xslots-ea11.top
 1xslots-ea9.top
 1xslots-eb10.top
+1xslots-eb11.top
 1xslots-eb8.top
 1xslots-eb9.top
 1xslots-ebx.top
@@ -2927,6 +2928,7 @@
 1xslots-ei12.top
 1xslots-ei13.top
 1xslots-ei14.top
+1xslots-ei16.top
 1xslots-eki.top
 1xslots-elu.top
 1xslots-emv.top
@@ -18142,6 +18144,7 @@ d.25rutor.site
 d.27rutor.site
 d.28rutor.site
 d.29rutor.site
+d.2generic-2.ru
 d.30rutor.site
 d.31rutor.site
 d.32rutor.site
@@ -45599,6 +45602,7 @@ m3.lords-serials.com
 m3.million-azart-game.com
 m312.kino312.com
 m3353space.online
+m339.info
 m36z1r61r8gq.org
 m3as9.shop
 m3ega.online
@@ -59472,6 +59476,7 @@ project-tc.one
 project-tech.link
 project-tech.world
 projectasthmasisterbonus.click
+projectessence.net
 projectoxcart.com
 projekt-vera.ru
 projenessi.ru
