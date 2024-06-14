@@ -1589,6 +1589,7 @@
 1win-onlines1.top
 1win-onlines2.top
 1win-onlines3.top
+1win-onlines4.top
 1win-op.top
 1win-pa10.top
 1win-pa11.top
@@ -17780,6 +17781,7 @@ champion-casino-pzk.buzz
 champion-casino-pzl.buzz
 champion-casino-pzl.cfd
 champion-casino-pzz.buzz
+champion-casino-qzt.buzz
 champion-casino-rfm.buzz
 champion-casino-rrb.buzz
 champion-casino-rrm.buzz
@@ -38826,6 +38828,7 @@ joycasino-ed24.top
 joycasino-ed25.top
 joycasino-ed26.top
 joycasino-ed27.top
+joycasino-ed28.top
 joycasino-eer.top
 joycasino-eg14.top
 joycasino-eg15.top
@@ -39938,6 +39941,7 @@ jozz-casino-cak.buzz
 jozz-casino-cal.buzz
 jozz-casino-cmj.buzz
 jozz-casino-cmj.cfd
+jozz-casino-cmk.buzz
 jozz-casino-crp.buzz
 jozz-casino-gjd.buzz
 jozz-casino-itb.buzz
@@ -39979,6 +39983,7 @@ jozz-casino-xcz.buzz
 jozz-casino-xnk.buzz
 jozz-casino-xnk.cfd
 jozz-casino-ymi.buzz
+jozz-casino-yvc.buzz
 jozz-casino-yvx.buzz
 jozz-casino-yvz.buzz
 jozz-casino-zoq.buzz
@@ -81284,6 +81289,7 @@ trade91.site
 trade92.site
 trade93.site
 trade94.site
+tradebitfx.net
 tradeex.info
 tradeferm.digital
 tradefinance.investments
@@ -85492,6 +85498,7 @@ vavada-casino-pdl.buzz
 vavada-casino-qpa.buzz
 vavada-casino-qpa.cfd
 vavada-casino-qpd.buzz
+vavada-casino-qpf.buzz
 vavada-casino-qpp.buzz
 vavada-casino-qps.buzz
 vavada-casino-qrv.buzz
@@ -87035,7 +87042,6 @@ vavadaxx1.com
 vavadaxxm.com
 vavadayo.ru
 vavadayous.com
-vavadaz.com
 vavadazbs.fun
 vavadazbz.com
 vavadazdr.com
