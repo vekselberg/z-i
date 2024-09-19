@@ -1955,6 +1955,7 @@
 1win-giris2.info
 1win-go-win-a.xyz
 1win-go-win-b.xyz
+1win-go-win-c.xyz
 1win-go-win.xyz
 1win-go.fun
 1win-go.ru
@@ -28173,7 +28174,6 @@ d.36rutor.site
 d.arutor.site
 d.baza-knig.info
 d.berutor.org
-d.blackrutor.org
 d.blarutor.org
 d.blator.org
 d.bvc-zfilm.site
@@ -28883,6 +28883,7 @@ dec.30rutor.site
 dec.31rutor.site
 dec.32rutor.site
 dec.33rutor.site
+dec.blackrutor.org
 dec.hurutor.org
 dec.lordfilm-x.site
 dec.neherrutor.org
@@ -37119,6 +37120,7 @@ filmaghd.fun
 filmaghd.ru
 filmaghd.site
 filmania.red
+filmanias.net
 filmanias.tv
 filmaniaz.com
 filmanov.ru
@@ -62964,7 +62966,6 @@ kr3.bdswiss.com
 kra-3.com
 kra.new-platform.top
 kra06.cc
-kra08.cc
 kra1-at.ru
 kra1.cc
 kra1at.org
@@ -85522,7 +85523,6 @@ play.casinoadmiralwin.win
 play.casinoadmiralyes.win
 play.casinochampiongo.com
 play.casinochampionsite.info
-play.casinochampionvhod.com
 play.casinoeldoradoenter.net
 play.casinoeldoradogo.win
 play.casinoeldoradoplay.com
@@ -103193,6 +103193,7 @@ slotozal-new-b.xyz
 slotozal-new-c.xyz
 slotozal-new.xyz
 slotozal-officiai.online
+slotozal-officiai.top
 slotozal-officiai.xyz
 slotozal-official.net
 slotozal-sta1.top
@@ -112279,6 +112280,7 @@ tv.kino-bog.online
 tv.kino-go.boutique
 tv.kino-v1080.online
 tv.kino-zek.com
+tv.kinoafina.online
 tv.kinodex.org
 tv.kinogo-all.ru
 tv.kinolaym.club
