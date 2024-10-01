@@ -52362,6 +52362,7 @@ ibank.bel-cab24.pro
 ibank.belarus-gov-by.shop
 ibank.belarus-online24.com
 ibank.belarussban.com
+ibank.bz
 ibd.olafedur.site
 ibelive.biz
 iber-sa.com
