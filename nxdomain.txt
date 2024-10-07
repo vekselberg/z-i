@@ -11090,6 +11090,7 @@ all-termtmir.online
 all-tr-account.com
 all-tr-platform.com
 all-tr-platforms.com
+all.alleng.org
 all.kinogo24.mom
 all.novinki-smotret.site
 alla.pgrmlvl.online
@@ -31899,6 +31900,7 @@ diplomx-v-krsk.com
 diplomx-v-samare.com
 diplomx-v-ulyanovske.com
 diplomxalm.com
+diplomxattestat.com
 diplomxattestati.com
 diplomxblg.com
 diplomxbuyer.com
@@ -90064,7 +90066,10 @@ play.casinoadmiralwin.win
 play.casinoadmiralyes.win
 play.casinochampiongo.com
 play.casinochampionsite.info
+play.casinochampionstart.com
+play.casinochampionvhod.com
 play.casinoeldoradogo.win
+play.casinoeldoradoplay.com
 play.casinoeldoradosite.com
 play.casinoeldoradostart.info
 play.casinoeldoradovhod.net
@@ -102550,6 +102555,7 @@ ruskursy-avita.ru
 rusl-diplomo.ru
 ruslana.com.ru
 ruslit.live
+ruslit.one
 rusmedia-org.ru
 rusmir.site
 rusmovie.ru
@@ -132440,7 +132446,6 @@ www.adria-megion.ru
 www.adshopping.ru
 www.adsp.spb.ru
 www.adv-arena.fun
-www.adweyabiotech.com
 www.aeroslon-shop.ru
 www.af-group.pro
 www.africassnx.space
