@@ -4963,6 +4963,7 @@
 1xslots-512.buzz
 1xslots-542.buzz
 1xslots-547.buzz
+1xslots-567.buzz
 1xslots-757.buzz
 1xslots-777.top
 1xslots-778.top
@@ -65706,6 +65707,7 @@ joycasino-zdo.buzz
 joycasino-zdp.buzz
 joycasino-zdq.buzz
 joycasino-zdr.buzz
+joycasino-zds.buzz
 joycasino-zdt.buzz
 joycasino-zdu.buzz
 joycasino-zdv.buzz
@@ -78046,6 +78048,7 @@ lev-casino-twi.buzz
 lev-casino-two.buzz
 lev-casino-twp.buzz
 lev-casino-ubd.buzz
+lev-casino-ugb.buzz
 lev-casino-ugc.buzz
 lev-casino-ugv.buzz
 lev-casino-ugx.buzz
@@ -83821,6 +83824,7 @@ maxbetslots-tt.buzz
 maxbetslots-tu.buzz
 maxbetslots-tw.buzz
 maxbetslots-ty.buzz
+maxbetslots-tz.buzz
 maxbetslots-wb10.top
 maxbetslots-wb11.top
 maxbetslots-wb12.top
@@ -104898,6 +104902,7 @@ pokerdompromo.beauty
 pokerdompromo.homes
 pokerdompromo.live
 pokerdompromo.lol
+pokerdompromo.one
 pokerdompromo.online
 pokerdompromo.pics
 pokerdompromo.quest
