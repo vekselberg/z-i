@@ -39155,7 +39155,6 @@ e1.spon.live
 e1.xatab-repack.com
 e10.xatab-repack.com
 e107.ele-fisher.ru
-e108.ele-fisher.ru
 e11.xatab-repack.com
 e12.xatab-repack.com
 e13.xatab-repack.com
@@ -43704,9 +43703,7 @@ f.zfilm2021.site
 f0.spon.live
 f00.kinomodus.xyz
 f002.f-fisher.ru
-f003.f-fisher.ru
 f004.f-fisher.ru
-f005.f-fisher.ru
 f01.kinomodus.xyz
 f02.kinomodus.xyz
 f03.kinomodus.xyz
@@ -82388,6 +82385,7 @@ livetv131.me
 livetv142.me
 livetv144.me
 livetv145.me
+livetv146.me
 livetv147.me
 livetv148.me
 livetv149.me
@@ -83038,7 +83036,6 @@ lord-filmzzz2.lordfilm2.skin
 lord-filmzzz3.lordfilm2.skin
 lord-h22.lordfilm6.zone
 lord-h78.lordfilm6.zone
-lord-hd.boo
 lord-hd.lordfilm.link
 lord-kino.online
 lord-l02.lordfilm6.zone
@@ -85319,6 +85316,7 @@ m.livetv142.net
 m.livetv143.net
 m.livetv144.me
 m.livetv145.me
+m.livetv146.me
 m.livetv147.me
 m.livetv148.me
 m.livetv149.me
@@ -100925,7 +100923,6 @@ pdc.kztels.site
 pddnows.online
 pdtquantify.com
 pe.kinogo-biz.site
-peacemaker-hdrezka.net
 peacus.quest
 peaki666.biz
 peaky-blinders.life
@@ -104352,6 +104349,7 @@ play-izzi-casino.top
 play-izzicasino.ru
 play-izzicasino.top
 play-joycasino.club
+play-joycasino.net
 play-joykazino.club
 play-kasino.online
 play-kasino.site
@@ -156237,6 +156235,7 @@ www.hype247.net
 www.hyundai-dealer-ekb.ru
 www.i-robot.fun
 www.i-sefon.pro
+www.ibetnetwork.com
 www.icasino.co.ua
 www.icekazino1.com
 www.icmarkets.ru
@@ -162201,6 +162200,7 @@ zerkalo-leonbets-1myv.top
 zerkalo-leonbets-23a2.xyz
 zerkalo-leonbets-27st.click
 zerkalo-leonbets-2qv1.biz
+zerkalo-leonbets-3jc2.biz
 zerkalo-leonbets-3rg5.biz
 zerkalo-leonbets-3y2v.top
 zerkalo-leonbets-47p2.xyz
@@ -163359,6 +163359,7 @@ zongcap.com
 zoniqaa3.pro
 zonne.su
 zoo-exotic.live
+zoo-plaza.ru
 zoo-sex.cc
 zoobriket.ru
 zoofauna.org
