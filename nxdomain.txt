@@ -812,6 +812,7 @@
 1080-content.hdfilmsik720.online
 1080-content.kingfilmp.online
 1080-film.net
+1080-film.online
 1080-hd-720.zfilm-hd69.top
 1080-hd-hd.gidonline-1228.site
 1080-hd-hd.gidonline-144.site
@@ -23976,6 +23977,7 @@ bost.netflix-serial.online
 boston-vavada.net
 bostonxyxh.space
 bostv.ru
+bot-eog.com
 bot-project.sbs
 bot.bofilmi.ru
 bot.film-hd1080.cyou
@@ -88587,6 +88589,7 @@ lordfilms.ag
 lordfilms.art
 lordfilms.bar
 lordfilms.bid
+lordfilms.bio
 lordfilms.black
 lordfilms.date
 lordfilms.icu
@@ -88845,6 +88848,7 @@ lordserial.date
 lordserial.digital
 lordserial.expert
 lordserial.fo
+lordserial.foo
 lordserial.gold
 lordserial.guru
 lordserial.homes
@@ -127051,6 +127055,7 @@ rus.avalon2.pro
 rus.capitals-kz3.xyz
 rus.casinoaround.com
 rus.diplom-iz-vuza.info
+rus.droch.cc
 rus.dtor.ws
 rus.emovies.ge
 rus.ex-cbc.com
