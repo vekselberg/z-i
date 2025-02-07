@@ -2429,6 +2429,7 @@
 1win-app.download
 1win-app.pp.ru
 1win-application.gives
+1win-application.ru
 1win-apps-2023.ru
 1win-asd21.buzz
 1win-asf1.fun
@@ -11261,6 +11262,7 @@ a4.baza-knig.ru
 a4.fantasy-worlds.org
 a4.filmtur.club
 a4.gofarma8.top
+a4.gofarma9.top
 a4.gtmov.top
 a4.herrutor.site
 a4.kinospin.club
@@ -11288,6 +11290,7 @@ a5.fantasy-worlds.org
 a5.filmtur.club
 a5.geyms.xyz
 a5.gofarma8.top
+a5.gofarma9.top
 a5.gtmov.top
 a5.herrutor.site
 a5.kniga.me
@@ -20876,6 +20879,7 @@ b3qpx.shop
 b3vnn.shop
 b4.arutor.site
 b4.gofarma8.top
+b4.gofarma9.top
 b4.gtmov.top
 b4.kinotik.fun
 b4.liveball9.ga
@@ -28963,6 +28967,7 @@ c0st.cc
 c0urses.online
 c1.firsthdv1080.ru
 c1.gofarma8.top
+c1.gofarma9.top
 c1.gtmov.top
 c1.joykino.in.net
 c1.kinoxa.fun
@@ -28989,6 +28994,7 @@ c1serial.site
 c1ub-24.com
 c1wq9.shop
 c2.gofarma8.top
+c2.gofarma9.top
 c2.gtmov.top
 c2.joykino.in.net
 c2.kinoxa.fun
@@ -172097,6 +172103,7 @@ vavada-cazino.live
 vavada-cazino.site
 vavada-cazino.space
 vavada-cazino.today
+vavada-cazino3.icu
 vavada-cazino777.fun
 vavada-cazino7777.fun
 vavada-cazino77777.fun
@@ -191441,6 +191448,7 @@ x1.casinox-slot-x.com
 x1.easyfilms21.xyz
 x1.filmlordn.online
 x1.hdfilmkinoshki.online
+x1.jetfilm.online
 x1.kinopolosa.online
 x1.kinoxa.win
 x1.liveball8.ml
@@ -191489,6 +191497,7 @@ x1xbetx.ru
 x1y2z3.sbs
 x2.alkolabnew2023.online
 x2.easyfilms21.xyz
+x2.jetfilm.online
 x2.kinopolosa.online
 x2.kinoxa.win
 x2.liveball8.ml
