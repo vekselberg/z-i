@@ -49795,6 +49795,7 @@ e1.xatab-repack.com
 e10.silamag.com
 e10.xatab-repack.com
 e108.ele-fisher.ru
+e109.ele-fisher.ru
 e11.xatab-repack.com
 e12.xatab-repack.com
 e13.xatab-repack.com
@@ -56174,6 +56175,7 @@ fanserials.chat
 fanserials.cheap
 fanserials.city
 fanserials.club
+fanserials.co
 fanserials.coffee
 fanserials.cool
 fanserials.cx
@@ -76604,6 +76606,7 @@ http.tor-ru.net
 http.voltertug.live
 httpkraken16.at
 https-kra-22-cc.online
+https-kra-25-cc.ru
 https-kra16-at.ru
 https-kra18-cc.ru
 https-kra1cc.ru
@@ -142581,9 +142584,11 @@ q1.alcorush24kirov.ru
 q1.alcorush24tumen.ru
 q1.alcorush24ulyanovsk.online
 q1.blackfilm2.tv
+q1.gradus-24-7-novosibirsk.online
 q1.gradus24-7-74.online
 q1.gradus24-7-irkutsk.ru
 q1.gradus24-7-kaliningrad.ru
+q1.gradus24-7-kazan.ru
 q1.gradus24-7-krasnodar.ru
 q1.gradus24-7-nn.online
 q1.gradus24-7-omsk.online
@@ -142621,6 +142626,8 @@ q18.gidonline.click
 q19.gidonline.click
 q1pc5.shop
 q2.100gr-kazan.store
+q2.100gramm24-7-chelyabinsk.online
+q2.100gramm24-7-perm.online
 q2.100gramm24-7-saratov.ru
 q2.alco-express-24-7-express-74.ru
 q2.alco-express24-7-krasnodar.online
@@ -142632,7 +142639,9 @@ q2.alco-raketa-24-7-nsk.online
 q2.alco-raketa-24-7-samara.ru
 q2.blackfilm2.tv
 q2.gidonline.click
+q2.gradus24-7-74.online
 q2.gradus24-7-irkutsk.ru
+q2.gradus24-7-kazan.ru
 q2.gradus24-7-moskva.online
 q2.gradus24-7-murmansk.online
 q2.gradus24-7-samara.ru
@@ -142666,6 +142675,7 @@ q3.alcorush24-nkz.ru
 q3.blackfilm2.tv
 q3.gidonline.click
 q3.gradus24-7-irkutsk.ru
+q3.gradus24-7-kazan.ru
 q3.gradus24-7-murmansk.online
 q3.gradus24-7-samara.ru
 q3.gradus24-7-spb.ru
@@ -142701,6 +142711,7 @@ q5.100gramm24-7-samara.ru
 q5.1alcorush24-habarovsk.ru
 q5.blackfilm2.tv
 q5.gidonline.click
+q5.gradus24-7-spb.ru
 q5.rulord.mom
 q5.tv.ezfilm.net
 q5.xatab-repack.com
@@ -153695,6 +153706,7 @@ saturatevarious.info
 saturday.lordfilm-s.club
 saturn-bet.co
 saturn-shop.ru
+saturnianspectacle.monster
 satyaynlo.online
 satygaa7.pro
 sau.fouan.sbs
@@ -197967,7 +197979,6 @@ www.spor-ttv.online
 www.spor-ttv.ru
 www.sport-stream-live.ru
 www.sport-stream-tv.ru
-www.sport.newsrbk.ru
 www.sport.tvmd.info
 www.sportbroadcast.live
 www.sporthd.online
